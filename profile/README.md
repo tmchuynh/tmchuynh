@@ -4,7 +4,7 @@ Recently I have found my passion for designing and coding for web and mobile. Si
 
 Even with my focus being on the front end side of the development world, I know I have much to learn and plan to get more knowledgeable with every step of the way.
 
-  <img align="right" alt="GIF" src="C:\Users\tinah\Downloads\undraw_Creativity_re_8grt.png" width="500" height="320" />
+  <img align="right" alt="GIF" src="/images/undraw_creativity.png" width="500" height="320" />
 
 <br />
 
