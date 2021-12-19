@@ -1,8 +1,8 @@
 ## Hello! My name is Tina.
 
-<a href="https://twitter.com/abhisheknaiidu"> <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="../images/linkedin.png" /> </a> 
+<a href="https://twitter.com/abhisheknaiidu"> <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="/images/linkedin.png" /> </a> 
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/"> <img align="left" alt="Abhishek's LinkedIN" width="30px" src="../images/dribbble.png" /> </a> 
+<a href="https://www.linkedin.com/in/abhisheknaiidu/"> <img align="left" alt="Abhishek's LinkedIN" width="30px" src="/images/dribbble.png" /> </a> 
 
 <br />
 
