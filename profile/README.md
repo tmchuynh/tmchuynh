@@ -6,6 +6,8 @@ Even with my focus being on the front end side of the development world, I know 
 
   <img align="right" alt="GIF" src="C:\Users\tinah\Downloads\undraw_Creativity_re_8grt.png" width="500" height="320" />
 
+<br />
+
 ### A little more about me...
 
 ```javascript
