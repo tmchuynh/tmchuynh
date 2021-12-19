@@ -6,8 +6,6 @@ Even with my focus being on the front end side of the development world, I know 
 
   <img align="right" alt="GIF" src="/images/undraw_creativity.png" width="500" height="320" />
 
-<br />
-
 ### A little more about me...
 
 ```javascript
@@ -15,7 +13,7 @@ const tina = {
     pronouns: "She" | "Her",
     occupation: "student",
     code: ["C++", "Java"],
-    currently learning: ["Javascript"]
+    currently-learning: ["Javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     currentFocus: "web development",
 };
