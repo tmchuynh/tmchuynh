@@ -1,20 +1,14 @@
 ## Hello! My name is Tina.
 
-<a href="https://twitter.com/abhisheknaiidu"> <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="/images/linkedin.png" /> </a> 
-
-<a href="https://www.linkedin.com/in/abhisheknaiidu/"> <img align="left" alt="Abhishek's LinkedIN" width="30px" src="/images/dribbble.png" /> </a> 
-
 <br />
 
 <img align="right" alt="GIF" src="/images/undraw_creativity.png" width="500" height="320" />
 
-Recently I have found my passion for designing and coding for web and mobile. Since then I have started developing my skills through academic and personal projects as well as online courses.
+Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, screens will always be a part of our lives. And I want to be in the center of it all.
 
-Even with my focus being on the front end side of the development world, I know I have much to learn and plan to get more knowledgeable with every step of the way.
+The design and focus points of web, desktop, and mobile applications are constantly changing and it cannot get more exciting - to me anyways. My vision is for every physical and mental health application on all platforms to be not only easy-to-use but also fun to use. This will encourage communities and individuals to priortize their health by offering potentially easier access to resources right in the palm of their hand. And since one's physical and mental health affects all other areas of one's life, I know this focus point will make a difference one step at a time.
 
 ## Let's get connected
 
-You can find some of my links down below
-* [Explore my online portfolio](https://t-mc-huynh.github.io/tmch-website/)
+You can find some of my link(s) down below
 * [LinkedIn](https://www.linkedin.com/in/tina-huynh-59b433168/)
-* [Dribble](https://dribbble.com/tina_mc_h)
