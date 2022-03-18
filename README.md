@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade Your GitHub README.md](https://dev.to/tmchuynh/upgrade-your-github-readmemd-1m0b)
 - [What is a Bujo? How can it help me?](https://dev.to/tmchuynh/bullet-journals-bujo-1b70)
 - [10 Tips to Get Rid of Burnout](https://dev.to/tmchuynh/10-tips-to-get-rid-of-burnout-2ije)
 - [Siri / Cortona Alternatives for Linux](https://dev.to/tmchuynh/siri-cortona-alternatives-for-linux-5h6f)
 - [Productivity Tips for Developers/Software Engineers](https://dev.to/tmchuynh/productivity-tips-for-developerssoftware-engineers-1250)
-- [In Need of 100 Days of Code Ideas](https://dev.to/tmchuynh/in-need-of-100-days-of-code-ideas-4g81)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
