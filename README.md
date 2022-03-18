@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Siri / Cortona Alternatives for Linux](https://dev.to/tmchuynh/siri-cortona-alternatives-for-linux-5h6f)
+- [Productivity Tips for Developers/Software Engineers](https://dev.to/tmchuynh/productivity-tips-for-developerssoftware-engineers-1250)
+- [In Need of 100 Days of Code Ideas](https://dev.to/tmchuynh/in-need-of-100-days-of-code-ideas-4g81)
+- [Tilix &amp; Oh-My-Zsh](https://dev.to/tmchuynh/tilix-oh-my-zsh-1ek8)
+- [GitKraken](https://dev.to/tmchuynh/linux-gitkraken-3h1f)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
