@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Tips to Start Learning HTML/CSS](https://dev.to/tmchuynh/9-tips-to-start-learning-htmlcss-2a58)
 - [Upgrade Your GitHub README.md](https://dev.to/tmchuynh/upgrade-your-github-readmemd-1m0b)
 - [What is a Bujo? How can it help me?](https://dev.to/tmchuynh/bullet-journals-bujo-1b70)
 - [10 Tips to Get Rid of Burnout](https://dev.to/tmchuynh/10-tips-to-get-rid-of-burnout-2ije)
 - [Siri / Cortona Alternatives for Linux](https://dev.to/tmchuynh/siri-cortona-alternatives-for-linux-5h6f)
-- [Productivity Tips for Developers/Software Engineers](https://dev.to/tmchuynh/productivity-tips-for-developerssoftware-engineers-1250)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
