@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Applications I Use Everyday](https://dev.to/tmchuynh/applications-i-use-everyday-39e3)
 - [15 Tricks to Master Googling as a Developer](https://dev.to/tmchuynh/15-tricks-to-master-googling-as-a-developer-5b3)
 - [9 Tips to Start Learning HTML/CSS](https://dev.to/tmchuynh/9-tips-to-start-learning-htmlcss-2a58)
 - [Upgrade Your GitHub README.md](https://dev.to/tmchuynh/upgrade-your-github-readmemd-1m0b)
 - [What is a Bujo? How can it help you?](https://dev.to/tmchuynh/bullet-journals-bujo-1b70)
-- [10 Tips to Get Rid of Burnout](https://dev.to/tmchuynh/10-tips-to-get-rid-of-burnout-2ije)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
