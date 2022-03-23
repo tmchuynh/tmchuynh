@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Changing the Work/Study Environment](https://dev.to/tmchuynh/changing-the-workstudy-environment-2d9f)
 - [Yes, My Kids Will Be The One Who Ruins The Group Texts](https://dev.to/tmchuynh/yes-my-kids-will-be-the-one-who-ruins-the-group-texts-3om4)
 - [The Trick with CSS Selectors](https://dev.to/tmchuynh/the-trick-with-css-selectors-l52)
 - [Applications I Use Everyday](https://dev.to/tmchuynh/applications-i-use-everyday-39e3)
 - [15 Tricks to Master Googling as a Developer](https://dev.to/tmchuynh/15-tricks-to-master-googling-as-a-developer-5b3)
-- [9 Tips to Start Learning HTML/CSS](https://dev.to/tmchuynh/9-tips-to-start-learning-htmlcss-2a58)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
