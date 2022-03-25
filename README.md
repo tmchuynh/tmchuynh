@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning React.js](https://dev.to/tmchuynh/learning-reactjs-11pi)
 - [Books on Typescript and/or React?](https://dev.to/tmchuynh/books-on-typescript-andor-react-16pl)
 - [Books to Read as a Developer](https://dev.to/tmchuynh/books-to-read-as-a-developer-33eh)
 - [Changing the Work/Study Environment](https://dev.to/tmchuynh/changing-the-workstudy-environment-2d9f)
 - [Yes, My Kids Will Be The One Who Ruins The Group Texts](https://dev.to/tmchuynh/yes-my-kids-will-be-the-one-who-ruins-the-group-texts-3om4)
-- [The Trick with CSS Selectors](https://dev.to/tmchuynh/the-trick-with-css-selectors-l52)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
