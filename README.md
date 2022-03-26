@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Focusing on Design - UX UI](https://dev.to/tmchuynh/focusing-on-design-ux-ui-3gfp)
 - [JavaScript Features You Need to Look At](https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l)
 - [Learning React.js](https://dev.to/tmchuynh/learning-reactjs-11pi)
 - [Books on Typescript and/or React?](https://dev.to/tmchuynh/books-on-typescript-andor-react-16pl)
 - [Books to Read as a Developer](https://dev.to/tmchuynh/books-to-read-as-a-developer-33eh)
-- [Changing the Work/Study Environment](https://dev.to/tmchuynh/changing-the-workstudy-environment-2d9f)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
