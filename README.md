@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started w/ Python](https://dev.to/tmchuynh/getting-started-w-python-4e92)
 - [NLP vs NLU vs NLG](https://dev.to/tmchuynh/nlp-vs-nlu-vs-nlg-whats-the-difference-5dag)
 - [Enhance Your LinkedIn Profile](https://dev.to/tmchuynh/enhance-your-linkedin-profile-245n)
 - [Deep Learning vs Machine Learning: What&#39;s the Difference?](https://dev.to/tmchuynh/deep-learning-vs-machine-learning-whats-the-difference-2opf)
 - [Focusing on Design - UX UI](https://dev.to/tmchuynh/focusing-on-design-ux-ui-3gfp)
-- [JavaScript Features You Need to Look At](https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
