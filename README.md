@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Artificial Intelligence?](https://dev.to/tmchuynh/what-is-artificial-intelligence-maj)
 - [Google Routines](https://dev.to/tmchuynh/google-routines-20bm)
 - [Dev.to - The Missing Handbook](https://dev.to/tmchuynh/devto-the-missing-handbook-3m8)
 - [Python Projects for Beginners](https://dev.to/tmchuynh/python-projects-for-beginners-2p90)
 - [Getting Started w/ Python](https://dev.to/tmchuynh/getting-started-w-python-4e92)
-- [NLP vs NLU vs NLG](https://dev.to/tmchuynh/nlp-vs-nlu-vs-nlg-whats-the-difference-5dag)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
