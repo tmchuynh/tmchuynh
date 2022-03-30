@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev.to - The Missing Handbook](https://dev.to/tmchuynh/devto-the-missing-handbook-3m8)
 - [Python Projects for Beginners](https://dev.to/tmchuynh/python-projects-for-beginners-2p90)
 - [Getting Started w/ Python](https://dev.to/tmchuynh/getting-started-w-python-4e92)
 - [NLP vs NLU vs NLG](https://dev.to/tmchuynh/nlp-vs-nlu-vs-nlg-whats-the-difference-5dag)
 - [Enhance Your LinkedIn Profile](https://dev.to/tmchuynh/enhance-your-linkedin-profile-245n)
-- [Deep Learning vs Machine Learning: What&#39;s the Difference?](https://dev.to/tmchuynh/deep-learning-vs-machine-learning-whats-the-difference-2opf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
