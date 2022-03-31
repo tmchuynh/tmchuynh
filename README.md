@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Intermediate &amp; Advanced Python Projects](https://dev.to/tmchuynh/intermediate-advanced-python-projects-4hb8)
 - [Why Linux is for Everyone](https://dev.to/tmchuynh/why-linux-is-for-everyone-pn9)
+- [&quot;I&#39;m not good enough at math for programming&quot;](https://dev.to/tmchuynh/im-not-good-enough-at-math-for-programming-23m)
 - [Become a Data Scientist!](https://dev.to/tmchuynh/become-a-data-scientist-1745)
 - [What is Artificial Intelligence?](https://dev.to/tmchuynh/what-is-artificial-intelligence-maj)
-- [Google Routines](https://dev.to/tmchuynh/google-routines-20bm)
-- [Dev.to - The Missing Handbook](https://dev.to/tmchuynh/devto-the-missing-handbook-3m8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
