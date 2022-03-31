@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Every Developer Should Write](https://dev.to/tmchuynh/why-every-developer-should-write-articles-47mb)
+- [20+ Free Tools &amp; Resources for Machine Learning](https://dev.to/tmchuynh/20-free-tools-resources-for-machine-learning-d9n)
 - [Getting Started with Machine Learning](https://dev.to/tmchuynh/getting-started-with-machine-learning-16p1)
 - [Front-end or Back-end? Where do you belong?](https://dev.to/tmchuynh/front-end-or-back-end-where-do-you-belong-5f6)
 - [Intermediate &amp; Advanced Python Projects](https://dev.to/tmchuynh/intermediate-advanced-python-projects-4hb8)
-- [Why Linux is for Everyone](https://dev.to/tmchuynh/why-linux-is-for-everyone-pn9)
-- [&quot;I&#39;m not good enough at math for programming&quot;](https://dev.to/tmchuynh/im-not-good-enough-at-math-for-programming-23m)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
