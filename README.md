@@ -18,8 +18,10 @@
 - [Getting Started with Machine Learning](https://dev.to/tmchuynh/getting-started-with-machine-learning-16p1)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="https://app.daily.dev/tmchuynh"><img src="https://api.daily.dev/devcards/9b4d6fa7ff784d3297e67d1edf73fc06.png?r=s56" width="250" alt="Tina Huynh's Dev Card"/></a> 
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://dev.to/tmchuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tmchuynh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tina huynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tina huynh" height="30" width="40" /></a>
 </p>
