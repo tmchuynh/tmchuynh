@@ -18,7 +18,7 @@
 - [Getting Started with Machine Learning](https://dev.to/tmchuynh/getting-started-with-machine-learning-16p1)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://app.daily.dev/tmchuynh"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/b2fcf36cf7eeb7a3545ca8b808d42c0d5cc06620/devcard.svg" width="250" alt="Tina Huynh's Dev Card"/></a> 
+<a href="https://app.daily.dev/tmchuynh"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/master/devcard.svg" width="250" alt="Tina Huynh's Dev Card"/></a>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
