@@ -1,9 +1,7 @@
 <h1 align="center">Hello, My name is Tina</h1>
 <p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, screens will always be a part of our lives. And I want to be in the center of it all. The design and focus points of web, desktop, and mobile applications are constantly changing and it cannot get more exciting - to me anyways. My vision is for every physical and mental health application on all platforms to be not only easy-to-use but also fun to use. This will encourage communities and individuals to priortize their health by offering potentially easier access to resources right in the palm of their hand. And since one's physical and mental health affects all other areas of one's life, I know this focus point will make a difference one step at a time.</p>
 
-- 🔭 I’m currently working on [First Galaxy Inc.'s Website](https://github.com/t-mc-huynh/firstgalaxy)
-
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Python** and reviewing **multivariable calculus and statistics**
 
 - 👯 I’m planning to contribute to [Mycroft AI](https://mycroft.ai/contribute/)
 
