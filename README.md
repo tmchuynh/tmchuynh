@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Professional Instagram Everyone will Follow](https://dev.to/tmchuynh/creating-a-professional-instagram-everyone-will-follow-286g)
+- [10 Library Genesis Alternatives](https://dev.to/tmchuynh/10-library-genesis-alternatives-3hob)
 - [Why Every Developer Should Write](https://dev.to/tmchuynh/why-every-developer-should-write-articles-47mb)
 - [20+ Free Tools &amp; Resources for Machine Learning](https://dev.to/tmchuynh/20-free-tools-resources-for-machine-learning-d9n)
 - [Getting Started with Machine Learning](https://dev.to/tmchuynh/getting-started-with-machine-learning-16p1)
-- [Front-end or Back-end? Where do you belong?](https://dev.to/tmchuynh/front-end-or-back-end-where-do-you-belong-5f6)
-- [Intermediate &amp; Advanced Python Projects](https://dev.to/tmchuynh/intermediate-advanced-python-projects-4hb8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
