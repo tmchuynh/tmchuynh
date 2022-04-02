@@ -20,7 +20,11 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://dev.to/tmchuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tmchuynh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tina huynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tina huynh" height="30" width="40" /></a>
-<a href="https://twitter.com/tinamchuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="tina huynh" height="30" width="40" /></a>
+  <a href="https://dev.to/tmchuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tmchuynh" height="40" width="50" /></a>
+  <a href="https://linkedin.com/in/tina huynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tina huynh" height="40" width="50" /></a>
+  <a href="https://twitter.com/tinamchuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="tina huynh" height="40" width="50" /></a>
 </p>
+<p align="right">
+  <a href="https://www.buymeacoffee.com/tmchuynh" target="_blank"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/0bfb005d066ac2685c776a7c19e64fcfde2c4dd0/images/bmc-button.png" alt="Buy Me A Coffee" height="55" width="200"></a>
+</p>
+
