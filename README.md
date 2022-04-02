@@ -23,9 +23,9 @@
 
 ### Latest DEV.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s After Python?](https://dev.to/tmchuynh/whats-after-python-32h5)
 - [Learning Calculus](https://dev.to/tmchuynh/learning-calculus-jh6)
 - [When do you start and end your days?](https://dev.to/tmchuynh/when-do-you-start-and-end-your-days-1h0d)
 - [Creating a Professional Instagram Everyone will Follow](https://dev.to/tmchuynh/creating-a-professional-instagram-everyone-will-follow-286g)
 - [10 Library Genesis Alternatives](https://dev.to/tmchuynh/10-library-genesis-alternatives-3hob)
-- [Why Every Developer Should Write](https://dev.to/tmchuynh/why-every-developer-should-write-articles-47mb)
 <!-- BLOG-POST-LIST:END -->
