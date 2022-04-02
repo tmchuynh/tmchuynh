@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Calculus](https://dev.to/tmchuynh/learning-calculus-jh6)
 - [When do you start and end your days?](https://dev.to/tmchuynh/when-do-you-start-and-end-your-days-1h0d)
 - [Creating a Professional Instagram Everyone will Follow](https://dev.to/tmchuynh/creating-a-professional-instagram-everyone-will-follow-286g)
 - [10 Library Genesis Alternatives](https://dev.to/tmchuynh/10-library-genesis-alternatives-3hob)
 - [Why Every Developer Should Write](https://dev.to/tmchuynh/why-every-developer-should-write-articles-47mb)
-- [20+ Free Tools &amp; Resources for Machine Learning](https://dev.to/tmchuynh/20-free-tools-resources-for-machine-learning-d9n)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/tmchuynh"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/master/devcard.svg" width="250" alt="Tina Huynh's Dev Card"/></a>
