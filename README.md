@@ -16,9 +16,7 @@
 - [Why Every Developer Should Write](https://dev.to/tmchuynh/why-every-developer-should-write-articles-47mb)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://app.daily.dev/tmchuynh"><img src="https://api.daily.dev/devcards/9b4d6fa7ff784d3297e67d1edf73fc06.png?r=kwo" width="250" alt="Tina Huynh's Dev Card"/></a>
-
-<a href="https://app.daily.dev/tmchuynh"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/master/devcard.svg" width="250" alt="Tina Huynh's Dev Card"/></a>
+<a href="https://app.daily.dev/tmchuynh"><img src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="250" alt="Tina Huynh's Dev Card"/></a>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
