@@ -1,7 +1,5 @@
 <h1 align="center">Hello, My name is Tina</h1>
-
 <br>
-
   <a href="https://app.daily.dev/tmchuynh"><img align=left src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="450" alt="Tina Huynh's Dev Card"/></a>
 
 <div>
