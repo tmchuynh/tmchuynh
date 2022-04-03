@@ -23,6 +23,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmchuynh&count_private=true&theme=dark&langs_count=3&card_width=500&hide=HTML,CSS">
 
+<br>
+
 ### Current Activites
 - Learning **Python** and reviewing **multivariable calculus and statistics**
 - Planning to contribute to [Mycroft AI](https://mycroft.ai/contribute/)
