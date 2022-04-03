@@ -38,9 +38,9 @@
 
 ### Latest DEV.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a DevCard?](https://dev.to/tmchuynh/what-is-a-devcard-4g10)
 - [Spent Too Much Time on Dev.to?](https://dev.to/tmchuynh/spent-too-much-time-on-devto-381j)
 - [What&#39;s After Python?](https://dev.to/tmchuynh/whats-after-python-32h5)
 - [Learning Calculus](https://dev.to/tmchuynh/learning-calculus-jh6)
 - [When do you start and end your days?](https://dev.to/tmchuynh/when-do-you-start-and-end-your-days-1h0d)
-- [Creating a Professional Instagram Everyone will Follow](https://dev.to/tmchuynh/creating-a-professional-instagram-everyone-will-follow-286g)
 <!-- BLOG-POST-LIST:END -->
