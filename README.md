@@ -36,9 +36,9 @@
 
 ### Latest DEV.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s a Digital Nomad?](https://dev.to/tmchuynh/whats-a-digital-nomad-4e2e)
+- [The Endless Cycle of Learning...does it ever end?](https://dev.to/tmchuynh/the-endless-cycle-of-learningdoes-it-ever-end-4faa)
 - [What are the most useful conferences for developers?](https://dev.to/tmchuynh/what-are-the-most-useful-conferences-for-developers-2h0k)
 - [Top FREE Certificates in 2022](https://dev.to/tmchuynh/top-free-certificates-in-2022-3nd6)
 - [How far in advance do you draft your posts?](https://dev.to/tmchuynh/how-far-in-advance-do-you-draft-your-posts-3i6o)
-- [Fleet vs VSCode](https://dev.to/tmchuynh/fleet-vs-vscode-55al)
-- [How many platforms do you use to market yourself and your work?](https://dev.to/tmchuynh/how-many-platforms-do-you-use-to-market-yourself-and-your-work-5f72)
 <!-- BLOG-POST-LIST:END -->
