@@ -36,9 +36,9 @@
 
 ### Latest DEV.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the most useful conferences for developers?](https://dev.to/tmchuynh/what-are-the-most-useful-conferences-for-developers-2h0k)
 - [Top FREE Certificates in 2022](https://dev.to/tmchuynh/top-free-certificates-in-2022-3nd6)
 - [How far in advance do you draft your posts?](https://dev.to/tmchuynh/how-far-in-advance-do-you-draft-your-posts-3i6o)
 - [Fleet vs VSCode](https://dev.to/tmchuynh/fleet-vs-vscode-55al)
 - [How many platforms do you use to market yourself and your work?](https://dev.to/tmchuynh/how-many-platforms-do-you-use-to-market-yourself-and-your-work-5f72)
-- [What is a DevCard?](https://dev.to/tmchuynh/what-is-a-devcard-4g10)
 <!-- BLOG-POST-LIST:END -->
