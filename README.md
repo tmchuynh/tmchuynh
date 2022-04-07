@@ -47,6 +47,4 @@
 ### I stand with Ukraine
 Join me at <a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">Devs For Ukraine</a>!
 <br>
-<a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">
   <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/1fe94b02720dbd80ec746274fa65d48df860cd4f/images/Devs%20for%20Ukraine.png" alt="Devs for Ukraine" height="175" width="525" />
-</a>
