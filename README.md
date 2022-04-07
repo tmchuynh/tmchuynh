@@ -9,6 +9,7 @@
 &nbsp;
 <br>
 <br>
+<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmchuynh&count_private=true&theme=dark&langs_count=3&card_width=525&hide=HTML,CSS">
 
@@ -42,3 +43,9 @@
 - [What are the most useful conferences for developers?](https://dev.to/tmchuynh/what-are-the-most-useful-conferences-for-developers-2h0k)
 - [Top FREE Certificates in 2022](https://dev.to/tmchuynh/top-free-certificates-in-2022-3nd6)
 <!-- BLOG-POST-LIST:END -->
+
+### I stand with Ukraine
+Join me at <a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">Devs For Ukraine</a>!
+<a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">
+  <img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/53fc02e13e76812db428fd238b58cead6d320895/images/Devs%20for%20Ukraine.png" alt="Devs for Ukraine" height="300" width="1000" />
+</a>
