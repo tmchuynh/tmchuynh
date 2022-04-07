@@ -48,5 +48,5 @@
 Join me at <a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">Devs For Ukraine</a>!
 <br>
 <a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">
-  <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/53fc02e13e76812db428fd238b58cead6d320895/images/Devs%20for%20Ukraine.png" alt="Devs for Ukraine" height="175" width="550" />
+  <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/53fc02e13e76812db428fd238b58cead6d320895/images/Devs%20for%20Ukraine.png" alt="Devs for Ukraine" height="175" width="525" />
 </a>
