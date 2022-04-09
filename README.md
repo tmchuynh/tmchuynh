@@ -37,11 +37,11 @@
 
 ### Latest DEV.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Tasks and Reminders](https://dev.to/tmchuynh/google-tasks-and-reminders-2937)
+- [Productivity Methods](https://dev.to/tmchuynh/productivity-methods-2dp9)
 - [Days 1 - 20: #100DaysofCode](https://dev.to/tmchuynh/days-1-20-100daysofcode-5hdd)
 - [Prototyping: Software](https://dev.to/tmchuynh/prototyping-software-219n)
 - [Dev.to VS Hashnode VS Medium: Pick ONE](https://dev.to/tmchuynh/devto-vs-hashnode-vs-medium-pick-one-49ff)
-- [Make Your Twitter Profile Stand Out](https://dev.to/tmchuynh/make-your-twitter-profile-stand-out-52f1)
-- [I Stand with Ukraine](https://dev.to/tmchuynh/i-stand-with-ukraine-56pc)
 <!-- BLOG-POST-LIST:END -->
 
 ### I stand with Ukraine
