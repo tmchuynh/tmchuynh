@@ -22,9 +22,7 @@
     <a href="https://linkedin.com/in/tina huynh" target="blank"><img align="center" src="https://github.com/tmchuynh/tmchuynh/blob/2dfeed835fbdf8d00121e9b981904611a10ba4cd/images/linkedin.png" alt="tina huynh" height="50" width="50" /></a>
     <a href="https://twitter.com/tinamchuynh" target="blank"><img align="center" src="https://github.com/tmchuynh/tmchuynh/blob/2dfeed835fbdf8d00121e9b981904611a10ba4cd/images/twitter.png" alt="tina huynh" height="50" width="50" /></a>
     <a href="https://www.instagram.com/tmchuynh/" target="blank"><img align="center" src="https://github.com/tmchuynh/tmchuynh/blob/2dfeed835fbdf8d00121e9b981904611a10ba4cd/images/instagram.png" alt="tina huynh" height="50" width="50" /></a>
-  </p>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/tmchuynh" target="_blank"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/0bfb005d066ac2685c776a7c19e64fcfde2c4dd0/images/bmc-button.png" alt="Buy Me A Coffee" height="60" width="225"></a>
+    <a href="paypal.me/tmchuynh" target="blank"><img align="center" src="https://github.com/tmchuynh/tmchuynh/blob/c255dfa2c9c77accc667a371e480aecb9b8c16fe/images/paypal.png" alt="tina huynh" height="50" width="50" /></a>
   </p>
 </div>
 
