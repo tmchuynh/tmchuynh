@@ -50,17 +50,10 @@
     </li>
     <li><a href="https://dev.to/tmchuynh/git-github-the-best-friends-4b8f">Git &amp; Google Tasks and Reminders</a>
     </li>
+    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
+    </li>
   </ul>
 </div>
-
-### Latest DEV.to Posts
-<!-- BLOG-POST-LIST:START -->
-- [Late nights or early mornings?](https://dev.to/tmchuynh/late-nights-or-early-mornings-3b1d)
-- [GitHub Action Schedules](https://dev.to/tmchuynh/github-action-schedules-ad5)
-- [Git &amp; GitHub: The Best Friends](https://dev.to/tmchuynh/git-github-the-best-friends-4b8f)
-- [Google Tasks and Reminders](https://dev.to/tmchuynh/google-tasks-and-reminders-2937)
-- [Productivity Methods](https://dev.to/tmchuynh/productivity-methods-2dp9)
-<!-- BLOG-POST-LIST:END -->
 
 ### I stand with Ukraine
 Join me at <a href="https://www.devsforukraine.io/tickets/tmchuynh" target="blank">Devs For Ukraine</a>!
