@@ -28,13 +28,30 @@
   </p>
 </div>
 
+<div align=left>
+  <h3>Current Activities</h3>
+  <ul>
+    <li>Updating my personal website <a href="https://tmchuynh.github.io/tinamchuynh/">Come check it out</a></li>
+    <li>Learning <b>Python</b> and reviewing <b>multivariable calculus and statistics</b></li>
+    <li>Planning to contribute to <a href="https://mycroft.ai/contribute/">Mycroft AI</a></li>
+    <li>Growing my network on DEV.to, LinkedIn, and other social media platforms</li>
+    <li>Reach me at <b>tinamchuynh@gmail.com</b></li>
+  </ul>
+</div>
 
-### Current Activites
-- Updating my personal website - [Come visit the site and say hello!](https://tmchuynh.github.io/tinamchuynh/)
-- Learning **Python** and reviewing **multivariable calculus and statistics**
-- Planning to contribute to [Mycroft AI](https://mycroft.ai/contribute/)
-- Growing my network on DEV.to, LinkedIn, and other social media platforms
-- How to reach me **tinamchuynh@gmail.com**
+<div>
+  <h3>Latest DEV.to Posts</h3>
+  <ul>
+    <li><a href="https://dev.to/tmchuynh/late-nights-or-early-mornings-3b1d">Late nights or early mornings?</a>
+    </li>
+    <li><a href="https://dev.to/tmchuynh/github-action-schedules-ad5">GitHub Action Schedules</a>
+    </li>
+    <li><a href="https://dev.to/tmchuynh/git-github-the-best-friends-4b8f">Git &amp; GitHub: The Best Friends</a>
+    </li>
+    <li><a href="https://dev.to/tmchuynh/git-github-the-best-friends-4b8f">Git &amp; Google Tasks and Reminders</a>
+    </li>
+  </ul>
+</div>
 
 ### Latest DEV.to Posts
 <!-- BLOG-POST-LIST:START -->
