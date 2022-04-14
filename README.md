@@ -21,6 +21,7 @@
   <a href="http://tmchuynh.me/"><img src="https://img.shields.io/badge/-Website-white?style=flat&logo=visual-studio-code&amp;logoColor=a1242c&color=E0E0E0"></a>
 
   <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
+  <a href="https://drive.google.com/file/d/1qyJivy2QdIDA6oGs2o7IDlf1YbwdbBvc/view"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"></a>
   <a href="https://www.instagram.com/tmchuynh/"><img src="https://img.shields.io/badge/-Instagram-blue?style=flat&logo=instagram&color=E0E0E0&logoColor=a1242c"></a>
   <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
   </p>
