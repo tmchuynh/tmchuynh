@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
   <a href="https://github.com/tmchuynh"><img src="https://img.shields.io/badge/-GitHub-red?style=flat&color=a1242c&logo=github&logoColor=E0E0E0"></a>
   <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
-  <a href="https://tmchuynh.github.io/tinamchuynh/"><img src="https://img.shields.io/badge/-Website-white?style=flat&logo=visual-studio-code&amp;logoColor=a1242c&color=E0E0E0"></a>
+  <a href="http://tmchuynh.me/"><img src="https://img.shields.io/badge/-Website-white?style=flat&logo=visual-studio-code&amp;logoColor=a1242c&color=E0E0E0"></a>
 
   <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
   <a href="https://www.instagram.com/tmchuynh/"><img src="https://img.shields.io/badge/-Instagram-blue?style=flat&logo=instagram&color=E0E0E0&logoColor=a1242c"></a>
