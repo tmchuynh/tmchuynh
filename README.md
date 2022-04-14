@@ -12,6 +12,7 @@
   <br>
   <br>
   <br>
+  <p>
   <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
   <a href="https://github.com/tmchuynh"><img src="https://img.shields.io/badge/-GitHub-red?style=flat&color=a1242c&logo=github&logoColor=E0E0E0"></a>
   <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
@@ -20,6 +21,7 @@
   <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
   <a href="https://www.instagram.com/tmchuynh/"><img src="https://img.shields.io/badge/-Instagram-blue?style=flat&logo=instagram&color=E0E0E0&logoColor=a1242c"></a>
   <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
+  </p>
 </div>
 
 <div>
