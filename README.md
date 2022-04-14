@@ -7,6 +7,8 @@
 <div>
   <img align=left src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
   <br>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
   <a href="https://github.com/tmchuynh"><img src="https://img.shields.io/badge/-GitHub-red?style=flat&color=a1242c&logo=github&logoColor=E0E0E0"></a>
   <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
