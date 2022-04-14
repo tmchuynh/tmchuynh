@@ -5,9 +5,9 @@
 <br>
 
 <div>
-  <img align=left src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
+  <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
 </div>
-<div>
+<div align="left">
   <br>
   <br>
   <br>
