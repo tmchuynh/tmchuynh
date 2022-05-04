@@ -53,6 +53,7 @@
 <div>
   <h3>Latest DEV.to Posts</h3>
   <ul>
+    <!-- BLOG-POST-LIST:START --> 
     <li><a href="https://dev.to/tmchuynh/late-nights-or-early-mornings-3b1d">Late nights or early mornings?</a>
     </li>
     <li><a href="https://dev.to/tmchuynh/github-action-schedules-ad5">GitHub Action Schedules</a>
@@ -63,6 +64,13 @@
     </li>
     <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
     </li>
+    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
+    </li>
+    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
+    </li>
+    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
+    </li>
+    <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
 
