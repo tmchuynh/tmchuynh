@@ -51,7 +51,6 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-### Latest DEV.to Posts</h3>
 - [Productivity Apps for Linux](https://dev.to/tmchuynh/productivity-apps-for-linux-1ogh)
 - [Make your technical resume stand out](https://dev.to/tmchuynh/make-your-technical-resume-stand-out-3p9d)
 - [Will you convert to ConvertKit?](https://dev.to/tmchuynh/will-you-convert-to-convertkit-1fa2)
