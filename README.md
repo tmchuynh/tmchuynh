@@ -63,7 +63,6 @@
 
 <br>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmchuynh&count_private=true&theme=dark&langs_count=3&card_width=500&hide=HTML,CSS"/>
-</div>
+  
+![](./profile-3d-contrib/profile-gitblock.svg)
 
