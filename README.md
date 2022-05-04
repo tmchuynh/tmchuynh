@@ -53,24 +53,13 @@
 <div>
   <h3>Latest DEV.to Posts</h3>
   <ul>
-    <!-- BLOG-POST-LIST:START --> 
-    <li><a href="https://dev.to/tmchuynh/late-nights-or-early-mornings-3b1d">Late nights or early mornings?</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/github-action-schedules-ad5">GitHub Action Schedules</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/git-github-the-best-friends-4b8f">Git &amp; GitHub: The Best Friends</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/git-github-the-best-friends-4b8f">Git &amp; Google Tasks and Reminders</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
-    </li>
-    <li><a href="https://dev.to/tmchuynh/productivity-methods-2dp9">Productivity Methods</a>
-    </li>
-    <!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START -->
+- [Productivity Apps for Linux](https://dev.to/tmchuynh/productivity-apps-for-linux-1ogh)
+- [Make your technical resume stand out](https://dev.to/tmchuynh/make-your-technical-resume-stand-out-3p9d)
+- [Will you convert to ConvertKit?](https://dev.to/tmchuynh/will-you-convert-to-convertkit-1fa2)
+- [Watch out for the &lpar;PyTorch&rpar; Lightning](https://dev.to/tmchuynh/watch-out-for-the-pytorch-lightning-2og9)
+- [Introduction to PyTorch](https://dev.to/tmchuynh/introduction-to-pytorch-25k3)
+<!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
 
