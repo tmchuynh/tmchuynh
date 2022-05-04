@@ -50,18 +50,15 @@
   </ul>
 </div>
 
-<div>
-  <h3>Latest DEV.to Posts</h3>
-  <ul>
-    <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
+### Latest DEV.to Posts</h3>
 - [Productivity Apps for Linux](https://dev.to/tmchuynh/productivity-apps-for-linux-1ogh)
 - [Make your technical resume stand out](https://dev.to/tmchuynh/make-your-technical-resume-stand-out-3p9d)
 - [Will you convert to ConvertKit?](https://dev.to/tmchuynh/will-you-convert-to-convertkit-1fa2)
 - [Watch out for the &lpar;PyTorch&rpar; Lightning](https://dev.to/tmchuynh/watch-out-for-the-pytorch-lightning-2og9)
 - [Introduction to PyTorch](https://dev.to/tmchuynh/introduction-to-pytorch-25k3)
 <!-- BLOG-POST-LIST:END -->
-  </ul>
-</div>
+
 
 <br>
 
