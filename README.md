@@ -53,11 +53,11 @@
 ### Latest DEV.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Add Your Git Commits to Your Website](https://dev.to/tmchuynh/add-your-git-commits-to-your-website-4o1f)
 - [Productivity Apps for Linux](https://dev.to/tmchuynh/productivity-apps-for-linux-1ogh)
 - [Make your technical resume stand out](https://dev.to/tmchuynh/make-your-technical-resume-stand-out-3p9d)
 - [Will you convert to ConvertKit?](https://dev.to/tmchuynh/will-you-convert-to-convertkit-1fa2)
 - [Watch out for the &lpar;PyTorch&rpar; Lightning](https://dev.to/tmchuynh/watch-out-for-the-pytorch-lightning-2og9)
-- [Introduction to PyTorch](https://dev.to/tmchuynh/introduction-to-pytorch-25k3)
 <!-- BLOG-POST-LIST:END -->
 
 
