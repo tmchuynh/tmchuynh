@@ -53,11 +53,11 @@
 ### Latest DEV.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [15+ Command Line Hot Keys You Didn&#39;t Know About](https://dev.to/tmchuynh/15-command-line-hot-keys-you-didnt-know-about-5hem)
+- [10 Exciting Beginner Machine Learning Projects of 2022](https://dev.to/tmchuynh/10-exciting-beginner-machine-learning-projects-of-2022-3ak5)
+- [Terminate the Timeworn Terminals](https://dev.to/tmchuynh/terminate-the-timeworn-terminals-238p)
 - [Add Your Git Commits to Your Website](https://dev.to/tmchuynh/add-your-git-commits-to-your-website-4o1f)
 - [Productivity Apps for Linux](https://dev.to/tmchuynh/productivity-apps-for-linux-1ogh)
-- [Make your technical resume stand out](https://dev.to/tmchuynh/make-your-technical-resume-stand-out-3p9d)
-- [Will you convert to ConvertKit?](https://dev.to/tmchuynh/will-you-convert-to-convertkit-1fa2)
-- [Watch out for the &lpar;PyTorch&rpar; Lightning](https://dev.to/tmchuynh/watch-out-for-the-pytorch-lightning-2og9)
 <!-- BLOG-POST-LIST:END -->
 
 
