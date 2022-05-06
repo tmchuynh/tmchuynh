@@ -43,10 +43,10 @@
   <h3>Current Activities</h3>
   <ul>
     <li>Updating my personal website - <a href="https://tmchuynh.github.io/tinamchuynh/">Come check it out</a></li>
-    <li>Learning <b>Python</b> and reviewing <b>multivariable calculus and statistics</b></li>
-    <li>Planning to contribute to <a href="https://mycroft.ai/contribute/">Mycroft AI</a></li>
-    <li>Growing my network on DEV.to, LinkedIn, and other social media platforms</li>
-    <li>Reach me at <b>tinamchuynh@gmail.com</b></li>
+    <li>Expanding <b>Python</b> knowledge regarding machine learning and <b>learning PyTorch</b></li>
+    <li>Planning to contribute to <a href="https://mycroft.ai/contribute/">Mycroft AI</a> and other open source projects</li>
+    <li>Growing my network on DEV.to, LinkedIn, Twitter, and other social media platforms</li>
+    <li>Email me at <b>tinamchuynh@gmail.com</b></li>
   </ul>
 </div>
 
