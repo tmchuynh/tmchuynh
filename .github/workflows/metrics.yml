@@ -27,7 +27,7 @@ jobs:
             .field {
               color: #801118;
             }
-              h1, h2, h3 {
+              h1, h2, h3, a {
                  color: #fff !important;
             }
           extras_js: |
