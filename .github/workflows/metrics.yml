@@ -12,37 +12,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          user: tmchuynh
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          base: ""
-          commits_authoring: tmchuynh
-          extras_css: |
-            .field svg {
-              fill: #004ba3;
-            }
-            .field {
-              color: #801118;
-            }
-              h1, h2, h3, a {
-                 color: #fff !important;
-            }
-          extras_js: |
-            for (const {a, b} of [
-              {a:"#216e39", b:"#801118"},
-              {a:"#30a14e", b:"#a1242c"},
-              {a:"#40c463", b:"#cc4952"},
-              {a:"#9be9a8", b:"#fcaf93"},
-              {a:"#ebedf0", b:"#fee2d5"},
-            ])
-            document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
-          config_octicon: yes
-          config_order: base.header, introduction, isocalendar, languages, code, activity, habits, habits_fact, habits_charts, lines, people, achievements, posts, stars
-          config_timezone: America/Los_Angeles
-          
+    steps:         
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
@@ -84,11 +54,22 @@ jobs:
           base: ""
           extras_css: |
             .field div {
+              fill: #004ba3;
+            }
+            .field {
               color: #801118;
             }
               h1, h2, h3, a {
                  color: #fff !important;
             }
+          extras_js: |
+            for (const {a, b} of [
+              {a:"#216e39", b:"#801118"},
+              {a:"#30a14e", b:"#a1242c"},
+              {a:"#40c463", b:"#cc4952"},
+              {a:"#9be9a8", b:"#fcaf93"},
+              {a:"#ebedf0", b:"#fee2d5"},
+            ])
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
@@ -109,6 +90,24 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          extras_css: |
+            .field svg {
+              fill: #004ba3;
+            }
+            .field {
+              color: #801118;
+            }
+              h1, h2, h3, a {
+                 color: #fff !important;
+            }
+          extras_js: |
+            for (const {a, b} of [
+              {a:"#216e39", b:"#801118"},
+              {a:"#30a14e", b:"#a1242c"},
+              {a:"#40c463", b:"#cc4952"},
+              {a:"#9be9a8", b:"#fcaf93"},
+              {a:"#ebedf0", b:"#fee2d5"},
+            ])
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
@@ -145,7 +144,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_posts: yes
-          plugin_posts_limit: 10
+          plugin_posts_limit: 5
           plugin_posts_source: dev.to
           plugin_posts_user: tmchuynh
           
@@ -155,5 +154,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_stars_limit: 0
           plugin_topics_mode: icons
