@@ -74,7 +74,6 @@ jobs:
           plugin_posts_source: dev.to
           plugin_posts_user: tmchuynh
           plugin_repositories: yes
-          plugin_repositories_batch: 100
           plugin_stars: yes
           plugin_stars_limit: 25
           plugin_topics_mode: icons
