@@ -27,6 +27,9 @@ jobs:
             .field {
               color: #801118;
             }
+              h1, h2, h3 {
+                 color: #fff !important;
+            }
           extras_js: |
             for (const {a, b} of [
               {a:"#216e39", b:"#801118"},
