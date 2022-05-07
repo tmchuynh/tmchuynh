@@ -134,7 +134,7 @@ jobs:
           
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.posts.svg
+          filename: metrics.plugin.devto.svg
           token: NOT_NEEDED
           base: ""
           plugin_posts: yes
@@ -144,7 +144,7 @@ jobs:
           
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: metrics.plugin.stars.svg
           token: NOT_NEEDED
           base: ""
           plugin_stars: yes
