@@ -66,3 +66,6 @@
   
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+
+![Metrics](/github-metrics.svg)
+
