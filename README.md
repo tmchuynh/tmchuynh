@@ -1,10 +1,14 @@
 <h1 align="center">Hello, My name is Tina</h1>
 <br>
-  <a href="https://app.daily.dev/tmchuynh"><img align=left src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="400" alt="Tina Huynh's Dev Card"/></a>
+  <a href="https://app.daily.dev/tmchuynh"><img align=left src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="500" alt="Tina Huynh's Dev Card"/></a>
 
 <br>
 
-<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="500">
+![introduction metric](/metrics.plugin.introduction.svg)
+
+![isocalendar metric](/metrics.plugin.isocalendar.svg)
+
+![coding habits metric](/metrics.plugin.habits.svg)
 
 <div>
   &nbsp;
@@ -12,7 +16,6 @@
   <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
 </div>
 
-<br>
 <br>
 
 <div>
@@ -22,9 +25,6 @@
     <br>
     And it's thanks to people like Geoff Hinton, Yoshua Bengio, Yann LeCun, and Jurgen Schmidhuber who had faith in neural networks even back in the 1990s and 2000s when their colleagues had left the idea behind. People like that give hope that our dreams, our beliefs, our blueprints can be made into reality. We are only going to advance further, as a society. And, together, we are unstoppable.</p>
 </div>
-
-
-
 
 
 <br>
@@ -42,10 +42,6 @@
   </p>
 </div>
 
-
-![isocalendar metric](/metrics.plugin.isocalendar.svg)
-
-![coding habits metric](/metrics.plugin.habits.svg)
 
 ![languages metric](/metrics.plugin.languages.svg)
 
