@@ -91,6 +91,7 @@ jobs:
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: metadata
           plugin_introduction: yes
           plugin_introduction_title: yes
           
