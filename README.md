@@ -8,28 +8,6 @@
 
 ![isocalendar metric](/metrics.plugin.isocalendar.svg)
 
-<br>
-<br>
-
-<div>
-  &nbsp;
-  <br>
-  <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
-</div>
-
-<br>
-<br>
-
-<div>
-  <p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. And I want to be in the center of it all. But where is that exactly?
-    <br>
-    As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world.
-    <br>
-    And it's thanks to people like Geoff Hinton, Yoshua Bengio, Yann LeCun, and Jurgen Schmidhuber who had faith in neural networks even back in the 1990s and 2000s when their colleagues had left the idea behind. People like that give hope that our dreams, our beliefs, our blueprints can be made into reality. We are only going to advance further, as a society. And, together, we are unstoppable.</p>
-</div>
-
-
-<br>
 
 <div align="center">
   <p>
@@ -43,6 +21,26 @@
   <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
   </p>
 </div>
+
+<div>
+  &nbsp;
+  <br>
+  <img align="left" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
+</div>
+
+<br>
+
+<div>
+  <p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. And I want to be in the center of it all. But where is that exactly?
+    <br>
+    As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world.
+    <br>
+    And it's thanks to people like Geoff Hinton, Yoshua Bengio, Yann LeCun, and Jurgen Schmidhuber who had faith in neural networks even back in the 1990s and 2000s when their colleagues had left the idea behind. People like that give hope that our dreams, our beliefs, our blueprints can be made into reality. We are only going to advance further, as a society. And, together, we are unstoppable.</p>
+</div>
+
+
+<br>
+
 
 
 ![languages metric](/metrics.plugin.languages.svg)
