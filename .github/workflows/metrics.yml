@@ -18,7 +18,7 @@ jobs:
           user: tmchuynh
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: metadata
+          base: ""
           commits_authoring: tmchuynh
           extras_css: |
             .field svg {
