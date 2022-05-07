@@ -135,6 +135,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.devto.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_posts: yes
           plugin_posts_limit: 10
           plugin_posts_source: dev.to
@@ -143,6 +144,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_topics_mode: icons
