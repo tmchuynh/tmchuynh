@@ -8,8 +8,6 @@
 
 ![isocalendar metric](/metrics.plugin.isocalendar.svg)
 
-![coding habits metric](/metrics.plugin.habits.svg)
-
 <div>
   &nbsp;
   <br>
@@ -44,6 +42,8 @@
 
 
 ![languages metric](/metrics.plugin.languages.svg)
+
+![coding habits metric](/metrics.plugin.habits.svg)
 
 ![devto posts metric](/metrics.plugin.devto.svg)
 
