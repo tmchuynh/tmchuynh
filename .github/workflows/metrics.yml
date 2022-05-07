@@ -82,7 +82,7 @@ jobs:
           plugin_lines: yes
           plugin_people: yes
           plugin_people_limit: 100
-          plugin_people_size: 15
+          plugin_people_size: 25
           plugin_people_types: followers, following
           plugin_posts: yes
           plugin_posts_limit: 10
