@@ -53,11 +53,11 @@
 ### Latest DEV.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Markdown Cheat Sheet](https://dev.to/tmchuynh/markdown-cheat-sheet-449c)
 - [15+ Command Line Hot Keys You Didn&#39;t Know About](https://dev.to/tmchuynh/15-command-line-hot-keys-you-didnt-know-about-5hem)
 - [10 Exciting Beginner Machine Learning Projects of 2022](https://dev.to/tmchuynh/10-exciting-beginner-machine-learning-projects-of-2022-3ak5)
 - [Terminate the Timeworn Terminals](https://dev.to/tmchuynh/terminate-the-timeworn-terminals-238p)
 - [Add Your Git Commits to Your Website](https://dev.to/tmchuynh/add-your-git-commits-to-your-website-4o1f)
-- [Productivity Apps for Linux](https://dev.to/tmchuynh/productivity-apps-for-linux-1ogh)
 <!-- BLOG-POST-LIST:END -->
 
 
