@@ -18,7 +18,7 @@ jobs:
           user: tmchuynh
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: community, repositories, metadata
+          base: metadata
           commits_authoring: tmchuynh
           extras_css: |
             .field svg {
@@ -37,7 +37,7 @@ jobs:
             ])
             document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
           config_octicon: yes
-          config_order: base.header, introduction, isocalendar, languages, code_days, code_lines, activity, habits, habits_fact, habits_charts, lines, people, achievements, posts, stars
+          config_order: base.header, introduction, isocalendar, languages, code, activity, habits, habits_fact, habits_charts, lines, people, achievements, posts, stars
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -46,7 +46,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_code: yes
@@ -54,6 +54,9 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 400
           plugin_code_visibility: public
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -77,7 +80,6 @@ jobs:
           plugin_posts_limit: 5
           plugin_posts_source: dev.to
           plugin_posts_user: tmchuynh
-          plugin_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_topics_mode: icons
