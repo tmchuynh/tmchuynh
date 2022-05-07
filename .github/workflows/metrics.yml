@@ -52,24 +52,6 @@ jobs:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          extras_css: |
-            .field div {
-              fill: #004ba3;
-            }
-            .field {
-              color: #801118;
-            }
-              h1, h2, h3, a {
-                 color: #fff !important;
-            }
-          extras_js: |
-            for (const {a, b} of [
-              {a:"#216e39", b:"#801118"},
-              {a:"#30a14e", b:"#a1242c"},
-              {a:"#40c463", b:"#cc4952"},
-              {a:"#9be9a8", b:"#fcaf93"},
-              {a:"#ebedf0", b:"#fee2d5"},
-            ])
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
@@ -90,24 +72,6 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          extras_css: |
-            .field svg {
-              fill: #004ba3;
-            }
-            .field {
-              color: #801118;
-            }
-              h1, h2, h3, a {
-                 color: #fff !important;
-            }
-          extras_js: |
-            for (const {a, b} of [
-              {a:"#216e39", b:"#801118"},
-              {a:"#30a14e", b:"#a1242c"},
-              {a:"#40c463", b:"#cc4952"},
-              {a:"#9be9a8", b:"#fcaf93"},
-              {a:"#ebedf0", b:"#fee2d5"},
-            ])
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
