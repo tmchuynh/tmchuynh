@@ -85,7 +85,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_days: 7
           plugin_habits_from: 1000
-          plugin_habits_charts_type: chartist
           plugin_habits_trim: yes
           
       - uses: lowlighter/metrics@latest
