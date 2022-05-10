@@ -4,13 +4,13 @@
 
 <br>
 
-![introduction metric](/metrics.plugin.introduction.svg)
-
 ![isocalendar metric](/metrics.plugin.isocalendar.svg)
 
 
 <div align="center">
   <p>
+  <a href="https://book.morgen.so/tinahuynh989893/tmchuynh"><img src="https://img.shields.io/badge/-Schedule_A_Meeting-red?style=flat&color=a1242c&logo=Google-Calendar&logoColor=E0E0E0"></a>
+    
   <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
   <a href="https://github.com/tmchuynh"><img src="https://img.shields.io/badge/-GitHub-red?style=flat&color=a1242c&logo=github&logoColor=E0E0E0"></a>
   <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
@@ -22,6 +22,10 @@
   <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
   </p>
 </div>
+
+<br>
+
+#
 
 <div>
   &nbsp;
@@ -42,11 +46,11 @@
 
 <br>
 
-
-
 ![languages metric](/metrics.plugin.languages.svg)
 
 ![coding habits metric](/metrics.plugin.habits.svg)
+
+![starred topics metric](/metrics.plugin.stars.svg)
 
 ![devto posts metric](/metrics.plugin.devto.svg)
 
@@ -54,10 +58,7 @@
 
 ![achievements metric](/metrics.plugin.achievements.svg)
 
-![activity metric](/metrics.plugin.activity.svg)
-
 ![code snippet metric](/metrics.plugin.code.svg)
 
 
-![starred topics metric](/metrics.plugin.stars.svg)
 
