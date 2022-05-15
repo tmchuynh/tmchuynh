@@ -53,12 +53,3 @@
 ![starred topics metric](/metrics.plugin.stars.svg)
 
 ![devto posts metric](/metrics.plugin.devto.svg)
-
-![people metric](/metrics.plugin.people.svg)
-
-![achievements metric](/metrics.plugin.achievements.svg)
-
-![code snippet metric](/metrics.plugin.code.svg)
-
-
-
