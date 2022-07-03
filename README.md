@@ -32,13 +32,14 @@
 </div>
 
 <br>
+<br>
 
 <div>
-  <p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. And I want to be in the center of it all. But where is that exactly?
+  <p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. The focus of the newer generation will be the new innovations that constant pop-up these past years and will continuously to do so endlessly throughout time.
     <br>
-    As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world.
+    As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world. The "impossible" is becoming the new normal. We are only going to advance further and further as a society because together we are unstoppable.
     <br>
-    And it's thanks to people like Geoff Hinton, Yoshua Bengio, Yann LeCun, and Jurgen Schmidhuber who had faith in neural networks even back in the 1990s and 2000s when their colleagues had left the idea behind. People like that give hope that our dreams, our beliefs, our blueprints can be made into reality. We are only going to advance further, as a society. And, together, we are unstoppable.</p>
+    BUT, as tru as all of that is, a future were we have more time, energy, resources, and abundance to create the life of our dreams is truly the life we all deserve. A life where we are in control instead of handing over the steering wheel to someone else. That is our tomorrow; the tomorrow I dream of creating and am building each and everyday by helping the younger generation become more exposed to the possibilities at their fingertips. At the end of the day, you are your own greatest enemy because your fear is the only factor in the equation that kills a person's dreams to become something greater, to be a part of something greater than oneself. We deserve that life; the younger generation deserves to be exposed to a greater life with greater opportunities and purpose. That is the life of abundance, where dreams thrive, and creativity runs wild. That is the society I am passionate about building.</p>
 </div>
 
 
