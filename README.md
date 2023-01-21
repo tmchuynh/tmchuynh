@@ -39,7 +39,10 @@
     <br>
     As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world. The "impossible" is becoming the new normal. We are only going to advance further and further as a society because together we are unstoppable.
     <br>
-    BUT, as true as all of that is, a future were we have more time, energy, resources, and abundance to create the life of our dreams is truly the life we all deserve. A life where we are in control instead of handing over the steering wheel to someone else. That is our tomorrow; the tomorrow I dream of creating and am building each and everyday by helping the younger generation become more exposed to the possibilities at their fingertips. At the end of the day, you are your own greatest enemy because your fear is the only factor in the equation that kills a person's dreams to become something greater, to be a part of something greater than oneself. We deserve that life; the younger generation deserves to be exposed to a greater life with greater opportunities and purpose. That is the life of abundance, where dreams thrive, and creativity runs wild. That is the society I am passionate about building.</p>
+    A life filled with failures and successes, setbacks and victories, is a life of fulfillment and memories. A life
+worth living is a life enjoying every moment whether in pain or in fortune. Success is built within the mind
+and one’s value, not the value of material objects that surround. And with that, a fire burns inside each
+and every person to strive for greatness. And society will reap the glory of its fruits.</p>
 </div>
 
 
