@@ -35,7 +35,7 @@
 <br>
 
 <div>
-  <p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. The focus of the newer generation will be the new innovations that constant pop-up these past years and will continuously to do so endlessly throughout time.
+  <p align="left">Technology is our future! One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. The focus of the newer generation will be the new innovations that constant pop-up these past years and will continuously to do so endlessly throughout time.
     <br>
     As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world. The "impossible" is becoming the new normal. We are only going to advance further and further as a society because together we are unstoppable.
     <br>
