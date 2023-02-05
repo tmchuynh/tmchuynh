@@ -53,12 +53,3 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.devto.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_posts: yes
-          plugin_posts_limit: 5
-          plugin_posts_source: dev.to
-          plugin_posts_user: tmchuynh
