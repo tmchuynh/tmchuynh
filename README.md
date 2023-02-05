@@ -51,4 +51,6 @@ and every person to strive for greatness. And society will reap the glory of its
 
 ![languages metric](/metrics.plugin.languages.svg)
 
+![achievements](/metrics.plugin.habits.svg)
+
 ![achievements](/metrics.plugin.achievements.svg)
