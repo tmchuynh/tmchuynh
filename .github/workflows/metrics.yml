@@ -23,80 +23,35 @@ jobs:
           
       - uses: lowlighter/metrics@latest
         with:
-           filename: metrics.plugin.activity.svg
-           token: ${{ secrets.METRICS_TOKEN }}
-           base: ""
-           plugin_activity: yes
-   plugin_activity_limit: 5
-  plugin_activity_days: 0
-  plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.code.svg
+          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_code: yes
-          plugin_code_days: 7
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_skipped: css, html
-          plugin_code_visibility: all
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 21
-          plugin_habits_from: 500
-          config_timezone: America/Los_Angeles
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.introduction.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.svg
+          filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 10
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.people.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_limit: 100
-          plugin_people_size: 25
-          plugin_people_types: followers, following
           
       - uses: lowlighter/metrics@latest
         with:
@@ -107,12 +62,3 @@ jobs:
           plugin_posts_limit: 5
           plugin_posts_source: dev.to
           plugin_posts_user: tmchuynh
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stars.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
