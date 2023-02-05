@@ -53,5 +53,3 @@ and every person to strive for greatness. And society will reap the glory of its
 ![coding habits metric](/metrics.plugin.habits.svg)
 
 ![starred topics metric](/metrics.plugin.stars.svg)
-
-![devto posts metric](/metrics.plugin.devto.svg)
