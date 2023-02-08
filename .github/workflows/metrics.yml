@@ -1,13 +1,14 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
-on: 
+on:
+  # Schedule updates (each hour)
+  schedule:
+    - cron: "0 0 * * *"
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push:
     branches:
       - master
-  schedule:
-    - cron: "0 0 * * *"
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
