@@ -18,7 +18,7 @@ on:
       - master
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:         
       - name: 🏆 Achievements - Compact display
         uses: lowlighter/metrics@master
