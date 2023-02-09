@@ -9,9 +9,15 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    branches:
+      - master
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    defaults:
+          run:
+            working-directory: ./github/workflows
     steps:         
       - uses: lowlighter/metrics@latest
         with:
