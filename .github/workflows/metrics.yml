@@ -15,16 +15,6 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    defaults:
-          run: |
-            . scl_source enable devtoolset-7 || true
-            . scl_source enable llvm-toolset-6.0 || true
-            . /etc/profile.d/modules.sh || true
-            module load mpi
-            . $INSTALL_DIR/bin/thisbdm.sh
-            git config --system user.name "tmchuynh"
-            git config --system user.email tmchuynh@gmail.com
-            xvfb-run -d -s "-screen 0 2560x1440x24" make run-demos
     steps:         
       - uses: lowlighter/metrics@latest
         with:
