@@ -46,5 +46,5 @@ and every person to strive for greatness. And society will reap the glory of its
 
 ![people](/metrics.plugin.people.svg)
 
-![achievements](/metrics.plugin.achievements.svg)
+![starts](/metrics.plugin.stars.svg)
 
