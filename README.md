@@ -34,7 +34,7 @@ and every person to strive for greatness. And society will reap the glory of its
   <a href="https://app.daily.dev/tmchuynh"><img align=right src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="300" alt="Tina Huynh's Dev Card"/></a>
   
   
-![isocalendar metric](/metrics.plugin.isocalendar.svg)
+![isocalendar metric](/metrics.plugin.isocalendar.fullyear.svg)
 
 ![Activity](/metrics.plugin.activity.svg)
 
