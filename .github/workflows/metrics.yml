@@ -140,7 +140,7 @@ jobs:
           plugin_people_types: followers, following
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
