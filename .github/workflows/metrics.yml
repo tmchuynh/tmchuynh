@@ -35,7 +35,7 @@ jobs:
           plugin_achievements_threshold: X
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
@@ -51,7 +51,7 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
@@ -66,7 +66,7 @@ jobs:
           plugin_code_load: 400
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
@@ -82,7 +82,7 @@ jobs:
           config_timezone: Europe/Paris
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
@@ -109,7 +109,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
@@ -126,7 +126,7 @@ jobs:
           plugin_languages_limit: 4
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
@@ -164,6 +164,6 @@ jobs:
           plugin_stars_limit: 3
           output_action: commit
           delay: 120
-          user: lowlighter
+          user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
