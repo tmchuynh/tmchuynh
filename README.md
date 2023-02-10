@@ -38,6 +38,8 @@ and every person to strive for greatness. And society will reap the glory of its
 
 ![Activity](/metrics.plugin.activity.svg)
 
+![devto](/metrics.plugin.devto.svg)
+
 ![languages metric](/metrics.plugin.languages.svg)
 
 ![Activity](/metrics.plugin.code.svg)
