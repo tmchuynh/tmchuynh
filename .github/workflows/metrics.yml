@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # Schedule updates (each hour)
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 * * * 1-5"
   workflow_call:
     secrets:
       METRICS_TOKEN:
@@ -21,6 +21,17 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
+      
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.devto.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_posts: yes
+          plugin_posts_limit: 9
+          plugin_posts_source: dev.to
+          plugin_posts_user: tmchuynh
+          
       - name: 🏆 Achievements - Compact display
         uses: lowlighter/metrics@master
         with:
@@ -28,9 +39,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           output_action: commit
@@ -48,21 +56,22 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_filter: comment, ref/create, push, fork, star, public
           output_action: commit
           delay: 120
           user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
-      - name: ♐ Random code snippet - JavaScript or TypeScript snippet of the day
+      - name: ♐ Random code snippet
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
-          plugin_code_languages: javascript, typescript
+          plugin_code_lines: 5
+          plugin_code_languages: javascript, python, java
           plugin_code_load: 400
           output_action: commit
           delay: 120
@@ -77,7 +86,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
-          plugin_habits_facts: no
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           config_timezone: America/Los_Angeles
           output_action: commit
@@ -91,7 +100,7 @@ jobs:
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: github
+          user: tmchuynh
           base: header
           plugin_introduction: yes
           output_action: commit
@@ -121,16 +130,17 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            html, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
-          plugin_languages_limit: 4
+          plugin_languages_limit: 9
+          plugin_languages_threshold: 10%
           output_action: commit
           delay: 120
           user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
           
-      - name: 🧑‍🤝‍🧑 People - Followers
+      - name: 🧑‍🤝‍🧑 People
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.svg
@@ -143,16 +153,6 @@ jobs:
           user: tmchuynh
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.devto.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_posts: yes
-          plugin_posts_limit: 5
-          plugin_posts_source: dev.to
-          plugin_posts_user: tmchuynh
           
       - name: 🌟 Recently starred repositories - Recently starred
         uses: lowlighter/metrics@master
