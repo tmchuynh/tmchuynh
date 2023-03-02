@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c3401f</div>
-                                        <div class="message">owl carousel</div>
+                                        <div class="sha">#1af0e4d</div>
+                                        <div class="message">erase unneeded html</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42bd39d</div>
-                                        <div class="message">create cards</div>
+                                        <div class="sha">#f1038f5</div>
+                                        <div class="message">dynamically create cards</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#47a815d</div>
-                                        <div class="message">link cdns</div>
+                                        <div class="sha">#517194d</div>
+                                        <div class="message">read descriptions</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#850864e</div>
-                                        <div class="message">connect cards js</div>
+                                        <div class="sha">#1b7cce9</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#882e768</div>
-                                        <div class="message">MORE PHOTOS!</div>
+                                        <div class="sha">#270ce36</div>
+                                        <div class="message">edit carousel</div>
                                     </div>
                                 </div>
                             </section>
