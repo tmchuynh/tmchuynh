@@ -63,7 +63,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.925 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.700000000000003 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -88,12 +88,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 248k out of 109m users</span>
+                                    <span class="gh">ranked 242k out of 109m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">77</div>
+                                        <div class="value">78</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 77 public repositories</div>
+                                <div class="text">Published 78 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -417,7 +417,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.93m out of 381m repositories</span>
+                                    <span class="gh">ranked 4.04m out of 381m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
