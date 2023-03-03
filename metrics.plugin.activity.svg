@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">LivingLegacy95/Dojo_Projext</span>
+                                        <span class="repo">MGBoulware88/portfolio-project</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d657c2</div>
-                                        <div class="message">change video formatting</div>
+                                        <div class="sha">#8d15b4e</div>
+                                        <div class="message">shady shit</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">LivingLegacy95/Dojo_Projext</span>
+                                        <span class="repo">MGBoulware88/portfolio-project</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e73b07a</div>
-                                        <div class="message">youtube refusing to connect</div>
+                                        <div class="sha">#28f3592</div>
+                                        <div class="message">figure it out silly</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">LivingLegacy95/Dojo_Projext</span>
+                                        <span class="repo">MGBoulware88/portfolio-project</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c252069</div>
-                                        <div class="message">update</div>
+                                        <div class="sha">#890363a</div>
+                                        <div class="message">options</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">LivingLegacy95/Dojo_Projext</span>
+                                        <span class="repo">MGBoulware88/portfolio-project</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#709f25d</div>
-                                        <div class="message">format images</div>
+                                        <div class="sha">#79e01fa</div>
+                                        <div class="message">is it april yet?</div>
                                     </div>
                                 </div>
                             </section>
@@ -102,25 +102,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">LivingLegacy95/Dojo_Projext</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MGBoulware88/portfolio-project</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5c57d5c</div>
-                                        <div class="message">merge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ca920a</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/LivingLegacy95/Dojo_Projext</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39c49d1</div>
-                                        <div class="message">video links
-
-Co-authored-by: LivingLegacy95 &lt;LivingLegacy95@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#3fecae3</div>
+                                        <div class="message">yup yup</div>
                                     </div>
                                 </div>
                             </section>
