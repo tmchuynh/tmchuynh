@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d15b4e</div>
-                                        <div class="message">shady shit</div>
+                                        <div class="sha">#5bcb3a9</div>
+                                        <div class="message">change colors for threed blocks</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#28f3592</div>
-                                        <div class="message">figure it out silly</div>
+                                        <div class="sha">#1d23960</div>
+                                        <div class="message">extra padding</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#890363a</div>
-                                        <div class="message">options</div>
+                                        <div class="sha">#1eb8e3b</div>
+                                        <div class="message">remove extra</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#79e01fa</div>
-                                        <div class="message">is it april yet?</div>
+                                        <div class="sha">#b66a2ee</div>
+                                        <div class="message">update font</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3fecae3</div>
-                                        <div class="message">yup yup</div>
+                                        <div class="sha">#6292410</div>
+                                        <div class="message">threed text</div>
                                     </div>
                                 </div>
                             </section>
