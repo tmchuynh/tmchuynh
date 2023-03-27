@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c1c4400</div>
-                                        <div class="message">📖 DOC: documentation</div>
+                                        <div class="sha">#129c787</div>
+                                        <div class="message">plans</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9058e83</div>
-                                        <div class="message">client cart</div>
+                                        <div class="sha">#fe7b802</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ac11ca7</div>
-                                        <div class="message">📦 NEW: display all products for client</div>
+                                        <div class="sha">#e5fa7ce</div>
+                                        <div class="message">🐛 FIX: add products to cart</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,9 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f844a9d</div>
-                                        <div class="message">📦 NEW: admin add products</div>
+                                        <div class="sha">#375da8f</div>
+                                        <div class="message">update product
+Co-authored-by: MGBoulware88 &lt;MGBoulware88@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5de385b</div>
-                                        <div class="message">add client to employee's client list page</div>
+                                        <div class="sha">#2326336</div>
+                                        <div class="message">👌 IMPROVE: use bootstrap's modal to edit employee</div>
                                     </div>
                                 </div>
                             </section>
