@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="416" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="396" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,47 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/personal-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bd1cc25</div>
+                                        <div class="message">🎨 style(main.css): add minimum height to body
+The minimum height of the body is set to 100vh to ensure that the content of the page is always visible, even if there is not enough content to fill the entire viewport.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/personal-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#883a2f8</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/tmchuynh/personal-website</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -111,73 +152,6 @@ This commit updates the styling of several pages to improve consistency and resp
 
 🎨 style(client_products.html, client_update_password.html, display_all_products.html, employee_home.html, employee_login.html, employee_update_password.html, index.html): add margin auto to container class
 The container class now has a margin auto property, which centers the content of the page. This improves the visual appearance of the pages and makes them more user-friendly. The buttons have also been updated to use the NES.css library, which provides a more modern and consistent look and feel.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/business_project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cdda460</div>
-                                        <div class="message">🐛 fix(admin.py): use title() instead of capitalize() for product name
-✨ feat(product.py): update get_current_product_by_client method in Invoice model
-🔨 refactor(client_model.py): remove proj_status from get_invoices_by_client method
-🔨 refactor(invoice_model.py): remove proj_status from update_invoice method
-🔨 refactor(product_model.py): add status field to Product model
-The product name is now properly capitalized using the title() method instead of capitalize(). The get_current_product_by_client method in the Invoice model has been updated to return the current product by client. The proj_status field has been removed from the get_invoices_by_client and update_invoice methods in the Client and Invoice models, respectively. The Product model has been updated to include a status field.
-
-🎨 style(client_products.html): reformat table headers and rows
-💄 style(client_products.html): change invoice details modal title to include product name
-The table headers and rows have been reformatted to better display the product name and price. The invoice details modal title has been updated to include the product name for better clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1aee102</div>
-                                        <div class="message">🔒 chore(client_model.py): add password field to INSERT query
-🐛 fix(invoice_model.py): simplify conditional statement
-The client model now includes a password field in the INSERT query, which is necessary for authentication purposes. The invoice model's conditional statement has been simplified to check if the results exist instead of checking if the length of the results is greater than 0.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c00ed5b</div>
-                                        <div class="message">🐛 fix(client.py): use the correct variable name for client id
-🐛 fix(product.py): import the correct model for invoices
-✨ feat(client_model.py): add method to get invoices by client
-✨ feat(invoice_model.py): add proj_status to the insert and update queries
-The variable name for the client id was incorrect, so it was changed to the correct name. The incorrect model was being imported for invoices, so it was changed to the correct model. A new method was added to the client model to get invoices by client. The insert and update queries in the invoice model were updated to include the proj_status field.
-
-🔥 refactor(product_model.py): remove status attribute from Product class and related queries
-🔥 refactor(admin.html, client_products.html): remove status column from tables
-✨ feat(product_model.py, client_products.html): add invoice functionality
-The status attribute was removed from the Product class and related queries as it was not being used. The status column was also removed from the admin and client products tables as it was no longer needed. The invoice functionality was added to the client products page, allowing clients to update the details of their invoices.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3cbaeb</div>
-                                        <div class="message">🔍 chore(admin): add support for active employees
-✨ feat(employee_model.py): add get_active_employees method
-The admin page now displays a list of active employees instead of all employees. The get_active_employees method was added to the Employee class to retrieve all employees that have been updated. This allows the admin to see only the employees that have been recently updated.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">iamhosseindhv/notistack</span>
                                     </div>
                                 </div>
                             </section>
