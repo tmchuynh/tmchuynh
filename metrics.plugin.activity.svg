@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="396" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="462" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.people{padding:0 10px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,130 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">tmchuynh/personal-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#32cc2e9</div>
+                                        <div class="message">🎨 style(index.html): reformat introduction section and experience section
+The introduction section now has a container-fluid class to improve its layout. The experience section has been reformatted to have a margin of 1rem on the top and bottom and 4rem on the left and right. The text is now aligned to the left.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ee9aec</div>
+                                        <div class="message">🎨 style(about.html, index.html): update footer container to fluid container
+The footer container in both about.html and index.html has been updated to a fluid container to improve the layout and spacing of the footer elements.
+
+🎨 style(mission.html): add padding and make footer container fluid
+🎨 style(main.css): adjust margin and float of keys in footer
+The footer container in mission.html now has a fluid layout and a padding of 3 units. The keys in the footer now have a margin-bottom of 2 units and are floated to the right. These changes improve the layout and spacing of the footer.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c51f08</div>
+                                        <div class="message">🎨 style(main.css): add margin to .site-footer .keys
+This change adds a margin of 1rem to the .site-footer .keys class, which improves the spacing and layout of the footer section.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e621bb</div>
+                                        <div class="message">📝 chore(mission.html): fix typo and center image
+💄 style(mission.html): improve readability and aesthetics
+The typo in the mission statement has been fixed. The image in the second section is now centered using the justify-content-center class. These changes improve the readability and aesthetics of the page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#015c678</div>
+                                        <div class="message">🎨 style(mission.html): add code class to 404 page container
+🎨 style(code.css): increase font size of code class
+The code class is added to the container of the 404 page to allow for more specific styling. The font size of the code class is increased to 1.5rem to improve readability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63dea4b</div>
+                                        <div class="message">🎨 style(about.html): format and restructure text for better readability
+The changes made to the about.html file include formatting and restructuring the text to improve readability. The changes include adding line breaks, indentations, and adjusting the length of some lines to fit within the recommended 74 characters limit. These changes do not affect the content of the file but make it easier to read and understand.
+
+🎨 style(about.html): format and rephrase paragraphs for better readability
+The changes made in this commit are purely cosmetic. The paragraphs in the about.html file have been reformatted to improve readability. The text has been broken down into smaller paragraphs, and some sentences have been rephrased to make them easier to understand. The changes made do not affect the content of the page.
+
+🎨 style(about.html): reformat code and add whitespace for readability
+This commit reformats the code in the about.html file to improve readability. The code is now properly indented and whitespace has been added to separate the different sections of the file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22389f5</div>
+                                        <div class="message">🔄 chore(index.html): reword and restructure introduction paragraph
+✨ feat(index.html): add more content to the introduction paragraph
+The introduction paragraph has been reworded and restructured to better convey the message of the text. More content has been added to the paragraph to emphasize the power of technology and its impact on our lives. The paragraph now highlights the younger generation's role in driving technological advancements and the unprecedented pace of progress that technology has brought about. It also emphasizes the potential of technology to connect people and cultures from around the world and improve our lives in countless ways. The paragraph concludes by envisioning a future that goes beyond mere technological advancement and empowers us to live a life filled with abundance, freedom, and purpose.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/personal-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#895bf5d</div>
+                                        <div class="message">🎨 style(about.html): rewrite content for clarity and conciseness
+The content of the about.html file has been rewritten to improve clarity and conciseness. The language has been simplified and rephrased to make it more accessible to a wider audience. The changes include rewording sentences, removing unnecessary information, and breaking up long paragraphs into shorter ones. The goal of these changes is to make the content more engaging and easier to read, while still conveying the same message.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/personal-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d4b4dc8</div>
+                                        <div class="message">🎨 style(about.html): reformat HTML and update footer text
+The HTML code has been reformatted to improve readability and consistency. The footer text has been updated to reflect the current year and the author's name.
+
+📝 chore(index.html): rewrite paragraphs for clarity and conciseness
+The paragraphs have been rewritten to improve clarity and conciseness. The changes aim to make the text more engaging and easier to read. The new text highlights the limitless opportunities in the technology sector and the impact of technology on our lives. The text also acknowledges the pioneers of the tech industry who have made significant contributions to the field.
+
+🔍 chore(mission.html): improve readability and add more details to text
+This commit improves the readability of the mission.html file by adding line breaks and reformatting some of the text. Additionally, it adds more details to the text to provide a more comprehensive overview of the benefits of web development and Flask. The changes include:
+
+- Adding more details to the "Why Web Development" section, including examples of how web-based tools and platforms can be used to enhance collaboration and productivity.
+- Adding more details to the "Why I Want to Master Flask" section, including information on Flask's lightweight and easy-to-use nature, its wide range of features, and its high customizability. The section also includes information on the career opportunities that mastering Flask can provide.
+
+📝 docs(mission.html): update content of The Goal for Learning Babel and Mixing in Fullstack React sections
+The changes made to the mission.html file include updating the content of The Goal for Learning Babel and Mixing in Fullstack React sections. The updated content provides a more comprehensive and detailed explanation of the benefits of learning Babel and React. The changes aim to help readers understand the importance of these tools in web development and how they can enhance their career prospects by mastering them.
+
+📝 chore(mission.html): rewrite mission statement for clarity and conciseness
+The mission statement has been rewritten to improve clarity and conciseness. The language has been simplified, and the sentences have been rephrased to make them more readable. The changes aim to make the statement more impactful and engaging to the reader.
+
+🎨 style(css): adjust height of mission cloud and remove min-height from body
+The height of the mission cloud has been increased from 150px to 250px to better accommodate the content. The min-height property has been removed from the body to prevent unnecessary scrolling.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -52,106 +176,6 @@ The minimum height of the body is set to 100vh to ensure that the content of the
                                     <div class="commit">
                                         <div class="sha">#883a2f8</div>
                                         <div class="message">Merge branch 'master' of https://github.com/tmchuynh/personal-website</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/business_project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22ef73f</div>
-                                        <div class="message">🔥 refactor(invoice.py, payment_method.py, client_model.py, invoice_model.py, product_model.py): remove unused imports
-This commit removes unused imports from the files listed above. This improves the code's readability and reduces the amount of memory used by the application.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">tmchuynh/business_project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5546735</div>
-                                        <div class="message">🐛 fix(product_model.py): update query to include name and category fields
-🔒 chore(admin.html): disable assign team button
-The product_model.py file has been updated to include the name and category fields in the query. This ensures that the name and category fields are updated when the update method is called.
-
-The admin.html file has been updated to disable the assign team button. This is because the feature is not yet implemented and the button should not be clickable until it is.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e9e278</div>
-                                        <div class="message">🎨 style(index.css): adjust form and table width
-The width of the form and table elements were adjusted to 74.5rem to improve the layout of the page.
-
-🐛 fix(client_model.py): add proj_status to client model
-The proj_status attribute was added to the Client model to match the corresponding column in the database.
-
-🐛 fix(invoice_model.py): fix update_invoice query syntax
-The update_invoice query syntax was fixed by removing the extra comma after the amount parameter.
-
-✨ feat(product_model.py): add update_product_status method
-The update_product_status method was added to the Product model to update the status of a product in the database.
-
-🐛 fix(product.py): update product status in update_product_status method
-The update_product_status method in the Product controller was updated to update the status of a product in the database.
-
-🐛 fix(client_products.html): update proj_status to status
-The proj_status attribute was updated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40a0d0d</div>
-                                        <div class="message">🎨 style(index.css): add hover effect to .btn-danger class
-🚚 chore(admin.html): remove Invoice column and replace Product Details button with Contact button
-The .btn-danger class now has a hover effect that changes the background color and text color. The Invoice column was removed from the admin.html table and replaced with a Contact button that links to the client's email address. This change improves the user experience by providing a more direct way to contact clients.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/business_project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ff6b662</div>
-                                        <div class="message">🎨 style(css): update styling for consistency and responsiveness
-This commit updates the styling of several pages to improve consistency and responsiveness. The changes include:
-- Adding a new class to the main body of the index.css file to improve responsiveness
-- Updating the styling of links and buttons to improve consistency
-- Updating the styling of the table in the checkout_page.html file to improve responsiveness
-- Adding a new button to the admin.html file to allow for easy email contact with employees
-- Updating the container class in several html files to improve responsiveness
-
-🎨 style(client_products.html, client_update_password.html, display_all_products.html, employee_home.html, employee_login.html, employee_update_password.html, index.html): add margin auto to container class
-The container class now has a margin auto property, which centers the content of the page. This improves the visual appearance of the pages and makes them more user-friendly. The buttons have also been updated to use the NES.css library, which provides a more modern and consistent look and feel.</div>
                                     </div>
                                 </div>
                             </section>
