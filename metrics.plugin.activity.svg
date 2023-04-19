@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="447" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="563" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,132 +19,6 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">Back-End</span>
-                                        in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c551328</div>
-                                        <div class="message">Merge pull request #1 from tmchuynh/Front-End
-
-Front end</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef98edb</div>
-                                        <div class="message">Merge branch 'master' into Front-End</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5575406</div>
-                                        <div class="message">🎨 style(Login.jsx, Registration.jsx): add h1 tag to form title
-✨ feat(Main.jsx): add password reset functionality
-The Login and Registration forms now have an h1 tag to improve accessibility and readability. The Main component now includes a PasswordReset component and a new route to handle password reset functionality. The PasswordReset component allows users to enter their email address to receive a password reset link via email. The reset link takes the user to a new page where they can reset their password.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeea7bf</div>
-                                        <div class="message">🎨 style(Login.jsx): add login title
-🎨 style(Registration.jsx): add registration title
-🚀 feat(Main.jsx): add password route
-🚀 feat(Main.jsx): add sign in route
-🚀 feat(Main.jsx): add registration route
-The login and registration forms now have titles to improve the user experience. The Main component now has a password route and a sign in route, which allows users to reset their password and sign in respectively. The registration route has also been added to the Main component.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0bc9fc</div>
-                                        <div class="message">🎨 style(App.js): reformat code and remove unused imports
-🚀 feat(App.js): add Main component to render instead of Login component
-🚀 feat(Login.jsx): add Register link to the form
-🚀 feat(index.js): add BrowserRouter to wrap App component
-🚀 feat(Main.jsx): create Main component to handle routing
-The code has been reformatted to improve readability. The Login component has been replaced with the Main component to handle routing. The Register link has been added to the Login form. The BrowserRouter has been added to wrap the App component. The Main component has been created to handle routing.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#578e135</div>
-                                        <div class="message">🎨 style(Login.jsx): update email disclaimer
-The email disclaimer has been updated to include the word "Promise" to make it more friendly and reassuring to users.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a191de</div>
-                                        <div class="message">First branch init</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef98edb</div>
-                                        <div class="message">Merge branch 'master' into Front-End</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5575406</div>
-                                        <div class="message">🎨 style(Login.jsx, Registration.jsx): add h1 tag to form title
-✨ feat(Main.jsx): add password reset functionality
-The Login and Registration forms now have an h1 tag to improve accessibility and readability. The Main component now includes a PasswordReset component and a new route to handle password reset functionality. The PasswordReset component allows users to enter their email address to receive a password reset link via email. The reset link takes the user to a new page where they can reset their password.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeea7bf</div>
-                                        <div class="message">🎨 style(Login.jsx): add login title
-🎨 style(Registration.jsx): add registration title
-🚀 feat(Main.jsx): add password route
-🚀 feat(Main.jsx): add sign in route
-🚀 feat(Main.jsx): add registration route
-The login and registration forms now have titles to improve the user experience. The Main component now has a password route and a sign in route, which allows users to reset their password and sign in respectively. The registration route has also been added to the Main component.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -155,13 +29,167 @@ The login and registration forms now have titles to improve the user experience.
                                 <div class="details">
                                     <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0bc9fc</div>
-                                        <div class="message">🎨 style(App.js): reformat code and remove unused imports
-🚀 feat(App.js): add Main component to render instead of Login component
-🚀 feat(Login.jsx): add Register link to the form
-🚀 feat(index.js): add BrowserRouter to wrap App component
-🚀 feat(Main.jsx): create Main component to handle routing
-The code has been reformatted to improve readability. The Login component has been replaced with the Main component to handle routing. The Register link has been added to the Login form. The BrowserRouter has been added to wrap the App component. The Main component has been created to handle routing.</div>
+                                        <div class="sha">#5ff576c</div>
+                                        <div class="message">🐛 fix(Main.jsx): change route path for user profile editing
+The route path for editing user profile was incorrectly set to use the lead object instead of the user object. This commit fixes the issue by changing the user object to be used instead.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#11a5a36</div>
+                                        <div class="message">🆕 feat(EditUserProfile.jsx): add EditUserProfile component
+🆕 feat(Main.jsx): add route for EditUserProfile component
+The EditUserProfile component is added to allow users to edit their profile information. The component contains a form that allows users to update their full name, email, password, location, title, and profile picture. The Main component is updated to include a route for the EditUserProfile component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8728f9b</div>
+                                        <div class="message">🎨 style(SideNav.jsx): update SideNav links
+🎨 style(Main.jsx): add UserProfile component and update LeadProfile component
+✨ feat(UserProfile.jsx): create UserProfile component
+The SideNav links for "About" and "Services" have been updated to link to the LeadProfile and UserProfile components, respectively. The Main component has been updated to include the UserProfile component and to pass the lead object to the LeadProfile component. The UserProfile component has been created to display user information, including their name, email, password, location, title, and profile picture. The component also includes a button to toggle the visibility of the user's password and a link to edit the user's profile.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e884555</div>
+                                        <div class="message">🎨 style(SideNav.jsx): change Nav.Link href to use root path
+🚀 feat(EditLeadProfile.jsx, LeadProfile.jsx): add views for editing and displaying lead profiles
+🔥 chore(UserProfile.jsx): remove unused component
+The SideNav component now uses the root path instead of a relative path for the Home link. Two new views, EditLeadProfile and LeadProfile, have been added to allow for editing and displaying lead profiles respectively. The UserProfile component has been removed as it is no longer needed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7883af0</div>
+                                        <div class="message">🎨 style(SideNav.jsx): change sidebar navigation to vertical button group
+The sidebar navigation has been changed from a horizontal navbar to a vertical button group. This improves the user experience by making the navigation more intuitive and easier to use. The button group is now more visually appealing and consistent with the rest of the application's design.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3778137</div>
+                                        <div class="message">🚀 feat(Registration.jsx): add form submission handling and redirect to user profile page
+The handleSubmit function now redirects the user to the user profile page upon successful form submission. The useNavigate hook is used to navigate to the user profile page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc8e04a</div>
+                                        <div class="message">🎨 style(SideNav.jsx): remove Navbar.Brand from SideNav component
+🚀 chore(Login.jsx): add handleSubmit function to handle form submission and navigate to user_profile page
+🚀 chore(Main.jsx): add route for UserProfile component
+✨ feat(UserProfile.jsx): create UserProfile component
+The Navbar.Brand component was removed from the SideNav component to improve consistency with the design. The handleSubmit function was added to the LoginForm component to handle form submission and navigate to the user_profile page. A new route was added to the Main component to render the UserProfile component. The UserProfile component was created to display user information and is currently empty.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9a3be36</div>
+                                        <div class="message">🚀 chore(Login, Main, Password, Registration): move components to views folder
+🚀 chore(mongoose.config.js): refactor to use ES6 import/export syntax and add support for environment variables
+The components were moved to the views folder to improve the project's file structure. The mongoose.config.js file was refactored to use ES6 import/export syntax and to add support for environment variables. This allows the application to be more flexible as it can now connect to any MongoDB database specified via the process.env.DB_URI environment variable.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b33e3ed</div>
+                                        <div class="message">Merge branch 'Back-End' into Front-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d539dee</div>
+                                        <div class="message">Merge branch 'Front-End' into Back-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac2a387</div>
+                                        <div class="message">🎨 style(App.js): remove unused import statement
+🎨 style(Login.jsx): add Stack component and reformat code
+🎨 style(Password.jsx): add margin to Reset Password button
+🎨 style(Registration.jsx): add Stack component and reformat code
+🎨 style(Main.jsx): add padding to main container
+The changes made in this commit are purely cosmetic. Unused import statements were removed, and the code was reformatted to improve readability. The Stack component was added to the Login and Registration forms to improve the layout of the form elements. The Reset Password button was given a margin to improve its appearance. Finally, the main container was given padding to improve the overall appearance of the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d1ef60</div>
+                                        <div class="message">Merge branch 'Back-End' into Front-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52a198e</div>
+                                        <div class="message">🚀 chore(server): add user and lead routes and controllers
+This commit adds user and lead routes and controllers to the server. The controllers use Mongoose methods to interact with the MongoDB database. The user and lead routes are defined in their respective route files. The server now uses express.urlencoded to parse incoming requests with urlencoded payloads.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8defb2</div>
+                                        <div class="message">Merge branch 'Back-End' of https://github.com/tmchuynh/Real-Estate-CRM into Back-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2968729</div>
+                                        <div class="message">🎉 feat(user.model.js): add UserSchema with validations
+📦 chore(package.json): add mongoose-type-email dependency
+The UserSchema now includes validations for email, password, fullName, location, title, and profilePic. The email field is now of type mongoose.SchemaTypes.Email, which auto-validates using an email regex. The password field now has a minimum length of 8 characters. The package.json file now includes the mongoose-type-email dependency, which is used for email validation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c551328</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/Front-End
+
+Front end</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a85c9e</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/Back-End' into Back-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a1efe0</div>
+                                        <div class="message">user model</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">Back-End</span>
+                                        in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                             </section>
