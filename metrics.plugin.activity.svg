@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="801" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="734" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cdc1b11</div>
+                                        <div class="message">🎨 style(EmailSent.jsx): remove unnecessary curly braces from Nav.Link href
+The curly braces around the href attribute of Nav.Link were unnecessary and have been removed to improve code readability.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -249,51 +270,6 @@ The spacing between the icon and text in the SideNav component was improved for 
                                         <div class="message">🔥 refactor(Main.jsx): remove unused import statement
 🔥 refactor(Password.jsx): remove unused state variable
 The import statement for Link from react-router-dom in Main.jsx is not used and has been removed. The showAlert state variable in Password.jsx is not used and has been removed.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#852ffa2</div>
-                                        <div class="message">🎨 style(Main.jsx): add bootstrap container and button to reset password page
-The reset password page now has a bootstrap container and button to improve the page's layout and user experience. The button allows the user to go back to the login page.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d398555</div>
-                                        <div class="message">🐛 fix(SideNav.jsx): fix typo in logout button text and update lead profile route to leads
-The text on the logout button was mistakenly set to "Lgout" instead of "Logout". The route for the lead profile was also updated to "/leads" to match the actual route.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b45d4a5</div>
-                                        <div class="message">🚀 feat(LeadDetails.jsx): add back button to LeadDetails view
-The back button allows the user to navigate back to the leads page. The useNavigate hook from react-router-dom is used to navigate to the leads page when the button is clicked.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6702335</div>
-                                        <div class="message">🚀 feat(client): add react-chrono package and timeline component
-🐛 fix(client): change handleDetailsClick parameter from row[0] to rowIndex
-The react-chrono package was added to the client's package.json file. A new Timeline component was created in the LeadDetails view, which uses the react-chrono package to display a timeline of events. The handleDetailsClick function in the Table component was fixed to pass the correct parameter to the function.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a33f876</div>
-                                        <div class="message">🎨 style(Table.jsx): fix indentation and add parameter to handleDetailsClick
-🚀 feat(Table.jsx): add functionality to delete a row
-🚀 feat(LeadDetails.jsx): add functionality to add events to timeline
-🚀 feat(Main.jsx): add parameter to LeadDetails route
-The indentation in Table.jsx was fixed to improve readability. The handleDetailsClick function in Table.jsx was updated to include a parameter for the leadId. The handleDeleteRow function was added to Table.jsx to allow for deleting a row. The handleAddEvent function was added to LeadDetails.jsx to allow for adding events to the timeline. The Main.jsx file was updated to include a parameter for the leadId in the LeadDetails route.</div>
                                     </div>
                                 </div>
                             </section>
