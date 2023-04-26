@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="734" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}svg.bar{margin:4px 0}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,18 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 6 commits in
                                         <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9a4a48f</div>
-                                        <div class="message">🔍 chore(Table.jsx): add detail state to handle lead details
-🐛 fix(Table.jsx): pass correct lead id to navigate function
-🎨 style(LeadDetails.jsx): comment out unused code and add index display
-The detail state is added to handle the lead details. The handleDetailsClick function is fixed to pass the correct lead id to the navigate function. The commented out code in LeadDetails.jsx is removed and the index is displayed.</div>
+                                        <div class="sha">#b862460</div>
+                                        <div class="message">Merge branch 'Front-End' of https://github.com/tmchuynh/Real-Estate-CRM into Front-End</div>
                                     </div>
                                 </div>
                             </section>
@@ -46,157 +43,34 @@ The detail state is added to handle the lead details. The handleDetailsClick fun
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cdc1b11</div>
-                                        <div class="message">🎨 style(EmailSent.jsx): remove unnecessary curly braces from Nav.Link href
-The curly braces around the href attribute of Nav.Link were unnecessary and have been removed to improve code readability.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 36 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                        <span class="repo">tmchuynh/personal-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9045b73</div>
-                                        <div class="message">🔥 chore(mongoose.config.js): remove unused export statement
-The export statement at the end of the file is not used and can be safely removed.</div>
+                                        <div class="sha">#e9c954d</div>
+                                        <div class="message">Update CNAME</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#465d545</div>
-                                        <div class="message">Merge branch 'Back-End' into Front-End</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/personal-website</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#67d1999</div>
-                                        <div class="message">🔥 chore(mongoose.config.js): remove unused import
-The import statement for mongoose was not being used in the file, so it was removed to improve code readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a893df7</div>
-                                        <div class="message">🐛 fix(mongoose.config.js): change import statement to use ES6 syntax
-✨ feat(mongoose.config.js): add support for environment variables in MongoDB connection string
-The import statement for mongoose is now using ES6 syntax. The connection string for MongoDB now uses environment variables for the database name, username, and password. This allows for more flexibility in the application as the database name, username, and password can be changed without modifying the code.
-
-🐛 fix(user.controller.js): add async keyword to controller functions
-The controller functions for creating, getting all, getting one, deleting one, and updating one user now have the async keyword. This ensures that the functions return a promise and can be awaited.
-
-🐛 fix(user.model.js): change export statement to use ES6 syntax
-The export statement for the User model is now using ES6 syntax.
-
-🐛 fix(user.routes.js): change export statement to use ES6 syntax
-The export statement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67bfce8</div>
-                                        <div class="message">🐛 fix(mongoose.config.js): change import statement to require statement
-✨ feat(mongoose.config.js): add support for process.env.MONGO_DB_URI environment variable
-🚀 chore(package.json): update mongodb package to version 5.3.0
-🚚 chore(server.js): move routes to server folder and update import statements
-The import statement in mongoose.config.js was changed to a require statement to fix an issue with the import. Support for an environment variable MONGO_DB_URI was added to allow the application to connect to a MongoDB database using the URI specified in the environment variable. The mongodb package was updated to version 5.3.0 to take advantage of the latest features and bug fixes. The routes were moved to the server folder and the import statements were updated to reflect the new location.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82c2d3c</div>
-                                        <div class="message">🔧 chore(mongoose.config.js): remove unnecessary import statement
-🔧 chore(package.json): add type module and nodemon as dev dependency
-🔧 chore(server.js): use ES6 import statements and update middleware functions
-The import statement for mongoose.config.js was unnecessary and has been removed. The package.json file has been updated to include "type": "module" and nodemon as a dev dependency. The server.js file has been updated to use ES6 import statements and middleware functions have been updated to use json() and urlencoded() instead of express.json() and express.urlencoded().</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1afe74</div>
-                                        <div class="message">add</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c2fd26</div>
-                                        <div class="message">🎨 style(SearchBar.jsx): add magnifying glass icon to search bar
-🎨 style(SideNav.jsx): add margin to font awesome icons in SideNav
-🎨 style(Table.jsx): add empty class to td element
-✨ feat(Leads.jsx): add button to add new lead
-The magnifying glass icon was added to the search bar to improve the user experience. The margin was added to the font awesome icons in the SideNav to improve the visual appearance. An empty class was added to the td element in the Table component to improve the consistency of the code. A button to add a new lead was added to the Leads view to improve the functionality of the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3e25f3</div>
-                                        <div class="message">🚀 chore(client): add fontawesome dependencies and refactor SideNav component
-The FontAwesomeIcon component is imported from the '@fortawesome/react-fontawesome' package and used to display icons. The '@fortawesome/fontawesome-svg-core' package is also added as a dependency. The SideNav component is refactored to use the FontAwesomeIcon component to display icons for the Home and Lead links. The class attribute is replaced with the className attribute to avoid warnings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71c6cf5</div>
-                                        <div class="message">🔨 refactor(Leads.jsx): import useState and useEffect from react
-💄 style(Leads.jsx): add comments to explain code
-This commit refactors the Leads component to import the useState and useEffect hooks from react. It also adds comments to explain the code and the variables that are used to query the database with column sorting.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7369c9</div>
-                                        <div class="message">📦 chore(client): add fontawesome dependencies and remove newline at end of file
-The fontawesome dependencies were added to the package.json file to allow the use of fontawesome icons in the application. A newline at the end of the Table.jsx file was removed to improve consistency with the rest of the codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0960cac</div>
-                                        <div class="message">🔥 chore(Pagination.jsx): remove unused getPageItems function and commented code
-The getPageItems function is not used in the component and the commented code is not needed. Removing them improves the code's readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab72154</div>
-                                        <div class="message">🎨 style(Table.jsx): refactor table component to include items per page dropdown
-✨ feat(Table.jsx): add items per page dropdown to table component
-The table component has been refactored to include a dropdown that allows the user to select the number of items to display per page. This improves the user experience by allowing them to customize the table to their preference. The default number of items per page is now a constant named DEFAULT_ITEMS_PER_PAGE.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a39d415</div>
-                                        <div class="message">🎨 style(Table.jsx): refactor renderData function to improve readability
-✨ feat(Table.jsx): add pagination to table
-🚀 chore(Leads.jsx): add more data to leads table
-The renderData function has been refactored to improve readability by extracting the mapping of data to a separate function. Pagination has been added to the table to improve user experience when dealing with large amounts of data. The Leads table has been updated with more data to better simulate a real-world scenario.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65e9c29</div>
-                                        <div class="message">🎨 style(App.js): remove Retool component and replace with Main component
-🎨 style(Table.jsx): import Button component from react-bootstrap and replace button element
-✨ feat(Leads.jsx): add Leads view component
-🎨 style(Login.jsx): navigate to /leads instead of /lead_profile
-The Retool component is removed and replaced with the Main component to improve naming consistency. The button element in the Table component is replaced with the Button component from react-bootstrap to improve the styling of the application. The Leads view component is added to the application to allow users to view leads. The Login component is updated to navigate to /leads instead of /lead_profile to improve the user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3f9dd2</div>
-                                        <div class="message">📝 docs(create.todo): add chatbot and auth0 links
-Added links to chatbot and auth0 documentation to the create.todo file. This will help developers to quickly access the documentation and get started with integrating these services into the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#755a063</div>
-                                        <div class="message">🎉 feat(admin_dashboard): add screenshot of admin dashboard
-This commit adds a new screenshot of the admin dashboard to the client/images directory. The screenshot will be used in the documentation to showcase the features of the admin dashboard.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#916d4bf</div>
-                                        <div class="message">🎨 style(Main.jsx): change Main component to a named function
-🐛 fix(Main.jsx): correct typo in password reset message
-The Main component is now a named function, which improves readability and makes it easier to debug. The typo in the password reset message has been corrected to "an email" instead of "en email".</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68c585f</div>
-                                        <div class="message">Merge branch 'Back-End' of https://github.com/tmchuynh/Real-Estate-CRM into Back-End</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7b2a60</div>
-                                        <div class="message">📝 docs(README.md): add Mongoose to MongoDB in the list of tools used
-🔨 refactor(lead.model.js): add dynamic values to error messages
-The error messages for the email and phone number fields now include dynamic values for the minimum length required. The error messages for the first and last name fields now include dynamic values for the minimum and maximum length allowed. Also, added timestamps to the schema options.
-🔨 refactor(user.model.js): add timestamps to the schema options
-Added timestamps to the schema options for consistency and ease of use.</div>
+                                        <div class="sha">#42219ba</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/tmchuynh/personal-website</div>
                                     </div>
                                 </div>
                             </section>
@@ -209,18 +83,14 @@ Added timestamps to the schema options for consistency and ease of use.</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                        <span class="repo">tmchuynh/personal-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c0d119</div>
-                                        <div class="message">🎨 style(views): replace Link with Nav.Link and add Nav import
-The Link component from react-router-dom has been replaced with Nav.Link from react-bootstrap in EmailSent.jsx and Password.jsx. This change improves consistency with the use of react-bootstrap components and allows for better styling of the links. The Nav component has been imported in EmailSent.jsx and Password.jsx to support the use of Nav.Link.
-
-💄 style(views): remove unused imports
-The Button and Link components from react-bootstrap have been removed from Main.jsx as they are not used in the component. This change improves the readability of the code and reduces the size of the bundle.</div>
+                                        <div class="sha">#4c155df</div>
+                                        <div class="message">Update CNAME</div>
                                     </div>
                                 </div>
                             </section>
@@ -232,45 +102,15 @@ The Button and Link components from react-bootstrap have been removed from Main.
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/personal-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#80d0ffc</div>
-                                        <div class="message">🚀 chore(client): add new dependencies to package.json
-🎨 style(SideNav.jsx): change 'Lead' to 'Leads' in SidebarNav component
-🎨 style(EditUserProfile.jsx): add tooltip to Update Profile Picture button
-🎨 style(LeadDetails.jsx): change div to a div with class 'd-flex'
-🎨 style(UserProfile.jsx): add tooltip to Edit Profile button
-The changes made in this commit are purely cosmetic. New dependencies were added to the package.json file to support the application's UI. The changes to the components were made to improve the user experience and make the UI more consistent. The changes include changing 'Lead' to 'Leads' in the SidebarNav component, adding a tooltip to the Update Profile Picture button in the EditUserProfile component, changing a div to a div with class 'd-flex' in the LeadDetails component, and adding a tooltip to the Edit Profile button in the UserProfile component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e25adda</div>
-                                        <div class="message">🎨 style(PhotoTile.jsx): add fluid prop to Container component
-🎨 style(SideNav.jsx): add style to btn-group-vertical
-🎨 style(EditUserProfile.jsx): add fluid prop to Container component
-🎨 style(EmailSent.jsx): add fluid prop to Container component
-🎨 style(LeadDetails.jsx): add Container and SidebarNav components
-🎨 style(Leads.jsx): add fluid prop to Container component
-🎨 style(Password.jsx): add fluid prop to Container component
-🎨 style(UserProfile.jsx): add fluid prop to Container component and FontAwesomeIcon to Reset Password button
-The changes made in this commit are purely cosmetic, adding the fluid prop to the Container component in several files to make the layout more responsive. Additionally, the SideNav component now has a style attribute to set the width of the button group, and the Reset Password button in the UserProfile view now has a FontAwesomeIcon.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d37cb4c</div>
-                                        <div class="message">🎨 style(LeadDetails.jsx): refactor Timeline component to use Stack and ul/li elements
-🚀 perf(LeadDetails.jsx): improve Timeline component performance
-The Timeline component has been refactored to use the Stack and ul/li elements, which improves the readability of the code and makes it easier to maintain. The performance of the Timeline component has also been improved by removing the react-chrono dependency and replacing it with a simple ul/li list.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0531c5e</div>
-                                        <div class="message">🎨 style(SideNav.jsx): add spacing between icon and text
-🆕 feat(EmailSent.jsx): add EmailSent component
-🔨 refactor(Main.jsx): replace reset route with EmailSent component
-The spacing between the icon and text in the SideNav component was improved for better readability. The EmailSent component was added to display a message to the user after a password reset email has been sent. The reset route in the Main component was replaced with the EmailSent component for better code organization.</div>
+                                        <div class="sha">#5f97879</div>
+                                        <div class="message">Create CNAME</div>
                                     </div>
                                 </div>
                             </section>
