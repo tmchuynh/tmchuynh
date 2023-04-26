@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="629" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,33 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6c5836a</div>
+                                        <div class="message">🎨 style(CopyBtn.jsx, SideNav.jsx, LeadDetails.jsx): fix formatting and naming conventions
+The changes in CopyBtn.jsx, SideNav.jsx, and LeadDetails.jsx are purely cosmetic. The changes include fixing the formatting of the code and updating the naming conventions to follow the camelCase naming convention. The class attribute in the Button component was changed to className to follow the React naming convention. The CopyButton component was renamed to Copy to better reflect its purpose.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3ded71</div>
+                                        <div class="message">🐛 fix(Table.jsx): fix endIndex calculation in renderData function
+✨ feat(Main.jsx): add more leads to the leads array
+The endIndex calculation in the renderData function was incorrect, causing an extra row to be displayed. This has been fixed by adding 1 to the endIndex calculation. More leads have been added to the leads array to provide more data for the table.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -182,32 +209,6 @@ The code in LeadDetails.jsx was removed as it was unnecessary and not being used
                                     <div class="commit">
                                         <div class="sha">#48e3c27</div>
                                         <div class="message">Merge branch 'lead-details' into Front-End</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#96c8616</div>
-                                        <div class="message">🎨 style(SpeedDial.jsx): rename actions prop to buttons
-The actions prop has been renamed to buttons to better reflect the purpose of the prop. This change improves the readability of the code and makes it easier to understand the purpose of the prop.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ee782e</div>
-                                        <div class="message">🎨 style(LeadDetails.jsx, Leads.jsx): remove unused imports and rearrange code
-The unused imports of `CopyButton`, `SidebarNav`, `faCircleCheck`, `faCircleXmark`, `LeadForm`, and `FontAwesomeIcon` were removed. The code was rearranged to improve readability and maintainability.</div>
                                     </div>
                                 </div>
                             </section>
