@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,15 +22,100 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 16 commits in
                                         <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f1fbd8d</div>
+                                        <div class="message">Merge pull request #6 from tmchuynh/Front-End
+
+Front end</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72466ed</div>
+                                        <div class="message">🎨 style(LeadDetails.jsx): remove unnecessary code
+🎨 style(Leads.jsx): remove unused imports and update leadsData state
+The code in LeadDetails.jsx was removed as it was unnecessary and not being used. In Leads.jsx, unused imports were removed and the leadsData state was updated to include sample data instead of being passed as a prop.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48e3c27</div>
+                                        <div class="message">Merge branch 'lead-details' into Front-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3a8502</div>
+                                        <div class="message">🎨 style(SpeedDial.jsx): add missing newline at end of file
+🚀 feat(LeadDetails.jsx): add LeadDetails component with lead details and timeline
+🚀 feat(Main.jsx): add leads array and pass it to Leads and LeadDetails components
+The SpeedDial.jsx file was modified to add a newline at the end of the file. The LeadDetails.jsx component was created to display lead details and timeline. The Main.jsx file was modified to add a leads array and pass it to the Leads and LeadDetails components.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96c8616</div>
+                                        <div class="message">🎨 style(SpeedDial.jsx): rename actions prop to buttons
+The actions prop has been renamed to buttons to better reflect the purpose of the prop. This change improves the readability of the code and makes it easier to understand the purpose of the prop.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ee782e</div>
+                                        <div class="message">🎨 style(LeadDetails.jsx, Leads.jsx): remove unused imports and rearrange code
+The unused imports of `CopyButton`, `SidebarNav`, `faCircleCheck`, `faCircleXmark`, `LeadForm`, and `FontAwesomeIcon` were removed. The code was rearranged to improve readability and maintainability.</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#b862460</div>
                                         <div class="message">Merge branch 'Front-End' of https://github.com/tmchuynh/Real-Estate-CRM into Front-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71e6392</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/Front-End' into Front-End</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b392667</div>
+                                        <div class="message">🔥 refactor(LeadForm.jsx): remove unused code
+💄 style(Table.jsx): remove unused state variable
+The code in LeadForm.jsx had two unused variables, defaultProps and flatProps, which were removed to improve code readability. In Table.jsx, the state variable detail was unused and was removed to improve code cleanliness.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b092fa</div>
+                                        <div class="message">🚀 chore(client): add MUI icons and SpeedDial component
+The MUI icons "@mui/icons-material" were added to the client's package.json file. A new SpeedDial component was created in the client/src/components directory. The SpeedDial component is used in the LeadDetails view to display a floating action button with four actions: Copy, Save, Print, and Share.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa9e776</div>
+                                        <div class="message">🎨 style(LeadForm.jsx): import TextField and Autocomplete from @mui/material
+The import statements for TextField and Autocomplete have been updated to import them from the @mui/material package. This improves consistency with the rest of the codebase and makes it easier to identify where these components are coming from.
+
+🚨 fix(LeadDetails.jsx): change 'Marketing Area' to 'Market Area'
+The text 'Marketing Area' has been changed to 'Market Area' to improve consistency with the naming conventions used throughout the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea638db</div>
+                                        <div class="message">🎨 style(CopyBtn.jsx): add tooltip and change clipboard icon
+🎨 style(LeadDetails.jsx): add lead details and change status and buying/selling icons
+🎨 style(Main.jsx): pass index prop to LeadDetails component
+The clipboard icon has been changed to a solid icon and a tooltip has been added to the CopyButton component. The LeadDetails component has been updated to display the lead details and use different icons for the status and buying/selling properties. The Main component has been updated to pass the index prop to the LeadDetails component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d8129</div>
+                                        <div class="message">🔀 merge(Leads.jsx, Main.jsx): add leads data as props to Leads component
+The Leads component now receives leads data as props from the Main component. This improves the flexibility of the Leads component as it can now receive data from any parent component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a4a48f</div>
+                                        <div class="message">🔍 chore(Table.jsx): add detail state to handle lead details
+🐛 fix(Table.jsx): pass correct lead id to navigate function
+🎨 style(LeadDetails.jsx): comment out unused code and add index display
+The detail state is added to handle the lead details. The handleDetailsClick function is fixed to pass the correct lead id to the navigate function. The commented out code in LeadDetails.jsx is removed and the index is displayed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdc1b11</div>
+                                        <div class="message">🎨 style(EmailSent.jsx): remove unnecessary curly braces from Nav.Link href
+The curly braces around the href attribute of Nav.Link were unnecessary and have been removed to improve code readability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bc4519</div>
+                                        <div class="message">🔧 chore(lead.controller.js, user.controller.js, lead.model.js, user.model.js, lead.routes.js, user.routes.js): convert require statements to import statements
+This commit replaces the require statements with import statements in the lead.controller.js, user.controller.js, lead.model.js, user.model.js, lead.routes.js, and user.routes.js files. This improves the code readability and consistency with modern JavaScript syntax.</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +128,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/personal-website</span>
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9c954d</div>
-                                        <div class="message">Update CNAME</div>
+                                        <div class="sha">#72466ed</div>
+                                        <div class="message">🎨 style(LeadDetails.jsx): remove unnecessary code
+🎨 style(Leads.jsx): remove unused imports and update leadsData state
+The code in LeadDetails.jsx was removed as it was unnecessary and not being used. In Leads.jsx, unused imports were removed and the leadsData state was updated to include sample data instead of being passed as a prop.</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +150,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/personal-website</span>
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42219ba</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/tmchuynh/personal-website</div>
+                                        <div class="sha">#48e3c27</div>
+                                        <div class="message">Merge branch 'lead-details' into Front-End</div>
                                     </div>
                                 </div>
                             </section>
@@ -82,15 +169,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/personal-website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4c155df</div>
-                                        <div class="message">Update CNAME</div>
+                                        <div class="sha">#96c8616</div>
+                                        <div class="message">🎨 style(SpeedDial.jsx): rename actions prop to buttons
+The actions prop has been renamed to buttons to better reflect the purpose of the prop. This change improves the readability of the code and makes it easier to understand the purpose of the prop.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ee782e</div>
+                                        <div class="message">🎨 style(LeadDetails.jsx, Leads.jsx): remove unused imports and rearrange code
+The unused imports of `CopyButton`, `SidebarNav`, `faCircleCheck`, `faCircleXmark`, `LeadForm`, and `FontAwesomeIcon` were removed. The code was rearranged to improve readability and maintainability.</div>
                                     </div>
                                 </div>
                             </section>
@@ -102,15 +195,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/personal-website</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f97879</div>
-                                        <div class="message">Create CNAME</div>
+                                        <div class="sha">#b862460</div>
+                                        <div class="message">Merge branch 'Front-End' of https://github.com/tmchuynh/Real-Estate-CRM into Front-End</div>
                                     </div>
                                 </div>
                             </section>
