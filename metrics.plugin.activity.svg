@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="684" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,12 +29,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a56442</div>
-                                        <div class="message">🎨 style(SideNav.jsx): update icons for My Activity, Schedule, and My Listings buttons
-The icons for the My Activity, Schedule, and My Listings buttons have been updated to better reflect their respective functions. The My Activity button now uses the faChartLine icon, the Schedule button now uses the faCalendarWeek icon, and the My Listings button now uses the faHouse icon.
+                                        <div class="sha">#bcad126</div>
+                                        <div class="message">🎨 style(SideNav.jsx, Table.jsx): rename btn class to button
+The btn class has been renamed to button to improve consistency with the naming conventions used in the project.
 
-🎨 style(Activity.jsx): add margin to Stack component
-A margin of 3 has been added to the Stack component in the Activity view to improve the layout and spacing of the page.</div>
+The changes were made in the following files:
+- client/src/Style.modules.css/Main.module.css
+- client/src/components/SideNav.jsx
+- client/src/components/Table.jsx</div>
                                     </div>
                                 </div>
                             </section>
@@ -53,9 +55,12 @@ A margin of 3 has been added to the Stack component in the Activity view to impr
                                 <div class="details">
                                     <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bc821d8</div>
-                                        <div class="message">🎉 feat(images): add new client look image
-A new image has been added to the client's images folder. The image is named 1200x700_Clientlook.jpg and is used to showcase the client's new look.</div>
+                                        <div class="sha">#6fc6dc4</div>
+                                        <div class="message">🎨 style(Main.module.css): add styles for table and sidebar
+This commit adds styles for the table and sidebar components. The table component now has a custom select element and action buttons with margin and padding. The sidebar component now has a gradient background and a centered logo.
+
+🐛 fix(Table.jsx): fix table row slicing
+This commit fixes a bug in the table component where the last row was not being displayed due to an incorrect slicing of the table data.</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,12 +72,83 @@ A new image has been added to the client's images folder. The image is named 120
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
+                                        Pushed 25 commits in
                                         <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26a0aac</div>
+                                        <div class="message">🎨 style(Activity.jsx): update image URLs in slides
+The image URLs in the slides have been updated to use a different domain. This was done to ensure that the images are still accessible and to avoid any potential issues with the previous domain.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#274bc07</div>
+                                        <div class="message">🎨 style(DynamicBarChart.jsx): refactor chartData object to improve readability
+🎨 style(DynamicBarChart.jsx): refactor chartOptions object to improve readability
+🚀 perf(Activity.jsx): update DynamicBarChart component props to include multiple datasets
+The chartData and chartOptions objects have been refactored to improve readability. The chartData object now uses destructuring to extract the labels and datasets properties from the data object. The datasets property is then mapped to create an array of objects with the required properties for the chart. The chartOptions object now includes a legend with custom styling.
+
+The DynamicBarChart component props have been updated to include multiple datasets. This allows for the display of multiple bars on the chart, each with their own label and color.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b259e5</div>
+                                        <div class="message">🚀 chore(client): update dependencies in package.json
+The dependencies "@mui/material" and "mongoose" were updated to their latest versions. Additionally, the "react-photo-gallery" package was added as a new dependency.
+
+🎨 style(client): add PhotoTile.module.css
+A new CSS module file was added to the client/src/Style.modules.css directory. It contains styles for the PhotoTile component.
+
+🎨 style(client): remove PhotoTile.jsx
+The PhotoTile component was removed from the project, and its corresponding file was deleted.
+
+🎨 style(client): add Figure.jsx
+A new component, Figure, was added to the project. It renders an image with a fixed width and height.
+
+🎨 style(client): add Gallery.jsx
+A new component, Gallery, was added to the project. It renders a grid of images.
+
+🎨 style(client): update Table.jsx
+The DynamicTable component was updated to pass a handleDetailsClick function
+
+🔨 refactor(LeadDetails.jsx, Leads.jsx, Listings.jsx): rename Copy component to CopyButton and add handleDetailsClick function
+The Copy component has been renamed to CopyButton to better reflect its purpose. Additionally, a handleDetailsClick function has been added to the Leads and Listings components to handle the click event when a user wants to view the details of a lead or listing. This function logs the ID of the selected item and navigates to the corresponding details page.
+
+🎉 feat(ListingsDetails.jsx): add ListingDetails component
+✨ feat(Main.jsx): add Listings and ListingDetails routes
+The ListingDetails component is added to display the details of a house listing. The component includes a modal that displays a carousel of images. The Main component now includes the Listings and ListingDetails routes. The Listings route displays a table of house listings, and the ListingDetails route displays the details of a specific house listing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#735b259</div>
+                                        <div class="message">🎨 chore(client): update package.json with new dependencies
+The following dependencies were added to the client's package.json file: chart.js, chartjs-adapter-date-fns, and react-chartjs-2. These dependencies are required for the new DynamicBarChart component that was added to the Activity view.
+
+🚀 feat(client): add DynamicBarChart component to Activity view
+The DynamicBarChart component was added to the Activity view, which displays a bar chart of sales per month. The chart is populated with dummy data for now. The component uses the chart.js library and its adapter for date-fns. The chart is displayed above the DynamicCarousel component.
+
+🗑️ chore(client): remove unused SalesActivity component
+The SalesActivity component was removed from the client's codebase as it was no longer being used.
+
+🚚 chore(client): move Scheduling component to views folder
+The Scheduling component was moved from the components folder to the views folder
+
+✨ feat(Scheduling.jsx): add Scheduling component
+The Scheduling component is added to the application. It contains a form to add events, a calendar to display events, and a timeline to show scheduled events. The component uses React Bootstrap for styling and moment.js for date formatting. The component uses state to manage events and passes the events to the calendar and timeline components.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a56442</div>
+                                        <div class="message">🎨 style(SideNav.jsx): update icons for My Activity, Schedule, and My Listings buttons
+The icons for the My Activity, Schedule, and My Listings buttons have been updated to better reflect their respective functions. The My Activity button now uses the faChartLine icon, the Schedule button now uses the faCalendarWeek icon, and the My Listings button now uses the faHouse icon.
+
+🎨 style(Activity.jsx): add margin to Stack component
+A margin of 3 has been added to the Stack component in the Activity view to improve the layout and spacing of the page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc821d8</div>
+                                        <div class="message">🎉 feat(images): add new client look image
+A new image has been added to the client's images folder. The image is named 1200x700_Clientlook.jpg and is used to showcase the client's new look.</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#0e9d1d2</div>
                                         <div class="message">🎨 style(DynamicCarousel.jsx): remove unused imports and update Carousel props
@@ -150,22 +226,6 @@ The profile picture is now displayed as a rounded circle using the `Image` compo
 ✨ feat(TimelineItem.jsx): create TimelineItem component
 The Timeline component was created to display a list of events in chronological order. The TimelineForm component was created to allow users to add events to the Timeline. The TimelineItem component was created to display individual events in the Timeline. The Timeline.module.css file was created to add styles to the Timeline component.</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
                                         <div class="sha">#6c5836a</div>
                                         <div class="message">🎨 style(CopyBtn.jsx, SideNav.jsx, LeadDetails.jsx): fix formatting and naming conventions
@@ -176,6 +236,14 @@ The changes in CopyBtn.jsx, SideNav.jsx, and LeadDetails.jsx are purely cosmetic
                                         <div class="message">🐛 fix(Table.jsx): fix endIndex calculation in renderData function
 ✨ feat(Main.jsx): add more leads to the leads array
 The endIndex calculation in the renderData function was incorrect, causing an extra row to be displayed. This has been fixed by adding 1 to the endIndex calculation. More leads have been added to the leads array to provide more data for the table.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe905fa</div>
+                                        <div class="message">🎨 style(LeadForm.jsx): replace checkbox with Autocomplete and add MultiSelect for market area
+🔥 chore(SpeedDial.jsx): remove unused component
+🔨 refactor(EditUserProfile.jsx): remove password field
+🔨 refactor(Leads.jsx): pass leads as props and remove hardcoded data
+The changes in LeadForm.jsx improve the user experience by replacing the checkbox with an Autocomplete component. The market area field now uses a MultiSelect component, which allows for multiple selections. The SpeedDial component was removed as it was not being used. The password field was removed from EditUserProfile.jsx as it is not being edited. The Leads component now receives the leads data as props instead of using hardcoded data.</div>
                                     </div>
                                 </div>
                             </section>
@@ -194,12 +262,40 @@ The endIndex calculation in the renderData function was incorrect, causing an ex
                                 <div class="details">
                                     <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fe905fa</div>
-                                        <div class="message">🎨 style(LeadForm.jsx): replace checkbox with Autocomplete and add MultiSelect for market area
-🔥 chore(SpeedDial.jsx): remove unused component
-🔨 refactor(EditUserProfile.jsx): remove password field
-🔨 refactor(Leads.jsx): pass leads as props and remove hardcoded data
-The changes in LeadForm.jsx improve the user experience by replacing the checkbox with an Autocomplete component. The market area field now uses a MultiSelect component, which allows for multiple selections. The SpeedDial component was removed as it was not being used. The password field was removed from EditUserProfile.jsx as it is not being edited. The Leads component now receives the leads data as props instead of using hardcoded data.</div>
+                                        <div class="sha">#1e2637c</div>
+                                        <div class="message">Delete server directory</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#11e4a3b</div>
+                                        <div class="message">🎨 style(client): reorganize SideNav buttons
+✨ feat(client): add Scheduling component
+🐛 fix(client): add missing import in DynamicCarousel component
+The SideNav buttons are now organized in a more logical order. The Scheduling component has been added to allow users to schedule events. The DynamicCarousel component has been fixed to include the missing import for the DynamicPagination component.
+
+🎨 style(Activity.jsx): reorganize imports and remove unused imports
+✨ feat(Activity.jsx): add Scheduling component to Activity view
+🐛 fix(Activity.jsx): fix currentSlides state initialization
+🐛 fix(Activity.jsx): fix handlePageChange parameter name
+🐛 fix(Activity.jsx): fix currentSlides calculation in useEffect
+🐛 fix(Activity.jsx): remove DynamicPagination component
+🎨 style(Main.jsx): reorganize imports and remove unused imports
+The imports in Activity.jsx and Main.jsx have been reorganized to improve readability and remove unused imports. The Scheduling component has been added to the Activity view. The currentSlides state initialization has been fixed to an empty array. The handlePageChange parameter name has been fixed to match the function signature. The currentSlides calculation in the useEffect hook has been fixed to use the correct variables. The DynamicPagination component has been removed from the Activity view.</div>
                                     </div>
                                 </div>
                             </section>
