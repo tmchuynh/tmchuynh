@@ -29,6 +29,30 @@
                                 <div class="details">
                                     <div>on branch <span class="code">Front-End</span></div>
                                     <div class="commit">
+                                        <div class="sha">#789595e</div>
+                                        <div class="message">🎨 style: add new CSS files and update existing ones
+This commit adds new CSS files for the SideBar and Table components and updates the existing Leads, SideNav, EditUserProfile, Listings, and ListingsDetails components to use the new CSS files. The changes include adding new styles for buttons, margins, and background gradients, as well as updating the profile picture size and adding a delete button to the table component. The modal titles for creating a new lead and a new listing have also been updated.
+
+🎨 style(UserProfile.jsx): add custom profile picture style
+The profile picture now has a custom style applied to it. The style is defined in the Leads.module.css file and is imported into the UserProfile.jsx file. The style is applied to the profile picture using the className attribute.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
                                         <div class="sha">#24c7f4f</div>
                                         <div class="message">🔧 chore(client): update react-scripts to version ^5.0.1
 🚀 feat(client): add TimelineForm component to LeadDetails view
@@ -340,27 +364,6 @@ The variables `isBuying`, `isSelling`, and `bedroom` were changed to `buying`, `
 
 🎨 style(Main.jsx): update houseListings object keys to camelCase
 The keys in the houseListings object have been updated to use camelCase instead of PascalCase to improve consistency with the naming conventions used in the application.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cb3d900</div>
-                                        <div class="message">🎨 style(ListingsDetails.jsx): change variable names to camelCase
-The variable names in the ListingDetails component have been changed to camelCase to improve consistency with the naming conventions in the codebase. The changes include index[0] to index.address, index[1] to index.listingPrice, index[2] to index.bedroom, index[3] to index.bathrooms, index[4] to index.squareFeet, and index[5] to index.status. The CopyButton component has also been updated to use the correct props.</div>
                                     </div>
                                 </div>
                             </section>
