@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1004" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="364" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,80 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#82f4d21</div>
+                                        <div class="message">🔨 refactor(Timeline.js, TimelineForm.jsx): convert class component to functional component with useState hook
+✨ feat(TimelineForm.jsx): add edit functionality to TimelineItem component
+The Timeline.js and TimelineForm.jsx files have been refactored to use functional components with the useState hook instead of class components. The TimelineItem component in TimelineForm.jsx has been updated to include an onEdit prop that allows the user to edit an event. When an event is edited, the form is populated with the event's details and the form is shown.
+
+🚀 feat(TimelineItem.jsx): add edit button to TimelineItem component
+🚀 feat(Activity.jsx): replace DynamicCarousel with Scheduling component
+The TimelineItem component now has an edit button that is displayed when the onEdit prop is passed. This allows the user to edit the event name and detail. The Activity component now uses the Scheduling component instead of the DynamicCarousel component. This improves the user experience by providing a more intuitive interface for scheduling events.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a0047ea</div>
+                                        <div class="message">🐛 fix(DynamicCarousel.jsx): fix currentSlides state initialization
+✨ feat(DynamicCarousel.jsx): add setActiveIndex and setCurrentSlides to handlePageChange
+The currentSlides state was not being initialized correctly, causing the carousel to display the wrong slides. The initialization has been fixed to slice the first itemsPerPage slides from the slides array. The handlePageChange function has been updated to set the activeIndex state based on the new page and to update the currentSlides state with the new slides to be displayed.
+
+🎨 style(Activity.jsx): pass individual slide properties to ListingCard
+The ListingCard component now receives individual slide properties instead of the entire slide object. This improves readability and makes it easier to see which properties are being used.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Front-End</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#daeef21</div>
+                                        <div class="message">🎨 style(Activity.jsx): remove unused import and reformat code
+🚀 perf(Activity.jsx): optimize rendering of ListingCard components
+🔥 chore(Activity.jsx): remove unused variables and functions
+The unused import of `styles` was removed and the code was reformatted for better readability. The rendering of `ListingCard` components was optimized by creating a `createCards` function that maps over the `slides` array and returns an array of `ListingCard` components. Unused variables and functions were removed to improve code cleanliness.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -57,313 +131,6 @@ The profile picture now has a custom style applied to it. The style is defined i
                                         <div class="message">🔧 chore(client): update react-scripts to version ^5.0.1
 🚀 feat(client): add TimelineForm component to LeadDetails view
 The update to react-scripts is a routine maintenance task to keep the project up to date. The addition of the TimelineForm component to the LeadDetails view allows users to add events to the timeline of a lead.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 34 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d205c7</div>
-                                        <div class="message">🎨 style(Table.jsx): refactor table body rendering and add icons for boolean values
-🎨 style(Table.jsx): refactor items per page select to use Form.Select
-🎨 style(Leads.jsx): add comment to handleDetailsClick function
-🎨 style(Main.jsx): remove Bob Johnson from leads array
-The table body rendering has been refactored to use Object.keys instead of map. This allows for the rendering of icons for boolean values. The items per page select has been refactored to use Form.Select instead of Form.Control. A comment has been added to the handleDetailsClick function in Leads.jsx. Bob Johnson has been removed from the leads array in Main.jsx.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cd9321</div>
-                                        <div class="message">Merge branch 'Front-End' of https://github.com/tmchuynh/Real-Estate-CRM into Front-End</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ca9f7c</div>
-                                        <div class="message">🚀 chore(client): add Mantine UI library
-Mantine UI library has been added to the client's package.json file. This library will be used to improve the user interface of the application.
-
-🐛 fix(client): remove console.log statement
-A console.log statement has been removed from the DynamicTable component's code. This statement was used for debugging purposes and is no longer needed.
-
-🐛 fix(client): fix formatting issue in Leads.jsx
-A formatting issue has been fixed in the validations array in the Leads.jsx file. The array was not properly formatted, causing an error.
-
-🐛 fix(client): fix formatting issue in Main.jsx
-A formatting issue has been fixed in the houseListings array in the Main.jsx file. The array was not properly formatted, causing an error.
-
-🚀 chore(client): add gray.todo file
-A gray.todo file has been added to the client's views directory. This file will be used to keep track of</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c00f5a</div>
-                                        <div class="message">🔨 refactor(Table.jsx): refactor table rendering and sorting logic
-This commit refactors the table rendering and sorting logic to improve performance and readability. The table header is now generated dynamically based on the data, and the table body is rendered using a useMemo hook to improve performance. Sorting is now done using a localeCompare function for string values and a simple subtraction for numeric values. The cellErrors state is now initialized as an empty array instead of null to avoid errors.
-
-🔨 refactor(Main.jsx): reformat leads and houseListings data
-The leads and houseListings data were reformatted to use objects instead of arrays of strings. This makes the data more readable and easier to work with.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#888cff3</div>
-                                        <div class="message">📦 chore(client): add @mantine/core dependency
-The @mantine/core dependency has been added to the client's package.json file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1557151</div>
-                                        <div class="message">🔥 chore(client): remove react-photo-gallery dependency
-The react-photo-gallery dependency was removed from the client's package.json file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ea3b63</div>
-                                        <div class="message">🐛 fix(client): add newline at end of package.json
-🎨 style(client): add white space to pre-wrap in Table.jsx
-🚀 chore(client): import React before useState in Leads.jsx
-The first change adds a newline at the end of the package.json file, which is a convention to avoid issues with some tools. The second change adds white space to the pre-wrap property in Table.jsx, which improves the readability of the text. The third change is a minor refactoring that imports React before useState in Leads.jsx, which is a convention to improve the readability of the code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e10579a</div>
-                                        <div class="message">added pw hasing on User Update PUT route</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc5b61f</div>
-                                        <div class="message">🐛 fix(Table.jsx): fix tab keydown event
-The tab keydown event was causing the browser to switch focus to the next element on the page. This has been fixed by preventing the default action of the tab keydown event.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c53c70a</div>
-                                        <div class="message">🔨 refactor(Table.jsx): extract sorting functionality into separate function
-✨ feat(TimelineForm.jsx): add functionality to add events to timeline
-🔨 refactor(Activity.jsx): add comments to useEffect hook
-The `handleSortClick` and `sortData` functions have been extracted from the `DynamicTable` component to improve readability and maintainability. The `handleSortClick` function now only updates the state variables, while the `sortData` function performs the actual sorting of the table data.
-
-The `handleSubmit` function has been added to the `TimelineForm` component to handle the submission of a form by adding the form data to an array of events in the component's state. The `renderEvents` function has also been added to map through the array of events and return a `TimelineItem` component for each event.
-
-The `useEffect` hook in the `Activity` component has been commented to explain its purpose. It updates the `currentSlides</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8cb59d</div>
-                                        <div class="message">🔍 chore(Table.jsx): improve code readability and add cellErrors state
-This commit improves the readability of the code by adding some whitespace and splitting up the handleCellEdit function into smaller parts. It also adds a new state variable, cellErrors, which is used to display validation errors to the user when they enter an invalid value in a cell.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f685416</div>
-                                        <div class="message">🐛 fix(Table.jsx): add missing closing td tag
-✨ feat(Leads.jsx): add validations array to DynamicTable component
-The missing closing td tag in Table.jsx has been added. The validations array has been added to the DynamicTable component in Leads.jsx. This array contains validation functions for each column in the table. These functions ensure that the data entered by the user is valid and meets the required format.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fda0de1</div>
-                                        <div class="message">🐛 fix(Table.jsx): change handleCellKeyDown to move focus to next cell on Tab key press
-✨ feat(Table.jsx): improve cell editing experience by allowing users to navigate cells with the Tab key
-The handleCellKeyDown function has been updated to move focus to the next cell when the Tab key is pressed. This improves the user experience by allowing users to navigate cells with the Tab key instead of having to use the mouse.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a61ffe</div>
-                                        <div class="message">🐛 fix(Table.jsx): fix off-by-one error in renderData function
-✨ feat(Table.jsx): improve sorting algorithm
-🎨 style(Listings.jsx, ListingsDetails.jsx, Main.jsx): change button text
-The off-by-one error in the renderData function has been fixed by adding 1 to the rowIndex when accessing the sortedData array. The sorting algorithm has been improved by creating a copy of the tableData array using the spread operator instead of slicing it. The button text in Listings.jsx, ListingsDetails.jsx, and Main.jsx has been changed to improve clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d2f90a</div>
-                                        <div class="message">🎉 feat(Table.jsx): add sorting functionality to table headers
-🐛 fix(Table.jsx): fix table select styles
-Sorting functionality has been added to the table headers, allowing users to sort the table data by clicking on the header. The table select styles have been fixed to remove unnecessary styles.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcad126</div>
-                                        <div class="message">🎨 style(SideNav.jsx, Table.jsx): rename btn class to button
-The btn class has been renamed to button to improve consistency with the naming conventions used in the project.
-
-The changes were made in the following files:
-- client/src/Style.modules.css/Main.module.css
-- client/src/components/SideNav.jsx
-- client/src/components/Table.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fc6dc4</div>
-                                        <div class="message">🎨 style(Main.module.css): add styles for table and sidebar
-This commit adds styles for the table and sidebar components. The table component now has a custom select element and action buttons with margin and padding. The sidebar component now has a gradient background and a centered logo.
-
-🐛 fix(Table.jsx): fix table row slicing
-This commit fixes a bug in the table component where the last row was not being displayed due to an incorrect slicing of the table data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c5c438</div>
-                                        <div class="message">🔨 refactor(lead.controller.js, user.controller.js, lead.model.js): fix typos and update comments
-This commit fixes typos and updates comments in the lead.controller.js, user.controller.js, and lead.model.js files. The changes are purely cosmetic and do not affect the functionality of the code.
-
-📝 docs(lead.routes.js, user.routes.js, server.js): add lead routes and update user routes
-✨ feat(lead.routes.js): add routes for lead CRUD operations
-✨ feat(user.routes.js): update function name and add express import
-🐛 fix(server.js): uncomment lead routes and add missing import
-The lead.routes.js file adds routes for CRUD operations on leads. The user.routes.js file updates the function name and adds an import for express. The server.js file uncommented the lead routes and added the missing import for express.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#460bf9b</div>
-                                        <div class="message">Removed Client folder to avoid conflicts | Session, Bcrypt, Search Query added, along with a route to verify user is logged in | UserSchema finished &amp;&amp; Started LeadSchema</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d451a2b</div>
-                                        <div class="message">push to pull from desktop</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 112 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Back-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab72154</div>
-                                        <div class="message">🎨 style(Table.jsx): refactor table component to include items per page dropdown
-✨ feat(Table.jsx): add items per page dropdown to table component
-The table component has been refactored to include a dropdown that allows the user to select the number of items to display per page. This improves the user experience by allowing them to customize the table to their preference. The default number of items per page is now a constant named DEFAULT_ITEMS_PER_PAGE.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a39d415</div>
-                                        <div class="message">🎨 style(Table.jsx): refactor renderData function to improve readability
-✨ feat(Table.jsx): add pagination to table
-🚀 chore(Leads.jsx): add more data to leads table
-The renderData function has been refactored to improve readability by extracting the mapping of data to a separate function. Pagination has been added to the table to improve user experience when dealing with large amounts of data. The Leads table has been updated with more data to better simulate a real-world scenario.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65e9c29</div>
-                                        <div class="message">🎨 style(App.js): remove Retool component and replace with Main component
-🎨 style(Table.jsx): import Button component from react-bootstrap and replace button element
-✨ feat(Leads.jsx): add Leads view component
-🎨 style(Login.jsx): navigate to /leads instead of /lead_profile
-The Retool component is removed and replaced with the Main component to improve naming consistency. The button element in the Table component is replaced with the Button component from react-bootstrap to improve the styling of the application. The Leads view component is added to the application to allow users to view leads. The Login component is updated to navigate to /leads instead of /lead_profile to improve the user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3f9dd2</div>
-                                        <div class="message">📝 docs(create.todo): add chatbot and auth0 links
-Added links to chatbot and auth0 documentation to the create.todo file. This will help developers to quickly access the documentation and get started with integrating these services into the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#755a063</div>
-                                        <div class="message">🎉 feat(admin_dashboard): add screenshot of admin dashboard
-This commit adds a new screenshot of the admin dashboard to the client/images directory. The screenshot will be used in the documentation to showcase the features of the admin dashboard.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b2a128</div>
-                                        <div class="message">Merge pull request #4 from tmchuynh/Front-End
-
-Front end</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87993b0</div>
-                                        <div class="message">🚀 feat(client): add react-chatbot-kit dependency and delete row functionality to table
-The react-chatbot-kit dependency was added to the client's package.json file. The table component was updated to include a delete row functionality. The handleDeleteRow function removes a row from the table when the delete button is clicked.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82121e2</div>
-                                        <div class="message">🎉 feat(Pagination.jsx): add DynamicPagination component
-The DynamicPagination component is added to the project. It is a reusable component that can be used to paginate data. It takes in the following props: itemsPerPage, totalItems, currentPage, and onPageChange. The component calculates the total number of pages based on the total number of items and the items per page. It then renders the page numbers and handles the page change events. The component is exported as a default export.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfa81c4</div>
-                                        <div class="message">🎨 style(CopyBtn.jsx): import Button from react-bootstrap instead of using button tag
-🆕 feat(PhotoTile.jsx): add PhotoTile component
-The CopyBtn component now uses the Button component from react-bootstrap instead of using the button tag. This improves consistency with the rest of the application and allows for easier styling. The new PhotoTile component is added, which displays a main photo and additional small and medium photos in a grid layout. This component is useful for displaying multiple photos in a visually appealing way.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5855070</div>
-                                        <div class="message">🔨 refactor(Table.jsx): change input to contentEditable for table cells
-This commit changes the input element to contentEditable for table cells. It also refactors the handleCellChange function to handleCellEdit, which now updates the table data with the new value. Additionally, two new functions handleCellKeyDown and handleCellDoubleClick are added to handle editing of table cells.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3971a8e</div>
-                                        <div class="message">🎨 style(App.js): replace Main component with Retool component
-🆕 feat(CopyBtn.jsx): add CopyButton component
-🆕 feat(Retool.jsx): add Retool component
-🔨 refactor(Table.jsx): add state to handle cell changes
-The Main component is replaced with the Retool component, which is a more appropriate component for the application. The CopyButton component is added to allow users to copy text to the clipboard. The Retool component is added to display an iframe of the Retool application. The Table component is refactored to add state to handle cell changes. This allows users to edit the table cells and see the changes in real-time.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c12470a</div>
-                                        <div class="message">🔨 refactor(LeadPopUp.jsx): rename Modal component to CustomModal
-The Modal component was renamed to CustomModal to avoid naming conflicts with the imported Modal component from react-bootstrap.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52d9c4e</div>
-                                        <div class="message">🎨 style(Carousel.jsx): refactor Carousel component to use dynamic slides
-🎨 style(Table.jsx): add responsive prop to Table component
-The Carousel component has been refactored to use dynamic slides instead of hardcoded ones. This makes it more flexible and easier to maintain. The Table component has been updated to include the responsive prop, which makes the table more user-friendly on smaller screens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33448cc</div>
-                                        <div class="message">add lead modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68623e3</div>
-                                        <div class="message">Merge branch 'master' into Front-End</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e19904</div>
-                                        <div class="message">add notes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a072ca</div>
-                                        <div class="message">add searchbar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2bc4519</div>
-                                        <div class="message">🔧 chore(lead.controller.js, user.controller.js, lead.model.js, user.model.js, lead.routes.js, user.routes.js): convert require statements to import statements
-This commit replaces the require statements with import statements in the lead.controller.js, user.controller.js, lead.model.js, user.model.js, lead.routes.js, and user.routes.js files. This improves the code readability and consistency with modern JavaScript syntax.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc558ab</div>
-                                        <div class="message">🎨 style(EditLeadProfile.jsx, EditUserProfile.jsx, Main.jsx): add functionality to update profile picture
-✨ feat(EditLeadProfile.jsx, EditUserProfile.jsx): add ability to update profile picture
-The changes add the ability to update the profile picture of a user or lead. The user can now select a new profile picture by clicking the "Update Profile Picture" button and selecting a new image file. The new profile picture is then displayed in the profile picture container.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df174ec</div>
-                                        <div class="message">Merge pull request #3 from tmchuynh/Back-End
-
-🔧 chore(mongoose.config.js): import connect function from mongoose in…</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1dbad53</div>
-                                        <div class="message">🐛 fix(views): change variable names to match API response
-The variables `isBuying`, `isSelling`, and `bedroom` were changed to `buying`, `selling`, and `bedrooms` respectively to match the API response. This ensures consistency between the frontend and backend and prevents errors when accessing the data.
-
-🎨 style(Main.jsx): update houseListings object keys to camelCase
-The keys in the houseListings object have been updated to use camelCase instead of PascalCase to improve consistency with the naming conventions used in the application.</div>
                                     </div>
                                 </div>
                             </section>
