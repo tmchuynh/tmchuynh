@@ -22,6 +22,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#73849e7</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/tmchuynh/Real-Estate-CRM</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
@@ -111,29 +131,6 @@ The TodoList component is added to the project, which allows users to add and de
                                         <div class="sha">#417d3f1</div>
                                         <div class="message">🎨 style(SideBar.module.css): increase width of widthBtn and add text-align left to button
 The width of the widthBtn class has been increased by 1rem to 13rem to improve the layout of the sidebar. The text-align left property has been added to the button class to align the text to the left.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Front-End</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7ea057c</div>
-                                        <div class="message">🆕 feat(Documents.jsx): add Documents component
-🆕 feat(SideNav.jsx): add My Documents button to SideNav
-🆕 feat(Main.jsx): add Documents route to Main component
-The Documents component is added to the application, which allows users to upload and view documents. The My Documents button is added to the SideNav component, which provides easy access to the Documents component. The Documents route is added to the Main component, which allows users to navigate to the Documents component.</div>
                                     </div>
                                 </div>
                             </section>
