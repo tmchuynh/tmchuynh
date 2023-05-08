@@ -22,12 +22,25 @@
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
   </p>
+  
+  <hr>
+  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
+  <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
+  <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
+  <a href="https://drive.google.com/file/d/1uNFStrjjcdi1dvPCN3Ubs3p8XoaDCWJh/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"></a>
+  <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
+  </p>
+</div>
 
 <div align="right">
 
   &nbsp;
   
   <img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
+ 
+
 
   <p align="left">Technology is our future! One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. The focus of the newer generation will be the new innovations that constant pop-up these past years and will continuously to do so endlessly throughout time.
     <br>
@@ -39,22 +52,16 @@ and one’s value, not the value of material objects that surround. And with tha
 and every person to strive for greatness. And society will reap the glory of its fruits.</p>
 </div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
-  <a href="https://github.com/tmchuynh"><img src="https://img.shields.io/badge/-GitHub-red?style=flat&color=a1242c&logo=github&logoColor=E0E0E0"></a>
-  <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
-  <a href="http://tmchuynh.me/"><img src="https://img.shields.io/badge/-Website-white?style=flat&logo=visual-studio-code&amp;logoColor=a1242c&color=E0E0E0"></a>
-    
-  <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
-  <a href="https://drive.google.com/file/d/1uNFStrjjcdi1dvPCN3Ubs3p8XoaDCWJh/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"></a>
-  <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
-  </p>
-</div>
+
 
 
 <br>
 
-  <a href="https://app.daily.dev/tmchuynh"><img align=right src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="300" alt="Tina Huynh's Dev Card"/></a>
+  <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="400" alt="Tina Huynh's Dev Card"/></a>
+
+   <div id="header">
+  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
+ </div>
   
   
 ![isocalendar metric](/metrics.plugin.isocalendar.fullyear.svg)
@@ -72,4 +79,5 @@ and every person to strive for greatness. And society will reap the glory of its
 ![people](/metrics.plugin.people.svg)
 
 ![starts](/metrics.plugin.stars.svg)
+
 
