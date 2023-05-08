@@ -57,7 +57,7 @@ and every person to strive for greatness. And society will reap the glory of its
 
 <br>
 
-  <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="400" alt="Tina Huynh's Dev Card"/></a>
+  <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="350" alt="Tina Huynh's Dev Card"/></a>
 
    <div id="header">
   <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
