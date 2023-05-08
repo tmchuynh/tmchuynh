@@ -58,6 +58,8 @@ and every person to strive for greatness. And society will reap the glory of its
 <br>
 
   <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="325" alt="Tina Huynh's Dev Card"/></a>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmchuynh&theme=dark&hide_border=true&border_radius=4.6&card_width=476&stroke=EB001F&ring=EB0A02&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
 
    <div id="header">
   <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
@@ -67,17 +69,4 @@ and every person to strive for greatness. And society will reap the glory of its
 ![isocalendar metric](/metrics.plugin.isocalendar.fullyear.svg)
 
 ![Activity](/metrics.plugin.activity.svg)
-
-![devto](/metrics.plugin.devto.svg)
-
-![languages metric](/metrics.plugin.languages.svg)
-
-![Activity](/metrics.plugin.code.svg)
-
-![achievements](/metrics.plugin.habits.svg)
-
-![people](/metrics.plugin.people.svg)
-
-![starts](/metrics.plugin.stars.svg)
-
 
