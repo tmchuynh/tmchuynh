@@ -1,27 +1,111 @@
 <h1 align="center">Hello, My name is Tina</h1>
-<p align="left">Technology is our future. One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, screens will always be a part of our lives. And I want to be in the center of it all. The design and focus points of web, desktop, and mobile applications are constantly changing and it cannot get more exciting - to me anyways. My vision is for every physical and mental health application on all platforms to be not only easy-to-use but also fun to use. This will encourage communities and individuals to priortize their health by offering potentially easier access to resources right in the palm of their hand. And since one's physical and mental health affects all other areas of one's life, I know this focus point will make a difference one step at a time.</p>
 
-- 🔭 I’m currently working on [First Galaxy Inc.'s Website](https://github.com/t-mc-huynh/firstgalaxy)
+ <p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/-Flask-gray?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/-MySQL-212121?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Postman-FFF?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/-Express-22AE5A?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/-MUI-0A1929?style=for-the-badge&logo=mui"/>
+  <img src="https://img.shields.io/badge/-Sass-ED087D?style=for-the-badge&logo=sass"/>
+  <img src="https://img.shields.io/badge/-MongoDB-FFF?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+  </p>
+  
+  <hr>
+  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
+  <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=flat&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
+  <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
+  <a href="https://drive.google.com/file/d/1uNFStrjjcdi1dvPCN3Ubs3p8XoaDCWJh/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"></a>
+  <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **React and Typescript**
+<div align="right">
 
-- 👯 I’m planning to contribute to [Mycroft AI](https://mycroft.ai/contribute/)
+  &nbsp;
+  
+  <img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
+ 
 
-- 📫 How to reach me **tinamchuynh@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Creating a Professional Instagram Everyone will Follow](https://dev.to/tmchuynh/creating-a-professional-instagram-everyone-will-follow-286g)
-- [10 Library Genesis Alternatives](https://dev.to/tmchuynh/10-library-genesis-alternatives-3hob)
-- [Why Every Developer Should Write](https://dev.to/tmchuynh/why-every-developer-should-write-articles-47mb)
-- [20+ Free Tools &amp; Resources for Machine Learning](https://dev.to/tmchuynh/20-free-tools-resources-for-machine-learning-d9n)
-- [Getting Started with Machine Learning](https://dev.to/tmchuynh/getting-started-with-machine-learning-16p1)
-<!-- BLOG-POST-LIST:END -->
+  <p align="left">Technology is our future! One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. The focus of the newer generation will be the new innovations that constant pop-up these past years and will continuously to do so endlessly throughout time.
+    <br>
+    As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world. The "impossible" is becoming the new normal. We are only going to advance further and further as a society because together we are unstoppable.
+    <br>
+    A life filled with failures and successes, setbacks and victories, is a life of fulfillment and memories. A life
+worth living is a life enjoying every moment whether in pain or in fortune. Success is built within the mind
+and one’s value, not the value of material objects that surround. And with that, a fire burns inside each
+and every person to strive for greatness. And society will reap the glory of its fruits.</p>
+</div>
 
-<a href="https://app.daily.dev/tmchuynh"><img src="https://github.com/t-mc-huynh/t-mc-huynh/blob/b2fcf36cf7eeb7a3545ca8b808d42c0d5cc06620/devcard.svg" width="250" alt="Tina Huynh's Dev Card"/></a> 
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://dev.to/tmchuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tmchuynh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tina huynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tina huynh" height="30" width="40" /></a>
-</p>
+
+
+<br>
+
+  <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="325" alt="Tina Huynh's Dev Card"/></a>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmchuynh&theme=dark&hide_border=true&border_radius=4.6&card_width=476&stroke=EB001F&ring=EB0A02&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
+  
+
+   <div id="header">
+  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
+ </div>
+  
+  
+![isocalendar metric](/metrics.plugin.isocalendar.fullyear.svg)
+
+![Activity](/metrics.plugin.activity.svg)
+
+This is an open chess tournament where ANYONE can play. That's the fun part.  
+It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+**It's your turn to move! Choose one from the following table**
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+
+Having fun? Ask a friend to do the next move!
+
+#### How it works
+
+When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+
+Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
+
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+(Here goes the top 10 most moves)
+<!-- END TOP MOVES -->
+</details>
+
+---
+
+Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
