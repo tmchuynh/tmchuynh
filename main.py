@@ -86,7 +86,7 @@ def main(issue, issue_author, repo_owner):
         if os.path.exists('games/current.pgn') and issue_author != repo_owner:
             issue.create_comment(settings['comments']['invalid_new_game'].format(author=issue_author))
             issue.edit(state='closed')
-            return False, 'ERROR: A current game is in progress. Only the repo owner can start a new game'
+            return False, 'ERROR: A current game is in progress. Only the repo owner can start a new game when there is a game in progress'
 
         issue.create_comment(settings['comments']['successful_new_game'].format(author=issue_author))
         issue.edit(state='closed')
@@ -103,7 +103,7 @@ def main(issue, issue_author, repo_owner):
 
     elif action[0] == Action.MOVE:
         if not os.path.exists('games/current.pgn'):
-            return False, 'ERROR: There is no game in progress! Start a new game first'
+            return False, 'ERROR: There is no game in progress! Start a new game first ♟️'
 
         # Load game from "games/current.pgn"
         with open('games/current.pgn') as pgn_file:
@@ -180,7 +180,7 @@ def main(issue, issue_author, repo_owner):
             player_list = { re.match(pattern, line).group(1) for line in lines }
 
         if gameboard.result() == '1/2-1/2':
-            issue.add_to_labels('👑 Draw!')
+            issue.add_to_labels('🛠️ Draw!')
         else:
             issue.add_to_labels('👑 Winner!')
 

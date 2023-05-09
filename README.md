@@ -99,13 +99,13 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 | **E7** | [D8](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+D8) |
 <!-- END MOVES LIST -->
 
-Having fun? Ask a friend to do the next move!
+Having fun? Share this on Github, Twitter, Linkedin, etc and ask a friend to do the next move!
 
 #### How it works
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
+Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/tmchuynh/tmchuynh/issues) and I will try to fix it as soon as possible 😄
 
 
 <details>
@@ -139,7 +139,3 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 <!-- END TOP MOVES -->
 </details>
-
----
-
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!

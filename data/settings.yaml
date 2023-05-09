@@ -38,10 +38,10 @@ comments:
 issues:
   link: "https://github.com/{repo}/issues/new?{params}"
   move:
-    body: "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
+    body: "Please do not change the title. Just click \"Submit new issue\"."
     title: "Chess: Move {source} to {dest}"
   new_game:
-    body: "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
+    body: "Please do not change the title. Just click \"Submit new issue\"."
     title: "Chess: Start new game"
 
 markers:
@@ -63,6 +63,6 @@ markers:
 
 misc:
   # Maximum number of last moves displayed
-  max_last_moves: 5
+  max_last_moves: 10
   # Maximum number of top players displayed
   max_top_moves: 10
