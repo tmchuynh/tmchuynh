@@ -47,10 +47,3 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y stockfish
           echo STOCKFISH_PATH="$(which stockfish)" >> $GITHUB_ENV
-
-      - name: Run webhook
-        env:
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-        run: |
-          pip install -r requirements-webhook.txt
-          python webhook.py
