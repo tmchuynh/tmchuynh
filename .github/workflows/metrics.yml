@@ -33,7 +33,7 @@ jobs:
           plugin_posts_user: tmchuynh
           
       - name: 🏆 Achievements - Compact display
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -48,7 +48,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 📰 Recent activity - Recent activity
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -64,7 +64,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: ♐ Random code snippet
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -80,7 +80,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 💡 Coding habits and activity - Recent activity charts
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -96,7 +96,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 🙋 Introduction - Organization introduction
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -109,7 +109,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 📅 Isometric commit calendar - Full-year calendar
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -123,7 +123,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 🈷️ Languages activity - Most used
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -140,7 +140,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 🧑‍🤝‍🧑 People
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.people.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -154,7 +154,7 @@ jobs:
         if: ${{ success() || failure() }}
           
       - name: 🌟 Recently starred repositories - Recently starred
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
