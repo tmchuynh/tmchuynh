@@ -40,10 +40,3 @@ jobs:
           git add .
           git commit -m "${ISSUE_TITLE} by ${{ github.event.issue.user.login }}"
           git push
-
-
-      - name: Install stockfish
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y stockfish
-          echo STOCKFISH_PATH="$(which stockfish)" >> $GITHUB_ENV
