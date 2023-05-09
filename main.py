@@ -79,7 +79,7 @@ def main(issue, issue_author, repo_owner):
     action = parse_issue(issue.title)
     gameboard = chess.Board()
 
-    with open('https://github.com/tmchuynh/tmchuynh/blob/master/data/settings.yaml', 'r') as settings_file:
+    with open('data/settings.yaml', 'r') as settings_file:
         settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
     if action[0] == Action.NEW_GAME:

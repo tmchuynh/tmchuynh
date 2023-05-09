@@ -7,7 +7,7 @@ import ast
 import chess
 import yaml
 
-with open('https://github.com/tmchuynh/tmchuynh/blob/master/data/settings.yaml', 'r') as settings_file:
+with open('data/settings.yaml', 'r') as settings_file:
     settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
 
