@@ -20,7 +20,8 @@ def create_issue_link(source, dest_list):
         repo=os.environ["GITHUB_REPOSITORY"],
         params=urlencode(settings['issues']['move'], safe="{}"))
 
-    ret = [create_link(dest, issue_link.format(source=source, dest=dest)) for dest in sorted(dest_list)]
+    ret = [create_link(dest, issue_link.format(source=source, dest=dest))
+           for dest in sorted(dest_list)]
 
     return ", ".join(ret)
 
@@ -34,8 +35,9 @@ def generate_top_moves():
     markdown += "| :---------: | :----- |\n"
 
     max_entries = settings['misc']['max_top_moves']
-    for key,val in sorted(dictionary.items(), key=lambda x: x[1], reverse=True)[:max_entries]:
-        markdown += "| " + str(val) + " | " + create_link(key, "https://github.com/" + key[1:]) + " |\n"
+    for key, val in sorted(dictionary.items(), key=lambda x: x[1], reverse=True)[:max_entries]:
+        markdown += "| " + str(val) + " | " + create_link(key,
+                                                          "https://github.com/" + key[1:]) + " |\n"
 
     return markdown + "\n"
 
@@ -62,11 +64,14 @@ def generate_last_moves():
             match_obj = re.search('([A-H][1-8])([A-H][1-8])', line, re.I)
             if match_obj is not None:
                 source = match_obj.group(1).upper()
-                dest   = match_obj.group(2).upper()
+                dest = match_obj.group(2).upper()
 
-                markdown += "| `" + source + "` to `" + dest + "` | " + create_link(parts[1], "https://github.com/" + parts[1].lstrip()[1:]) + " |\n"
+                markdown += "| `" + source + "` to `" + dest + "` | " + \
+                    create_link(parts[1], "https://github.com/" +
+                                parts[1].lstrip()[1:]) + " |\n"
             else:
-                markdown += "| `" + parts[0] + "` | " + create_link(parts[1], "https://github.com/" + parts[1].lstrip()[1:]) + " |\n"
+                markdown += "| `" + parts[0] + "` | " + create_link(
+                    parts[1], "https://github.com/" + parts[1].lstrip()[1:]) + " |\n"
 
     return markdown + "\n"
 
@@ -77,7 +82,7 @@ def generate_moves_list(board):
 
     for move in list(board.legal_moves):
         source = chess.SQUARE_NAMES[move.from_square].upper()
-        dest   = chess.SQUARE_NAMES[move.to_square].upper()
+        dest = chess.SQUARE_NAMES[move.to_square].upper()
 
         moves_dict[source].add(dest)
 
@@ -97,14 +102,16 @@ def generate_moves_list(board):
     markdown += "|  FROM  | TO (Just click a link!) |\n"
     markdown += "| :----: | :---------------------- |\n"
 
-    for source,dest in sorted(moves_dict.items()):
-        markdown += "| **" + source + "** | " + create_issue_link(source, dest) + " |\n"
+    for source, dest in sorted(moves_dict.items()):
+        markdown += "| **" + source + "** | " + \
+            create_issue_link(source, dest) + " |\n"
 
     return markdown
 
 
 def board_to_markdown(board):
-    board_list = [[item for item in line.split(' ')] for line in str(board).split('\n')]
+    board_list = [[item for item in line.split(
+        ' ')] for line in str(board).split('\n')]
     markdown = ""
 
     images = {
@@ -133,7 +140,8 @@ def board_to_markdown(board):
     for row in range(1, 9):
         markdown += "| **" + str(9 - row) + "** | "
         for elem in board_list[row - 1]:
-            markdown += "<img src=\"{}\" width=50px> | ".format(images.get(elem, "???"))
+            markdown += "<img src=\"{}\" width=50px> | ".format(
+                images.get(elem, "???"))
 
         markdown += "**" + str(9 - row) + "** |\n"
 
