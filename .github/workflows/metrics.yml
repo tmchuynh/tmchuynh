@@ -10,12 +10,6 @@ on:
     secrets:
       METRICS_TOKEN:
         required: true
-  push:
-    branches:
-      - master
-  pull_request:
-    branches:
-      - master
 jobs:
   github-metrics:
     runs-on: ubuntu-22.04
