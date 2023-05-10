@@ -72,7 +72,7 @@ and every person to strive for greatness. And society will reap the glory of its
 ![Activity](/metrics.plugin.activity.svg)
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
-It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
+It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
@@ -82,8 +82,8 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 | **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.png" width=50px> | **6** |
 | **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
 | **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/queen.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **3** | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **2** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/king.png" width=50px> | <img src="img/blank.png" width=50px> | **2** |
+| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
+| **2** | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/king.png" width=50px> | <img src="img/blank.png" width=50px> | **2** |
 | **1** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **1** |
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
@@ -92,12 +92,8 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO (Just click a link!) |
 | :----: | :---------------------- |
-| **A3** | [A2](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+A3+to+A2) |
-| **D4** | [A1](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+A1), [A4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+A4), [A7](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+A7), [B2](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+B2), [B4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+B4), [B6](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+B6), [C3](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+C3), [C4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+C4), [C5](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+C5), [D1](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+D1), [D2](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+D2), [D3](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+D3), [D5](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+D5), [E3](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+E3), [E4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+E4), [E5](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+E5), [F2](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+F2), [F4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+F4), [F6](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+F6), [G1](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+G1), [G4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+G4), [G7](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+G7), [H4](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+H4), [H8](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D4+to+H8) |
-| **E7** | [E5](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+E7+to+E5), [E6](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+E7+to+E6) |
-| **F8** | [G7](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+F8+to+G7) |
-| **G8** | [F7](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G8+to+F7), [G7](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G8+to+G7), [H7](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G8+to+H7), [H8](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G8+to+H8) |
-| **H6** | [H5](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+H6+to+H5) |
+| **D5** | [D6](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+D5+to+D6) |
+| **G2** | [F1](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G2+to+F1), [F3](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G2+to+F3), [G3](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G2+to+G3), [H1](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G2+to+H1), [H2](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G2+to+H2), [H3](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+G2+to+H3) |
 <!-- END MOVES LIST -->
 
 Having fun? Share this on Github, Twitter, Linkedin, etc and ask a friend to do the next move!
@@ -115,6 +111,7 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 | Move | Author |
 | :--: | :----- |
+| `A3` to `A2` | [ @MGBoulware88](https://github.com/MGBoulware88) |
 | `F1` to `G2` | [ @tmchuynh](https://github.com/tmchuynh) |
 | `A4` to `A3` | [ @MGBoulware88](https://github.com/MGBoulware88) |
 | `E1` to `F1` | [ @tmchuynh](https://github.com/tmchuynh) |
@@ -124,7 +121,6 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | `E4` to `D5` | [ @tmchuynh](https://github.com/tmchuynh) |
 | `G2` to `G1` | [ @MGBoulware88](https://github.com/MGBoulware88) |
 | `E2` to `E4` | [ @tmchuynh](https://github.com/tmchuynh) |
-| `G7` to `H6` | [ @MGBoulware88](https://github.com/MGBoulware88) |
 
 <!-- END LAST MOVES -->
 </details>
@@ -136,7 +132,7 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | Total moves |  User  |
 | :---------: | :----- |
 | 59 | [@tmchuynh](https://github.com/tmchuynh) |
-| 56 | [@MGBoulware88](https://github.com/MGBoulware88) |
+| 57 | [@MGBoulware88](https://github.com/MGBoulware88) |
 | 3 | [@JeffGreenlee42](https://github.com/JeffGreenlee42) |
 | 2 | [@BenMcBride](https://github.com/BenMcBride) |
 | 1 | [@TheEpyonArchitect](https://github.com/TheEpyonArchitect) |
