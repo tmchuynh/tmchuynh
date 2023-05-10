@@ -59,6 +59,9 @@ and every person to strive for greatness. And society will reap the glory of its
 
   <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="325" alt="Tina Huynh's Dev Card"/></a>
   
+  <br>
+  <br>
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmchuynh&theme=dark&hide_border=true&border_radius=4.6&card_width=476&stroke=EB001F&ring=EB0A02&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
   
 
