@@ -107,7 +107,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 | **H7** | [H5](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/tmchuynh/tmchuynh/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.&title=Chess%3A+Move+H7+to+H6) |
 <!-- END MOVES LIST -->
 
-Having fun? [Ask a friend](https://twitter.com/share?text=I'm+playing+Chess+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/tmchuynh/tmchuynh+#github+#games) to make the next move!
+Having fun? [Ask a friend](https://twitter.com/share?text=I'm+playing+Chess+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/tmchuynh/tmchuynh+%23github+%23games) to make the next move!
 
 #### How it works
 
