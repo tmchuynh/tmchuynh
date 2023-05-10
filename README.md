@@ -109,6 +109,8 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 Having fun? [Ask a friend](https://twitter.com/share?text=I'm+playing+Chess+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/tmchuynh/tmchuynh+%23github+%23games) to make the next move!
 
+Do you want to make your own community chess game? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) to find the template!
+
 #### How it works
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
