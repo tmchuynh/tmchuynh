@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Marc Izquierdo
+
 import re
 import os
 import os.path
