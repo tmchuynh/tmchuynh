@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="495" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,114 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3275884</div>
+                                        <div class="message">update Header.jsx, Switch.jsx and TopCardList.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98813ac</div>
+                                        <div class="message">update App.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#21cab33</div>
+                                        <div class="message">update App.js, Header.jsx and TopCardList.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18d6a8f</div>
+                                        <div class="message">chore: rename instagram24.png to instagram.png</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f54f564</div>
+                                        <div class="message">feat: create switch.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e681c3</div>
+                                        <div class="message">feat: create header.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93d299e</div>
+                                        <div class="message">update 1 file and create 1 file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed48511</div>
+                                        <div class="message">feat: create TopCardList.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d45db12</div>
+                                        <div class="message">feat: create Switch.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed77e9e</div>
+                                        <div class="message">feat: create Header.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45bf341</div>
+                                        <div class="message">feat: create Overview.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72f8b05</div>
+                                        <div class="message">feat: create Card.jsx, SmallCard.jsx and card.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97228a1</div>
+                                        <div class="message">create 6 files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89672a2</div>
+                                        <div class="message">build(deps): update package-lock.json and package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80168b7</div>
+                                        <div class="message">update App.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -41,66 +149,6 @@
                                         Created new
                       repository
                                         <span class="repo">tmchuynh/social-dashboard</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/personal-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2bee87c</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/personal-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a517d5</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/tmchuynh/personal-website</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/travel_itinerary</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b8d08f7</div>
-                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
