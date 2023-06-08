@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="461" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,88 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/pride-flag</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#27991ce</div>
+                                        <div class="message">update flag.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3f1d2f</div>
+                                        <div class="message">update flag.jsx</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">tmchuynh/pride-flag</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d1fa1dc</div>
+                                        <div class="message">import { COLORS } from './colors';</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be1bffb</div>
+                                        <div class="message">const colors = COLORS[variant];</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fbb843</div>
+                                        <div class="message">background: generateGradientString(colors),
+                        animationDelay:
+                            firstColumnDelay + columnIndex * staggeredDelay + 'ms',</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6a8e8a</div>
+                                        <div class="message">generateGradientString</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17077c8</div>
+                                        <div class="message">update flag.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cff1ce</div>
+                                        <div class="message">build(deps): update package-lock.json and package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#543552d</div>
+                                        <div class="message">update App.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c00497e</div>
+                                        <div class="message">feat: create flag.module.css and flag.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ed8e31</div>
+                                        <div class="message">feat: create colors.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4160100</div>
+                                        <div class="message">update App.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -61,46 +143,6 @@
                                     <div class="commit">
                                         <div class="sha">#da032e1</div>
                                         <div class="message">Merge branch 'master' of https://github.com/tmchuynh/personal-website</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/personal-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#56d8b80</div>
-                                        <div class="message">update 2 files and delete 1 file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/personal-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#02052ea</div>
-                                        <div class="message">update about.html</div>
                                     </div>
                                 </div>
                             </section>
