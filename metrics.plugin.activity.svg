@@ -22,6 +22,94 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">tmchuynh/real_estate_mock</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ec814c</div>
+                                        <div class="message">update EnhancedTable.jsx, Form.jsx and SimpleDialog.jsx change to tour scheduled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2865b82</div>
+                                        <div class="message">update Form.jsx w placeholders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12a892c</div>
+                                        <div class="message">update EnhancedTable.jsx</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">tmchuynh/real_estate_mock</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f81c5bd</div>
+                                        <div class="message">update EnhancedTable.jsx, Form.jsx and Navbar.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b4874c</div>
+                                        <div class="message">update EnhancedTable.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab2fba3</div>
+                                        <div class="message">update Form.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1567889</div>
+                                        <div class="message">build(deps): update package-lock.json and package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c0110e</div>
+                                        <div class="message">update Navbar.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97f5694</div>
+                                        <div class="message">update Form.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#816a388</div>
+                                        <div class="message">update 1 file and create 1 file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#275d5dd</div>
+                                        <div class="message">feat: create Form.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be0c50a</div>
+                                        <div class="message">update EnhancedTable.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a80fc49</div>
+                                        <div class="message">update EnhancedTable.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ae9ed9</div>
+                                        <div class="message">update EnhancedTable.jsx</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">tmchuynh/real_estate_mock</span>
                                     </div>
@@ -103,94 +191,6 @@
                                     <div class="commit">
                                         <div class="sha">#8708c9d</div>
                                         <div class="message">update Navbar.jsx</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">tmchuynh/real_estate_mock</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fd9c160</div>
-                                        <div class="message">update 6 files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05351c7</div>
-                                        <div class="message">update EnhancedTable.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a246f2a</div>
-                                        <div class="message">feat: create SimpleDialog.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db58178</div>
-                                        <div class="message">update EnhancedTable.jsx and pages/property/index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2b664a</div>
-                                        <div class="message">update EnhancedTable.jsx and pages/property/index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89b3c3b</div>
-                                        <div class="message">update 1 file and create 1 file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b336f41</div>
-                                        <div class="message">chore: delete pages/[property]/index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9261e70</div>
-                                        <div class="message">update EnhancedTable.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e243188</div>
-                                        <div class="message">update CustomCard.jsx, EnhancedTable.jsx, Navbar.jsx and pages/index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e30e3b7</div>
-                                        <div class="message">update EnhancedTable.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5c69d6</div>
-                                        <div class="message">update 2 files and create 1 file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">tmchuynh/real_estate_mock</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0fdcf92</div>
-                                        <div class="message">update EnhancedTable.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f2bd9f</div>
-                                        <div class="message">update EnhancedTable.jsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c85047d</div>
-                                        <div class="message">update EnhancedTable.jsx</div>
                                     </div>
                                 </div>
                             </section>
