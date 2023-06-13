@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="595" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="878" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,94 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">tmchuynh/real_estate_mock</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c24bde1</div>
+                                        <div class="message">update DataGrid.jsx, next.config.js and properties.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cb7c2c</div>
+                                        <div class="message">update 1 file and create 1 file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb6de9a</div>
+                                        <div class="message">update properties.sql</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b068474</div>
+                                        <div class="message">feat: create properties.sql</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df0e89b</div>
+                                        <div class="message">update pages/index.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cd4d32</div>
+                                        <div class="message">update DataGrid.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8754866</div>
+                                        <div class="message">chore: delete EnhancedTable.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9b4409</div>
+                                        <div class="message">build(deps): update .gitignore, package-lock.json and package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6f9990</div>
+                                        <div class="message">update DataGrid.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8347b3</div>
+                                        <div class="message">update DataGrid.jsx and ProductService.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67f7bbf</div>
+                                        <div class="message">update DataGrid.jsx, EnhancedTable.jsx, ProductService.js and pages/index.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb6009c</div>
+                                        <div class="message">update EnhancedTable.jsx and pages/index.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9eec179</div>
+                                        <div class="message">update DataGrid.jsx add paginators</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a2834a</div>
+                                        <div class="message">update DataGrid.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e19041</div>
+                                        <div class="message">update DataGrid.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e98226f</div>
+                                        <div class="message">build(deps): create 1 file and update 2 files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6618f1a</div>
+                                        <div class="message">update EnhancedTable.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0ea535</div>
+                                        <div class="message">update pages/property/index.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -147,26 +235,6 @@
                                     <div class="commit">
                                         <div class="sha">#1ae9ed9</div>
                                         <div class="message">update EnhancedTable.jsx</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/real_estate_mock</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc4f23e</div>
-                                        <div class="message">update pages/property/index.js</div>
                                     </div>
                                 </div>
                             </section>
