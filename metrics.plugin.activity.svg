@@ -22,6 +22,83 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dc552ce</div>
+                                        <div class="message">Merge pull request #16 from tmchuynh/dependabot/npm_and_yarn/client/semver-6.3.1
+
+build(deps): bump semver from 6.3.0 to 6.3.1 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29ef70c</div>
+                                        <div class="message">build(deps): bump semver from 6.3.0 to 6.3.1 in /client
+
+Bumps [semver](https://github.com/npm/node-semver) from 6.3.0 to 6.3.1.
+- [Release notes](https://github.com/npm/node-semver/releases)
+- [Changelog](https://github.com/npm/node-semver/blob/v6.3.1/CHANGELOG.md)
+- [Commits](https://github.com/npm/node-semver/compare/v6.3.0...v6.3.1)
+
+---
+updated-dependencies:
+- dependency-name: semver
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3a1e6fd</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/word-wrap-1.2.4
+
+build(deps): bump word-wrap from 1.2.3 to 1.2.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#326756e</div>
+                                        <div class="message">build(deps): bump word-wrap from 1.2.3 to 1.2.4
+
+Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4.
+- [Release notes](https://github.com/jonschlinkert/word-wrap/releases)
+- [Commits](https://github.com/jonschlinkert/word-wrap/compare/1.2.3...1.2.4)
+
+---
+updated-dependencies:
+- dependency-name: word-wrap
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">tmchuynh/Python_Scripts</span>
                                     </div>
@@ -104,82 +181,6 @@ Bumps [semver](https://github.com/npm/node-semver) from 6.3.0 to 6.3.1.
 ---
 updated-dependencies:
 - dependency-name: semver
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/MERN-Deployment</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4281bcb</div>
-                                        <div class="message">Merge pull request #4 from tmchuynh/dependabot/npm_and_yarn/client/word-wrap-1.2.4
-
-Bump word-wrap from 1.2.3 to 1.2.4 in /client</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26c010a</div>
-                                        <div class="message">Bump word-wrap from 1.2.3 to 1.2.4 in /client
-
-Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4.
-- [Release notes](https://github.com/jonschlinkert/word-wrap/releases)
-- [Commits](https://github.com/jonschlinkert/word-wrap/compare/1.2.3...1.2.4)
-
----
-updated-dependencies:
-- dependency-name: word-wrap
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/travel_itinerary</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7d51a2</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/word-wrap-1.2.4
-
-Bump word-wrap from 1.2.3 to 1.2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dde59b8</div>
-                                        <div class="message">Bump word-wrap from 1.2.3 to 1.2.4
-
-Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4.
-- [Release notes](https://github.com/jonschlinkert/word-wrap/releases)
-- [Commits](https://github.com/jonschlinkert/word-wrap/compare/1.2.3...1.2.4)
-
----
-updated-dependencies:
-- dependency-name: word-wrap
   dependency-type: indirect
 ...
 
