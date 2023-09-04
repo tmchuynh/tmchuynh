@@ -11,7 +11,7 @@ jobs:
     if: startsWith(github.event.issue.title, 'Chess:')
     
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Set up a Python 3.8 (64-bit) instance
       - name: Setting up Python
