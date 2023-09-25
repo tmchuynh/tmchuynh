@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,17 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/personal-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3138ee2</div>
-                                        <div class="message">add timeline template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed1b6dc</div>
-                                        <div class="message">update 11 files</div>
+                                        <div class="sha">#1c702e4</div>
+                                        <div class="message">update carousel
+
+Co-authored-by: Gray Boulware &lt;MGBoulware88@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -53,8 +51,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1aee74b</div>
-                                        <div class="message">add projects</div>
+                                        <div class="sha">#a4f6c16</div>
+                                        <div class="message">update 4 files and delete 1 file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">tmchuynh/personal-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7e814cb</div>
+                                        <div class="message">update 8 files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edaa935</div>
+                                        <div class="message">update resume.html and testimonials.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a2d2df</div>
+                                        <div class="message">update index.html and resume.html</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb4ecbc</div>
+                                        <div class="message">feat: create textAnimations.css and textAnimations.scss</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ce7c5d</div>
+                                        <div class="message">upload photos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b895f92</div>
+                                        <div class="message">update testimonials.css and testimonials.scss</div>
                                     </div>
                                 </div>
                             </section>
@@ -73,8 +111,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eca7192</div>
-                                        <div class="message">update icon links</div>
+                                        <div class="sha">#7c3188f</div>
+                                        <div class="message">update 8 files</div>
                                     </div>
                                 </div>
                             </section>
@@ -93,32 +131,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fc7fcb9</div>
-                                        <div class="message">need to debug the carousel - random "product" adding a second row to the carousel</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/personal-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#912215c</div>
-                                        <div class="message">product carousel template to be changed/updated to be used for a project carousel</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cf3842</div>
-                                        <div class="message">rename</div>
+                                        <div class="sha">#01176a2</div>
+                                        <div class="message">update 5 files</div>
                                     </div>
                                 </div>
                             </section>
