@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#db50618</div>
-                                        <div class="message">update schools.html, services.html and Elmo.jpg</div>
+                                        <div class="sha">#6ef3a7d</div>
+                                        <div class="message">update 13 files and delete 2 files</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e66bc1d</div>
-                                        <div class="message">update 15 files</div>
+                                        <div class="sha">#e28e5bc</div>
+                                        <div class="message">update 7 files</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f24a9b</div>
-                                        <div class="message">update schools.html</div>
+                                        <div class="sha">#520cff4</div>
+                                        <div class="message">update 7 files</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a168eac</div>
-                                        <div class="message">update services.html and chess-16.jpg</div>
+                                        <div class="sha">#52ef7c9</div>
+                                        <div class="message">update 21 files</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c10dbe</div>
-                                        <div class="message">update services.html, chess-13.jpg and chess-14.jpg</div>
+                                        <div class="sha">#7ba5213</div>
+                                        <div class="message">chore: update .gitignore</div>
                                     </div>
                                 </div>
                             </section>
