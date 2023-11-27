@@ -22,34 +22,55 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/admin-dashboard</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MGBoulware88/iac-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#27da91c</div>
-                                        <div class="message">Merge pull request #3 from tmchuynh/dependabot/pip/werkzeug-3.0.1
-
-Bump werkzeug from 2.2.3 to 3.0.1</div>
+                                        <div class="sha">#4751400</div>
+                                        <div class="message">update classprizes.html</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MGBoulware88/iac-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#171f02d</div>
-                                        <div class="message">Bump werkzeug from 2.2.3 to 3.0.1
-
-Bumps [werkzeug](https://github.com/pallets/werkzeug) from 2.2.3 to 3.0.1.
-- [Release notes](https://github.com/pallets/werkzeug/releases)
-- [Changelog](https://github.com/pallets/werkzeug/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pallets/werkzeug/compare/2.2.3...3.0.1)
-
----
-updated-dependencies:
-- dependency-name: werkzeug
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#7ccc7c7</div>
+                                        <div class="message">update classprizes.html</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MGBoulware88/iac-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#717ebad</div>
+                                        <div class="message">build: update package.json</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,33 +83,18 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/recipes_flask</span>
+                                        <span class="repo">MGBoulware88/iac-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92cd9df</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/werkzeug-3.0.1
-
-Bump werkzeug from 2.3.3 to 3.0.1</div>
+                                        <div class="sha">#b61dfb0</div>
+                                        <div class="message">update classprizes.html</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a577cb7</div>
-                                        <div class="message">Bump werkzeug from 2.3.3 to 3.0.1
-
-Bumps [werkzeug](https://github.com/pallets/werkzeug) from 2.3.3 to 3.0.1.
-- [Release notes](https://github.com/pallets/werkzeug/releases)
-- [Changelog](https://github.com/pallets/werkzeug/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pallets/werkzeug/compare/2.3.3...3.0.1)
-
----
-updated-dependencies:
-- dependency-name: werkzeug
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#551f8b1</div>
+                                        <div class="message">minify</div>
                                     </div>
                                 </div>
                             </section>
@@ -100,112 +106,31 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/MERN-Deployment</span>
+                                        Pushed 5 commits in
+                                        <span class="repo">MGBoulware88/iac-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c17daa9</div>
-                                        <div class="message">Merge pull request #8 from tmchuynh/dependabot/npm_and_yarn/client/axios-1.6.0
-
-Bump axios from 1.3.5 to 1.6.0 in /client</div>
+                                        <div class="sha">#167046d</div>
+                                        <div class="message">create 1 file and update 6 files</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8964b3d</div>
-                                        <div class="message">Bump axios from 1.3.5 to 1.6.0 in /client
-
-Bumps [axios](https://github.com/axios/axios) from 1.3.5 to 1.6.0.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/v1.x/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v1.3.5...v1.6.0)
-
----
-updated-dependencies:
-- dependency-name: axios
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/business_project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4ab43da</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/werkzeug-3.0.1
-
-Bump werkzeug from 2.3.3 to 3.0.1</div>
+                                        <div class="sha">#4bed7a2</div>
+                                        <div class="message">create 32 files</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#004cfc1</div>
-                                        <div class="message">Bump werkzeug from 2.3.3 to 3.0.1
-
-Bumps [werkzeug](https://github.com/pallets/werkzeug) from 2.3.3 to 3.0.1.
-- [Release notes](https://github.com/pallets/werkzeug/releases)
-- [Changelog](https://github.com/pallets/werkzeug/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pallets/werkzeug/compare/2.3.3...3.0.1)
-
----
-updated-dependencies:
-- dependency-name: werkzeug
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#52a7dc0</div>
-                                        <div class="message">Merge pull request #24 from tmchuynh/dependabot/npm_and_yarn/client/axios-1.6.0
-
-build(deps): bump axios from 1.3.6 to 1.6.0 in /client</div>
+                                        <div class="sha">#5587a5e</div>
+                                        <div class="message">create 25 files</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7e274f3</div>
-                                        <div class="message">build(deps): bump axios from 1.3.6 to 1.6.0 in /client
-
-Bumps [axios](https://github.com/axios/axios) from 1.3.6 to 1.6.0.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/v1.x/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v1.3.6...v1.6.0)
-
----
-updated-dependencies:
-- dependency-name: axios
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#3907b71</div>
+                                        <div class="message">feat: create prizecard.css and prizecard.scss</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fba757f</div>
+                                        <div class="message">update staff.html</div>
                                     </div>
                                 </div>
                             </section>
