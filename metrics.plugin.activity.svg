@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -22,23 +22,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">MGBoulware88/iac-website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15cae0a</div>
-                                        <div class="message">update staff.html</div>
+                                        <div class="sha">#1a77072</div>
+                                        <div class="message">Merge pull request #25 from tmchuynh/dependabot/npm_and_yarn/client/adobe/css-tools-4.3.2
+
+build(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2 in /client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0f84996</div>
-                                        <div class="message">update staff.html</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cf9bb1</div>
-                                        <div class="message">update Tina.jpg</div>
+                                        <div class="sha">#319ab4a</div>
+                                        <div class="message">build(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2 in /client
+
+Bumps [@adobe/css-tools](https://github.com/adobe/css-tools) from 4.3.1 to 4.3.2.
+- [Changelog](https://github.com/adobe/css-tools/blob/main/History.md)
+- [Commits](https://github.com/adobe/css-tools/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@adobe/css-tools"
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -50,15 +60,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MGBoulware88/iac-website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b875f87</div>
-                                        <div class="message">update 11 files</div>
+                                        <div class="sha">#54b680d</div>
+                                        <div class="message">Merge pull request #5 from tmchuynh/dependabot/npm_and_yarn/adobe/css-tools-4.3.2
+
+build(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b0a9a2</div>
+                                        <div class="message">build(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2
+
+Bumps [@adobe/css-tools](https://github.com/adobe/css-tools) from 4.3.1 to 4.3.2.
+- [Changelog](https://github.com/adobe/css-tools/blob/main/History.md)
+- [Commits](https://github.com/adobe/css-tools/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@adobe/css-tools"
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -70,15 +98,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MGBoulware88/iac-website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#993ff54</div>
-                                        <div class="message">update staff.html</div>
+                                        <div class="sha">#b3f549c</div>
+                                        <div class="message">Merge pull request #9 from tmchuynh/dependabot/npm_and_yarn/client/adobe/css-tools-4.3.2
+
+Bump @adobe/css-tools from 4.3.1 to 4.3.2 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e98f1e0</div>
+                                        <div class="message">Bump @adobe/css-tools from 4.3.1 to 4.3.2 in /client
+
+Bumps [@adobe/css-tools](https://github.com/adobe/css-tools) from 4.3.1 to 4.3.2.
+- [Changelog](https://github.com/adobe/css-tools/blob/main/History.md)
+- [Commits](https://github.com/adobe/css-tools/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@adobe/css-tools"
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -90,15 +136,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MGBoulware88/iac-website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Connect-with-React</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#07fa576</div>
-                                        <div class="message">update Cory.jpg, Gabe.jpg, Jovan.jpg and Max_Evans.JPG</div>
+                                        <div class="sha">#9c170bd</div>
+                                        <div class="message">Merge pull request #6 from tmchuynh/dependabot/npm_and_yarn/adobe/css-tools-4.3.2
+
+chore(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaf8e7f</div>
+                                        <div class="message">chore(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2
+
+Bumps [@adobe/css-tools](https://github.com/adobe/css-tools) from 4.3.1 to 4.3.2.
+- [Changelog](https://github.com/adobe/css-tools/blob/main/History.md)
+- [Commits](https://github.com/adobe/css-tools/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@adobe/css-tools"
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,15 +174,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MGBoulware88/iac-website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/pride-flag</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3ac7479</div>
-                                        <div class="message">update contact.html</div>
+                                        <div class="sha">#56a9b45</div>
+                                        <div class="message">Merge pull request #5 from tmchuynh/dependabot/npm_and_yarn/adobe/css-tools-4.3.2
+
+build(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f5a1a0</div>
+                                        <div class="message">build(deps): bump @adobe/css-tools from 4.3.1 to 4.3.2
+
+Bumps [@adobe/css-tools](https://github.com/adobe/css-tools) from 4.3.1 to 4.3.2.
+- [Changelog](https://github.com/adobe/css-tools/blob/main/History.md)
+- [Commits](https://github.com/adobe/css-tools/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@adobe/css-tools"
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
