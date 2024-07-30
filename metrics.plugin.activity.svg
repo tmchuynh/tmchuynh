@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#874f8d9</div>
-                                        <div class="message">update creating new users</div>
+                                        <div class="sha">#3038e67</div>
+                                        <div class="message">need to add flask table for leaderboard</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e11bcf8</div>
-                                        <div class="message">update username</div>
+                                        <div class="sha">#59312ef</div>
+                                        <div class="message">update getting all the high scores</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bfcc3aa</div>
-                                        <div class="message">checking existing scores dependent on obstacles</div>
+                                        <div class="sha">#ae1fda1</div>
+                                        <div class="message">update...something</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#24fa28e</div>
-                                        <div class="message">only checks for that EXACT high score</div>
+                                        <div class="sha">#d03f5f3</div>
+                                        <div class="message">flash messages for username</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6af158</div>
-                                        <div class="message">delete users</div>
+                                        <div class="sha">#72f6268</div>
+                                        <div class="message">update bootstrap link - maybe it works now</div>
                                     </div>
                                 </div>
                             </section>
