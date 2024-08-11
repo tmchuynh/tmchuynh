@@ -1,60 +1,26 @@
 <h1 align="center">Hello, My name is Tina</h1>
-
- <p align="center">
- <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-   <img src="https://img.shields.io/badge/-Bootstrap-fff?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-Sass-ED087D?style=for-the-badge&logo=sass&logoColor=fff"/>
- <img src="https://img.shields.io/badge/-Python-FFF484?style=for-the-badge&logo=python"/>
- <img src="https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge&logo=jinja"/>
- <img src="https://img.shields.io/badge/-Flask-gray?style=for-the-badge&logo=flask"/>
- <img src="https://img.shields.io/badge/-Postman-FEF?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
- <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=fff"/>
- <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
- <img src="https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java"/>
- <img src="https://img.shields.io/badge/-MySQL-212121?style=for-the-badge&logo=mysql&logoColor=fff"/>
- <img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-MongoDB-FFF?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react"/>
- <img src="https://img.shields.io/badge/-Express-22AE5A?style=for-the-badge&logo=express"/>
- <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-MUI-0A1929?style=for-the-badge&logo=mui"/>
-   <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/-Markdown-0e99da?style=for-the-badge&logo=markdown"/>
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"/>
- <img src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
-  </p>
   
-  <hr>
   
-  <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/tinamchuynh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&color=a1242c&logo=linkedin&logoColor=E0E0E0"></a>
   <a href="https://dev.to/tmchuynh"><img src="https://img.shields.io/badge/-DEV.to-blue?style=for-the-badge&color=E0E0E0&logo=dev.to&logoColor=a1242c"></a>
   <a href="mailto:tinamchuynh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c"></a>
-  <a href="https://drive.google.com/file/d/1uNFStrjjcdi1dvPCN3Ubs3p8XoaDCWJh/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-red?style=for-the-badge&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"></a>
+  <a href="https://drive.google.com/file/d/1-k5LQYrMWZuvpfhQUM_0lu47_TrW9hgi/view?usp=drive_link"><img src="https://img.shields.io/badge/-Resume-red?style=for-the-badge&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"></a>
   <a href="https://twitter.com/tinamchuynh"><img src="https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter&logoColor=a1242c&color=E0E0E0"></a>
-  </p>
 </div>
 
 <div align="right">
 
   &nbsp;
   
-  <img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/1af489ab39e53ecee8ceb5c2b7c0288370b8f735/images/Logo.png" width="125"/>
- 
-
-
-  <p align="left">Technology is our future! One way or another, future developments will change how we view our lives, how we connect with those who mean the most to us, and potentially get connected with new friends. There's no doubt about it, how technology advances will shape our future for the rest of our lives. The focus of the newer generation will be the new innovations that constant pop-up these past years and will continuously to do so endlessly throughout time.
-    <br>
-    As you once watched movies of holographic keyboards, touchscreen tables, and flying cars, we are seeing today that we not only have some of those things but are only getting closer to making everything we can imagine a reality. Self-driving cars, virtual personal assistants, robotic surgeries, and many more uses of machine learning are helping everyone across the world. The "impossible" is becoming the new normal. We are only going to advance further and further as a society because together we are unstoppable.
-    <br>
-    A life filled with failures and successes, setbacks and victories, is a life of fulfillment and memories. A life
-worth living is a life enjoying every moment whether in pain or in fortune. Success is built within the mind
-and one’s value, not the value of material objects that surround. And with that, a fire burns inside each
-and every person to strive for greatness. And society will reap the glory of its fruits.</p>
+  <p align="left">Web development is more than just a career for me—it’s a fiery passion that fuels every aspect of my work. I am driven by a commitment to crafting innovative solutions and sharing knowledge, embracing every challenge with heart and determination. This journey is about more than just achieving success; it’s about turning dreams into reality and connecting deeply with others.
+    <br><br>
+   While the misuse of technology has led to troubling disconnection from reality and genuine social interaction, its true potential lies in its ability to unite us. The COVID-19 pandemic showcased how technology could bridge gaps, bringing people together and fostering relationships when physical distance separated us. It’s a powerful reminder that technology, when used purposefully, can forge meaningful connections and support communities in times of need.
+    <br><br>
+   Beyond its functional role, technology is an art form—a way to express creativity and evoke emotion. Just as movies paint vivid narratives on the screen, web design transforms ideas into immersive experiences. Innovations like self-driving cars are not merely technical marvels but reflections of our imagination, pushing the boundaries of what’s possible and reshaping our world.
+  <br><br>
+In web development, every line of code and every design choice is an opportunity to create something that resonates and inspires. My passion drives me to harness technology’s potential to build experiences that connect people, reflect our shared humanity, and enrich our lives. By embracing this passion with unwavering resolve, I believe we can shape a future where technology is not just a tool but a bridge to a more connected and expressive world.
+  </p>
 </div>
 
 
