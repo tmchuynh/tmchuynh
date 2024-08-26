@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bcf33cd</div>
-                                        <div class="message">input instructor rates</div>
+                                        <div class="sha">#a2188f5</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7db7283</div>
-                                        <div class="message">convert to numbers; start calculating total with projects and invoices</div>
+                                        <div class="sha">#503b198</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a7a710</div>
-                                        <div class="message">start adding together the calculated total</div>
+                                        <div class="sha">#a481526</div>
+                                        <div class="message">variables</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4fe2713</div>
-                                        <div class="message">currency format</div>
+                                        <div class="sha">#8a3d28b</div>
+                                        <div class="message">optimize display of table</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e26766</div>
-                                        <div class="message">rename</div>
+                                        <div class="sha">#7e0ef7a</div>
+                                        <div class="message">add the income that comes from teaching classes</div>
                                     </div>
                                 </div>
                             </section>
