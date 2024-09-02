@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4730412</div>
-                                        <div class="message">update copyright image</div>
+                                        <div class="sha">#efe47c5</div>
+                                        <div class="message">Merge pull request #20 from tmchuynh/dependabot/npm_and_yarn/client/micromatch-4.0.8
+
+Bump micromatch from 4.0.5 to 4.0.8 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2fa95a</div>
+                                        <div class="message">Bump micromatch from 4.0.5 to 4.0.8 in /client
+
+Bumps [micromatch](https://github.com/micromatch/micromatch) from 4.0.5 to 4.0.8.
+- [Release notes](https://github.com/micromatch/micromatch/releases)
+- [Changelog](https://github.com/micromatch/micromatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/micromatch/compare/4.0.5...4.0.8)
+
+---
+updated-dependencies:
+- dependency-name: micromatch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,15 +61,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d588b3</div>
-                                        <div class="message">update copyright</div>
+                                        <div class="sha">#cc3aeb7</div>
+                                        <div class="message">Merge pull request #39 from tmchuynh/dependabot/npm_and_yarn/client/micromatch-4.0.8
+
+build(deps): bump micromatch from 4.0.5 to 4.0.8 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97e4386</div>
+                                        <div class="message">build(deps): bump micromatch from 4.0.5 to 4.0.8 in /client
+
+Bumps [micromatch](https://github.com/micromatch/micromatch) from 4.0.5 to 4.0.8.
+- [Release notes](https://github.com/micromatch/micromatch/releases)
+- [Changelog](https://github.com/micromatch/micromatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/micromatch/compare/4.0.5...4.0.8)
+
+---
+updated-dependencies:
+- dependency-name: micromatch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +100,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Updated_IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f24160f</div>
-                                        <div class="message">update privacy policy file</div>
+                                        <div class="sha">#d8630ae</div>
+                                        <div class="message">Merge pull request #13 from tmchuynh/dependabot/npm_and_yarn/micromatch-4.0.8
+
+build(deps): bump micromatch from 4.0.5 to 4.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bd7268</div>
+                                        <div class="message">build(deps): bump micromatch from 4.0.5 to 4.0.8
+
+Bumps [micromatch](https://github.com/micromatch/micromatch) from 4.0.5 to 4.0.8.
+- [Release notes](https://github.com/micromatch/micromatch/releases)
+- [Changelog](https://github.com/micromatch/micromatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/micromatch/compare/4.0.5...4.0.8)
+
+---
+updated-dependencies:
+- dependency-name: micromatch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -82,15 +139,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Updated_IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Connect-with-React</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#827d363</div>
-                                        <div class="message">update copyright</div>
+                                        <div class="sha">#24c2b89</div>
+                                        <div class="message">Merge pull request #14 from tmchuynh/dependabot/npm_and_yarn/micromatch-4.0.8
+
+chore(deps): bump micromatch from 4.0.5 to 4.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d365cd3</div>
+                                        <div class="message">chore(deps): bump micromatch from 4.0.5 to 4.0.8
+
+Bumps [micromatch](https://github.com/micromatch/micromatch) from 4.0.5 to 4.0.8.
+- [Release notes](https://github.com/micromatch/micromatch/releases)
+- [Changelog](https://github.com/micromatch/micromatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/micromatch/compare/4.0.5...4.0.8)
+
+---
+updated-dependencies:
+- dependency-name: micromatch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -102,15 +178,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Updated_IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/pride-flag</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#118dc5f</div>
-                                        <div class="message">update future classes based on offered classes</div>
+                                        <div class="sha">#466072f</div>
+                                        <div class="message">Merge pull request #13 from tmchuynh/dependabot/npm_and_yarn/micromatch-4.0.8
+
+build(deps): bump micromatch from 4.0.5 to 4.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#216b6f1</div>
+                                        <div class="message">build(deps): bump micromatch from 4.0.5 to 4.0.8
+
+Bumps [micromatch](https://github.com/micromatch/micromatch) from 4.0.5 to 4.0.8.
+- [Release notes](https://github.com/micromatch/micromatch/releases)
+- [Changelog](https://github.com/micromatch/micromatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/micromatch/compare/4.0.5...4.0.8)
+
+---
+updated-dependencies:
+- dependency-name: micromatch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
