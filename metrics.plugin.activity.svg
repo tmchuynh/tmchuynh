@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#825e394</div>
-                                        <div class="message">update associations</div>
+                                        <div class="sha">#f24160f</div>
+                                        <div class="message">update privacy policy file</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f6366d1</div>
-                                        <div class="message">update classes offered at schools</div>
+                                        <div class="sha">#827d363</div>
+                                        <div class="message">update copyright</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#520be45</div>
-                                        <div class="message">stuff</div>
+                                        <div class="sha">#118dc5f</div>
+                                        <div class="message">update future classes based on offered classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#54ad4a5</div>
-                                        <div class="message">move to general controller</div>
+                                        <div class="sha">#79901fb</div>
+                                        <div class="message">update database</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf19eb4</div>
-                                        <div class="message">get session program from google sheets link</div>
+                                        <div class="sha">#a7710b7</div>
+                                        <div class="message">input program interest</div>
                                     </div>
                                 </div>
                             </section>
