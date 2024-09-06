@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,43 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Bootstrap-Icon-Mock</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#762ca9f</div>
-                                        <div class="message">fix responsive school page</div>
+                                        <div class="sha">#0f402a1</div>
+                                        <div class="message">Merge pull request #6 from tmchuynh/dependabot/npm_and_yarn/multi-532080ed7f
+
+Bump semver and nodemon</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e8fc4c</div>
+                                        <div class="message">Bump semver and nodemon
+
+Bumps [semver](https://github.com/npm/node-semver) to 7.6.3 and updates ancestor dependency [nodemon](https://github.com/remy/nodemon). These dependencies need to be updated together.
+
+
+Updates `semver` from 7.0.0 to 7.6.3
+- [Release notes](https://github.com/npm/node-semver/releases)
+- [Changelog](https://github.com/npm/node-semver/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/npm/node-semver/compare/v7.0.0...v7.6.3)
+
+Updates `nodemon` from 2.0.20 to 3.1.4
+- [Release notes](https://github.com/remy/nodemon/releases)
+- [Commits](https://github.com/remy/nodemon/compare/v2.0.20...v3.1.4)
+
+---
+updated-dependencies:
+- dependency-name: semver
+  dependency-type: indirect
+- dependency-name: nodemon
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,15 +70,32 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Bootstrap-Icon-Mock</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ec24de2</div>
-                                        <div class="message">update school logo carousel</div>
+                                        <div class="sha">#51f96a8</div>
+                                        <div class="message">Merge pull request #5 from tmchuynh/dependabot/npm_and_yarn/requirejs-2.3.7
+
+Bump requirejs from 2.3.6 to 2.3.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64dc0fa</div>
+                                        <div class="message">Bump requirejs from 2.3.6 to 2.3.7
+
+Bumps [requirejs](https://github.com/jrburke/r.js) from 2.3.6 to 2.3.7.
+- [Commits](https://github.com/jrburke/r.js/compare/2.3.6...2.3.7)
+
+---
+updated-dependencies:
+- dependency-name: requirejs
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,23 +107,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/real_estate_mock</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e667851</div>
-                                        <div class="message">update schools icon alignment</div>
+                                        <div class="sha">#8e41c49</div>
+                                        <div class="message">Merge pull request #10 from tmchuynh/dependabot/npm_and_yarn/axios-1.7.4
+
+Bump axios from 1.6.0 to 1.7.4</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4156d40</div>
-                                        <div class="message">update school icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fdc326</div>
-                                        <div class="message">ughh</div>
+                                        <div class="sha">#bd2e7c7</div>
+                                        <div class="message">Bump axios from 1.6.0 to 1.7.4
+
+Bumps [axios](https://github.com/axios/axios) from 1.6.0 to 1.7.4.
+- [Release notes](https://github.com/axios/axios/releases)
+- [Changelog](https://github.com/axios/axios/blob/v1.x/CHANGELOG.md)
+- [Commits](https://github.com/axios/axios/compare/v1.6.0...v1.7.4)
+
+---
+updated-dependencies:
+- dependency-name: axios
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -90,15 +146,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/jaxdev</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fb1fbf4</div>
-                                        <div class="message">start sitemap</div>
+                                        <div class="sha">#b7138c1</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/github_actions/dot-github/workflows/actions/download-artifact-4.1.7
+
+build(deps): bump actions/download-artifact from 3 to 4.1.7 in /.github/workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7674bdd</div>
+                                        <div class="message">build(deps): bump actions/download-artifact in /.github/workflows
+
+Bumps [actions/download-artifact](https://github.com/actions/download-artifact) from 3 to 4.1.7.
+- [Release notes](https://github.com/actions/download-artifact/releases)
+- [Commits](https://github.com/actions/download-artifact/compare/v3...v4.1.7)
+
+---
+updated-dependencies:
+- dependency-name: actions/download-artifact
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,15 +184,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/tg_premier_real_estate</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0bcb03c</div>
-                                        <div class="message">update hero size</div>
+                                        <div class="sha">#7ecfbf0</div>
+                                        <div class="message">Merge pull request #6 from tmchuynh/dependabot/npm_and_yarn/micromatch-4.0.8
+
+build(deps): bump micromatch from 4.0.5 to 4.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#953f116</div>
+                                        <div class="message">build(deps): bump micromatch from 4.0.5 to 4.0.8
+
+Bumps [micromatch](https://github.com/micromatch/micromatch) from 4.0.5 to 4.0.8.
+- [Release notes](https://github.com/micromatch/micromatch/releases)
+- [Changelog](https://github.com/micromatch/micromatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/micromatch/compare/4.0.5...4.0.8)
+
+---
+updated-dependencies:
+- dependency-name: micromatch
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
