@@ -16,7 +16,7 @@ In web development, every line of code and every design choice is an opportunity
   
   <br>
 
-  [![roadmap.sh](https://roadmap.sh/card/wide/66db87afc46f68d052af5905?variant=dark&roadmaps=full-stack%2Csql%2Cmongodb%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66db87afc46f68d052af5905?variant=dark&roadmaps=datastructures-and-algorithms%2Cfull-stack%2Csql%2Cgit-github)](https://roadmap.sh)
 
  </div>
   
