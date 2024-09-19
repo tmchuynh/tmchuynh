@@ -23,29 +23,135 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/tg_premier_real_estate</span>
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#95a7a3e</div>
-                                        <div class="message">Merge pull request #7 from tmchuynh/dependabot/npm_and_yarn/next-14.2.10
+                                        <div class="sha">#c9857cb</div>
+                                        <div class="message">Merge pull request #23 from tmchuynh/dependabot/npm_and_yarn/client/multi-9423f4c335
 
-build(deps): bump next from 14.1.1 to 14.2.10</div>
+Bump body-parser and express in /client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#26ee514</div>
-                                        <div class="message">build(deps): bump next from 14.1.1 to 14.2.10
+                                        <div class="sha">#f644d3e</div>
+                                        <div class="message">Bump body-parser and express in /client
 
-Bumps [next](https://github.com/vercel/next.js) from 14.1.1 to 14.2.10.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v14.1.1...v14.2.10)
+Bumps [body-parser](https://github.com/expressjs/body-parser) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
+
+Updates `body-parser` from 1.20.2 to 1.20.3
+- [Release notes](https://github.com/expressjs/body-parser/releases)
+- [Changelog](https://github.com/expressjs/body-parser/blob/master/HISTORY.md)
+- [Commits](https://github.com/expressjs/body-parser/compare/1.20.2...1.20.3)
+
+Updates `express` from 4.19.2 to 4.21.0
+- [Release notes](https://github.com/expressjs/express/releases)
+- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
+- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
 
 ---
 updated-dependencies:
-- dependency-name: next
+- dependency-name: body-parser
+  dependency-type: indirect
+- dependency-name: express
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#386bc33</div>
+                                        <div class="message">Merge pull request #24 from tmchuynh/dependabot/npm_and_yarn/client/multi-1d234c620e
+
+Bump path-to-regexp and express in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1ec96d</div>
+                                        <div class="message">Bump path-to-regexp and express in /client
+
+Bumps [path-to-regexp](https://github.com/pillarjs/path-to-regexp) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
+
+Updates `path-to-regexp` from 0.1.7 to 0.1.10
+- [Release notes](https://github.com/pillarjs/path-to-regexp/releases)
+- [Changelog](https://github.com/pillarjs/path-to-regexp/blob/master/History.md)
+- [Commits](https://github.com/pillarjs/path-to-regexp/compare/v0.1.7...v0.1.10)
+
+Updates `express` from 4.19.2 to 4.21.0
+- [Release notes](https://github.com/expressjs/express/releases)
+- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
+- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
+
+---
+updated-dependencies:
+- dependency-name: path-to-regexp
+  dependency-type: indirect
+- dependency-name: express
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#652f3d2</div>
+                                        <div class="message">Merge pull request #43 from tmchuynh/dependabot/npm_and_yarn/server/multi-1d234c620e
+
+build(deps): bump path-to-regexp and express in /server</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8447bb0</div>
+                                        <div class="message">build(deps): bump path-to-regexp and express in /server
+
+Bumps [path-to-regexp](https://github.com/pillarjs/path-to-regexp) to 0.1.10 and updates ancestor dependency [express](https://github.com/expressjs/express). These dependencies need to be updated together.
+
+
+Updates `path-to-regexp` from 0.1.7 to 0.1.10
+- [Release notes](https://github.com/pillarjs/path-to-regexp/releases)
+- [Changelog](https://github.com/pillarjs/path-to-regexp/blob/master/History.md)
+- [Commits](https://github.com/pillarjs/path-to-regexp/compare/v0.1.7...v0.1.10)
+
+Updates `express` from 4.19.2 to 4.21.0
+- [Release notes](https://github.com/expressjs/express/releases)
+- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
+- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
+
+---
+updated-dependencies:
+- dependency-name: path-to-regexp
+  dependency-type: indirect
+- dependency-name: express
   dependency-type: direct:production
 ...
 
@@ -62,29 +168,39 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/real_estate_mock</span>
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#47d8edc</div>
-                                        <div class="message">Merge pull request #11 from tmchuynh/dependabot/npm_and_yarn/next-14.2.10
+                                        <div class="sha">#8a5bc7a</div>
+                                        <div class="message">Merge pull request #44 from tmchuynh/dependabot/npm_and_yarn/server/multi-cf87d80143
 
-Bump next from 14.1.1 to 14.2.10</div>
+build(deps): bump send and express in /server</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9e0a16f</div>
-                                        <div class="message">Bump next from 14.1.1 to 14.2.10
+                                        <div class="sha">#46e5249</div>
+                                        <div class="message">build(deps): bump send and express in /server
 
-Bumps [next](https://github.com/vercel/next.js) from 14.1.1 to 14.2.10.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v14.1.1...v14.2.10)
+Bumps [send](https://github.com/pillarjs/send) to 0.19.0 and updates ancestor dependency [express](https://github.com/expressjs/express). These dependencies need to be updated together.
+
+
+Updates `send` from 0.18.0 to 0.19.0
+- [Release notes](https://github.com/pillarjs/send/releases)
+- [Changelog](https://github.com/pillarjs/send/blob/master/HISTORY.md)
+- [Commits](https://github.com/pillarjs/send/compare/0.18.0...0.19.0)
+
+Updates `express` from 4.19.2 to 4.21.0
+- [Release notes](https://github.com/expressjs/express/releases)
+- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
+- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
 
 ---
 updated-dependencies:
-- dependency-name: next
+- dependency-name: send
+  dependency-type: indirect
+- dependency-name: express
   dependency-type: direct:production
 ...
 
@@ -101,105 +217,39 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/jaxdev</span>
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e54ff09</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/next-14.2.10
+                                        <div class="sha">#8f3027e</div>
+                                        <div class="message">Merge pull request #42 from tmchuynh/dependabot/npm_and_yarn/server/multi-9423f4c335
 
-build(deps): bump next from 14.1.3 to 14.2.10</div>
+build(deps): bump body-parser and express in /server</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1fea551</div>
-                                        <div class="message">build(deps): bump next from 14.1.3 to 14.2.10
+                                        <div class="sha">#6102afa</div>
+                                        <div class="message">build(deps): bump body-parser and express in /server
 
-Bumps [next](https://github.com/vercel/next.js) from 14.1.3 to 14.2.10.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v14.1.3...v14.2.10)
+Bumps [body-parser](https://github.com/expressjs/body-parser) to 1.20.3 and updates ancestor dependency [express](https://github.com/expressjs/express). These dependencies need to be updated together.
+
+
+Updates `body-parser` from 1.20.2 to 1.20.3
+- [Release notes](https://github.com/expressjs/body-parser/releases)
+- [Changelog](https://github.com/expressjs/body-parser/blob/master/HISTORY.md)
+- [Commits](https://github.com/expressjs/body-parser/compare/1.20.2...1.20.3)
+
+Updates `express` from 4.19.2 to 4.21.0
+- [Release notes](https://github.com/expressjs/express/releases)
+- [Changelog](https://github.com/expressjs/express/blob/4.21.0/History.md)
+- [Commits](https://github.com/expressjs/express/compare/4.19.2...4.21.0)
 
 ---
 updated-dependencies:
-- dependency-name: next
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/job_market_data</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#05b5ba6</div>
-                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/pip/cryptography-43.0.1
-
-Bump cryptography from 43.0.0 to 43.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15d1274</div>
-                                        <div class="message">Bump cryptography from 43.0.0 to 43.0.1
-
-Bumps [cryptography](https://github.com/pyca/cryptography) from 43.0.0 to 43.0.1.
-- [Changelog](https://github.com/pyca/cryptography/blob/main/CHANGELOG.rst)
-- [Commits](https://github.com/pyca/cryptography/compare/43.0.0...43.0.1)
-
----
-updated-dependencies:
-- dependency-name: cryptography
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/event_planner</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b716eb1</div>
-                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/pip/cryptography-43.0.1
-
-Bump cryptography from 43.0.0 to 43.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3d422e</div>
-                                        <div class="message">Bump cryptography from 43.0.0 to 43.0.1
-
-Bumps [cryptography](https://github.com/pyca/cryptography) from 43.0.0 to 43.0.1.
-- [Changelog](https://github.com/pyca/cryptography/blob/main/CHANGELOG.rst)
-- [Commits](https://github.com/pyca/cryptography/compare/43.0.0...43.0.1)
-
----
-updated-dependencies:
-- dependency-name: cryptography
+- dependency-name: body-parser
+  dependency-type: indirect
+- dependency-name: express
   dependency-type: direct:production
 ...
 
