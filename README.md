@@ -12,11 +12,14 @@ In web development, every line of code and every design choice is an opportunity
 </div>
 
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66db87afc46f68d052af5905?variant=light&roadmaps=full-stack%2Cpython%2Creact%2Cjava)](https://roadmap.sh)
+<br>
+
   <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="325" alt="Tina Huynh's Dev Card"/></a>
   
   <br>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66db87afc46f68d052af5905?variant=dark&roadmaps=datastructures-and-algorithms%2Cfull-stack%2Csql%2Cgit-github)](https://roadmap.sh)
+
 
  </div>
   
