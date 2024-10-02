@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Basic_Portfolio</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ca1ea5</div>
-                                        <div class="message">Remove unused css</div>
+                                        <div class="sha">#5ebb59e</div>
+                                        <div class="message">Merge pull request #17 from tmchuynh/dependabot/npm_and_yarn/rollup-2.79.2
+
+build(deps): bump rollup from 2.79.1 to 2.79.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4542fd</div>
+                                        <div class="message">build(deps): bump rollup from 2.79.1 to 2.79.2
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.79.1 to 2.79.2.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.79.1...v2.79.2)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,15 +61,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Basic_Portfolio</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Real-Estate-CRM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30e29d6</div>
-                                        <div class="message">reorganize</div>
+                                        <div class="sha">#d662f0d</div>
+                                        <div class="message">Merge pull request #45 from tmchuynh/dependabot/npm_and_yarn/client/rollup-2.79.2
+
+build(deps): bump rollup from 2.79.1 to 2.79.2 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ccce7d</div>
+                                        <div class="message">build(deps): bump rollup from 2.79.1 to 2.79.2 in /client
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.79.1 to 2.79.2.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.79.1...v2.79.2)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +100,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Basic_Portfolio</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b0bdc6</div>
-                                        <div class="message">reset</div>
+                                        <div class="sha">#44ac203</div>
+                                        <div class="message">Merge pull request #25 from tmchuynh/dependabot/npm_and_yarn/client/rollup-2.79.2
+
+Bump rollup from 2.79.1 to 2.79.2 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf08430</div>
+                                        <div class="message">Bump rollup from 2.79.1 to 2.79.2 in /client
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.79.1 to 2.79.2.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.79.1...v2.79.2)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -82,15 +139,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Basic_Portfolio</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/Connect-with-React</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e073f24</div>
-                                        <div class="message">reorganize</div>
+                                        <div class="sha">#09e7bb9</div>
+                                        <div class="message">Merge pull request #17 from tmchuynh/dependabot/npm_and_yarn/rollup-2.79.2
+
+chore(deps): bump rollup from 2.79.1 to 2.79.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55745fb</div>
+                                        <div class="message">chore(deps): bump rollup from 2.79.1 to 2.79.2
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.79.1 to 2.79.2.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.79.1...v2.79.2)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -102,15 +178,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/Basic_Portfolio</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/pride-flag</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a3c8cc4</div>
-                                        <div class="message">use header</div>
+                                        <div class="sha">#25a25bd</div>
+                                        <div class="message">Merge pull request #17 from tmchuynh/dependabot/npm_and_yarn/rollup-2.79.2
+
+build(deps): bump rollup from 2.79.1 to 2.79.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d966b5d</div>
+                                        <div class="message">build(deps): bump rollup from 2.79.1 to 2.79.2
+
+Bumps [rollup](https://github.com/rollup/rollup) from 2.79.1 to 2.79.2.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v2.79.1...v2.79.2)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
