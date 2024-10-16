@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,46 +29,70 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7d92c81</div>
-                                        <div class="message">Merge pull request #46 from tmchuynh/dependabot/npm_and_yarn/server/multi-b9178efa7f
+                                        <div class="sha">#db359cd</div>
+                                        <div class="message">Merge pull request #47 from tmchuynh/dependabot/npm_and_yarn/client/multi-9f37c16f8f
 
-build(deps): bump cookie, cookie-parser, express and express-session in /server</div>
+build(deps): bump cookie and express in /client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4c0d5de</div>
-                                        <div class="message">build(deps): bump cookie, cookie-parser, express and express-session
+                                        <div class="sha">#c61dc83</div>
+                                        <div class="message">build(deps): bump cookie and express in /client
 
-Bumps [cookie](https://github.com/jshttp/cookie) to 0.7.2 and updates ancestor dependencies [cookie](https://github.com/jshttp/cookie), [cookie-parser](https://github.com/expressjs/cookie-parser), [express](https://github.com/expressjs/express) and [express-session](https://github.com/expressjs/session). These dependencies need to be updated together.
+Bumps [cookie](https://github.com/jshttp/cookie) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
 
-
-Updates `cookie` from 0.6.0 to 0.7.2
+Updates `cookie` from 0.6.0 to 0.7.1
 - [Release notes](https://github.com/jshttp/cookie/releases)
-- [Commits](https://github.com/jshttp/cookie/compare/v0.6.0...v0.7.2)
-
-Updates `cookie-parser` from 1.4.6 to 1.4.7
-- [Release notes](https://github.com/expressjs/cookie-parser/releases)
-- [Changelog](https://github.com/expressjs/cookie-parser/blob/master/HISTORY.md)
-- [Commits](https://github.com/expressjs/cookie-parser/compare/1.4.6...1.4.7)
+- [Commits](https://github.com/jshttp/cookie/compare/v0.6.0...v0.7.1)
 
 Updates `express` from 4.21.0 to 4.21.1
 - [Release notes](https://github.com/expressjs/express/releases)
 - [Changelog](https://github.com/expressjs/express/blob/4.21.1/History.md)
 - [Commits](https://github.com/expressjs/express/compare/4.21.0...4.21.1)
 
-Updates `express-session` from 1.17.3 to 1.18.1
-- [Release notes](https://github.com/expressjs/session/releases)
-- [Changelog](https://github.com/expressjs/session/blob/master/HISTORY.md)
-- [Commits](https://github.com/expressjs/session/compare/v1.17.3...v1.18.1)
-
 ---
 updated-dependencies:
 - dependency-name: cookie
   dependency-type: indirect
-- dependency-name: cookie-parser
-  dependency-type: direct:production
 - dependency-name: express
-  dependency-type: direct:production
-- dependency-name: express-session
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/pet_adoption</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#79982d2</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/starlette-0.40.0
+
+Bump starlette from 0.38.2 to 0.40.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21970b2</div>
+                                        <div class="message">Bump starlette from 0.38.2 to 0.40.0
+
+Bumps [starlette](https://github.com/encode/starlette) from 0.38.2 to 0.40.0.
+- [Release notes](https://github.com/encode/starlette/releases)
+- [Changelog](https://github.com/encode/starlette/blob/master/docs/release-notes.md)
+- [Commits](https://github.com/encode/starlette/compare/0.38.2...0.40.0)
+
+---
+updated-dependencies:
+- dependency-name: starlette
   dependency-type: direct:production
 ...
 
@@ -84,67 +108,34 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/faker_db</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/storytelling_platform</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d19fc7</div>
-                                        <div class="message">"Refactor `generate_data_clean` function in `data.py` to use a dictionary to create `Person` instances, and update `Person.save` method in `person.py` to accept a dictionary as an argument."</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/s_king_reviews</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#894242c</div>
-                                        <div class="message">update pip</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/faker_db</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2ca7513</div>
-                                        <div class="message">"Added __pycache__/ to .gitignore and removed newline at end of file"</div>
+                                        <div class="sha">#1c5993a</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/starlette-0.40.0
+
+Bump starlette from 0.38.2 to 0.40.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#36b1008</div>
-                                        <div class="message">"Updated person table phone_number field length to 100, added person_id field to job table, and updated foreign key constraint in job table."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1829d7d</div>
-                                        <div class="message">"Updated person and job tables: increased phone_number field length, added person_id field to job table, and updated foreign key constraint."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7730fa0</div>
-                                        <div class="message">"Updated Pipfile and Pipfile.lock, removed app.py, and modified server.py"</div>
+                                        <div class="sha">#796d47d</div>
+                                        <div class="message">Bump starlette from 0.38.2 to 0.40.0
+
+Bumps [starlette](https://github.com/encode/starlette) from 0.38.2 to 0.40.0.
+- [Release notes](https://github.com/encode/starlette/releases)
+- [Changelog](https://github.com/encode/starlette/blob/master/docs/release-notes.md)
+- [Commits](https://github.com/encode/starlette/compare/0.38.2...0.40.0)
+
+---
+updated-dependencies:
+- dependency-name: starlette
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -157,18 +148,72 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/faker_db</span>
+                                        <span class="repo">tmchuynh/event_planner</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf3eb05</div>
-                                        <div class="message">update database</div>
+                                        <div class="sha">#24be08d</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/starlette-0.40.0
+
+Bump starlette from 0.38.2 to 0.40.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1344561</div>
-                                        <div class="message">update database</div>
+                                        <div class="sha">#64c79b9</div>
+                                        <div class="message">Bump starlette from 0.38.2 to 0.40.0
+
+Bumps [starlette](https://github.com/encode/starlette) from 0.38.2 to 0.40.0.
+- [Release notes](https://github.com/encode/starlette/releases)
+- [Changelog](https://github.com/encode/starlette/blob/master/docs/release-notes.md)
+- [Commits](https://github.com/encode/starlette/compare/0.38.2...0.40.0)
+
+---
+updated-dependencies:
+- dependency-name: starlette
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/job_market_data</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#86f65ee</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/starlette-0.40.0
+
+Bump starlette from 0.38.2 to 0.40.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4acb7a5</div>
+                                        <div class="message">Bump starlette from 0.38.2 to 0.40.0
+
+Bumps [starlette](https://github.com/encode/starlette) from 0.38.2 to 0.40.0.
+- [Release notes](https://github.com/encode/starlette/releases)
+- [Changelog](https://github.com/encode/starlette/blob/master/docs/release-notes.md)
+- [Commits](https://github.com/encode/starlette/compare/0.38.2...0.40.0)
+
+---
+updated-dependencies:
+- dependency-name: starlette
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
