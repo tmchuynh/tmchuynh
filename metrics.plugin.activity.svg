@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#35eedb6</div>
-                                        <div class="message">fix dialog</div>
+                                        <div class="sha">#ba43f9e</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b585111</div>
-                                        <div class="message">fix show score function</div>
+                                        <div class="sha">#0899641</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d028075</div>
-                                        <div class="message">Only add scores if the quiz is finished</div>
+                                        <div class="sha">#09718b0</div>
+                                        <div class="message">update styling</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c08a8f3</div>
-                                        <div class="message">move missing elements into functions</div>
+                                        <div class="sha">#f643497</div>
+                                        <div class="message">simplify if else using ternary operator</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#636aadc</div>
-                                        <div class="message">update shoeScore to always show the most recent score</div>
+                                        <div class="sha">#758cbdd</div>
+                                        <div class="message">back to quiz if not done</div>
                                     </div>
                                 </div>
                             </section>
