@@ -23,85 +23,28 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/pride-flag</span>
+                                        <span class="repo">tmchuynh/invoices_calculations</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d8e2c08</div>
-                                        <div class="message">Merge pull request #18 from tmchuynh/dependabot/npm_and_yarn/multi-9f37c16f8f
+                                        <div class="sha">#2ee3505</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/pip/cryptography-43.0.1
 
-build(deps): bump cookie and express</div>
+Bump cryptography from 43.0.0 to 43.0.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6813f80</div>
-                                        <div class="message">build(deps): bump cookie and express
+                                        <div class="sha">#aaa226a</div>
+                                        <div class="message">Bump cryptography from 43.0.0 to 43.0.1
 
-Bumps [cookie](https://github.com/jshttp/cookie) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
-
-Updates `cookie` from 0.6.0 to 0.7.1
-- [Release notes](https://github.com/jshttp/cookie/releases)
-- [Commits](https://github.com/jshttp/cookie/compare/v0.6.0...v0.7.1)
-
-Updates `express` from 4.21.0 to 4.21.1
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.1/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.21.0...4.21.1)
+Bumps [cryptography](https://github.com/pyca/cryptography) from 43.0.0 to 43.0.1.
+- [Changelog](https://github.com/pyca/cryptography/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pyca/cryptography/compare/43.0.0...43.0.1)
 
 ---
 updated-dependencies:
-- dependency-name: cookie
-  dependency-type: indirect
-- dependency-name: express
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/MERN-Deployment</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fef1d30</div>
-                                        <div class="message">Merge pull request #26 from tmchuynh/dependabot/npm_and_yarn/server/multi-9f37c16f8f
-
-Bump cookie and express in /server</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4889088</div>
-                                        <div class="message">Bump cookie and express in /server
-
-Bumps [cookie](https://github.com/jshttp/cookie) to 0.7.1 and updates ancestor dependency [express](https://github.com/expressjs/express). These dependencies need to be updated together.
-
-
-Updates `cookie` from 0.6.0 to 0.7.1
-- [Release notes](https://github.com/jshttp/cookie/releases)
-- [Commits](https://github.com/jshttp/cookie/compare/v0.6.0...v0.7.1)
-
-Updates `express` from 4.21.0 to 4.21.1
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.1/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.21.0...4.21.1)
-
----
-updated-dependencies:
-- dependency-name: cookie
-  dependency-type: indirect
-- dependency-name: express
+- dependency-name: cryptography
   dependency-type: direct:production
 ...
 
@@ -124,14 +67,92 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15542f8</div>
-                                        <div class="message">Merge pull request #18 from tmchuynh/dependabot/npm_and_yarn/multi-9f37c16f8f
+                                        <div class="sha">#e7ff584</div>
+                                        <div class="message">Merge pull request #19 from tmchuynh/dependabot/npm_and_yarn/http-proxy-middleware-2.0.7
 
-build(deps): bump cookie and express</div>
+build(deps): bump http-proxy-middleware from 2.0.6 to 2.0.7</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c901777</div>
-                                        <div class="message">build(deps): bump cookie and express
+                                        <div class="sha">#f411b78</div>
+                                        <div class="message">build(deps): bump http-proxy-middleware from 2.0.6 to 2.0.7
+
+Bumps [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) from 2.0.6 to 2.0.7.
+- [Release notes](https://github.com/chimurai/http-proxy-middleware/releases)
+- [Changelog](https://github.com/chimurai/http-proxy-middleware/blob/v2.0.7/CHANGELOG.md)
+- [Commits](https://github.com/chimurai/http-proxy-middleware/compare/v2.0.6...v2.0.7)
+
+---
+updated-dependencies:
+- dependency-name: http-proxy-middleware
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#245f932</div>
+                                        <div class="message">Merge pull request #27 from tmchuynh/dependabot/npm_and_yarn/client/http-proxy-middleware-2.0.7
+
+Bump http-proxy-middleware from 2.0.6 to 2.0.7 in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02d2d03</div>
+                                        <div class="message">Bump http-proxy-middleware from 2.0.6 to 2.0.7 in /client
+
+Bumps [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) from 2.0.6 to 2.0.7.
+- [Release notes](https://github.com/chimurai/http-proxy-middleware/releases)
+- [Changelog](https://github.com/chimurai/http-proxy-middleware/blob/v2.0.7/CHANGELOG.md)
+- [Commits](https://github.com/chimurai/http-proxy-middleware/compare/v2.0.6...v2.0.7)
+
+---
+updated-dependencies:
+- dependency-name: http-proxy-middleware
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c7bdc93</div>
+                                        <div class="message">Merge pull request #28 from tmchuynh/dependabot/npm_and_yarn/client/multi-9f37c16f8f
+
+Bump cookie and express in /client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9715b3c</div>
+                                        <div class="message">Bump cookie and express in /client
 
 Bumps [cookie](https://github.com/jshttp/cookie) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
 
@@ -171,80 +192,24 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7451324</div>
-                                        <div class="message">Merge pull request #18 from tmchuynh/dependabot/npm_and_yarn/multi-9f37c16f8f
+                                        <div class="sha">#46e1724</div>
+                                        <div class="message">Merge pull request #19 from tmchuynh/dependabot/npm_and_yarn/http-proxy-middleware-2.0.7
 
-chore(deps): bump cookie and express</div>
+chore(deps): bump http-proxy-middleware from 2.0.6 to 2.0.7</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b0f0a09</div>
-                                        <div class="message">chore(deps): bump cookie and express
+                                        <div class="sha">#d5fdc8c</div>
+                                        <div class="message">chore(deps): bump http-proxy-middleware from 2.0.6 to 2.0.7
 
-Bumps [cookie](https://github.com/jshttp/cookie) and [express](https://github.com/expressjs/express). These dependencies needed to be updated together.
-
-Updates `cookie` from 0.6.0 to 0.7.1
-- [Release notes](https://github.com/jshttp/cookie/releases)
-- [Commits](https://github.com/jshttp/cookie/compare/v0.6.0...v0.7.1)
-
-Updates `express` from 4.21.0 to 4.21.1
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.1/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.21.0...4.21.1)
+Bumps [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) from 2.0.6 to 2.0.7.
+- [Release notes](https://github.com/chimurai/http-proxy-middleware/releases)
+- [Changelog](https://github.com/chimurai/http-proxy-middleware/blob/v2.0.7/CHANGELOG.md)
+- [Commits](https://github.com/chimurai/http-proxy-middleware/compare/v2.0.6...v2.0.7)
 
 ---
 updated-dependencies:
-- dependency-name: cookie
+- dependency-name: http-proxy-middleware
   dependency-type: indirect
-- dependency-name: express
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/faker-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#627e1b4</div>
-                                        <div class="message">Merge pull request #4 from tmchuynh/dependabot/npm_and_yarn/multi-9f37c16f8f
-
-Bump cookie and express</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c39031</div>
-                                        <div class="message">Bump cookie and express
-
-Bumps [cookie](https://github.com/jshttp/cookie) to 0.7.1 and updates ancestor dependency [express](https://github.com/expressjs/express). These dependencies need to be updated together.
-
-
-Updates `cookie` from 0.6.0 to 0.7.1
-- [Release notes](https://github.com/jshttp/cookie/releases)
-- [Commits](https://github.com/jshttp/cookie/compare/v0.6.0...v0.7.1)
-
-Updates `express` from 4.21.0 to 4.21.1
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.1/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.21.0...4.21.1)
-
----
-updated-dependencies:
-- dependency-name: cookie
-  dependency-type: indirect
-- dependency-name: express
-  dependency-type: direct:production
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
