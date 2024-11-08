@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#33d1502</div>
-                                        <div class="message">fix adding users</div>
+                                        <div class="sha">#7288b00</div>
+                                        <div class="message">fix conflicting model with seq</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d65ab2c</div>
-                                        <div class="message">update icon</div>
+                                        <div class="sha">#98569c0</div>
+                                        <div class="message">remove console logs</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9370e2</div>
-                                        <div class="message">FIX LAYOUT</div>
+                                        <div class="sha">#61bcccc</div>
+                                        <div class="message">update adding users</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3749b56</div>
-                                        <div class="message">add CNAME</div>
+                                        <div class="sha">#76ba637</div>
+                                        <div class="message">update verification</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c07da10</div>
-                                        <div class="message">handle reroutes</div>
+                                        <div class="sha">#3c953a5</div>
+                                        <div class="message">reorganize</div>
                                     </div>
                                 </div>
                             </section>
