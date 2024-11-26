@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="761" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
     <defs>
         <style/>
     </defs>
@@ -22,31 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/business_with_a_smile</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#441c2f5</div>
-                                        <div class="message">need to redo calculations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e5f83f</div>
-                                        <div class="message">there's a loop somewhere..........</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#398ac17</div>
-                                        <div class="message">load content correctly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96fdcbd</div>
-                                        <div class="message">start calculating estimating total on contact form</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6af59b5</div>
-                                        <div class="message">update website details page</div>
+                                        <div class="sha">#83ade94</div>
+                                        <div class="message">Configure for deployment</div>
                                     </div>
                                 </div>
                             </section>
@@ -59,18 +43,32 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/business_with_a_smile</span>
+                                        <span class="repo">tmchuynh/Connect-with-React</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cda34ca</div>
-                                        <div class="message">fix paddings and margins</div>
+                                        <div class="sha">#973b4a9</div>
+                                        <div class="message">Merge pull request #20 from tmchuynh/dependabot/npm_and_yarn/cross-spawn-7.0.6
+
+chore(deps): bump cross-spawn from 7.0.3 to 7.0.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4341c47</div>
-                                        <div class="message">remove classNames</div>
+                                        <div class="sha">#fb046a9</div>
+                                        <div class="message">chore(deps): bump cross-spawn from 7.0.3 to 7.0.6
+
+Bumps [cross-spawn](https://github.com/moxystudio/node-cross-spawn) from 7.0.3 to 7.0.6.
+- [Changelog](https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6)
+
+---
+updated-dependencies:
+- dependency-name: cross-spawn
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -82,59 +80,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">tmchuynh/business_with_a_smile</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/MERN-Deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8fd6273</div>
-                                        <div class="message">update</div>
+                                        <div class="sha">#122f9ee</div>
+                                        <div class="message">Merge pull request #29 from tmchuynh/dependabot/npm_and_yarn/client/cross-spawn-7.0.6
+
+Bump cross-spawn from 7.0.3 to 7.0.6 in /client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#136e9c4</div>
-                                        <div class="message">upload photos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dba50ea</div>
-                                        <div class="message">create details page for websites</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35b1c39</div>
-                                        <div class="message">fix styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#977e269</div>
-                                        <div class="message">remove text style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bff54e</div>
-                                        <div class="message">use website_types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d363140</div>
-                                        <div class="message">update badge style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8331fd0</div>
-                                        <div class="message">change header</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29d53af</div>
-                                        <div class="message">update darkmode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e80e7d</div>
-                                        <div class="message">combine tiers with website_types and expand information</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#835f01b</div>
-                                        <div class="message">clean up file documents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#988b9d1</div>
-                                        <div class="message">reorganize variables</div>
+                                        <div class="sha">#db91334</div>
+                                        <div class="message">Bump cross-spawn from 7.0.3 to 7.0.6 in /client
+
+Bumps [cross-spawn](https://github.com/moxystudio/node-cross-spawn) from 7.0.3 to 7.0.6.
+- [Changelog](https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6)
+
+---
+updated-dependencies:
+- dependency-name: cross-spawn
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -146,27 +118,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/business_with_a_smile</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/social-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#46de069</div>
-                                        <div class="message">fix styles for dark theme</div>
+                                        <div class="sha">#54c699e</div>
+                                        <div class="message">Merge pull request #20 from tmchuynh/dependabot/npm_and_yarn/cross-spawn-7.0.6
+
+build(deps): bump cross-spawn from 7.0.3 to 7.0.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#530e013</div>
-                                        <div class="message">update dark theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26ba970</div>
-                                        <div class="message">move contants to different file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99a9e13</div>
-                                        <div class="message">update testimonials</div>
+                                        <div class="sha">#1b71322</div>
+                                        <div class="message">build(deps): bump cross-spawn from 7.0.3 to 7.0.6
+
+Bumps [cross-spawn](https://github.com/moxystudio/node-cross-spawn) from 7.0.3 to 7.0.6.
+- [Changelog](https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6)
+
+---
+updated-dependencies:
+- dependency-name: cross-spawn
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -178,35 +156,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">tmchuynh/business_with_a_smile</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/pride-flag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#20925c4</div>
-                                        <div class="message">update contact page with descriptions in dropdowns</div>
+                                        <div class="sha">#2e8648b</div>
+                                        <div class="message">Merge pull request #20 from tmchuynh/dependabot/npm_and_yarn/cross-spawn-7.0.6
+
+build(deps): bump cross-spawn from 7.0.3 to 7.0.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ee9653c</div>
-                                        <div class="message">update descriptions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0eecef</div>
-                                        <div class="message">update components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fb560d</div>
-                                        <div class="message">conditionally render contact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#317d80f</div>
-                                        <div class="message">debug contact form</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be074bd</div>
-                                        <div class="message">remain folder</div>
+                                        <div class="sha">#b203b29</div>
+                                        <div class="message">build(deps): bump cross-spawn from 7.0.3 to 7.0.6
+
+Bumps [cross-spawn](https://github.com/moxystudio/node-cross-spawn) from 7.0.3 to 7.0.6.
+- [Changelog](https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6)
+
+---
+updated-dependencies:
+- dependency-name: cross-spawn
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
