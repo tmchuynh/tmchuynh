@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="711" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="561" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,66 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/tinahuynh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0f7ae1d</div>
+                                        <div class="message">add CNAME</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">tmchuynh/tinahuynh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5c8cdc5</div>
+                                        <div class="message">update keyboard shortcuts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a720da</div>
+                                        <div class="message">create not found page skeleton</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65599d8</div>
+                                        <div class="message">update updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d2c327</div>
+                                        <div class="message">update articles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da893bf</div>
+                                        <div class="message">update articles using dev.to api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#661c570</div>
+                                        <div class="message">update main page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -99,102 +159,6 @@
                                     <div class="commit">
                                         <div class="sha">#d75d19d</div>
                                         <div class="message">create pages and update components</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">tmchuynh/tinahuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c5f970b</div>
-                                        <div class="message">update timeline</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92e2e66</div>
-                                        <div class="message">create data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d880ac</div>
-                                        <div class="message">create empty pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0aff58b</div>
-                                        <div class="message">update timeline component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6850707</div>
-                                        <div class="message">shift breadcrumbs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3125c9b</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">tmchuynh/tinahuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f5d4562</div>
-                                        <div class="message">change data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad768a1</div>
-                                        <div class="message">update components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6c34c2</div>
-                                        <div class="message">update ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32200cd</div>
-                                        <div class="message">upload components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8eadec</div>
-                                        <div class="message">change colors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c4a626</div>
-                                        <div class="message">update pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88293c2</div>
-                                        <div class="message">upload photos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9418250</div>
-                                        <div class="message">fix image layout and shortcuts position</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cd2ad6</div>
-                                        <div class="message">add data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b74b672</div>
-                                        <div class="message">update project page</div>
                                     </div>
                                 </div>
                             </section>
