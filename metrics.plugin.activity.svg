@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="478" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,38 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/tails_n_trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77e1ad1</div>
+                                        <div class="message">update pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#960e01a</div>
+                                        <div class="message">test home page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc195ad</div>
+                                        <div class="message">update card colors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55e1e51</div>
+                                        <div class="message">upload photos</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -163,45 +195,6 @@ Bump python-multipart from 0.0.9 to 0.0.18</div>
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#6ac04aa</div>
-                                        <div class="message">Bump python-multipart from 0.0.9 to 0.0.18
-
-Bumps [python-multipart](https://github.com/Kludex/python-multipart) from 0.0.9 to 0.0.18.
-- [Release notes](https://github.com/Kludex/python-multipart/releases)
-- [Changelog](https://github.com/Kludex/python-multipart/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/Kludex/python-multipart/compare/0.0.9...0.0.18)
-
----
-updated-dependencies:
-- dependency-name: python-multipart
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/storytelling_platform</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#879e358</div>
-                                        <div class="message">Merge pull request #5 from tmchuynh/dependabot/pip/python-multipart-0.0.18
-
-Bump python-multipart from 0.0.9 to 0.0.18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8ff813</div>
                                         <div class="message">Bump python-multipart from 0.0.9 to 0.0.18
 
 Bumps [python-multipart](https://github.com/Kludex/python-multipart) from 0.0.9 to 0.0.18.
