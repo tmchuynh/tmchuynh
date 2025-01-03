@@ -1,13 +1,14 @@
 <h1 align="center">Hello, My name is Tina</h1>
 
 <div align="right">
-  <p align="left">Web development is more than just a career for me—it’s a fiery passion that fuels every aspect of my work. I am driven by a commitment to crafting innovative solutions and sharing knowledge, embracing every challenge with heart and determination. This journey is about more than just achieving success; it’s about turning dreams into reality and connecting deeply with others.
+  <p align="left">
+    Web development isn’t just a profession—it’s the fire in my soul, igniting my creativity and driving every moment of my journey. It’s a relentless pursuit of innovation, a passion for solving problems, and an unyielding commitment to sharing knowledge. For me, it’s not merely about building websites or applications—it’s about turning visions into reality, crafting connections, and leaving an indelible mark on the world.
     <br><br>
-   While the misuse of technology has led to troubling disconnection from reality and genuine social interaction, its true potential lies in its ability to unite us. The COVID-19 pandemic showcased how technology could bridge gaps, bringing people together and fostering relationships when physical distance separated us. It’s a powerful reminder that technology, when used purposefully, can forge meaningful connections and support communities in times of need.
+    Technology, when wielded with purpose, has the power to transform lives and unite people. In a world where its misuse often fosters isolation and detachment, we’ve seen its profound potential to bring us closer. The COVID-19 pandemic illuminated this truth—technology became the thread that stitched us together, creating bonds across physical divides and helping communities endure. It’s a testament to the transformative power of innovation when guided by intention and empathy.
     <br><br>
-   Beyond its functional role, technology is an art form—a way to express creativity and evoke emotion. Just as movies paint vivid narratives on the screen, web design transforms ideas into immersive experiences. Innovations like self-driving cars are not merely technical marvels but reflections of our imagination, pushing the boundaries of what’s possible and reshaping our world.
-  <br><br>
-In web development, every line of code and every design choice is an opportunity to create something that resonates and inspires. My passion drives me to harness technology’s potential to build experiences that connect people, reflect our shared humanity, and enrich our lives. By embracing this passion with unwavering resolve, I believe we can shape a future where technology is not just a tool but a bridge to a more connected and expressive world.
+    But technology is more than a means to an end—it’s a canvas for creativity and an instrument of expression. Like a painter with a brush or a filmmaker with a camera, web developers wield tools that shape immersive experiences, provoke emotion, and spark imagination. From awe-inspiring web designs to groundbreaking innovations like autonomous vehicles, technology reflects our boundless dreams, redefines what’s possible, and reshapes the very fabric of our lives.
+    <br><br>
+    Every line of code I write, every pixel I design, is a step toward building something meaningful—something that connects, inspires, and uplifts. My passion for web development drives me to harness the extraordinary potential of technology, not just as a tool, but as a bridge to deeper connections, shared humanity, and a brighter future. Together, we can create a world where technology is a force for unity and an enduring celebration of human ingenuity.
   </p>
 </div>
 
@@ -18,8 +19,6 @@ In web development, every line of code and every design choice is an opportunity
   <a href="https://app.daily.dev/tmchuynh"><img align="right" src="https://github.com/tmchuynh/tmchuynh/blob/master/devcard.svg" width="325" alt="Tina Huynh's Dev Card"/></a>
   
   <br>
-
-
 
  </div>
   
