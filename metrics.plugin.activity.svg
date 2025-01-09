@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="478" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,81 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fbddb8f</div>
+                                        <div class="message">create photos page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a82a872</div>
+                                        <div class="message">update semantics</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d48d32</div>
+                                        <div class="message">update colors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a3edc8</div>
+                                        <div class="message">update nav</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#599c99d</div>
+                                        <div class="message">update staff members</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/tails_n_trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cf62332</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/npm_and_yarn/next-15.1.2
+
+Bump next from 15.0.3 to 15.1.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffd0c17</div>
+                                        <div class="message">Bump next from 15.0.3 to 15.1.2
+
+Bumps [next](https://github.com/vercel/next.js) from 15.0.3 to 15.1.2.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.0.3...v15.1.2)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -79,40 +154,6 @@
                                     <div class="commit">
                                         <div class="sha">#a979a55</div>
                                         <div class="message">update photo</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Made
-                                        <span class="repo">tmchuynh/Hangman-Game</span>
-                                        public
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#523d050</div>
-                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
