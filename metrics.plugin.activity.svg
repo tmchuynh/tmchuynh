@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,74 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#161734e</div>
+                                        <div class="message">add alts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f7b2684</div>
+                                        <div class="message">add alts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">tmchuynh/IAC_Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1d591f7</div>
+                                        <div class="message">add alts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b54dfb5</div>
+                                        <div class="message">update carousel photos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a979a55</div>
+                                        <div class="message">update photo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -45,133 +113,6 @@
                                     <div class="commit">
                                         <div class="sha">#523d050</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c3b10ca</div>
-                                        <div class="message">Merge pull request #205 from tmchuynh/dependabot/github_actions/actions/setup-python-5
-
-Bump actions/setup-python from 4 to 5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8242c29</div>
-                                        <div class="message">Bump actions/setup-python from 4 to 5
-
-Bumps [actions/setup-python](https://github.com/actions/setup-python) from 4 to 5.
-- [Release notes](https://github.com/actions/setup-python/releases)
-- [Commits](https://github.com/actions/setup-python/compare/v4...v5)
-
----
-updated-dependencies:
-- dependency-name: actions/setup-python
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d7172f</div>
-                                        <div class="message">Merge pull request #204 from tmchuynh/dependabot/github_actions/dailydotdev/action-devcard-2.3.1
-
-Bump dailydotdev/action-devcard from 2.2.0 to 2.3.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19e08d1</div>
-                                        <div class="message">Bump dailydotdev/action-devcard from 2.2.0 to 2.3.1
-
-Bumps [dailydotdev/action-devcard](https://github.com/dailydotdev/action-devcard) from 2.2.0 to 2.3.1.
-- [Release notes](https://github.com/dailydotdev/action-devcard/releases)
-- [Commits](https://github.com/dailydotdev/action-devcard/compare/2.2.0...2.3.1)
-
----
-updated-dependencies:
-- dependency-name: dailydotdev/action-devcard
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/faker-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fdfb0f6</div>
-                                        <div class="message">Merge pull request #5 from tmchuynh/dependabot/npm_and_yarn/multi-6bc014718a
-
-Bump path-to-regexp and express</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9effa5</div>
-                                        <div class="message">Bump path-to-regexp and express
-
-Bumps [path-to-regexp](https://github.com/pillarjs/path-to-regexp) to 0.1.12 and updates ancestor dependency [express](https://github.com/expressjs/express). These dependencies need to be updated together.
-
-
-Updates `path-to-regexp` from 0.1.10 to 0.1.12
-- [Release notes](https://github.com/pillarjs/path-to-regexp/releases)
-- [Changelog](https://github.com/pillarjs/path-to-regexp/blob/master/History.md)
-- [Commits](https://github.com/pillarjs/path-to-regexp/compare/v0.1.10...v0.1.12)
-
-Updates `express` from 4.21.1 to 4.21.2
-- [Release notes](https://github.com/expressjs/express/releases)
-- [Changelog](https://github.com/expressjs/express/blob/4.21.2/History.md)
-- [Commits](https://github.com/expressjs/express/compare/4.21.1...4.21.2)
-
----
-updated-dependencies:
-- dependency-name: path-to-regexp
-  dependency-type: indirect
-- dependency-name: express
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
