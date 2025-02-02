@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,107 +22,150 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/tmchuynh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f674c6f</div>
+                                        <div class="message">Merge pull request #208 from tmchuynh/dependabot/github_actions/dailydotdev/action-devcard-3.2.0
+
+Bump dailydotdev/action-devcard from 2.3.1 to 3.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e487fa5</div>
+                                        <div class="message">Bump dailydotdev/action-devcard from 2.3.1 to 3.2.0
+
+Bumps [dailydotdev/action-devcard](https://github.com/dailydotdev/action-devcard) from 2.3.1 to 3.2.0.
+- [Release notes](https://github.com/dailydotdev/action-devcard/releases)
+- [Commits](https://github.com/dailydotdev/action-devcard/compare/2.3.1...3.2.0)
+
+---
+updated-dependencies:
+- dependency-name: dailydotdev/action-devcard
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26bacd5</div>
+                                        <div class="message">update testimonials page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30fb766</div>
+                                        <div class="message">format filtering</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d73627a</div>
+                                        <div class="message">change quotation colors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#494aeaa</div>
+                                        <div class="message">update text color for dark theme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5145433</div>
+                                        <div class="message">update text sizes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05469d9</div>
+                                        <div class="message">update text sizes for different screens</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7b5c0d</div>
+                                        <div class="message">update header to match call to action section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a825105</div>
+                                        <div class="message">change badges to accent from outline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5f1a96</div>
+                                        <div class="message">add accent button and badge variant</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25990f6</div>
+                                        <div class="message">update home page layout and intro paragraph</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b2e14d</div>
+                                        <div class="message">add projects filtering</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33e6bf9</div>
+                                        <div class="message">add breadcrumbs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d36f430</div>
+                                        <div class="message">rename folders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e158cbf</div>
+                                        <div class="message">create dynamic breadcrumbs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30cb87b</div>
+                                        <div class="message">update blog to blogs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38ea699</div>
+                                        <div class="message">update blog to blogs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0e9e66</div>
+                                        <div class="message">create form for applicants</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#957b3d4</div>
+                                        <div class="message">update projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bab8699</div>
+                                        <div class="message">fix hover effect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9ac9f2</div>
+                                        <div class="message">upload bootstrap mock up photos</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                        <span class="repo">tmchuynh/word_search</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2e35f3</div>
-                                        <div class="message">update careers page - need a separte hiring form for applicants</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a0e05fa</div>
-                                        <div class="message">update navbar &amp; responsiveness</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8124bae</div>
-                                        <div class="message">Create open positions page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3afe9f</div>
-                                        <div class="message">rename Highlighted to EmphasizeText for easier importing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#57ec286</div>
-                                        <div class="message">update FAQs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62e760c</div>
-                                        <div class="message">update example contracts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b987b5b</div>
-                                        <div class="message">update layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a80cb72</div>
-                                        <div class="message">fix generalized layout of unordered lists</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df23e94</div>
-                                        <div class="message">create component for highlighted words</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56dc45c</div>
-                                        <div class="message">reformat</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b77b42</div>
-                                        <div class="message">add numbers next to filters and links to add filters on cards' topics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd53726</div>
-                                        <div class="message">reorder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5af9565</div>
-                                        <div class="message">add missing pricing tiers on pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94c34b9</div>
-                                        <div class="message">expand pricing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3037bf8</div>
-                                        <div class="message">update contactless cards information and layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4de62f</div>
-                                        <div class="message">update with text-balance</div>
+                                        <div class="sha">#ea2ee9e</div>
+                                        <div class="message">Create LICENSE</div>
                                     </div>
                                 </div>
                             </section>
@@ -135,14 +178,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                        <span class="repo">tmchuynh/word_search</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53fcfd0</div>
-                                        <div class="message">update</div>
+                                        <div class="sha">#a6000d4</div>
+                                        <div class="message">Create README file</div>
                                     </div>
                                 </div>
                             </section>
@@ -154,27 +197,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/Updated_Tic_Tac_Toe</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#edeb7b0</div>
-                                        <div class="message">replace content from information in constants to keep consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a6f758</div>
-                                        <div class="message">add content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f830895</div>
-                                        <div class="message">move import to the top</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bea3e3</div>
-                                        <div class="message">simplify arrays</div>
+                                        <div class="sha">#4cb9a69</div>
+                                        <div class="message">Create README file</div>
                                     </div>
                                 </div>
                             </section>
