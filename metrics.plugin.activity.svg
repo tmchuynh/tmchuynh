@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#258c69b</div>
-                                        <div class="message">Update Footer.tsx</div>
+                                        <div class="sha">#42b59bb</div>
+                                        <div class="message">Create blogposts.ts</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#55576ee</div>
-                                        <div class="message">Create page.tsx</div>
+                                        <div class="sha">#8ed181a</div>
+                                        <div class="message">Create route.ts</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a9a7718</div>
-                                        <div class="message">Update Footer.tsx</div>
+                                        <div class="sha">#6f646b2</div>
+                                        <div class="message">Update page.tsx</div>
                                     </div>
                                 </div>
                             </section>
@@ -82,79 +82,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/keenans_website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ecb5a38</div>
-                                        <div class="message">refactor: improve ModeButton component with enhanced theme handling and conditional rendering</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#400bad3</div>
-                                        <div class="message">refactor: enhance BackToTop component with detailed JSDoc comments for improved documentation and maintainability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdc1e4e</div>
-                                        <div class="message">refactor: enhance API route handlers with detailed JSDoc comments for improved documentation and maintainability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dc19f3</div>
-                                        <div class="message">refactor: enhance ApplicantSubmissionPage and ContactUsPage with improved JSDoc comments and update emailjs integration for better maintainability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a055b3</div>
-                                        <div class="message">refactor: enhance ContactUsPage with detailed JSDoc comments and improve type handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a23f665</div>
-                                        <div class="message">refactor: enhance NotFoundContext with detailed JSDoc comments and improve type annotations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e82f09e</div>
-                                        <div class="message">refactor: update BlogPostPage component to improve state handling and error management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ada37bc</div>
-                                        <div class="message">refactor: clean up PastProjectsPage component by removing unused handleFilter function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3eaa3b3</div>
-                                        <div class="message">refactor: rename FAQPage component to FaqPage and improve markup structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d529685</div>
-                                        <div class="message">refactor: remove unused import of LuArrowBigRightDash in Category page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86718af</div>
-                                        <div class="message">refactor: replace formatQuotes utility with splitAndTrimQuotes in TestimonialsPage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c5fce3</div>
-                                        <div class="message">refactor: move IconDisplay component to a shared location and clean up imports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59251bd</div>
-                                        <div class="message">refactor CategoryPage component by removing unused imports and optimizing state management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d65b36</div>
-                                        <div class="message">remove unused imports and clean up contracts page component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fa6df7</div>
-                                        <div class="message">add IconDisplay component to render custom or default icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#103190e</div>
-                                        <div class="message">add utility functions for formatting currency, dates, reading times, and generating markers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a433d58</div>
-                                        <div class="message">add debounce utility and refactor screen size hooks to improve performance</div>
+                                        <div class="sha">#a710034</div>
+                                        <div class="message">Update page.tsx</div>
                                     </div>
                                 </div>
                             </section>
@@ -166,91 +102,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/keenans_website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c54997</div>
-                                        <div class="message">feat: add SyncLoader component and loading animation utilities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ccc1c6</div>
-                                        <div class="message">feat: add dynamic breadcrumb component for improved navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8592c99</div>
-                                        <div class="message">feat: add custom hooks for medium and small screen size detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18ef103</div>
-                                        <div class="message">feat: add utility functions for currency formatting, string capitalization, and slug generation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#852a7c1</div>
-                                        <div class="message">refactor: reorganize sidebar components and remove unused files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6961134</div>
-                                        <div class="message">style: standardize quotation marks in globals.css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fb5b0f</div>
-                                        <div class="message">refactor: update class names for improved styling consistency across components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d80c53</div>
-                                        <div class="message">feat: update Tailwind CSS configuration and styles for v4 compatibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6518cff</div>
-                                        <div class="message">feat: add WidgetsExample7 component for displaying upcoming events</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ce99a4</div>
-                                        <div class="message">feat: add @material-tailwind/react dependency to enhance UI components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0732f2</div>
-                                        <div class="message">feat: add encryption and decryption utilities using AES-GCM algorithm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc7bdf4</div>
-                                        <div class="message">refactor: replace img tag with Image component in LoginForm for better optimization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b02ac20</div>
-                                        <div class="message">feat: add BarChart and LineChart components with sample data and configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb34f13</div>
-                                        <div class="message">feat: add date picker, calendars, and settings dialog components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d108816</div>
-                                        <div class="message">feat: add icon components for various services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45ea8a0</div>
-                                        <div class="message">refactor: remove unused Image import from home page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7270e5c</div>
-                                        <div class="message">refactor: simplify layout structure in login page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e82385</div>
-                                        <div class="message">remove tailwindcss-animate plugin and add recharts dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a90c697</div>
-                                        <div class="message">upload hooks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ace429</div>
-                                        <div class="message">init skeleton components</div>
+                                        <div class="sha">#ab84606</div>
+                                        <div class="message">Update page.tsx</div>
                                     </div>
                                 </div>
                             </section>
