@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="794" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,15 +22,71 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#48a251e</div>
-                                        <div class="message">feat: enhance DataTable with improved cursor styles, loading indicator, and dropdown alignment</div>
+                                        <div class="sha">#64089b8</div>
+                                        <div class="message">feat: add BlogCard component and implement pagination for featured blogs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a22331a</div>
+                                        <div class="message">feat: add documentation for Providers component in providers.tsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a24630</div>
+                                        <div class="message">feat: add checkbox change handler for dynamic state updates in PastProjectsPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00f341d</div>
+                                        <div class="message">feat: consolidate checkbox handling for filter options in PastProjectsPage</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d24af92</div>
+                                        <div class="message">feat: enhance blog display with improved subtopic filtering options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26c6c77</div>
+                                        <div class="message">feat: implement select all functionality for subtopics in blog display</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#590b26b</div>
+                                        <div class="message">feat: add new blog icons for various topics</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55b0045</div>
+                                        <div class="message">Add and update blog posts with subtopics for Getting Started</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c68e590</div>
+                                        <div class="message">refactor: reorganize types and interfaces for better structure and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d65afb6</div>
+                                        <div class="message">feat: add optional subtopics field to BlogPost interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4273fdd</div>
+                                        <div class="message"></div>
                                     </div>
                                 </div>
                             </section>
@@ -43,26 +99,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 4 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#becdfb7</div>
-                                        <div class="message">feat: add fixed width for select column and implement sorting for ID column in DataTable</div>
+                                        <div class="sha">#af654e1</div>
+                                        <div class="message"></div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a7aae4b</div>
-                                        <div class="message">fix: adjust TableCell width for better alignment in DataTable</div>
+                                        <div class="sha">#d2312b9</div>
+                                        <div class="message">feat: add new blog icons for enhanced visual representation</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c2c8fec</div>
-                                        <div class="message">feat: add CSV export functionality to DataTable and include sample payment data</div>
+                                        <div class="sha">#d4858b9</div>
+                                        <div class="message">feat: add new blog card and blog images for content enhancement</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#01c5f4d</div>
-                                        <div class="message">feat: implement pagination in DataTable and add sample payment data</div>
+                                        <div class="sha">#170cbd2</div>
+                                        <div class="message">fix: increase timeout duration for NotFound component redirect</div>
                                     </div>
                                 </div>
                             </section>
@@ -81,96 +137,64 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f88184</div>
-                                        <div class="message">refactor: clean up DataTable component by removing unused imports and simplifying button classes</div>
+                                        <div class="sha">#6007d2b</div>
+                                        <div class="message">refactor: update DataTable component to use core row model and enhance sub-table styling</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d80da31</div>
-                                        <div class="message">feat: add custom filtering and column visibility options to DataTable</div>
+                                        <div class="sha">#695f240</div>
+                                        <div class="message">feat: implement expandable sub-table for PurchaseRecord items with sorting functionality</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a5e377a</div>
-                                        <div class="message">feat: enhance DataTable with sorting, filtering, and column visibility features</div>
+                                        <div class="sha">#1474fbf</div>
+                                        <div class="message">refactor: update data state and API response handling to use PurchaseRecord type</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f31cbd3</div>
-                                        <div class="message">refactor: simplify Payment columns and enhance header interactivity</div>
+                                        <div class="sha">#04d48d6</div>
+                                        <div class="message">feat: add data generation utility for fake user and payment records</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a8aa59b</div>
-                                        <div class="message">refactor: rename CarouselDemo to Carousels and adjust layout styles</div>
+                                        <div class="sha">#547c48a</div>
+                                        <div class="message">refactor: clean up imports and update filter logic in DataTable component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#44fa157</div>
-                                        <div class="message">refactor: remove redundant class from LoginPage layout</div>
+                                        <div class="sha">#c48122c</div>
+                                        <div class="message">refactor: update columns definition to use PurchaseRecord and adjust accessor keys for improved data representation</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8bd1409</div>
-                                        <div class="message">feat: enhance Home component with header, welcome message, and carousel</div>
+                                        <div class="sha">#c326a3e</div>
+                                        <div class="message">refactor: replace static data with generated fake data for payments API response</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dc41f8e</div>
-                                        <div class="message">refactor: update MainContent component to accept children and change main tag to section</div>
+                                        <div class="sha">#5feb098</div>
+                                        <div class="message">refactor: update Payment type definition and move to types file</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#66f204f</div>
-                                        <div class="message">feat: add payments API route and refactor constants to include payment data</div>
+                                        <div class="sha">#25cb8e0</div>
+                                        <div class="message">refactor: remove Breadcrumb component from dashboard page for improved layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3283777</div>
-                                        <div class="message">feat: implement payments data fetching and loading state in DemoPage component</div>
+                                        <div class="sha">#ac8bf94</div>
+                                        <div class="message">refactor: update import statement for Payment type in columns file</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#67b2fd1</div>
-                                        <div class="message">feat: add constants for products and calls to action with associated icons</div>
+                                        <div class="sha">#26d704e</div>
+                                        <div class="message">refactor: update import statement for Payment type in payments page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#287e01d</div>
-                                        <div class="message">refactor: clean up NavMenu component by removing unused imports and reorganizing code structure</div>
+                                        <div class="sha">#694740f</div>
+                                        <div class="message">refactor: remove unused navMain items from SidebarLeft component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e5e0363</div>
-                                        <div class="message">feat: add DynamicBreadcrumb component to enhance navigation and improve layout structure</div>
+                                        <div class="sha">#7fa60ea</div>
+                                        <div class="message">refactor: clean up NavMenu component by removing unnecessary classes and improving readability</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4b0653d</div>
-                                        <div class="message">feat: add "use client" directive and TypeScript return type to BackToTop component</div>
+                                        <div class="sha">#40b84e7</div>
+                                        <div class="message">separate types and interfaces</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f884cbf</div>
-                                        <div class="message">refactor: rename NavigationMenuDemo to NavMenu and update layout to include BackToTop component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f940fc</div>
-                                        <div class="message">chore: add JSDoc comments for various components and functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1295faf</div>
-                                        <div class="message">refactor: update return type for useMediumScreen and clean up useSmallScreen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7681666</div>
-                                        <div class="message">add JSDoc comments for form handling and data fetching functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe405da</div>
-                                        <div class="message">add detailed JSDoc comments for blog display functions</div>
+                                        <div class="sha">#feb406f</div>
+                                        <div class="message">add faker/js</div>
                                     </div>
                                 </div>
                             </section>
@@ -183,14 +207,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#568eb39</div>
-                                        <div class="message">fix window</div>
+                                        <div class="sha">#48a251e</div>
+                                        <div class="message">feat: enhance DataTable with improved cursor styles, loading indicator, and dropdown alignment</div>
                                     </div>
                                 </div>
                             </section>
