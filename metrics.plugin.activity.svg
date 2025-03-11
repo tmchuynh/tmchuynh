@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,146 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#01c7656</div>
+                                        <div class="message">feat: add detailed documentation for data generation functions in generateData module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a98b189</div>
+                                        <div class="message">feat: clean up imports in RegistrationForm component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f79ac53</div>
+                                        <div class="message">feat: enhance documentation for GET request handler and improve type imports in components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24b1376</div>
+                                        <div class="message">feat: add detailed documentation for columns configuration in payments dashboard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78481c2</div>
+                                        <div class="message">feat: add detailed comments and documentation for DataTable and SubTable components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d67bfc0</div>
+                                        <div class="message">feat: add detailed documentation for DemoPage component and remove unused action buttons</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3f75f06</div>
+                                        <div class="message">feat: add detailed JSDoc comments for navigation functions in various service pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5a63c0a</div>
+                                        <div class="message">feat: ensure icons property defaults to an empty array in FeaturedBlogs component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#74a3872</div>
+                                        <div class="message">feat: update blog visuals with additional images and icons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#449c2e6</div>
+                                        <div class="message">feat: conditionally render icons in BlogPostPage component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6257107</div>
+                                        <div class="message">feat: make icons property optional in BlogPost interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b0efec</div>
+                                        <div class="message">feat: add Tailwind CSS icon for blog visuals</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ee04dd</div>
+                                        <div class="message">feat: enhance blog visuals with new icons and images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32e59f8</div>
+                                        <div class="message">feat: add new blog images for "Mastering Business Strategies" and "The Power of Consistency" articles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e71fd3</div>
+                                        <div class="message">feat: add new blog card image for "Mastering Business Strategies" article</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29164d8</div>
+                                        <div class="message">feat: update icons for training materials and study guides in sub-services</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#314eadd</div>
+                                        <div class="message">feat: simplify className logic for ServiceHighlights component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f35bb9</div>
+                                        <div class="message">feat: add new blog icons to enhance visual representation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b5ff6c</div>
+                                        <div class="message">feat: update service icons by adding new images and removing obsolete ones</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -107,234 +247,6 @@
                                     <div class="commit">
                                         <div class="sha">#67bfa01</div>
                                         <div class="message">fix: reorder include paths in tsconfig.json for correct TypeScript compilation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a5f9a15</div>
-                                        <div class="message">feat: remove registration form and related logic from LoginPage component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b0d716</div>
-                                        <div class="message">feat: replace Carousels with SlantedHero component on Home page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#086349d</div>
-                                        <div class="message">feat: add yosemite image for enhanced visual appeal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#017fadd</div>
-                                        <div class="message">feat: implement user authentication flow with error handling and feedback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fb910f</div>
-                                        <div class="message">feat: integrate HoverCard for password validation hints in LoginForm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88d2395</div>
-                                        <div class="message">feat: add user profile image for enhanced user experience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3cdc69</div>
-                                        <div class="message">feat: add LoginPage component with RegistrationForm and improved layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b481c49</div>
-                                        <div class="message">feat: add RegistrationForm component for user registration with validation and toast notifications</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb23e67</div>
-                                        <div class="message">refactor: update LoginPage layout to use &lt;main&gt; for semantic structure and improve LoginForm import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b307a44</div>
-                                        <div class="message">refactor: clean up code formatting and improve type annotations in CoolMode component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f40c300</div>
-                                        <div class="message">feat: add HoverCard component with trigger and content for enhanced UI interactions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62d5e72</div>
-                                        <div class="message">refactor: update next.config.ts to allow images from placehold.co and tailwindui.com with SVG support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a980767</div>
-                                        <div class="message">refactor: enhance Sonner component with customizable props for toast messages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66101c5</div>
-                                        <div class="message">refactor: import ToasterProps directly from sonner and enhance button styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d33ee28</div>
-                                        <div class="message">refactor: update Payments link to point to /dashboard/payments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c9f69c</div>
-                                        <div class="message">refactor: replace div with main for semantic HTML in dashboard and payments pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4cb68c</div>
-                                        <div class="message">refactor: replace div with main for semantic HTML in Home component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51bd985</div>
-                                        <div class="message">refactor: change section to main for semantic HTML in RootLayout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bc82a6</div>
-                                        <div class="message">refactor: remove unused dashboard page and columns definition files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1adc99f</div>
-                                        <div class="message">refactor: remove unused SidebarLayout and navbar components, update layout structure</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#16e77d7</div>
-                                        <div class="message">feat: add columns definition for payments table with sorting and selection functionality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#292abe8</div>
-                                        <div class="message">refactor: remove unused columns.tsx file from payments module</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf02ef5</div>
-                                        <div class="message">refactor: reorganize imports and clean up unused code in dashboard components</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c556297</div>
-                                        <div class="message">feat: add SidebarLayout component with loading state and sidebar integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#570b03b</div>
-                                        <div class="message">feat: implement loading state in dashboard page with timeout effect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c886bbc</div>
-                                        <div class="message">fix: add missing React import in columns.tsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25b0ac9</div>
-                                        <div class="message">fix: update URL for Past Purchases in SidebarLeft component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fa35a1</div>
-                                        <div class="message">feat: enhance PageHeading component with dynamic job details and props</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d66813d</div>
-                                        <div class="message">feat: migrate payments page to dashboard with data fetching and layout integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a63bc77</div>
-                                        <div class="message">refactor: reorder imports in navbar-right component for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32a6598</div>
-                                        <div class="message">refactor: reorganize imports in SidebarLeft component for improved readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1628ab2</div>
-                                        <div class="message">fix: add return type to LoadingIndicator component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae908f3</div>
-                                        <div class="message">feat: add toTitle function for converting strings to title case</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a65b315</div>
-                                        <div class="message">feat: enhance user and payment data generation with additional fields and improved randomness</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2632df2</div>
-                                        <div class="message">feat: add DataTableProps interface and middleName field to User type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50bf824</div>
-                                        <div class="message">refactor: remove unused status filter logic from DataTable component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a283c6f</div>
-                                        <div class="message">feat: add toggle icon for expandable rows in DataTable component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8b23c9</div>
-                                        <div class="message">refactor: clean up imports in dashboard page component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6c35f4</div>
-                                        <div class="message">feat: add product details and credit card information columns to PurchaseRecord table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d7cfcd</div>
-                                        <div class="message">refactor: simplify row expansion logic in DataTable component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5be8d84</div>
-                                        <div class="message">feat: enhance DataTable with expandable rows and improved column visibility management</div>
                                     </div>
                                 </div>
                             </section>
