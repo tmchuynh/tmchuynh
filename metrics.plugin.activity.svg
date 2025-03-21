@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1194" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,102 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eaf6902</div>
+                                        <div class="message">refactor: enhance ProductGallery component with dynamic image handling and navigation functionality</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#037a4b3</div>
+                                        <div class="message">refactor: update Carousels component to accept props for dynamic content rendering and improve styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36c7527</div>
+                                        <div class="message">refactor: add RandomNumberArrayOptions interface and implement generateRandomNumberArray function for improved random number generation in ProductGallery</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#122dee7</div>
+                                        <div class="message">refactor: update Footer component to use navigationSections for improved structure and readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f0e79d</div>
+                                        <div class="message">refactor: improve error handling in fetchProduct function for better reliability and user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdeb458</div>
+                                        <div class="message">refactor: update ProductInfo and RelatedProducts components for improved color selection handling and consistency in add to cart functionality</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#899648e</div>
+                                        <div class="message">refactor: add logging to fetchProduct function and update selectedItem prop in CategoryPage for improved debugging and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c0f1b9</div>
+                                        <div class="message">refactor: enhance cart page with alert dialog for removing all items and update navigation links for improved accessibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1111aca</div>
+                                        <div class="message">refactor: simplify product link generation in ProductCard component for improved readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea9da84</div>
+                                        <div class="message">refactor: update cart management to use item names instead of IDs for improved consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ade0a48</div>
+                                        <div class="message">refactor: add clearCart function to CartProvider for improved cart management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6270bf</div>
+                                        <div class="message">refactor: enhance RelatedProducts component by adding cartItems to useCart hook for improved cart interaction</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11d97c9</div>
+                                        <div class="message">refactor: implement handleAddToCart function and update ProductInfo component for enhanced cart interaction</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0587586</div>
+                                        <div class="message">refactor: update ProductDetails component for improved detail presentation and styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d66473</div>
+                                        <div class="message">refactor: add clearCart method to CartContextType interface for improved cart management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1dd33f</div>
+                                        <div class="message">refactor: add clearCart functionality and improve cart item display in CartPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f00465</div>
+                                        <div class="message">refactor: remove handleAddToCart function to streamline cart management logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eae9e93</div>
+                                        <div class="message">refactor: enhance Skeleton component with background color and updated text styling for better visibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25d3675</div>
+                                        <div class="message">refactor: enhance RelatedProducts component with color selection and tooltips for improved user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92ba916</div>
+                                        <div class="message">refactor: update Cart and Product components to use number for IDs, enhancing type consistency</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -215,54 +311,6 @@
                                     <div class="commit">
                                         <div class="sha">#ea6647a</div>
                                         <div class="message">feat: enhance CategoryPage and ProductCard to include item type and improve product linking</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8ca4249</div>
-                                        <div class="message">refactor: remove unnecessary extraction of productsArray from categoryData</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#947641f</div>
-                                        <div class="message">refactor: update type assertions for mockProductData to improve type safety</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7213c6c</div>
-                                        <div class="message">refactor: update import paths for mockProductData to improve code organization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d148ce</div>
-                                        <div class="message">feat: enhance Tooltip component with improved styling and additional side positioning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28bad96</div>
-                                        <div class="message">feat: update ProductPage and components to manage related products and enhance product details display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2690b5</div>
-                                        <div class="message">feat: add state management for selected gender, category, and item in CategoryPage for improved navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb761f9</div>
-                                        <div class="message">feat: add dynamic background color utility class to globals.css for improved styling flexibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daeaf02</div>
-                                        <div class="message">feat: implement new functionality in FeaturedCategory component for enhanced user interaction</div>
                                     </div>
                                 </div>
                             </section>
