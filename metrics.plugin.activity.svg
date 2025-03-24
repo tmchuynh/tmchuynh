@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1194" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="828" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,91 +22,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 23 commits in
+                                        Pushed 6 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eaf6902</div>
-                                        <div class="message">refactor: enhance ProductGallery component with dynamic image handling and navigation functionality</div>
+                                        <div class="sha">#45eaf4d</div>
+                                        <div class="message">feat: add gender dropdown to Shopping link in StaticBreadcrumb</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#037a4b3</div>
-                                        <div class="message">refactor: update Carousels component to accept props for dynamic content rendering and improve styling</div>
+                                        <div class="sha">#7043785</div>
+                                        <div class="message">feat: enhance StaticBreadcrumb to handle gender and category segments in breadcrumb navigation</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#36c7527</div>
-                                        <div class="message">refactor: add RandomNumberArrayOptions interface and implement generateRandomNumberArray function for improved random number generation in ProductGallery</div>
+                                        <div class="sha">#73a7223</div>
+                                        <div class="message">feat: refactor StaticBreadcrumb to improve item handling and add separators</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#122dee7</div>
-                                        <div class="message">refactor: update Footer component to use navigationSections for improved structure and readability</div>
+                                        <div class="sha">#83bf833</div>
+                                        <div class="message">feat: add "Shopping" link to breadcrumb navigation for shopping paths</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8f0e79d</div>
-                                        <div class="message">refactor: improve error handling in fetchProduct function for better reliability and user experience</div>
+                                        <div class="sha">#9e95df4</div>
+                                        <div class="message">feat: update breadcrumb navigation to include shopping path for parent and subcategories</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bdeb458</div>
-                                        <div class="message">refactor: update ProductInfo and RelatedProducts components for improved color selection handling and consistency in add to cart functionality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#899648e</div>
-                                        <div class="message">refactor: add logging to fetchProduct function and update selectedItem prop in CategoryPage for improved debugging and clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c0f1b9</div>
-                                        <div class="message">refactor: enhance cart page with alert dialog for removing all items and update navigation links for improved accessibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1111aca</div>
-                                        <div class="message">refactor: simplify product link generation in ProductCard component for improved readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea9da84</div>
-                                        <div class="message">refactor: update cart management to use item names instead of IDs for improved consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ade0a48</div>
-                                        <div class="message">refactor: add clearCart function to CartProvider for improved cart management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6270bf</div>
-                                        <div class="message">refactor: enhance RelatedProducts component by adding cartItems to useCart hook for improved cart interaction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11d97c9</div>
-                                        <div class="message">refactor: implement handleAddToCart function and update ProductInfo component for enhanced cart interaction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0587586</div>
-                                        <div class="message">refactor: update ProductDetails component for improved detail presentation and styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d66473</div>
-                                        <div class="message">refactor: add clearCart method to CartContextType interface for improved cart management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1dd33f</div>
-                                        <div class="message">refactor: add clearCart functionality and improve cart item display in CartPage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f00465</div>
-                                        <div class="message">refactor: remove handleAddToCart function to streamline cart management logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eae9e93</div>
-                                        <div class="message">refactor: enhance Skeleton component with background color and updated text styling for better visibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25d3675</div>
-                                        <div class="message">refactor: enhance RelatedProducts component with color selection and tooltips for improved user experience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92ba916</div>
-                                        <div class="message">refactor: update Cart and Product components to use number for IDs, enhancing type consistency</div>
+                                        <div class="sha">#29cadfa</div>
+                                        <div class="message">feat: enhance StaticBreadcrumb to include parent category dropdown navigation</div>
                                     </div>
                                 </div>
                             </section>
@@ -118,27 +62,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc5c7bb</div>
-                                        <div class="message">refactor: clean up imports and add SkeletonProps interface for better component flexibility</div>
+                                        <div class="sha">#92dc622</div>
+                                        <div class="message">feat: add FormattedItem interface for structured item representation</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8d91d6c</div>
-                                        <div class="message">refactor: update Skeleton component in CartPage for improved responsiveness and layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32f31c8</div>
-                                        <div class="message">refactor: streamline ProductInfo component by simplifying markup and removing unnecessary TooltipProvider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#686ea3f</div>
-                                        <div class="message">refactor: enhance Skeleton component to display text and improve layout in ProductGallery</div>
+                                        <div class="sha">#c4496da</div>
+                                        <div class="message">feat: add badge constants for product labels and icons</div>
                                     </div>
                                 </div>
                             </section>
@@ -150,83 +86,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 18 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bec3751</div>
-                                        <div class="message">refactor: remove HandleAddToCart function from utils for better code organization</div>
+                                        <div class="sha">#73e082e</div>
+                                        <div class="message">chore: update dependencies for improved performance and security</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b93d0e1</div>
-                                        <div class="message">refactor: implement handleAddToCart function in RelatedProducts for improved cart management</div>
+                                        <div class="sha">#8e1da41</div>
+                                        <div class="message">feat: enhance DynamicBreadcrumb with dropdown for category navigation and data fetching</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#edfd5f8</div>
-                                        <div class="message">refactor: simplify ProductInfo usage in ProductPage and change ID type to string in CartPage functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b85178b</div>
-                                        <div class="message">refactor: unify add to cart functionality across ProductCard and ProductInfo components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d6d309</div>
-                                        <div class="message">refactor: change ID type from number to string in cart context functions for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#339e6dd</div>
-                                        <div class="message">refactor: replace button with Tooltip for better user experience in ProductInfo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e28013</div>
-                                        <div class="message">refactor: remove unused imports in CategoryPage for cleaner code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8a0057</div>
-                                        <div class="message">refactor: add return type to fetchItemsData function for better type safety</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7249b13</div>
-                                        <div class="message">refactor: enhance documentation for CategoryCardWrapper and fetchItemsData functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8118141</div>
-                                        <div class="message">refactor: update product link generation in ProductCard for improved readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d998c0</div>
-                                        <div class="message">refactor: change CartItem id type from number to string for better compatibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#935688e</div>
-                                        <div class="message">feat: implement HandleAddToCart function for improved cart management and user feedback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a9ad6f</div>
-                                        <div class="message">refactor: streamline add to cart functionality in RelatedProducts component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#304aa6e</div>
-                                        <div class="message">feat: replace button with reusable Button component in ProductInfo for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70b1559</div>
-                                        <div class="message">refactor: simplify add to cart functionality in ProductCard component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdf271c</div>
-                                        <div class="message">feat: enable client-side rendering in Newsletter component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c660309</div>
-                                        <div class="message">refactor: remove unused state and functions from CategoryPage for cleaner code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7827645</div>
-                                        <div class="message">refactor: remove unused props from CategoryCardWrapper for cleaner code</div>
+                                        <div class="sha">#2c19bbf</div>
+                                        <div class="message">feat: add StaticBreadcrumb component for enhanced breadcrumb navigation</div>
                                     </div>
                                 </div>
                             </section>
@@ -238,15 +114,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4c1543</div>
-                                        <div class="message">feat: improve product data handling for better feature representation and consistency</div>
+                                        <div class="sha">#5018657</div>
+                                        <div class="message">refactor: integrate BreadcrumbLink into CategoryPage for improved navigation structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66ac1ea</div>
+                                        <div class="message">refactor: replace DynamicBreadcrumb with BreadcrumbWrapper in RootLayout for improved structure</div>
                                     </div>
                                 </div>
                             </section>
@@ -258,59 +138,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 20 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e39abe</div>
-                                        <div class="message">feat: update mock product data structure for improved feature representation and consistency</div>
+                                        <div class="sha">#863186c</div>
+                                        <div class="message">update data</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e8d1a84</div>
-                                        <div class="message">feat: refactor ProductDetails component to improve item attribute rendering and structure</div>
+                                        <div class="sha">#04a7407</div>
+                                        <div class="message">refactor: streamline badge rendering logic in ProductBadges component for improved performance</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#09058dc</div>
-                                        <div class="message">feat: update product link generation to remove possessive form from names</div>
+                                        <div class="sha">#940a8f9</div>
+                                        <div class="message">refactor: remove badgeData constants for cleaner codebase</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2dd820b</div>
-                                        <div class="message">feat: update mock product data structure to enhance product features representation</div>
+                                        <div class="sha">#f1e15c4</div>
+                                        <div class="message">refactor: remove conditional rendering of ProductBadges in ProductInfo for cleaner code</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#66f3172</div>
-                                        <div class="message">feat: enhance ProductDetails component to display detailed item attributes with improved formatting</div>
+                                        <div class="sha">#445ea9a</div>
+                                        <div class="message">refactor: integrate ProductBadges component into ProductInfo for enhanced badge display</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0ad5849</div>
-                                        <div class="message">feat: replace button element with custom Button component in Newsletter</div>
+                                        <div class="sha">#1e60204</div>
+                                        <div class="message">refactor: update SVG files to use camelCase for attributes for consistency</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#499f7c1</div>
-                                        <div class="message">feat: update mock product data with enhanced descriptions, additional colors, and improved related products</div>
+                                        <div class="sha">#0d33113</div>
+                                        <div class="message">refactor: improve highlights handling in ProductBadges and ProductInfo components for better badge rendering</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ad18e5f</div>
-                                        <div class="message">feat: add detailed documentation for CartPage component, outlining its features and dependencies</div>
+                                        <div class="sha">#723d5a4</div>
+                                        <div class="message">refactor: add highlights property to ProductType and update related components for enhanced product details</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5996b42</div>
-                                        <div class="message">feat: enhance documentation for ProductPage, CategoryPage, and GenderPage components with detailed remarks and examples</div>
+                                        <div class="sha">#171a0a4</div>
+                                        <div class="message">refactor: enhance documentation for visibleIndices function in ProductGallery component for improved clarity</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4a4fff9</div>
-                                        <div class="message">feat: add Color and ProductType types to enhance product detail representation</div>
+                                        <div class="sha">#a6973b3</div>
+                                        <div class="message">refactor: remove unnecessary padding from ProductInfo component for cleaner layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9afd54b</div>
-                                        <div class="message">feat: enhance Product components with improved type safety and detailed documentation</div>
+                                        <div class="sha">#0d169f6</div>
+                                        <div class="message">refactor: simplify ProductGallery component structure and improve styling consistency</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ea6647a</div>
-                                        <div class="message">feat: enhance CategoryPage and ProductCard to include item type and improve product linking</div>
+                                        <div class="sha">#efffc3c</div>
+                                        <div class="message">refactor: remove unnecessary console log from ProductGallery component for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dea5a4f</div>
+                                        <div class="message">refactor: add dynamic background color styling to ProductGallery component for improved visual consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a367276</div>
+                                        <div class="message">refactor: enhance documentation for CartAndFavoritesButtons component with detailed JSDoc comments for improved clarity and usability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffba6d5</div>
+                                        <div class="message">refactor: remove unnecessary whitespace in globals.css for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ba10b4</div>
+                                        <div class="message">refactor: clean up unused imports and improve component type annotations for better clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9aa5a06</div>
+                                        <div class="message">refactor: reorganize imports in CategoryPage component for improved readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a1ee09</div>
+                                        <div class="message">refactor: add dynamic border styling to ProductGallery component and update related CSS for improved accessibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d4a14d</div>
+                                        <div class="message">refactor: enhance documentation for ProductDetails, ProductGallery, QuickLookAndFavoriteButtons, RelatedProducts, and ThemeToggle components with detailed JSDoc comments for improved clarity and usability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93e2738</div>
+                                        <div class="message">refactor: enhance CategoryCard component documentation with detailed JSDoc comments for improved clarity and usability</div>
                                     </div>
                                 </div>
                             </section>
