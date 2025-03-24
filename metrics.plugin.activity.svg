@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="978" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1027" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,62 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f2c95f</div>
+                                        <div class="message">feat: implement CheckoutPage component with discount code functionality and order summary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02c5436</div>
+                                        <div class="message">fix: enhance CartProvider documentation with additional method descriptions for clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a672e9</div>
+                                        <div class="message">fix: improve layout of shopping cart page by restructuring subtotal, tax, shipping, and total display</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b95dfb8</div>
+                                        <div class="message">feat: add tax calculation, shipping method selection, and subtotal retrieval to CartProvider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bded3c3</div>
+                                        <div class="message">fix: enhance CartProvider documentation with detailed descriptions and examples for better clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1e2b1b</div>
+                                        <div class="message">fix: simplify QuickLookAndFavoriteButtons component by removing unnecessary details prop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9714cd4</div>
+                                        <div class="message">fix: integrate ProductContext into GenderPage and ProductCard for improved product data handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43c33c6</div>
+                                        <div class="message">feat: enhance CartContext with discount application, shipping calculations, and cart management features</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7e0d21</div>
+                                        <div class="message">fix: refactor CartContext and add ProductContext for improved product management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f165070</div>
+                                        <div class="message">fix: enhance CartProvider documentation and add productContext file for future implementation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -215,50 +271,6 @@
                                     <div class="commit">
                                         <div class="sha">#ad863d0</div>
                                         <div class="message">feat: enhance ProductGallery component with pathname handling for dynamic styling based on path segments</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ddc6ffd</div>
-                                        <div class="message">feat: enhance ProductCard component with dynamic styling and path-based rendering for QuickLookAndFavoriteButtons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da08b55</div>
-                                        <div class="message">feat: enhance CartAndFavoritesButtons component documentation and improve layout handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d9fb0b</div>
-                                        <div class="message">feat: improve breadcrumb display by replacing underscores with spaces in item names and segments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eee7963</div>
-                                        <div class="message">feat: update ProductDetails and CategoryCardData types to include gender, category, highlights, subcategory, images, quantity, price, and colors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac43fed</div>
-                                        <div class="message">feat: update styling for QuickLookAndFavoriteButtons component for improved layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bee9763</div>
-                                        <div class="message">feat: add ProductHighlights component to display product badges with icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea1f3d5</div>
-                                        <div class="message">feat: integrate ProductCard component into GenderPage for enhanced product display</div>
                                     </div>
                                 </div>
                             </section>
