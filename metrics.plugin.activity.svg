@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1311" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,87 +22,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 19 commits in
+                                        Pushed 5 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d835b3c</div>
-                                        <div class="message">fix: make quantity property required in ProductType</div>
+                                        <div class="sha">#c6faff6</div>
+                                        <div class="message">chore: add dbConnection.js to .gitignore</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ac892e1</div>
-                                        <div class="message">fix: remove toast notifications for discount code validation</div>
+                                        <div class="sha">#3d15acc</div>
+                                        <div class="message">refactor: update import paths for currencyCountries to use constants directory</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f3f4c71</div>
-                                        <div class="message">fix: remove unused props from checkout page component</div>
+                                        <div class="sha">#3ff7e6d</div>
+                                        <div class="message">refactor: update import paths to use constants directory for various components and add new constants for blog and badge data</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1f73ce3</div>
-                                        <div class="message">fix: clear discount error message after 4 seconds and remove unused props from order summary</div>
+                                        <div class="sha">#20b2205</div>
+                                        <div class="message">refactor: update import paths for mockProductData to use constants directory</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c5b86af</div>
-                                        <div class="message">fix: improve discount code feedback display logic in discount form</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44f8cde</div>
-                                        <div class="message">fix: correct delivery date formatting for standard and default shipping options</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#340b450</div>
-                                        <div class="message">feat: update delivery date calculations and improve express shipping window description</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7ac22d</div>
-                                        <div class="message">feat: enhance delivery date calculations and add delivery window estimation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21ccac7</div>
-                                        <div class="message">feat: enhance order summary to display estimated delivery window</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a45b297</div>
-                                        <div class="message">feat: add estimated delivery date calculation and display in order summary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ac0fa1</div>
-                                        <div class="message">fix: update Continue Shopping button navigation to redirect to the homepage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7c40e6</div>
-                                        <div class="message">feat: add CheckoutSummary component to provide an overview of the checkout process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fb6189</div>
-                                        <div class="message">feat: add ShippingAddressForm component for capturing shipping address details in checkout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfe884a</div>
-                                        <div class="message">feat: add PaymentInfoForm component for capturing payment details in checkout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d149670</div>
-                                        <div class="message">feat: add OrderSummary component to display summary details in checkout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6f4968</div>
-                                        <div class="message">feat: add OrderItems component to display items in the checkout process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d2c5e4</div>
-                                        <div class="message">feat: add DiscountForm component for applying discount codes in checkout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e743fb2</div>
-                                        <div class="message">feat: add CustomerInfoForm component for capturing customer details in checkout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93dc85f</div>
-                                        <div class="message">feat: streamline imports in productContext for improved clarity and organization</div>
+                                        <div class="sha">#efbb958</div>
+                                        <div class="message">refactor: update import paths for constants and improve type annotations in various components</div>
                                     </div>
                                 </div>
                             </section>
@@ -114,59 +58,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 27 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3260010</div>
-                                        <div class="message">feat: update import structure for ShippingMethod in cartContext</div>
+                                        <div class="sha">#0480e19</div>
+                                        <div class="message">feat: update utility function imports and replace lucide-react icons with react-icons across various components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#22f97de</div>
-                                        <div class="message">feat: add new types and interfaces for product filters, shipping methods, and order summary in CheckoutPage</div>
+                                        <div class="sha">#2131e58</div>
+                                        <div class="message">feat: replace lucide-react icons with react-icons in customer reviews and FAQ sections</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4ae52f8</div>
-                                        <div class="message">feat: enhance discount code handling with error messages and input clearing in CheckoutPage</div>
+                                        <div class="sha">#2612816</div>
+                                        <div class="message">feat: add new interfaces for shipping methods and information details</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#75c0c90</div>
-                                        <div class="message">feat: add payment method icons for Visa, Mastercard, Discover, and American Express in CheckoutPage</div>
+                                        <div class="sha">#cc6e778</div>
+                                        <div class="message">feat: update import paths for utility functions in UI components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#63e5d82</div>
-                                        <div class="message">feat: refactor Order Items section in CheckoutPage for improved layout and functionality</div>
+                                        <div class="sha">#c21d5a5</div>
+                                        <div class="message">feat: refactor utility function imports across various components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b504e66</div>
-                                        <div class="message">feat: add validation and formatting utilities for credit card and phone number</div>
+                                        <div class="sha">#b0ceb76</div>
+                                        <div class="message">feat: update import paths for utility functions in buttons and category components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d295826</div>
-                                        <div class="message">feat: enhance CheckoutPage with credit card and phone number validation and formatting utilities</div>
+                                        <div class="sha">#8165c88</div>
+                                        <div class="message">feat: update import paths for utility functions in customer service, policies, shopping, and checkout components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#12b7cfc</div>
-                                        <div class="message">feat: add welcome alert dialog to Newsletter component for discount notification</div>
+                                        <div class="sha">#e421f5b</div>
+                                        <div class="message">feat: update import paths for encryption utilities in authentication and wishlist routes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2f584ea</div>
-                                        <div class="message">feat: add edit cart button to Order Items section in CheckoutPage</div>
+                                        <div class="sha">#fdb8b77</div>
+                                        <div class="message">feat: remove lucide-react dependency from package.json and package-lock.json</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#656d5b6</div>
-                                        <div class="message">feat: implement phone and credit card number formatting in CheckoutPage component</div>
+                                        <div class="sha">#5bc9d0e</div>
+                                        <div class="message">feat: add utility functions for generating random numbers, months, years, and formatting strings</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#789125d</div>
-                                        <div class="message">feat: enhance InputOTP components with accessibility improvements and interactivity</div>
+                                        <div class="sha">#dc6ee0b</div>
+                                        <div class="message">feat: update import paths for utils in cart and payment contexts</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1f54be2</div>
-                                        <div class="message">fix: add null checks in InputOTPSlot to prevent runtime errors and improve code stability</div>
+                                        <div class="sha">#0d0661e</div>
+                                        <div class="message">feat: refactor imports to use utils from the correct path and update icons in About section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1398e5</div>
+                                        <div class="message">feat: implement authentication and wishlist API functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a9d961</div>
+                                        <div class="message">feat: update decryptKey function to accept secretKey parameter for improved key management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ddfe22</div>
+                                        <div class="message">feat: update ShippingAddressFormProps to use ShippingAddress type</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5464fb4</div>
+                                        <div class="message">feat: update ShippingAddress interface to include shipping method and save address options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5b485f</div>
+                                        <div class="message">feat: update navigation imports and enhance button styles for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2459933</div>
+                                        <div class="message">feat: implement user authentication with encrypted tokens and simulated user data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4009c7</div>
+                                        <div class="message">feat: refactor product retrieval API to include slug parameter for enhanced product detail access</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#723d991</div>
+                                        <div class="message">feat: update configuration and dependencies for improved environment variable management and support for SVG loading</div>
                                     </div>
                                 </div>
                             </section>
@@ -178,51 +154,47 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
+                                        Pushed 9 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f2c95f</div>
-                                        <div class="message">feat: implement CheckoutPage component with discount code functionality and order summary</div>
+                                        <div class="sha">#4c66ba1</div>
+                                        <div class="message">feat: add detailed documentation for authentication and wishlist API routes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#02c5436</div>
-                                        <div class="message">fix: enhance CartProvider documentation with additional method descriptions for clarity</div>
+                                        <div class="sha">#9ffe8aa</div>
+                                        <div class="message">feat: add detailed documentation for CustomerService, TrackOrder, LoyaltyProgram, CookiePolicy, PaymentSecurity, and PrivacyPolicy components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1a672e9</div>
-                                        <div class="message">fix: improve layout of shopping cart page by restructuring subtotal, tax, shipping, and total display</div>
+                                        <div class="sha">#d633ac0</div>
+                                        <div class="message">feat: add detailed documentation for ReturnPolicy, TermsAndConditions, CategoryPage, and GenderPage components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b95dfb8</div>
-                                        <div class="message">feat: add tax calculation, shipping method selection, and subtotal retrieval to CartProvider</div>
+                                        <div class="sha">#d31e084</div>
+                                        <div class="message">feat: enhance documentation for CheckoutError, CheckoutPage, OrderConfirmation, CartPage, and SizeGuide components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bded3c3</div>
-                                        <div class="message">fix: enhance CartProvider documentation with detailed descriptions and examples for better clarity</div>
+                                        <div class="sha">#422363c</div>
+                                        <div class="message">feat: add detailed documentation for ComingSoon, ProductRate, OrderItems, ProductCard, ShippingMethodSelector, and OrderSummary components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a1e2b1b</div>
-                                        <div class="message">fix: simplify QuickLookAndFavoriteButtons component by removing unnecessary details prop</div>
+                                        <div class="sha">#90a1d33</div>
+                                        <div class="message">feat: update DiscountFormProps interface and add documentation for FeaturedCategory component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9714cd4</div>
-                                        <div class="message">fix: integrate ProductContext into GenderPage and ProductCard for improved product data handling</div>
+                                        <div class="sha">#317c273</div>
+                                        <div class="message">feat: add detailed documentation for ProductPage and DiscountForm components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#43c33c6</div>
-                                        <div class="message">feat: enhance CartContext with discount application, shipping calculations, and cart management features</div>
+                                        <div class="sha">#65b7f6e</div>
+                                        <div class="message">feat: add detailed documentation for Wishlist, Categories, and ShopByCollection components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f7e0d21</div>
-                                        <div class="message">fix: refactor CartContext and add ProductContext for improved product management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f165070</div>
-                                        <div class="message">fix: enhance CartProvider documentation and add productContext file for future implementation</div>
+                                        <div class="sha">#6fbd27a</div>
+                                        <div class="message">feat: enhance customer reviews and trending products components with detailed documentation and improved type definitions</div>
                                     </div>
                                 </div>
                             </section>
@@ -234,59 +206,43 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 8 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4623b03</div>
-                                        <div class="message">fix: add product details to QuickLookAndFavoriteButtons and update ProductType to include details and badge</div>
+                                        <div class="sha">#ddd2914</div>
+                                        <div class="message">feat: refactor imports for consistency and clarity across components and types</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e22c50f</div>
-                                        <div class="message">fix: update CartContext and QuickLookAndFavoriteButtons to include complete product details and improve structure</div>
+                                        <div class="sha">#818e2fd</div>
+                                        <div class="message">feat: add loading, error, and coming soon components along with product data fetching functionality</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2588562</div>
-                                        <div class="message">fix: remove unused DropdownMenu component from CategoryPage for cleaner code</div>
+                                        <div class="sha">#8013165</div>
+                                        <div class="message">feat: update import paths for navigation and category components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5f2dfbe</div>
-                                        <div class="message">fix: update URL generation in ProductInfo to use formatURL for consistent formatting</div>
+                                        <div class="sha">#7229985</div>
+                                        <div class="message">feat: implement authentication and wishlist API routes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7dcda7d</div>
-                                        <div class="message">fix: enhance capitalize function to handle underscores and trim whitespace; add formatURL utility</div>
+                                        <div class="sha">#c0b26fb</div>
+                                        <div class="message">feat: add jsonwebtoken and its types for improved authentication handling</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1e18ca7</div>
-                                        <div class="message">fix: simplify capitalization logic in Breadcrumb components</div>
+                                        <div class="sha">#6d91150</div>
+                                        <div class="message">feat: update import paths from interfaces to types for consistency and clarity</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fc168e2</div>
-                                        <div class="message">fix: replace loading messages with LoadingIndicator and CannotFind components in ProductPage</div>
+                                        <div class="sha">#41e5caa</div>
+                                        <div class="message">feat: update import paths for AuthUser and related types in authContext</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f1e21f6</div>
-                                        <div class="message">fix: replace loading messages with LoadingIndicator and update no items found message to CannotFind component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#028d311</div>
-                                        <div class="message">fix: replace loading and no categories messages with LoadingIndicator and CannotFind components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a86907</div>
-                                        <div class="message">fix: update QuickLookAndFavoriteButtons to accept product prop and implement product fetching logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99c9b6e</div>
-                                        <div class="message">fix: enhance ProductCard badge styling and add tooltip components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a069e9e</div>
-                                        <div class="message">fix: sort and update badge rendering in ProductHighlights component</div>
+                                        <div class="sha">#79dc2c7</div>
+                                        <div class="message">feat: refactor interfaces and types for improved structure and clarity</div>
                                     </div>
                                 </div>
                             </section>
@@ -298,35 +254,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 130 commits in
                                         <span class="repo">tmchuynh/custom-ecommerce</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#996b2db</div>
-                                        <div class="message">fix: remove redundant ProductHighlights component in ProductInfo and adjust layout in ProductGallery</div>
+                                        <div class="sha">#c046756</div>
+                                        <div class="message">feat: improve layout and functionality of cart and quantity buttons</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6f91072</div>
-                                        <div class="message">fix: update ProductCard to improve layout and handle optional product properties</div>
+                                        <div class="sha">#304ba6f</div>
+                                        <div class="message">feat: integrate local quantity state management in cart buttons</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#97d3e30</div>
-                                        <div class="message">feat: refactor GenderPage to improve category fetching and rendering logic</div>
+                                        <div class="sha">#9d385f5</div>
+                                        <div class="message">feat: enhance product details and improve quantity selector UI</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bbd6f47</div>
-                                        <div class="message">fix: update GenderPage to log subcategory details and ensure images are correctly assigned in ProductCard</div>
+                                        <div class="sha">#34a0861</div>
+                                        <div class="message">feat: remove breadcrumb navigation from ProductPage for cleaner layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#237edd7</div>
-                                        <div class="message">feat: enhance GenderPage to retrieve categories from navigations and improve category processing logic</div>
+                                        <div class="sha">#7cb5de4</div>
+                                        <div class="message">feat: add subcategory field to navigation details in constants</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9ea358b</div>
-                                        <div class="message">fix: update GenderPage to correctly retrieve and log subcategories based on gender</div>
+                                        <div class="sha">#d18f2f5</div>
+                                        <div class="message">feat: add navigation links to product names in ProductCard and log enhanced products in CategoryPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d24b51</div>
+                                        <div class="message">feat: implement new product filtering options in GenderPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#103c97e</div>
+                                        <div class="message">feat: simplify GenderPage by removing unused state and refactoring category filtering</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4936b56</div>
+                                        <div class="message">feat: enhance GenderPage with improved category and item filtering logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34903cd</div>
+                                        <div class="message">feat: add multi-select filtering and sorting options to GenderPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec2144c</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3933e85</div>
+                                        <div class="message">feat: add getProductsByGender method to ProductContextType interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b09a832</div>
+                                        <div class="message">feat: add getProductsByGender function to filter products by gender</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1eb1518</div>
+                                        <div class="message">feat: implement multi-select filters for CategoryPage with checkbox options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f3e42c</div>
+                                        <div class="message">refactor: simplify CategoryPage by removing unused hooks and optimizing filter logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89fa34b</div>
+                                        <div class="message">fix: update ProductCard and CategorySectionPage styles to include border for improved visibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#079e837</div>
+                                        <div class="message">feat: implement collapsible filters for mobile view in CategorySectionPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dae129b</div>
+                                        <div class="message">feat: enhance ProductCard with new badges and hover effects for quick actions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24d68b8</div>
+                                        <div class="message">fix: remove unnecessary classes from ProductPage for cleaner markup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8448eb4</div>
+                                        <div class="message">feat: refactor GenderPage layout and enhance category display with Badge component</div>
                                     </div>
                                 </div>
                             </section>
