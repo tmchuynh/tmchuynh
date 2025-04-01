@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1311" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1394" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,141 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 32 commits in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#362e00c</div>
+                                        <div class="message">feat: update information details and policies menu descriptions for clarity and improved user understanding</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdcf0c9</div>
+                                        <div class="message">feat: update HomePage component with DynamicButton for improved call-to-action and enhance styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#573e139</div>
+                                        <div class="message">feat: integrate DynamicButton in Categories component and update styling for improved user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eee30ac</div>
+                                        <div class="message">feat: add motion library version 12.6.2 to package.json and package-lock.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b15bab7</div>
+                                        <div class="message">feat: enhance information details with new loyalty program and track order sections, and update policies menu with international return policy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f37941</div>
+                                        <div class="message">fix: update FeaturedCategory button variant and margin for improved styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41a69ee</div>
+                                        <div class="message">feat: add policies menu to navigation with popover functionality</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f57d189</div>
+                                        <div class="message">fix: standardize icon usage across components and update icon imports for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce90129</div>
+                                        <div class="message">fix: reorganize icon imports and update international orders section icons for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f36473</div>
+                                        <div class="message">fix: update icon components to use consistent sizing classes for improved layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f0449d</div>
+                                        <div class="message">fix: update icon components to include size prop for consistent rendering</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20c6b7a</div>
+                                        <div class="message">fix: update sticky positioning in various components for improved layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcebb9c</div>
+                                        <div class="message">fix: update dependencies and refactor NavMenu component to use new icon imports</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec0a93c</div>
+                                        <div class="message">fix: add detailed documentation and section constants for international orders, gift cards, and product recommendations pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1ad8dc</div>
+                                        <div class="message">fix: remove unused dependencies from package.json for optimization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f68111</div>
+                                        <div class="message">fix: update privacy policy link to use underscore in URL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b480ed</div>
+                                        <div class="message">fix: update import path for useEffect from react to react/hooks in component files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c447860</div>
+                                        <div class="message">fix: update import path for router from next/router to next/navigation in policy pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a26585</div>
+                                        <div class="message">fix: update import path for useRouter from next/router to next/navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4592e99</div>
+                                        <div class="message">refactor: remove account registration section from information details for clarity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9fe7a97</div>
+                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/next-15.2.4
+
+chore(deps): bump next from 15.1.5 to 15.2.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab944b7</div>
+                                        <div class="message">chore(deps): bump next from 15.1.5 to 15.2.4
+
+Bumps [next](https://github.com/vercel/next.js) from 15.1.5 to 15.2.4.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.1.5...v15.2.4)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -239,106 +374,6 @@
                                     <div class="commit">
                                         <div class="sha">#723d991</div>
                                         <div class="message">feat: update configuration and dependencies for improved environment variable management and support for SVG loading</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4c66ba1</div>
-                                        <div class="message">feat: add detailed documentation for authentication and wishlist API routes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ffe8aa</div>
-                                        <div class="message">feat: add detailed documentation for CustomerService, TrackOrder, LoyaltyProgram, CookiePolicy, PaymentSecurity, and PrivacyPolicy components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d633ac0</div>
-                                        <div class="message">feat: add detailed documentation for ReturnPolicy, TermsAndConditions, CategoryPage, and GenderPage components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d31e084</div>
-                                        <div class="message">feat: enhance documentation for CheckoutError, CheckoutPage, OrderConfirmation, CartPage, and SizeGuide components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#422363c</div>
-                                        <div class="message">feat: add detailed documentation for ComingSoon, ProductRate, OrderItems, ProductCard, ShippingMethodSelector, and OrderSummary components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90a1d33</div>
-                                        <div class="message">feat: update DiscountFormProps interface and add documentation for FeaturedCategory component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#317c273</div>
-                                        <div class="message">feat: add detailed documentation for ProductPage and DiscountForm components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65b7f6e</div>
-                                        <div class="message">feat: add detailed documentation for Wishlist, Categories, and ShopByCollection components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fbd27a</div>
-                                        <div class="message">feat: enhance customer reviews and trending products components with detailed documentation and improved type definitions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ddd2914</div>
-                                        <div class="message">feat: refactor imports for consistency and clarity across components and types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#818e2fd</div>
-                                        <div class="message">feat: add loading, error, and coming soon components along with product data fetching functionality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8013165</div>
-                                        <div class="message">feat: update import paths for navigation and category components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7229985</div>
-                                        <div class="message">feat: implement authentication and wishlist API routes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0b26fb</div>
-                                        <div class="message">feat: add jsonwebtoken and its types for improved authentication handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d91150</div>
-                                        <div class="message">feat: update import paths from interfaces to types for consistency and clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41e5caa</div>
-                                        <div class="message">feat: update import paths for AuthUser and related types in authContext</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79dc2c7</div>
-                                        <div class="message">feat: refactor interfaces and types for improved structure and clarity</div>
                                     </div>
                                 </div>
                             </section>
