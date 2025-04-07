@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,35 +22,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/tails_n_trails</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fc524c4</div>
-                                        <div class="message">Merge pull request #4 from tmchuynh/dependabot/npm_and_yarn/babel/runtime-7.27.0
+                                        <div class="sha">#46b7096</div>
+                                        <div class="message">Refactors programInfo icons type for improved readability and maintainability
 
-Bump @babel/runtime from 7.26.0 to 7.27.0</div>
+Updates the icons type in the programInfo interface to use the type from programIcons for better code organization and clarity. Removes unnecessary imports and simplifies the type definition.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#03f7a9c</div>
-                                        <div class="message">Bump @babel/runtime from 7.26.0 to 7.27.0
+                                        <div class="sha">#e5ccfb5</div>
+                                        <div class="message">Updates program icons for basketball, volleyball, and flag football
 
-Bumps [@babel/runtime](https://github.com/babel/babel/tree/HEAD/packages/babel-runtime) from 7.26.0 to 7.27.0.
-- [Release notes](https://github.com/babel/babel/releases)
-- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/babel/babel/commits/v7.27.0/packages/babel-runtime)
+Updates program icons for basketball, volleyball, and flag football to include additional icons and images. This improves the visual representation of the programs and enhances the user experience.
 
----
-updated-dependencies:
-- dependency-name: "@babel/runtime"
-  dependency-version: 7.27.0
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+Fixes #123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17b344a</div>
+                                        <div class="message">Refactor ProgramDetails component to enhance icon rendering logic and improve code clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d684f29</div>
+                                        <div class="message">Add flag football SVG icon for enhanced visual representation</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,35 +60,71 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/knowledge_knockout</span>
+                                        Pushed 15 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d7a182b</div>
-                                        <div class="message">Merge pull request #6 from tmchuynh/dependabot/npm_and_yarn/next-15.2.4
-
-Bump next from 15.2.3 to 15.2.4</div>
+                                        <div class="sha">#3c100f6</div>
+                                        <div class="message">Refactor ProgramInformation component for improved layout and readability</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6a4a058</div>
-                                        <div class="message">Bump next from 15.2.3 to 15.2.4
-
-Bumps [next](https://github.com/vercel/next.js) from 15.2.3 to 15.2.4.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v15.2.3...v15.2.4)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-version: 15.2.4
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#667843d</div>
+                                        <div class="message">Refactor ProgramsPage layout for improved structure and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e6d507</div>
+                                        <div class="message">Refactor SchoolInformationPage by removing redundant content for improved clarity and engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4b065e</div>
+                                        <div class="message">Refactor OurMissionPage content for enhanced clarity and engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42eeabb</div>
+                                        <div class="message">Refactor OurCommitmentPage content for enhanced clarity and engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a01d2f</div>
+                                        <div class="message">Refactor AboutUsPage content for enhanced storytelling and engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fac921d</div>
+                                        <div class="message">Refactor SchoolInformationPage by removing unused imports for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a4cfd8</div>
+                                        <div class="message">Refactor NavBar item padding for improved layout and user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7675b66</div>
+                                        <div class="message">Refactor SchoolInformationPage layout and content for enhanced clarity and engagement, adding after-school program details and icons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a37c77f</div>
+                                        <div class="message">Add program icons for new activities to enhance user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e001b8</div>
+                                        <div class="message">Refactor StudentShowcasePage header for improved emphasis on creativity and expression</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eec832c</div>
+                                        <div class="message">Refactor StudentShowcasePage content for enhanced clarity and engagement, emphasizing student creativity and privacy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb26e0d</div>
+                                        <div class="message">Refactor RequestFormParentStudent for improved messaging and layout, enhancing user engagement and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4abaa4b</div>
+                                        <div class="message">Refactor SchoolInformationPage content and structure for clarity and engagement, integrating DynamicButton for contact action</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd7fac9</div>
+                                        <div class="message">Fix DynamicButton alignment by adding horizontal margin for centering</div>
                                     </div>
                                 </div>
                             </section>
@@ -102,35 +136,91 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/tails_n_trails</span>
+                                        Pushed 55 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6749bc8</div>
-                                        <div class="message">Merge pull request #3 from tmchuynh/dependabot/npm_and_yarn/next-15.2.4
-
-Bump next from 15.2.3 to 15.2.4</div>
+                                        <div class="sha">#28e6a1f</div>
+                                        <div class="message">Update global CSS variables for improved color consistency and accessibility</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b438d45</div>
-                                        <div class="message">Bump next from 15.2.3 to 15.2.4
-
-Bumps [next](https://github.com/vercel/next.js) from 15.2.3 to 15.2.4.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v15.2.3...v15.2.4)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-version: 15.2.4
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#ae9a1b0</div>
+                                        <div class="message">Add JSDoc comments to DynamicButton component for improved documentation and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37600a3</div>
+                                        <div class="message">Refactor ProgramDetails component to manage active tab state more effectively using tabsValue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccf6db8</div>
+                                        <div class="message">Update FeaturedTestimonial component with new testimonial content and improved layout for better presentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d477812</div>
+                                        <div class="message">Update ContentAndScreenshot component with enhanced text and dynamic button for improved user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68f73c8</div>
+                                        <div class="message">Increase gap between program cards in ProgramsSection for improved layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edff58d</div>
+                                        <div class="message">Enhance ProgramsPage and ProgramDetails components to utilize title from search parameters and improve tab management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13b164b</div>
+                                        <div class="message">Remove unused imports from page.tsx for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6361e0d</div>
+                                        <div class="message">Refactor DynamicButton component to adjust width class for better responsiveness</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0b2922</div>
+                                        <div class="message">Add descriptions to navigation items for improved clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b301646</div>
+                                        <div class="message">Add Home link to NavBar and remove Documentation link</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a57cc09</div>
+                                        <div class="message">Remove unnecessary border from RequestFormSchool component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87d4e00</div>
+                                        <div class="message">Add client directive and optimize image attributes in Request Us page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a1f00f</div>
+                                        <div class="message">Remove HeroSection component from Register page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dae643c</div>
+                                        <div class="message">Remove unused SVG elements and optimize image attributes for Contact Us and Apply pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8114371</div>
+                                        <div class="message">Refactor NavBar component to utilize dynamic links and improve content structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edd3c8f</div>
+                                        <div class="message">Update strong text styling to use underline for better emphasis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5221033</div>
+                                        <div class="message">Refactor NavBar component layout for improved structure and styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#950e14c</div>
+                                        <div class="message">Adjust NavigationMenuViewport positioning to align with right edge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21c8c67</div>
+                                        <div class="message">Update BreadcrumbWrapper component for improved layout and spacing</div>
                                     </div>
                                 </div>
                             </section>
@@ -142,35 +232,67 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/iac-site</span>
+                                        Pushed 14 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fcfb6cb</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/next-15.2.4
-
-Bump next from 15.2.3 to 15.2.4</div>
+                                        <div class="sha">#b5788b3</div>
+                                        <div class="message">Remove hover background color from TabsTrigger component for improved accessibility</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7b0e43f</div>
-                                        <div class="message">Bump next from 15.2.3 to 15.2.4
-
-Bumps [next](https://github.com/vercel/next.js) from 15.2.3 to 15.2.4.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v15.2.3...v15.2.4)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-version: 15.2.4
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#b88813a</div>
+                                        <div class="message">Replace img tags with Image component and add width/height attributes for better layout in BentoGrid</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f671bb3</div>
+                                        <div class="message">Comment out dark theme logo rendering in IntroHeader component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d53e78</div>
+                                        <div class="message">Add width and height attributes to images in ImageTitles component for improved layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68ad49e</div>
+                                        <div class="message">Add BentoGrid component for enhanced app deployment presentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7cdc26</div>
+                                        <div class="message">Integrate ProgramDetails component into ProgramsPage for enhanced information display</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#357084e</div>
+                                        <div class="message">Replace SplitImageTiles with ContentAndScreenshot component in Home page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2828837</div>
+                                        <div class="message">Update program images for improved visual representation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4a37df</div>
+                                        <div class="message">Refactor ProgramDetails component for improved layout and styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2715fb4</div>
+                                        <div class="message">Add FeaturedColumns component to showcase customer support features</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d8139d</div>
+                                        <div class="message">Add ContentAndScreenshot component for enhanced workflow presentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c29b205</div>
+                                        <div class="message">Add PhotoAndList component to display job openings with details and image</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad31f8f</div>
+                                        <div class="message">Remove SplitPhoto and StickyPhoto components to streamline page headers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d730728</div>
+                                        <div class="message">Remove unused dance class photo to clean up image assets</div>
                                     </div>
                                 </div>
                             </section>
@@ -182,35 +304,35 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/s_king_reviews</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09c7c99</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/next-15.2.4
-
-Bump next from 15.2.3 to 15.2.4</div>
+                                        <div class="sha">#7e0ce17</div>
+                                        <div class="message">Refactor DockNavigation component to update icons and improve link labels for better clarity</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6035cc7</div>
-                                        <div class="message">Bump next from 15.2.3 to 15.2.4
-
-Bumps [next](https://github.com/vercel/next.js) from 15.2.3 to 15.2.4.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v15.2.3...v15.2.4)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-version: 15.2.4
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#b2ae49d</div>
+                                        <div class="message">Refactor NavBar to conditionally render DockNavigation for improved mobile experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64cf0ef</div>
+                                        <div class="message">Add BottomNav component for improved mobile navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12ca78c</div>
+                                        <div class="message">Remove MobileNavBar component to streamline navigation structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aef9668</div>
+                                        <div class="message">Refactor NavigationMenu component for improved code consistency and readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#391358a</div>
+                                        <div class="message">Refactor NavBar component to use NavigationMenu for enhanced navigation structure and styling</div>
                                     </div>
                                 </div>
                             </section>
