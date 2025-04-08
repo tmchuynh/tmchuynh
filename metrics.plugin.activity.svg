@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="878" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="811" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,65 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#273dcac</div>
+                                        <div class="message">Updates navigation links and styling
+
+Modifies href values for navigation items to reflect new routes
+Updates CSS classes for improved dark mode support and styling consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7c03ed</div>
+                                        <div class="message">Removes redundant breadcrumb items
+
+Eliminates unnecessary breadcrumb items creation for the first path segment to simplify the component logic and improve code maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fc6906</div>
+                                        <div class="message">Updates student grades and testimonials for accuracy and relevance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#236bb58</div>
+                                        <div class="message">Enhances DynamicButton icon hover effect handling
+
+Updates DynamicButton to allow custom hover effects
+Refines default behavior for link variant icon hover
+Fixes inconsistent padding and animation duration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1e5c18</div>
+                                        <div class="message">Removes unused npm scripts
+
+Deletes 'clean' and 'rebuild' scripts to streamline package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9863f6a</div>
+                                        <div class="message">Enhances staff and student showcase pages
+
+Adds dynamic buttons for email and phone links
+Improves image and text formatting
+Includes debug logging for image URLs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88a852f</div>
+                                        <div class="message">Updates strong element styles in globals.css for improved text decoration</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -226,112 +285,6 @@ Reorganizes imports to reflect new directory structure and ensures consistency a
 Enhances visual hierarchy by adding dark mode support to headings.
 Fixes CSS variable inconsistencies and resolves minor typo in variable names.
 Removes unused components and consolidates redundant ones for better maintainability.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6d49f43</div>
-                                        <div class="message">Updates program image lists for consistency
-
-Revises image paths across chess, basketball, and soccer programs to ensure consistency and include additional images. Removes duplicates and outdated entries while adding new ones to enhance the visual content.
-
-Improves program presentation and organization.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5587014</div>
-                                        <div class="message">Adds feedback form component
-
-Introduces a new feedback form with fields for name, email, and message. Includes basic validation to ensure all fields are required.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c8fb22</div>
-                                        <div class="message">Refactors FAQs into categorized structure
-
-Groups frequently asked questions into categories for better organization and readability. Improves clarity by aligning questions and answers with specific themes such as program structure, registration, and safety measures.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2a463f</div>
-                                        <div class="message">Removes unused components and redundant code
-
-Deletes obsolete components from the codebase, including a page header and testimonial grid, to reduce clutter and improve maintainability.
-
-No functional changes introduced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#416131a</div>
-                                        <div class="message">Refactors TestimonialCard component for reusability
-
-Replaces hardcoded testimonial content with dynamic props for flexibility. Simplifies layout and styling while maintaining functionality. Enhances maintainability and scalability of the component.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5619e77</div>
-                                        <div class="message">Updates layout and improves job application UX
-
-Revises heading structure for better accessibility and design.
-Enhances job application section with updated messaging and a
-dedicated "Contact Us to Apply" button. Removes redundant
-"View all openings" button for cleaner UI.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#433fd20</div>
-                                        <div class="message">Refines FAQ and Testimonials page designs
-
-Enhances FAQ page layout with improved sectioning and styling.
-Adds a responsive logo and an image for visual appeal.
-Refactors FAQ rendering logic for better structure and readability.
-
-Updates Testimonials page to use a dedicated TestimonialCard component.
-Improves text and image layout for a more polished user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed747c1</div>
-                                        <div class="message">Refines application and request pages layout and content
-
-Updates layouts for consistency with unified styling
-Enhances textual content to improve user engagement
-Replaces placeholder text with meaningful descriptions
-Removes unused icons and address details for simplicity
-Introduces a FadedImage component for visual appeal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0989f25</div>
-                                        <div class="message">Refactors UI components and improves accessibility
-
-Updates heading hierarchy for semantic correctness
-Improves layout consistency across components
-Enhances image alt text for better accessibility
-Removes redundant utility imports and optimizes styling
-
-No issue linked</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e22a688</div>
-                                        <div class="message">Standardizes heading hierarchy and improves accessibility
-
-Replaces `&lt;h2&gt;` tags with `&lt;h3&gt;` across various pages to ensure proper heading hierarchy.
-Improves semantics by converting text elements to `&lt;code&gt;` where appropriate.
-Adds new components like `FadedImage` and updates forms for better usability.
-Refines layout and content structure for improved readability and accessibility.
-
-Fixes #456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2b505c</div>
-                                        <div class="message">Updates soccer class photo</div>
                                     </div>
                                 </div>
                             </section>
