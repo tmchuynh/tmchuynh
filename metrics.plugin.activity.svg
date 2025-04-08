@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1161" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="878" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.field.language{margin:0 8px;flex-grow:0}.categories,.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,139 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb6c92f</div>
+                                        <div class="message">Refactors ProgramsPage component for better readability
+
+Extracts program content logic into separate component
+Replaces useEffect with a cleaner function to get title
+Adds Suspense component with loading indicator for lazy loading
+
+Relates to JIRA-456</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b4600f</div>
+                                        <div class="message">Fixes type definition and imports in ProgramInformation
+
+Adds missing type definition for onValueChange function
+Corrects TabsContent import to resolve dependency issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b752b6</div>
+                                        <div class="message">Adds size prop to BackToTop button and updates job opening display to use h3 for role</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ceed09e</div>
+                                        <div class="message">Reorders import statements in Toggle component for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c37b8d2</div>
+                                        <div class="message">Updates tailwind-merge to version 3.2.0 and modifies clean script in package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6df927</div>
+                                        <div class="message">Refactors API response handling and context usage
+
+Updates API endpoints to use NextResponse for JSON handling
+Refactors context parameter usage for improved type safety
+Adds category information in staff member responses</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#67ffcc7</div>
+                                        <div class="message">Adds new creative writing pieces to student work showcase and updates main images for existing entries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cf2377</div>
+                                        <div class="message">Adds dark mode support to Testimonial component styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#266f007</div>
+                                        <div class="message">Reorders imports in NavBar component
+
+Repositions DockNavigation import for consistency.
+Moves ThemeToggle component to correct place in the navigation menu.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a26497</div>
+                                        <div class="message">Removes TestimonialCards and TestimonialSection components; updates TestimonialCard styling for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc31246</div>
+                                        <div class="message">Improves StudentWorkCard layout and styling
+
+Updates image container for better aspect ratio and clipping
+Simplifies alt text for images
+Enhances text gradient with dark mode support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c1e5b3</div>
+                                        <div class="message">Updates StaffCards component for dark mode support
+
+Reorders imports and removes unused import.
+Improves icon color handling to support dark mode.
+Fixes group-hover class removal for header text.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea47970</div>
+                                        <div class="message">Adds dark mode support to ProgramCards component styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10d5baf</div>
+                                        <div class="message">Removes border styling from showcase item images for improved visual consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#424691f</div>
+                                        <div class="message">Improves FAQ section styling for better dark mode support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdb71f6</div>
+                                        <div class="message">Adds dark mode styling to About Us page
+
+Updates various elements on the About Us page to include dark mode styles, enhancing user experience in dark mode environments.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1f2f96</div>
+                                        <div class="message">Updates package-lock.json and package.json for dependency version upgrades and adds rebuild script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6bc5c9</div>
+                                        <div class="message">Refactors parameter extraction in GET handler
+
+Simplifies parameter destructuring in GET handler
+Improves readability by removing unnecessary variable assignment</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -199,279 +332,6 @@ Fixes #456</div>
                                     <div class="commit">
                                         <div class="sha">#b2b505c</div>
                                         <div class="message">Updates soccer class photo</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#87f1c76</div>
-                                        <div class="message">Refines staff card layout and styling
-
-Adjusts spacing, typography, and hover effects for improved visual hierarchy and usability. Updates icon size and colors for better alignment with design guidelines.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14e9c02</div>
-                                        <div class="message">Updates program icons and titles for various activities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bea022</div>
-                                        <div class="message">Adds bio field to moreInfo in staffInfo type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bb7b3b</div>
-                                        <div class="message">Refines UI structure and improves component styling
-
-Adjusts layout and padding for better responsiveness
-Enhances visual hierarchy with updated typography and icons
-Replaces generic button with a dynamic component for reusability
-Reorganizes content sections for clearer structure and readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#baa8c1f</div>
-                                        <div class="message">Updates UI styles and replaces icons with images
-
-Refines the layout and styling of list items and testimonial sections for improved visual appearance. Replaces FontAwesome icons with custom images to better align with the application's design language. Updates testimonial content and author details for relevance.
-
-No issue reference provided.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86f9cef</div>
-                                        <div class="message">Enhances program pages with content updates and styling
-
-Refines text and structure on Student Showcase page for clarity and inclusivity.
-Adds list styling to Programs page for improved readability.
-Reorganizes imports for better code consistency and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2925a1</div>
-                                        <div class="message">Updates typography styles for paragraphs and list items
-
-Enhances text readability by adding a base font size and line height to paragraphs and list items. Maintains consistent spacing and alignment across these elements for improved UI presentation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45c8ca0</div>
-                                        <div class="message">Enhances school information page layout and functionality
-
-Introduces a new `FadedImage` component to display engaging visuals.
-Adds a dynamic button for streamlined navigation to the contact page.
-Improves section layout with better spacing and text styling.
-Optimizes program feature grid for clarity and consistency.
-
-Refactors redundant code blocks to reduce duplication and improve maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34a03de</div>
-                                        <div class="message">Enhances staff description for improved engagement
-
-Rewrites the staff description to provide a more engaging, detailed, and inspiring narrative. Emphasizes the team's dedication, expertise, and contributions to student success while fostering a stronger connection with readers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#670af8c</div>
-                                        <div class="message">Updates staff bio rendering and HTML parsing
-
-Modifies the staff bio component to use a nested `moreInfo` property.
-Adjusts HTML parsing logic to standardize `&lt;br /&gt;` tag usage.
-
-Improves data handling consistency and ensures proper HTML syntax.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cce9845</div>
-                                        <div class="message">Adds new icon images for basketball, comic book, extra, flag football, performing arts, public speaking, soccer, and volleyball</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd0a9fc</div>
-                                        <div class="message">Improves StaffCards layout and typography
-
-Enhances role text readability with tighter tracking
-Adds padding to description for improved spacing and layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49017e5</div>
-                                        <div class="message">Removes unused icon files from assets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba7440f</div>
-                                        <div class="message">Removes unused herbarium icon from assets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1940559</div>
-                                        <div class="message">Replaces static link with dynamic navigation button
-
-Substitutes an anchor tag with a reusable dynamic button component
-to improve navigation consistency. Adds router integration
-for programmatic navigation to the "Contact Us" page.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 72 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d870f34</div>
-                                        <div class="message">Updates program icons for Chess, Basketball, Volleyball, Flag Football, Soccer, Creative Writing, and Comic Book
-
-Replaces program icons with more appropriate images for Chess, Basketball, Volleyball, Flag Football, Soccer, Creative Writing, and Comic Book programs.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8abba20</div>
-                                        <div class="message">Refactors FeaturedColumns component and adds dynamic theming support
-
-Updates the FeaturedColumns component to improve code organization and readability
-Integrates DynamicButton component for better reusability and maintainability
-Adds support for dynamic theming based on the selected theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c881e34</div>
-                                        <div class="message">Refactors school information page component and adds after-school program details
-
-Implements refactoring of the school information page component to improve code structure and readability
-Adds after-school program details to showcase the benefits and offerings of the programs
-Updates partnerships section to emphasize the collaborative nature of the relationships
-Fixes minor styling issues and optimizes code for improved performance
-
-Relates to #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ffc810</div>
-                                        <div class="message">Refactors our_mission page with section tags
-
-Refactors the `our_mission` page to use `section` tags for better semantic structure and readability. This change improves the organization of content on the page and aligns with best practices for HTML markup.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac0d06a</div>
-                                        <div class="message">Introduces FeaturedColumns component to OurCommitmentPage
-
-This commit adds the FeaturedColumns component to the OurCommitmentPage, enhancing the page layout and design.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71b135f</div>
-                                        <div class="message">Updates link variant in button component
-
-Darkens link text for improved visibility in dark mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#584f4c8</div>
-                                        <div class="message">Removes unused creative writing icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37ef8a3</div>
-                                        <div class="message">Refactors image URLs in AboutUsPage component
-
-Updates image URLs in the AboutUsPage component to use local images instead of external URLs, improving performance and ensuring image availability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe3cd02</div>
-                                        <div class="message">Updates About Us page statistics format
-
-Improves the readability and clarity of the statistics displayed on the About Us page by adjusting the formatting and scaling down the numbers. This change enhances the user experience and ensures that the statistics are easily understood.
-
-Relates to #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06abb38</div>
-                                        <div class="message">Updates ResponsiveLogo to accept a className prop
-
-Allows customization of the component's className for styling purposes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c18f037</div>
-                                        <div class="message">Refactors About Us page to improve structure and layout
-
-Updates the structure of the About Us page to improve readability and user experience. Adds responsive layout and images, reorganizes content, and enhances the visual presentation of the page.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74557c9</div>
-                                        <div class="message">Adds new staff photos for Justin
-
-Includes new PNG versions of staff photos for Justin and removes the old JPEG versions. Also adds a combined image with all the staff photos.
-
-Relates to #JIRA-123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d906ee</div>
-                                        <div class="message">Adds FadedImage and ResponsiveLogo components
-
-Introduces two new components, FadedImage and ResponsiveLogo, to enhance the UI of the application. FadedImage component displays an image with a faded background overlay, while ResponsiveLogo component renders the logo based on the selected theme. These components improve the visual appeal and user experience of the application.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d59a4ea</div>
-                                        <div class="message">Updates program icons and descriptions
-
-This commit updates the program icons and descriptions in the `constants/programs.ts` file. It adds new icons for the Chess program and updates the descriptions for Chess, Basketball, Volleyball, Flag Football, Soccer, Creative Writing, Comic Book, Performing Arts, and Dance programs. These changes improve the visual representation and descriptions of the programs.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#870ded6</div>
-                                        <div class="message">Refactors ProgramInformation component to use program title icons
-
-Updates ProgramInformation component to replace the rendering of program icons with a single image element. The new approach improves code readability and simplifies the rendering logic, resulting in a more efficient and maintainable component.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c227ed</div>
-                                        <div class="message">Adds arts_intro.jpg to the Arts_And_Crafts directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e51473b</div>
-                                        <div class="message">Adds new arts and craft icons
-
-Includes new icons for brush, bunny writing, butterfly, drawing, herbarium, scrapbooking, watercolor, and more.
-
-Relates to JIRA-123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c81e1a1</div>
-                                        <div class="message">Removes basketball and flag football icons
-
-Deletes basketball-icon.svg and flagfootball.svg from the public/images/icons directory
-
-Relates to #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23c199d</div>
-                                        <div class="message">Refactors programInfo type and imports in information.ts
-
-Removes unnecessary import of LucideProps from "lucide-react"
-Rearranges imports to improve readability
-Adds titleIcon property to programInfo type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b93e803</div>
-                                        <div class="message">Adds basketball icon SVG
-
-Includes a new SVG file for a basketball icon</div>
                                     </div>
                                 </div>
                             </section>
