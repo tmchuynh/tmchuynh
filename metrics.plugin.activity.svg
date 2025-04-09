@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1077" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="894" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,32 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d0d080</div>
+                                        <div class="message">Refactors API routes to improve type safety and responses
+
+Replaces generic `Request` with `NextRequest` for better integration with Next.js.
+Refines type handling by casting context parameters explicitly.
+Switches from `Response` to `NextResponse` for consistent API responses.
+
+No issue reference provided.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -287,86 +313,6 @@ Corrects TabsContent import to resolve dependency issue</div>
 Updates API endpoints to use NextResponse for JSON handling
 Refactors context parameter usage for improved type safety
 Adds category information in staff member responses</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67ffcc7</div>
-                                        <div class="message">Adds new creative writing pieces to student work showcase and updates main images for existing entries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cf2377</div>
-                                        <div class="message">Adds dark mode support to Testimonial component styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#266f007</div>
-                                        <div class="message">Reorders imports in NavBar component
-
-Repositions DockNavigation import for consistency.
-Moves ThemeToggle component to correct place in the navigation menu.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a26497</div>
-                                        <div class="message">Removes TestimonialCards and TestimonialSection components; updates TestimonialCard styling for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc31246</div>
-                                        <div class="message">Improves StudentWorkCard layout and styling
-
-Updates image container for better aspect ratio and clipping
-Simplifies alt text for images
-Enhances text gradient with dark mode support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c1e5b3</div>
-                                        <div class="message">Updates StaffCards component for dark mode support
-
-Reorders imports and removes unused import.
-Improves icon color handling to support dark mode.
-Fixes group-hover class removal for header text.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea47970</div>
-                                        <div class="message">Adds dark mode support to ProgramCards component styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10d5baf</div>
-                                        <div class="message">Removes border styling from showcase item images for improved visual consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#424691f</div>
-                                        <div class="message">Improves FAQ section styling for better dark mode support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdb71f6</div>
-                                        <div class="message">Adds dark mode styling to About Us page
-
-Updates various elements on the About Us page to include dark mode styles, enhancing user experience in dark mode environments.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1f2f96</div>
-                                        <div class="message">Updates package-lock.json and package.json for dependency version upgrades and adds rebuild script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6bc5c9</div>
-                                        <div class="message">Refactors parameter extraction in GET handler
-
-Simplifies parameter destructuring in GET handler
-Improves readability by removing unnecessary variable assignment</div>
                                     </div>
                                 </div>
                             </section>
