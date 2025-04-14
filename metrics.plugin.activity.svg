@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="761" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.post{align-items:flex-start}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,201 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 52 commits in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3751f3c</div>
+                                        <div class="message">Updates header components for improved navigation and content
+
+Modifies header titles for better clarity and engagement.
+
+Enhances button functionality to navigate to services page.
+
+Reworks layout of image tiles for better responsiveness and visual appeal.
+
+Improves brand storytelling section to better connect with the audience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82249e3</div>
+                                        <div class="message">Replaces header components and enhances content
+
+Substitutes `BentoGridPageHeader` with `TestimonialStats`, `IntroductionImage`, and `ImageTilesOnSide` for improved layout.
+
+Adds a new section detailing the company's mission and values to strengthen user engagement.
+
+Incorporates a dynamic button to encourage user interaction on the About page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2417130</div>
+                                        <div class="message">Refines CTA components and updates image handling
+
+Enhances the CallToAction components with improved text clarity and button styling.
+
+Updates image sources to local assets for better performance and maintainability.
+
+Addresses accessibility by adding alt text to images.
+
+Fixes layout issues by adjusting CSS classes for responsiveness.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4592d4e</div>
+                                        <div class="message">Refactors InfoTestimonial component structure
+
+Reduces complexity by streamlining layout and content presentation.
+
+Enhances readability and maintains responsiveness through updated grid system.
+
+Improves user experience by highlighting key testimonials with better styling.
+
+Removes unused icon imports to optimize file size.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c561902</div>
+                                        <div class="message">Removes outdated blog post entries and updates titles
+
+Eliminates several outdated blog entries to streamline content.
+
+Updates the title and date of one entry to reflect current business strategy insights.
+
+Improves overall relevance and accessibility of blog content.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03b417b</div>
+                                        <div class="message">Updates color definitions and typography styles
+
+Refines tertiary and fancy color values for better contrast.
+
+Modifies typography styles for headings to enhance visual hierarchy.
+
+Improves overall accessibility and readability of the UI.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5428253</div>
+                                        <div class="message">Updates incentives content for clarity and relevance
+
+Replaces existing incentives with more tailored solutions
+Emphasizes unique offerings and user-centered design principles
+Adds new incentives focusing on innovation and growth
+
+Relates to user feedback on service presentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5e36b2</div>
+                                        <div class="message">Adds new CTA components for enhanced user engagement
+
+Implements two new components: GlassTwoColumn and OverlappingImage.
+
+These components enhance the user interface by providing visually appealing call-to-action sections. Each component includes dynamic buttons for navigation and tailored messaging to improve user engagement.
+
+No issues are referenced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0de29e2</div>
+                                        <div class="message">Adds new logo and signature images
+
+Introduces multiple binary image files for branding purposes, enhancing the visual identity of the project.
+
+No related issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8463ecd</div>
+                                        <div class="message">Removes unused page header components
+
+Deletes outdated components related to page headers, including BentoGridPageHeader, FeaturedScreenshot, and SplitImageSide.
+
+This cleanup reduces the codebase and improves maintainability by removing redundant files that are no longer in use.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4cd58e</div>
+                                        <div class="message">Updates color variables in globals.css for improved theming consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5dfcc8</div>
+                                        <div class="message">Enhances FeaturedArticles component for responsiveness
+
+Adds responsive design adjustments for small screens
+Utilizes useSmallScreen hook to conditionally render styles
+Updates image and button functionality for better user experience
+Improves date formatting and accessibility with appropriate HTML tags</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a23ab4</div>
+                                        <div class="message">Updates blog card image handling
+
+Improves image rendering by using the blog's image URL if available.
+
+Sets alt text for better accessibility and SEO.
+
+Removes redundant import for cleaner code.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d845760</div>
+                                        <div class="message">Enhances FeaturedProjects component with detailed project info
+
+Adds responsive layout for project display based on screen size.
+Includes project title, description, technologies, and links to GitHub and live projects.
+Implements image rendering with a fallback for missing images.
+
+Relates to user interface improvements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#609c7ed</div>
+                                        <div class="message">Refactors ProjectCards component to simplify structure and improve readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8939000</div>
+                                        <div class="message">Adds short descriptions and quotes for past projects in projects.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79e351c</div>
+                                        <div class="message">Exports convertToDate function for external usage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b17abf</div>
+                                        <div class="message">Increases grid gap for project cards display
+
+Enhances spacing between project cards for better visual clarity.
+
+Improves overall layout aesthetics on the Past Projects page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d43bf1</div>
+                                        <div class="message">Adds featured projects and articles carousel
+
+Implements a responsive carousel for displaying featured projects and articles.
+
+Enhances user experience by allowing smooth navigation through key content.
+
+Updates state management to include featured projects alongside articles.
+
+Improves layout for mobile and desktop displays.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8f55c1</div>
+                                        <div class="message">Adds carousel component with Embla Carousel integration
+
+Implements a responsive carousel component using Embla Carousel for enhanced UI functionality.
+
+Includes support for navigation buttons and keyboard interactions to improve user experience.
+
+Updates dependencies in package.json and package-lock.json to include the new carousel library.
+
+Relates to feature request #456</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -277,98 +472,6 @@ enhance visual clarity. Modifies accent, secondary, and
 tertiary colors to align with accessibility standards.
 
 No issue referenced.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#83919ac</div>
-                                        <div class="message">Updates typography and styling for cards
-
-Replaces `&lt;h3&gt;` with `&lt;h2&gt;` for program titles and adjusts text styles based on index for improved readability.
-Applies a new font to testimonial blockquotes to enhance visual appeal.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a192a0</div>
-                                        <div class="message">Enhances testimonial styling and readability
-
-Updates font styles for blockquote and citation to improve visual appeal
-Highlights key text with semantic markup for better emphasis
-
-Refines testimonial layout for improved accessibility and user experience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aad2164</div>
-                                        <div class="message">Adds new font-face definitions and updates styles
-
-Introduces multiple new custom font-face definitions in the global styles, enhancing typography options. Updates testimonial component styles to utilize new fonts and adjusts blockquote formatting for improved readability.
-
-No functional changes to logic or layout structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6b7687</div>
-                                        <div class="message">Adds new font options to student showcase page
-
-Extends the available font list with ten additional options, enhancing customization possibilities for the student showcase page.
-
-No issue reference provided.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c2faa5</div>
-                                        <div class="message">Refines contact page layout and testimonial design
-
-Replaces flexbox-based layout with a responsive grid system for improved structure. Enhances testimonial section styling with new fonts, marked emphasis, and better readability. Simplifies form alignment and updates figure captions for consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb01d36</div>
-                                        <div class="message">Enhances testimonial styling for improved readability
-
-Updates blockquote and citation fonts for a more distinct appearance.
-Adds semantic `&lt;mark&gt;` tags to highlight key phrases in the testimonial text.
-
-Improves visual hierarchy and accessibility.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eefd7be</div>
-                                        <div class="message">Adds new font files for enhanced typography</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fe341c</div>
-                                        <div class="message">Removes unused fonts and refactors CSS variables
-
-Eliminates definitions and @font-face declarations for unused fonts to streamline the stylesheet.
-Reorganizes and updates font-related CSS variables for better maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e74889</div>
-                                        <div class="message">Enhances typography and interactivity across components
-
-Introduces dynamic font selection for personalized user experience
-Extends button hover effects with 'spin' and 'bounce' animations
-Replaces static button in student cards with a dynamic one
-Refines typography for improved readability and aesthetic consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fa8b5f</div>
-                                        <div class="message">Removes unused font files
-
-Deletes several font files from the public directory to reduce
-unnecessary assets and optimize project size.
-
-No functional changes introduced.</div>
                                     </div>
                                 </div>
                             </section>
