@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="711" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.post{align-items:flex-start}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,430 +22,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 52 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3751f3c</div>
-                                        <div class="message">Updates header components for improved navigation and content
+                                        <div class="sha">#0ab8434</div>
+                                        <div class="message">Adds timeline component to origin story page
 
-Modifies header titles for better clarity and engagement.
+Integrates a new Timeline component to enhance storytelling
+by visualizing the origin timeline.
 
-Enhances button functionality to navigate to services page.
-
-Reworks layout of image tiles for better responsiveness and visual appeal.
-
-Improves brand storytelling section to better connect with the audience.</div>
+Improves user engagement and understanding of the content.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#82249e3</div>
-                                        <div class="message">Replaces header components and enhances content
+                                        <div class="sha">#466e9fb</div>
+                                        <div class="message">Refactors IntroductionImage component layout
 
-Substitutes `BentoGridPageHeader` with `TestimonialStats`, `IntroductionImage`, and `ImageTilesOnSide` for improved layout.
+Removes timeline component for a cleaner presentation
+Updates styling and structure to enhance visual appeal
+Improves accessibility with aria attributes
 
-Adds a new section detailing the company's mission and values to strengthen user engagement.
-
-Incorporates a dynamic button to encourage user interaction on the About page.</div>
+Relates to design enhancements</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2417130</div>
-                                        <div class="message">Refines CTA components and updates image handling
-
-Enhances the CallToAction components with improved text clarity and button styling.
-
-Updates image sources to local assets for better performance and maintainability.
-
-Addresses accessibility by adding alt text to images.
-
-Fixes layout issues by adjusting CSS classes for responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4592d4e</div>
-                                        <div class="message">Refactors InfoTestimonial component structure
-
-Reduces complexity by streamlining layout and content presentation.
-
-Enhances readability and maintains responsiveness through updated grid system.
-
-Improves user experience by highlighting key testimonials with better styling.
-
-Removes unused icon imports to optimize file size.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c561902</div>
-                                        <div class="message">Removes outdated blog post entries and updates titles
-
-Eliminates several outdated blog entries to streamline content.
-
-Updates the title and date of one entry to reflect current business strategy insights.
-
-Improves overall relevance and accessibility of blog content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03b417b</div>
-                                        <div class="message">Updates color definitions and typography styles
-
-Refines tertiary and fancy color values for better contrast.
-
-Modifies typography styles for headings to enhance visual hierarchy.
-
-Improves overall accessibility and readability of the UI.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5428253</div>
-                                        <div class="message">Updates incentives content for clarity and relevance
-
-Replaces existing incentives with more tailored solutions
-Emphasizes unique offerings and user-centered design principles
-Adds new incentives focusing on innovation and growth
-
-Relates to user feedback on service presentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5e36b2</div>
-                                        <div class="message">Adds new CTA components for enhanced user engagement
-
-Implements two new components: GlassTwoColumn and OverlappingImage.
-
-These components enhance the user interface by providing visually appealing call-to-action sections. Each component includes dynamic buttons for navigation and tailored messaging to improve user engagement.
-
-No issues are referenced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0de29e2</div>
-                                        <div class="message">Adds new logo and signature images
-
-Introduces multiple binary image files for branding purposes, enhancing the visual identity of the project.
-
-No related issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8463ecd</div>
-                                        <div class="message">Removes unused page header components
-
-Deletes outdated components related to page headers, including BentoGridPageHeader, FeaturedScreenshot, and SplitImageSide.
-
-This cleanup reduces the codebase and improves maintainability by removing redundant files that are no longer in use.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4cd58e</div>
-                                        <div class="message">Updates color variables in globals.css for improved theming consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5dfcc8</div>
-                                        <div class="message">Enhances FeaturedArticles component for responsiveness
-
-Adds responsive design adjustments for small screens
-Utilizes useSmallScreen hook to conditionally render styles
-Updates image and button functionality for better user experience
-Improves date formatting and accessibility with appropriate HTML tags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a23ab4</div>
-                                        <div class="message">Updates blog card image handling
-
-Improves image rendering by using the blog's image URL if available.
-
-Sets alt text for better accessibility and SEO.
-
-Removes redundant import for cleaner code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d845760</div>
-                                        <div class="message">Enhances FeaturedProjects component with detailed project info
-
-Adds responsive layout for project display based on screen size.
-Includes project title, description, technologies, and links to GitHub and live projects.
-Implements image rendering with a fallback for missing images.
-
-Relates to user interface improvements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#609c7ed</div>
-                                        <div class="message">Refactors ProjectCards component to simplify structure and improve readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8939000</div>
-                                        <div class="message">Adds short descriptions and quotes for past projects in projects.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79e351c</div>
-                                        <div class="message">Exports convertToDate function for external usage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b17abf</div>
-                                        <div class="message">Increases grid gap for project cards display
-
-Enhances spacing between project cards for better visual clarity.
-
-Improves overall layout aesthetics on the Past Projects page.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d43bf1</div>
-                                        <div class="message">Adds featured projects and articles carousel
-
-Implements a responsive carousel for displaying featured projects and articles.
-
-Enhances user experience by allowing smooth navigation through key content.
-
-Updates state management to include featured projects alongside articles.
-
-Improves layout for mobile and desktop displays.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8f55c1</div>
-                                        <div class="message">Adds carousel component with Embla Carousel integration
-
-Implements a responsive carousel component using Embla Carousel for enhanced UI functionality.
-
-Includes support for navigation buttons and keyboard interactions to improve user experience.
-
-Updates dependencies in package.json and package-lock.json to include the new carousel library.
-
-Relates to feature request #456</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 71 commits in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9c969ee</div>
-                                        <div class="message">Refactors FeaturedProject component to accept project prop and removes unused code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0026dd</div>
-                                        <div class="message">Implements testimonials display with TestimonialCard component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b5382f</div>
-                                        <div class="message">Adds support for importing TypeScript extensions
-
-Enables the `allowImportingTsExtensions` option in the configuration.
-
-This facilitates importing TypeScript files with their extensions, improving module resolution and compatibility with various project setups.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9c8dc8</div>
-                                        <div class="message">Adds type support for testimonials
-
-Implements TypeScript type annotations for testimonials.
-
-Enhances code readability and maintainability by using the Testimonial interface.
-
-No functional changes were made.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55e2fa3</div>
-                                        <div class="message">Refactors Project interface for better organization
-
-Replaces individual language and technology fields with a nested tech object for clearer structure.
-
-Adds optional short description and quote fields to enhance project details.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf59c02</div>
-                                        <div class="message">Enhances blog page with dynamic blog cards
-
-Implements rendering of blog cards using data from the blogs array.
-
-Updates the layout to accommodate three columns for better presentation.
-
-Improves user experience by showcasing community insights effectively.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cf686f</div>
-                                        <div class="message">Refactors BlogCard component for improved clarity
-
-Removes unused Image import and comments out the Image component for future implementation.
-
-Simplifies class names in CardTitle and CardDescription for better readability.
-
-Updates the router path in the Read More button to correct URL structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43e6665</div>
-                                        <div class="message">Adds past projects display component
-
-Implements a grid layout to showcase past projects.
-
-Integrates ProjectCards component to dynamically render project details from the constants file.
-
-Enhances user experience by providing visibility into previous work.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f70d7dd</div>
-                                        <div class="message">Adds image URLs to past projects
-
-Includes imageUrl property for all past projects
-Enhances visual representation of projects in the application
-
-No related issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2758c61</div>
-                                        <div class="message">Adds ProjectCards component for project display
-
-Implements a reusable ProjectCards component to showcase project details, including images, descriptions, technologies, and links to GitHub and live projects.
-
-Enhances user interface with structured layout and responsive design.
-
-Improves code maintainability by utilizing reusable UI components.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6016889</div>
-                                        <div class="message">Enhances service and sub-service definitions
-
-Refactors service and sub-service structures to include type annotations for improved type safety.
-
-Updates descriptions and pricing tier information for clarity and consistency.
-
-Removes outdated fields and replaces them with structured data for better maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd9f638</div>
-                                        <div class="message">Refactors slug generation and enhances PaymentPlanCard
-
-Replaces `setSlug` with `generateSlug` for consistent slug creation across components.
-
-Introduces a new `PaymentPlanCard` component to improve the display of payment plans with responsive design considerations.
-
-Updates several elements to ensure correct information retrieval from the item structure.
-
-Improves code readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#028e87f</div>
-                                        <div class="message">Refactors service and blog components for improved structure
-
-Updates imports to reflect new file paths and structures.
-Enhances data handling in service pages by modifying property access.
-Replaces deprecated functions with updated utility functions for slug generation.
-Improves UI elements on the FAQs page and optimizes loading indicators.
-
-Relates to JIRA-456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#747abb5</div>
-                                        <div class="message">Adds optional starting price to payment details
-
-Introduces an optional starting price field to enhance payment detail flexibility.
-
-Removes shortFeatures and streamlines the interface.
-
-Improves clarity and usability for payment processing components.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fdf23b</div>
-                                        <div class="message">Enhances brand storytelling service details
-
-Expands sub-service details for brand storytelling offerings.
-
-Improves descriptions, pricing tiers, and overall clarity to better convey value and connect with potential clients.
-
-Relates to JIRA-456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8d7413</div>
-                                        <div class="message">Enhances service descriptions for clarity and impact
-
-Improves clarity and engagement of service descriptions
-Expands subcategories for better user understanding
-Aligns language with SEO strategies to boost visibility
-
-Relates to JIRA-456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a09def5</div>
-                                        <div class="message">Adds introductory information to payment plans
-
-Enhances payment plans by including introductory text
-for each plan, providing better context for users.
-
-This improves clarity and helps potential customers
-understand the offerings more effectively.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b25f1a1</div>
-                                        <div class="message">Refactors slug generation for blog and payment plans
-
-Replaces `setSlug` with `generateSlug` for consistency in slug creation across blog and payment plan routes.
-
-Improves code clarity and ensures that slug generation logic is centralized.
-
-No related issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecc1abc</div>
-                                        <div class="message">Adds utility functions for array filtering and string formatting
-
-Implements a new `featuredArray` function to filter items based on the 'featured' property.
-
-Enhances the `capitalize` function to handle hyphens and underscores, adding detailed documentation for usage.
-
-Refines the `generateSlug` function to remove leading and trailing hyphens, improving slug generation.
-
-Updates the `splitAndTrimQuotes` function to handle null or undefined input gracefully.
-
-Improves code readability and maintainability with comprehensive comments and examples.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a13283b</div>
-                                        <div class="message">Improves heading structure and styles across pages
-
-Replaces &lt;h2&gt; tags with &lt;h1&gt; tags for improved semantic structure and accessibility.
-
-Removes the 'Let's Work Together' page, consolidating content under existing sections.
-
-Fixes font file name for consistency in global styles.
-
-Updates navigation paths for better clarity and accuracy.
-
-Relates to user experience enhancements and SEO improvements.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                        <div class="sha">#4a29f10</div>
+                                        <div class="message">Updates import path for testimonial interface
+
+Modifies the import statement to reference the correct
+location of the Testimonial interface, ensuring proper
+functionality and maintainability of the codebase.</div>
                                     </div>
                                 </div>
                             </section>
@@ -458,20 +66,285 @@ Relates to user experience enhancements and SEO improvements.</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5821657</div>
-                                        <div class="message">Updates color variables for improved accessibility
+                                        <div class="sha">#831cb46</div>
+                                        <div class="message">Refactors import path for generateSlug utility
 
-Adjusts several CSS variables to refine color contrast and
-enhance visual clarity. Modifies accent, secondary, and
-tertiary colors to align with accessibility standards.
+Updates the import statement for the generateSlug function
+to use the correct path from "@/lib/utils/format".
 
-No issue referenced.</div>
+This change improves code organization and prevents potential
+import errors due to incorrect file referencing.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0f5f9a7</div>
+                                        <div class="message">Refactors utility imports for better organization
+
+Moves utility function imports from a generic module to specific format modules.
+
+Improves code clarity and maintainability by grouping related functions together.
+
+No functional changes were introduced.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d50f4cf</div>
+                                        <div class="message">Adds MasonryGridGallery component and updates images
+
+Implements a new MasonryGridGallery component for better image display.
+
+Updates image sources to enhance content quality and visual appeal.
+
+Includes new image host in configuration for external resources.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#990f915</div>
+                                        <div class="message">Enhances HowWeCanHelpYou page layout and imagery
+
+Implements a new grid layout for displaying testimonials and services.
+
+Replaces existing text with engaging images to improve visual appeal and user engagement.
+
+Updates image sources for consistency and relevance.
+
+Refines styling for better responsiveness across devices.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4484a3</div>
+                                        <div class="message">Updates image source for Our Origin Story page
+
+Replaces the background image to better align with branding.
+
+Enhances visual appeal and user engagement on the page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#983d18b</div>
+                                        <div class="message">Refactors import paths for project and utility modules
+
+Updates import statements for the Project interface and featuredArray utility function to improve module organization.
+
+Enhances clarity by ensuring imports point to accurate file locations.
+
+No functional changes introduced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89eda8d</div>
+                                        <div class="message">Refactors imports and updates layout styles
+
+Reorganizes utility imports to utilize a new format module.
+Adjusts layout styles for improved responsiveness in various components.
+Enhances image grid layout for better display on different screen sizes.
+
+No issue reference.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d851d8</div>
+                                        <div class="message">Refactors utility functions and organizes code structure
+
+Removes redundant utility functions from the main file and consolidates them into separate modules for better organization.
+
+Implements new utility functions for parsing lengths and reading times, enhancing maintainability and readability.
+
+Improves code structure by categorizing related functionalities, which aids in future development and testing efforts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c2e79e</div>
+                                        <div class="message">Updates image sources and styles for better UX
+
+Replaces outdated image URLs with new assets for improved relevance and quality.
+
+Modifies CSS classes for enhanced responsiveness and layout consistency across components.
+
+Ensures a more engaging visual presentation in the UI.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfffff3</div>
+                                        <div class="message">Removes unused GridPattern and ImageGridDivider components
+
+Cleans up the codebase by deleting redundant components
+that are no longer needed, improving maintainability and reducing bundle size.
+
+No associated issue.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aec2906</div>
+                                        <div class="message">Adds tab section component with image galleries
+
+Introduces a new tab section component that displays
+image galleries for different candidate stages.
+
+Refines tab navigation and enhances mobile responsiveness
+by implementing a dropdown for tab selection.
+
+Renames existing header component for clarity.
+
+Relates to #456</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec05d51</div>
+                                        <div class="message">Adds image galleries with enhanced image sources
+
+Implements two new image gallery components: FeaturedImageGallery and MasonryGridGallery.
+
+Updates allowed image hosts in configuration to include new sources, enhancing content variety.
+
+Removes unused image sources to streamline the configuration.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9967ecd</div>
+                                        <div class="message">Adds new logo images and updates logo component
+
+Introduces circular and square logo images for enhanced branding.
+
+Updates the logo component to use the new circular logo.
+
+Improves visual consistency across the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e859c91</div>
+                                        <div class="message">Refactors image properties in blog and project interfaces
+
+Updates blog and project interfaces to include `cardImage` property for improved image handling.
+
+Changes import paths for interfaces to enhance organization and clarity.
+
+No functional changes introduced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#691128b</div>
+                                        <div class="message">Refactors testimonial interface into separate file
+
+Moves the Testimonial interface to a new file for better organization and maintainability.
+
+Updates the Project interface to streamline code structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5c366d</div>
+                                        <div class="message">Updates BlogPost interface to require image URLs
+
+Ensures both imageUrl and image2Url are mandatory for blog posts, improving data integrity.
+
+Removes optionality of imageUrl to enforce consistent image handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f852365</div>
+                                        <div class="message">Adds second image URL field to blog posts
+
+Introduces a new field for a second image URL in blog post objects to enhance visual content options.
+
+Updates multiple blog entries to include this new field, improving the flexibility for content presentation.
+
+No associated issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d60da64</div>
+                                        <div class="message">Enhances "Let's Work Together" section UI and content
+
+Refines the layout and styling of the project inquiry form
+Updates text for clarity and adds testimonial integration
+Removes unnecessary elements for a cleaner design</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13ebabf</div>
+                                        <div class="message">Enhances blog post display with dynamic components
+
+Introduces a dynamic button for navigating related topics
+Refactors the blog post layout for improved readability
+Adds support for displaying additional post content and images
+
+Fixes #123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2e544f</div>
+                                        <div class="message">Adds imageUrl property to blog posts
+
+Introduces imageUrl to enhance blog post structure
+Facilitates future updates for image integration in posts
+Ensures consistency across all blog entries
+
+Relates to JIRA-123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33ddbee</div>
+                                        <div class="message">Refactors blog post page layout and date formatting
+
+Improves UI structure by reorganizing the blog post header layout for better responsiveness and readability.
+
+Updates date display to utilize a dedicated date conversion function.
+
+Enhances topic badge presentation and overall visual coherence.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d043997</div>
+                                        <div class="message">Fixes blog date formatting and URL path
+
+Removes unnecessary locale formatting from blog date display.
+
+Updates the button action to navigate to the correct blogs path.
+
+Improves overall clarity and functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c833c00</div>
+                                        <div class="message">Improves date handling in blog sorting utility
+
+Refactors date conversion to use JavaScript Date objects directly, enhancing clarity and performance in sorting blogs by date.
+
+Changes the return type of the date conversion function to a localized string format for better user presentation.
+
+Relates to issue #456</div>
                                     </div>
                                 </div>
                             </section>
