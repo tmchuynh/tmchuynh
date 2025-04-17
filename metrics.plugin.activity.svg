@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="711" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="511" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,103 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8bc1d54</div>
+                                        <div class="message">Updates blog post images and removes unused slug generation
+
+Replaces hardcoded image generation with direct image URLs for improved performance and maintainability.
+
+Removes unused slug generation import to clean up the code.
+
+Updates styling for better visual consistency in image presentation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87927be</div>
+                                        <div class="message">Enhances hover effects for UI components
+
+Implements new hover decorations for various links and buttons to improve visual feedback.
+
+Refines user interface consistency across components by standardizing hover styles.
+
+No related issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1633c0e</div>
+                                        <div class="message">Refactors BlogCard component for better organization
+
+Replaces direct rendering of article with a Link wrapper for improved navigation.
+
+Updates image handling and styling for better visual consistency.
+
+Enhances title interaction with underline effect on hover for better user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9746f3</div>
+                                        <div class="message">Removes unused file existence check logic
+
+Eliminates redundant state management and file existence checking functionality from the blog post page component.
+
+This simplification enhances code readability and reduces unnecessary network requests during the component's lifecycle.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c790946</div>
+                                        <div class="message">Refines testimonials page layout and image gallery
+
+Enhances the structure of the testimonials section for better visual alignment.
+
+Replaces static images with a dynamic image gallery to improve content manageability.
+
+Updates image references for consistency and clarity.
+
+Removes unused image grid component to streamline the codebase.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd2dbd3</div>
+                                        <div class="message">Removes redundant elements and updates headings
+
+Eliminates unnecessary heading from the origin story page.
+
+Adds a new heading to the testimonials page for better context.
+
+Cleans up div elements across multiple components for improved readability.
+
+Updates formatting for consistency in various sections.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd48ef3</div>
+                                        <div class="message">Refactors layout in TwoColumnTextImage component
+
+Streamlines the structure of the component by removing unnecessary div wrappers.
+Enhances readability and maintainability of the code while preserving existing functionality.
+
+No related issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d88e57</div>
+                                        <div class="message">Replaces TestimonialStats with TwoColumnTextImage
+
+Renames and updates the TestimonialStats component to TwoColumnTextImage for enhanced layout flexibility.
+
+Improves the visual presentation of testimonials on the page.
+
+No functional changes to testimonial rendering.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -132,219 +229,6 @@ Implements a new MasonryGridGallery component for better image display.
 Updates image sources to enhance content quality and visual appeal.
 
 Includes new image host in configuration for external resources.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#990f915</div>
-                                        <div class="message">Enhances HowWeCanHelpYou page layout and imagery
-
-Implements a new grid layout for displaying testimonials and services.
-
-Replaces existing text with engaging images to improve visual appeal and user engagement.
-
-Updates image sources for consistency and relevance.
-
-Refines styling for better responsiveness across devices.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4484a3</div>
-                                        <div class="message">Updates image source for Our Origin Story page
-
-Replaces the background image to better align with branding.
-
-Enhances visual appeal and user engagement on the page.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#983d18b</div>
-                                        <div class="message">Refactors import paths for project and utility modules
-
-Updates import statements for the Project interface and featuredArray utility function to improve module organization.
-
-Enhances clarity by ensuring imports point to accurate file locations.
-
-No functional changes introduced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89eda8d</div>
-                                        <div class="message">Refactors imports and updates layout styles
-
-Reorganizes utility imports to utilize a new format module.
-Adjusts layout styles for improved responsiveness in various components.
-Enhances image grid layout for better display on different screen sizes.
-
-No issue reference.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d851d8</div>
-                                        <div class="message">Refactors utility functions and organizes code structure
-
-Removes redundant utility functions from the main file and consolidates them into separate modules for better organization.
-
-Implements new utility functions for parsing lengths and reading times, enhancing maintainability and readability.
-
-Improves code structure by categorizing related functionalities, which aids in future development and testing efforts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c2e79e</div>
-                                        <div class="message">Updates image sources and styles for better UX
-
-Replaces outdated image URLs with new assets for improved relevance and quality.
-
-Modifies CSS classes for enhanced responsiveness and layout consistency across components.
-
-Ensures a more engaging visual presentation in the UI.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfffff3</div>
-                                        <div class="message">Removes unused GridPattern and ImageGridDivider components
-
-Cleans up the codebase by deleting redundant components
-that are no longer needed, improving maintainability and reducing bundle size.
-
-No associated issue.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aec2906</div>
-                                        <div class="message">Adds tab section component with image galleries
-
-Introduces a new tab section component that displays
-image galleries for different candidate stages.
-
-Refines tab navigation and enhances mobile responsiveness
-by implementing a dropdown for tab selection.
-
-Renames existing header component for clarity.
-
-Relates to #456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec05d51</div>
-                                        <div class="message">Adds image galleries with enhanced image sources
-
-Implements two new image gallery components: FeaturedImageGallery and MasonryGridGallery.
-
-Updates allowed image hosts in configuration to include new sources, enhancing content variety.
-
-Removes unused image sources to streamline the configuration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9967ecd</div>
-                                        <div class="message">Adds new logo images and updates logo component
-
-Introduces circular and square logo images for enhanced branding.
-
-Updates the logo component to use the new circular logo.
-
-Improves visual consistency across the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e859c91</div>
-                                        <div class="message">Refactors image properties in blog and project interfaces
-
-Updates blog and project interfaces to include `cardImage` property for improved image handling.
-
-Changes import paths for interfaces to enhance organization and clarity.
-
-No functional changes introduced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#691128b</div>
-                                        <div class="message">Refactors testimonial interface into separate file
-
-Moves the Testimonial interface to a new file for better organization and maintainability.
-
-Updates the Project interface to streamline code structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5c366d</div>
-                                        <div class="message">Updates BlogPost interface to require image URLs
-
-Ensures both imageUrl and image2Url are mandatory for blog posts, improving data integrity.
-
-Removes optionality of imageUrl to enforce consistent image handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f852365</div>
-                                        <div class="message">Adds second image URL field to blog posts
-
-Introduces a new field for a second image URL in blog post objects to enhance visual content options.
-
-Updates multiple blog entries to include this new field, improving the flexibility for content presentation.
-
-No associated issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d60da64</div>
-                                        <div class="message">Enhances "Let's Work Together" section UI and content
-
-Refines the layout and styling of the project inquiry form
-Updates text for clarity and adds testimonial integration
-Removes unnecessary elements for a cleaner design</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13ebabf</div>
-                                        <div class="message">Enhances blog post display with dynamic components
-
-Introduces a dynamic button for navigating related topics
-Refactors the blog post layout for improved readability
-Adds support for displaying additional post content and images
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2e544f</div>
-                                        <div class="message">Adds imageUrl property to blog posts
-
-Introduces imageUrl to enhance blog post structure
-Facilitates future updates for image integration in posts
-Ensures consistency across all blog entries
-
-Relates to JIRA-123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33ddbee</div>
-                                        <div class="message">Refactors blog post page layout and date formatting
-
-Improves UI structure by reorganizing the blog post header layout for better responsiveness and readability.
-
-Updates date display to utilize a dedicated date conversion function.
-
-Enhances topic badge presentation and overall visual coherence.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d043997</div>
-                                        <div class="message">Fixes blog date formatting and URL path
-
-Removes unnecessary locale formatting from blog date display.
-
-Updates the button action to navigate to the correct blogs path.
-
-Improves overall clarity and functionality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c833c00</div>
-                                        <div class="message">Improves date handling in blog sorting utility
-
-Refactors date conversion to use JavaScript Date objects directly, enhancing clarity and performance in sorting blogs by date.
-
-Changes the return type of the date conversion function to a localized string format for better user presentation.
-
-Relates to issue #456</div>
                                     </div>
                                 </div>
                             </section>
