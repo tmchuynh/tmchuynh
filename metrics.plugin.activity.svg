@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="711" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,70 +19,285 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#384d5d0</div>
+                                        <div class="message">Removes unused font imports and integrates Providers
+
+Eliminates unnecessary font imports to streamline code.
+
+Introduces Providers component for improved layout management.
+
+Enhances body structure for better responsiveness.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c367885</div>
+                                        <div class="message">Adds NotFoundContextType interface
+
+Implements a new type to manage not found states in the application.
+
+This addition facilitates better handling of not found scenarios, allowing components to easily track and update their not found status.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b41a84b</div>
+                                        <div class="message">Adds NotFound context and provider for error handling
+
+Introduces NotFoundContext and NotFoundProvider to manage "not found" state within the application.
+
+Wraps child components with NotFoundProvider in the Providers component to enable access to not found state throughout the app.
+
+Improves overall user experience by allowing components to handle not found errors gracefully.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7c5bbc</div>
+                                        <div class="message">Adds service and tier information constants
+
+Introduces structured data for various wellness services and tiers, enhancing the application's ability to provide detailed service offerings.
+
+Supports better organization of service details, pricing, and session information for user access.
+
+No related issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffbe515</div>
+                                        <div class="message">Enhances subServices with introductory descriptions
+
+Adds optional introduction field to SubService interface
+Implements introductory descriptions for existing wellness programs
+Introduces new interfaces for subService and service tier information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4448fe6</div>
+                                        <div class="message">Refactors ServiceCategory interface and adds SubService and SubServiceTier interfaces for enhanced service structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ef3a6f</div>
+                                        <div class="message">Adds serviceCategories and subServices constants to define wellness, nutrition, fitness, mental health, and corporate wellness offerings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fe867b</div>
+                                        <div class="message">Adds ServiceCategory interface to define service category structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9913e37</div>
+                                        <div class="message">Adds debounce utility function to delay function invocation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46d5457</div>
+                                        <div class="message">Adds utility functions for string manipulation and array filtering</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fbe3fa</div>
+                                        <div class="message">Adds tw-animate-css dependency to enhance animation capabilities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17e34ac</div>
+                                        <div class="message">Updates ESLint configuration to relax certain rules
+
+Modifies ESLint settings to disable specific rules related to React hooks and TypeScript.
+
+This change aims to reduce linting errors during development and improve code flexibility.
+
+Relates to JIRA-456</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dd144f</div>
+                                        <div class="message">Enhances TypeScript configuration for module resolution
+
+Adds support for importing TypeScript extensions.
+
+Expands path mappings to simplify imports across the project,
+allowing for clearer and more organized code structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b3a31a</div>
+                                        <div class="message">Updates component aliases in configuration
+
+Refactors component paths for better organization
+Changes 'utils' and 'ui' aliases to new locations
+Introduces 'constants' alias to enhance clarity
+
+Relates to JIRA-456</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27efe66</div>
+                                        <div class="message">Adds custom screen size detection hooks
+
+Implements three custom hooks to determine screen sizes:
+- `useLargerScreen` for screens between 1025px and 1440px
+- `useMediumScreen` for screens less than or equal to 768px
+- `useSmallScreen` for screens less than or equal to 640px
+
+Enhances responsive design capabilities by allowing components to adapt based on screen size.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55aeb9e</div>
+                                        <div class="message">Adds next-themes and react-icons dependencies
+
+Includes next-themes for improved theme management in the application.
+Adds react-icons for enhanced icon usage throughout the UI.
+
+No issues referenced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#208f030</div>
+                                        <div class="message">Enhances color scheme and typography in styles
+
+Introduces new color variables for improved theming
+Updates background and foreground colors for better contrast
+Adds custom fonts for enhanced visual appeal and readability
+
+Relates to design improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6d7b26</div>
+                                        <div class="message">Adds new font files for improved typography
+
+Introduces several font files to enhance the visual appeal of the application.
+
+Includes Barlow Condensed, Cormorant, DM Serif Display, IBMPlex Sans, Nunito, and Poppins fonts.
+
+Improves overall design consistency and readability.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#31ff786</div>
+                                        <div class="message">update button and links</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8e3e33a</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2217a6c</div>
+                                        <div class="message">fix layout imports</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fd0d37</div>
+                                        <div class="message">Adds new dependencies for UI components and updates
+
+Introduces @headlessui/react and @heroicons/react for enhanced UI features.
+Updates tw-animate-css to the latest version for improved animations.
+Ensures compatibility with existing dependencies and enhances overall application functionality.
+
+Relates to UI/UX improvements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ff4e3e</div>
+                                        <div class="message">Updates navigation titles and descriptions for clarity
+
+Renames "About Us" to "Our Story" for a more personal touch.
+Removes "FAQs" section to streamline navigation.
+Changes "Explore our range of flexible payment plans" to "Explore our range of services geared towards your every need" for better alignment with user expectations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#619ccf2</div>
+                                        <div class="message">Removes obsolete contract and payment plan definitions
+
+Deletes unused contract categories and payment plans to streamline the codebase and eliminate redundancy.
+
+Improves maintainability by reducing unnecessary complexity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c20534</div>
+                                        <div class="message">Enhances ModeButton styling and accessibility
+
+Improves visual appearance of the ModeButton component
+by adding background, border, and text color adjustments.
+
+Updates accessibility features through improved aria-labels
+for better screen reader support.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e16cebb</div>
+                                        <div class="message">Adds FlyoutMenu component and removes Navbar
+
+Introduces a new FlyoutMenu component for improved navigation.
+
+Removes the existing Navbar component to streamline codebase and enhance user experience.
+
+Updates layout to include the FlyoutMenu in the main content area.
+
+Improves responsiveness and accessibility in the navigation system.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e66e07</div>
+                                        <div class="message">Removes contract selection section from contact form
+
+Eliminates the contract examples selection feature
+from the contact us page for a streamlined user experience.
+
+Updates user interface by simplifying form fields
+and reducing complexity in the component structure.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="content">
                                         Made
                                         <span class="repo">tmchuynh/iac_website_2.0</span>
                                         public
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Made
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                        public
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Made
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                        public
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                             </section>
