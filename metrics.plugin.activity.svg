@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;justify-content:flex-end;padding:0 4px}.category,.track{display:flex;align-items:center}.category,footer{flex-direction:column}.category{flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,148 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 33 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d97d506</div>
+                                        <div class="message">Add image data and tab data for service categories</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d795883</div>
+                                        <div class="message">Adds minutes to hours conversion utility
+
+Introduces a new function to convert total minutes into a formatted string displaying hours and minutes.
+
+Enhances usability for time-related calculations in the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#371b2c0</div>
+                                        <div class="message">Adds linking to service categories
+
+Wraps service category cards in links for navigation to respective program pages.
+
+Improves user experience by enabling direct access to program details.
+
+Relates to user feedback on navigation efficiency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c45bdec</div>
+                                        <div class="message">Adds service filtering and display based on category
+
+Implements filtering of sub-services by category ID
+from the URL, enhancing user navigation.
+
+Introduces a grid layout to display services with
+titles, introductions, and descriptions using cards.
+
+Improves overall user experience in the services page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52f42f5</div>
+                                        <div class="message">Add optional blackOutDays property to ServiceTierInformation interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8f5e48</div>
+                                        <div class="message">Add blackout days for service tiers in tierInformation.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91bba80</div>
+                                        <div class="message">Update secondary and tertiary color variables in globals.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6afe4d</div>
+                                        <div class="message">Add Table component with header, body, footer, and cell subcomponents</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07cc56e</div>
+                                        <div class="message">Remove debug console logs from DynamicBreadcrumb component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff1e2a8</div>
+                                        <div class="message">Implements service detail page with tier pricing
+
+Enhances service page to display detailed information
+about services, including descriptions, key points,
+program outcomes, and goals.
+
+Introduces a table for blackout days with visual indicators
+for availability, improving user experience in service selection.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0926c7c</div>
+                                        <div class="message">Refactors service category icons to use imported React icons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ade9401</div>
+                                        <div class="message">Updates color variables and typography styles
+
+Refines color definitions for secondary and tertiary elements to enhance visual consistency.
+
+Adjusts heading styles for improved readability on larger screens.
+
+Removes redundant styles for a cleaner codebase.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da67bd0</div>
+                                        <div class="message">Renames program files and organizes category structure
+
+Moves program files to a new category structure for better organization.
+
+Introduces a new page component for the category with a layout and placeholders for dynamic content.
+
+Updates the main program page to display service categories using cards for a cleaner UI.
+
+Improves code maintainability and user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aebc1bb</div>
+                                        <div class="message">Fix logic for clipping breadcrumb segment content on last item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39cdc16</div>
+                                        <div class="message">Removes unused page components from digital products and wellness library</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313db88</div>
+                                        <div class="message">Removes unused wellness articles page component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16ec90a</div>
+                                        <div class="message">Adds FAQ section with dynamic content display
+
+Implements a new FAQ section to enhance user support.
+
+Introduces a dynamic button for customer support inquiries and
+populates the FAQ content from a dedicated constants file.
+
+Improves accessibility to frequently asked questions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#375f586</div>
+                                        <div class="message">Removes unnecessary padding from breadcrumb list for cleaner layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92a9861</div>
+                                        <div class="message">Adds cursor-default style to body for improved user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e683627</div>
+                                        <div class="message">Adds href prop to DynamicButton for link functionality</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -392,26 +534,6 @@ Introduces several font files to enhance the visual appeal of the application.
 Includes Barlow Condensed, Cormorant, DM Serif Display, IBMPlex Sans, Nunito, and Poppins fonts.
 
 Improves overall design consistency and readability.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#31ff786</div>
-                                        <div class="message">update button and links</div>
                                     </div>
                                 </div>
                             </section>
