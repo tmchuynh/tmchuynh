@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="828" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;justify-content:flex-end;padding:0 4px}.category,.track{display:flex;align-items:center}.category,footer{flex-direction:column}.category{flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,174 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f5465d2</div>
+                                        <div class="message">Replaces &lt;img&gt; with &lt;Image&gt; component for optimization
+
+Utilizes the Next.js &lt;Image&gt; component for improved image handling and performance.
+
+Updates multiple components to leverage automatic image optimization features.
+
+Enhances loading efficiency and responsiveness throughout the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b88b1ba</div>
+                                        <div class="message">Replaces &lt;img&gt; with &lt;Image&gt; components for optimization
+
+Updates image rendering to use Next.js &lt;Image&gt; component for improved performance and automatic optimization.
+
+Adds width and height attributes to enhance layout stability and accessibility.
+
+Relates to performance improvements for image-heavy components.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#859ac33</div>
+                                        <div class="message">Refactors color variables in globals.css for improved theme consistency and updates layout.tsx to include ThemeToggle component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15a18c9</div>
+                                        <div class="message">Adds navigation menu configuration and new toggle component
+
+Introduces a structured navigation menu with main and secondary pages to enhance user experience.
+
+Adds a new toggle component from Radix UI for better UI control.
+
+Updates package dependencies to include the new toggle component.
+
+Improves overall code organization and maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e98cf5</div>
+                                        <div class="message">Enhances theme toggle and adds logo cloud component
+
+Improves the theme toggle button's styling for better user experience.
+
+Introduces a new logo cloud component to showcase partner logos, enhancing the visual appeal of the application.
+
+Updates navigation component to use constants for menu items, improving maintainability.
+
+Refactors various components for consistent styling and improved accessibility.
+
+Fixes #456</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#564dba0</div>
+                                        <div class="message">Refactors styling for improved UI consistency
+
+Removes unnecessary background classes for various components
+Streamlines text classes for better readability and consistency
+Enhances button styles and alignment across components
+
+Relates to UI/UX improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d954e28</div>
+                                        <div class="message">Removes background color from several components
+
+Eliminates unnecessary white background styling across multiple components to enhance visual consistency.
+
+Refines text styling for better readability and accessibility.
+
+Improves overall design coherence without altering layout functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b281312</div>
+                                        <div class="message">Adds multiple wellness article pages
+
+Creates new React components for various wellness articles
+Includes placeholder content for future updates
+Enhances the structure and organization of the wellness library</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb0da0b</div>
+                                        <div class="message">Adds new FAQ and resources center pages
+
+Implements multiple new React components for FAQ and resources center sections.
+
+Enhances user navigation and content accessibility with structured layout and placeholder text.
+
+Includes pages for assessments, wellness resources, events, and workshops.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a53b8e9</div>
+                                        <div class="message">removes unused resources center page component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52d57f7</div>
+                                        <div class="message">Renames and reorganizes accessibility-related pages
+
+Moves accessibility statement and affiliates pages to a more appropriate directory structure under 'about'
+
+Removes several empty or redundant page files
+
+Improves overall project organization and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#721bad8</div>
+                                        <div class="message">Improves button styling and interaction
+
+Enhances button appearance with updated font and shadow effects.
+
+Modifies clickability with cursor pointer and adjusts sizing for better responsiveness.
+
+Refines icon display with improved color and spacing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dee9b6</div>
+                                        <div class="message">Adds dynamic button components and theme toggler
+
+Implements "Back to Top" and "Theme Toggle" buttons for improved user navigation and accessibility.
+
+Introduces a reusable dynamic button that supports icons and varied styles, enhancing UI flexibility.
+
+Fixes #456</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21caace</div>
+                                        <div class="message">Adds footer component with navigation links
+
+Implements a footer component featuring navigation sections for solutions, support, company information, and legal links.
+
+Includes a newsletter subscription form for user engagement.
+
+Enhances overall site structure and usability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9853d9e</div>
+                                        <div class="message">Refactors class name handling to use utility function in pricing components</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -244,104 +412,6 @@ Improves overall design consistency and readability.</div>
                                     <div class="commit">
                                         <div class="sha">#31ff786</div>
                                         <div class="message">update button and links</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8e3e33a</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2217a6c</div>
-                                        <div class="message">fix layout imports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fd0d37</div>
-                                        <div class="message">Adds new dependencies for UI components and updates
-
-Introduces @headlessui/react and @heroicons/react for enhanced UI features.
-Updates tw-animate-css to the latest version for improved animations.
-Ensures compatibility with existing dependencies and enhances overall application functionality.
-
-Relates to UI/UX improvements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ff4e3e</div>
-                                        <div class="message">Updates navigation titles and descriptions for clarity
-
-Renames "About Us" to "Our Story" for a more personal touch.
-Removes "FAQs" section to streamline navigation.
-Changes "Explore our range of flexible payment plans" to "Explore our range of services geared towards your every need" for better alignment with user expectations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#619ccf2</div>
-                                        <div class="message">Removes obsolete contract and payment plan definitions
-
-Deletes unused contract categories and payment plans to streamline the codebase and eliminate redundancy.
-
-Improves maintainability by reducing unnecessary complexity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c20534</div>
-                                        <div class="message">Enhances ModeButton styling and accessibility
-
-Improves visual appearance of the ModeButton component
-by adding background, border, and text color adjustments.
-
-Updates accessibility features through improved aria-labels
-for better screen reader support.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e16cebb</div>
-                                        <div class="message">Adds FlyoutMenu component and removes Navbar
-
-Introduces a new FlyoutMenu component for improved navigation.
-
-Removes the existing Navbar component to streamline codebase and enhance user experience.
-
-Updates layout to include the FlyoutMenu in the main content area.
-
-Improves responsiveness and accessibility in the navigation system.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e66e07</div>
-                                        <div class="message">Removes contract selection section from contact form
-
-Eliminates the contract examples selection feature
-from the contact us page for a streamlined user experience.
-
-Updates user interface by simplifying form fields
-and reducing complexity in the component structure.</div>
                                     </div>
                                 </div>
                             </section>
