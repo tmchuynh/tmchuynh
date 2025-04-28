@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1261" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1011" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,137 +22,59 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 33 commits in
+                                        Pushed 7 commits in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d97d506</div>
-                                        <div class="message">Add image data and tab data for service categories</div>
+                                        <div class="sha">#3133cee</div>
+                                        <div class="message">Enhances About page content and structure
+
+Revamps the About page with detailed sections on mission, story, purpose, and approach.
+
+Introduces dynamic content rendering for team members and supporters, improving user engagement.
+
+Refines layout for better readability and responsiveness.
+
+Improves overall user experience by providing comprehensive insights into Harmona Health's offerings.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d795883</div>
-                                        <div class="message">Adds minutes to hours conversion utility
+                                        <div class="sha">#d05a8a7</div>
+                                        <div class="message">Adds wellness commitments and team member details
 
-Introduces a new function to convert total minutes into a formatted string displaying hours and minutes.
+Introduces new constants for wellness commitments and health programs to enhance the user experience and provide clear guidance on services.
 
-Enhances usability for time-related calculations in the application.</div>
+Adds detailed team member profiles, highlighting their expertise and roles within the organization to foster trust and connection with clients.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#371b2c0</div>
-                                        <div class="message">Adds linking to service categories
-
-Wraps service category cards in links for navigation to respective program pages.
-
-Improves user experience by enabling direct access to program details.
-
-Relates to user feedback on navigation efficiency.</div>
+                                        <div class="sha">#db2558b</div>
+                                        <div class="message">Add custom hook useLargeScreen to determine screen width for responsive design</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c45bdec</div>
-                                        <div class="message">Adds service filtering and display based on category
+                                        <div class="sha">#c4b85e1</div>
+                                        <div class="message">Refactor breadcrumb component layout for improved spacing and responsiveness</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e5bbd4</div>
+                                        <div class="message">Refactor layout widths in mental health toolkit pages for improved responsiveness
 
-Implements filtering of sub-services by category ID
-from the URL, enhancing user navigation.
+- Updated width classes from w-11/12 to w-10/12 md:w-11/12 across multiple pages in the mental health toolkit section, including cognitive behavioral therapy, communication tools, depression tools, emotional regulation tools, fitness toolkit, grief tools, journaling tools, leadership tools, mindfulness practices, nutrition tools, progressive muscle relaxation guides, resilience toolkit, self-care and discovery toolkit, self-compassion and esteem practices, sleep optimization tools, stress management tools, trauma tools, visualization exercises, work-life balance tools, and the main toolkit page.
+- Adjusted the same width classes in related layout files to maintain consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0ff28f</div>
+                                        <div class="message">Refactors paragraph elements in the hero section for improved styling consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c58c366</div>
+                                        <div class="message">Refines UI layout and styles for improved readability
 
-Introduces a grid layout to display services with
-titles, introductions, and descriptions using cards.
+Adds padding to paragraph elements for better spacing.
+Adjusts list item structure to enhance alignment of icons.
 
-Improves overall user experience in the services page.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52f42f5</div>
-                                        <div class="message">Add optional blackOutDays property to ServiceTierInformation interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8f5e48</div>
-                                        <div class="message">Add blackout days for service tiers in tierInformation.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91bba80</div>
-                                        <div class="message">Update secondary and tertiary color variables in globals.css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6afe4d</div>
-                                        <div class="message">Add Table component with header, body, footer, and cell subcomponents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07cc56e</div>
-                                        <div class="message">Remove debug console logs from DynamicBreadcrumb component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff1e2a8</div>
-                                        <div class="message">Implements service detail page with tier pricing
-
-Enhances service page to display detailed information
-about services, including descriptions, key points,
-program outcomes, and goals.
-
-Introduces a table for blackout days with visual indicators
-for availability, improving user experience in service selection.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0926c7c</div>
-                                        <div class="message">Refactors service category icons to use imported React icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ade9401</div>
-                                        <div class="message">Updates color variables and typography styles
-
-Refines color definitions for secondary and tertiary elements to enhance visual consistency.
-
-Adjusts heading styles for improved readability on larger screens.
-
-Removes redundant styles for a cleaner codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da67bd0</div>
-                                        <div class="message">Renames program files and organizes category structure
-
-Moves program files to a new category structure for better organization.
-
-Introduces a new page component for the category with a layout and placeholders for dynamic content.
-
-Updates the main program page to display service categories using cards for a cleaner UI.
-
-Improves code maintainability and user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aebc1bb</div>
-                                        <div class="message">Fix logic for clipping breadcrumb segment content on last item</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39cdc16</div>
-                                        <div class="message">Removes unused page components from digital products and wellness library</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#313db88</div>
-                                        <div class="message">Removes unused wellness articles page component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16ec90a</div>
-                                        <div class="message">Adds FAQ section with dynamic content display
-
-Implements a new FAQ section to enhance user support.
-
-Introduces a dynamic button for customer support inquiries and
-populates the FAQ content from a dedicated constants file.
-
-Improves accessibility to frequently asked questions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#375f586</div>
-                                        <div class="message">Removes unnecessary padding from breadcrumb list for cleaner layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92a9861</div>
-                                        <div class="message">Adds cursor-default style to body for improved user experience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e683627</div>
-                                        <div class="message">Adds href prop to DynamicButton for link functionality</div>
+Removes redundant padding classes from specific elements.</div>
                                     </div>
                                 </div>
                             </section>
@@ -164,31 +86,62 @@ Improves accessibility to frequently asked questions.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 10 commits in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5465d2</div>
-                                        <div class="message">Replaces &lt;img&gt; with &lt;Image&gt; component for optimization
+                                        <div class="sha">#ddf867e</div>
+                                        <div class="message">Refactors dialog component and removes unused sheet component
 
-Utilizes the Next.js &lt;Image&gt; component for improved image handling and performance.
+Improves dialog component styling for better consistency.
+Removes the sheet component, which was not in use, to streamline the codebase.
 
-Updates multiple components to leverage automatic image optimization features.
-
-Enhances loading efficiency and responsiveness throughout the application.</div>
+Reduces complexity and enhances maintainability.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b88b1ba</div>
-                                        <div class="message">Replaces &lt;img&gt; with &lt;Image&gt; components for optimization
+                                        <div class="sha">#45bac15</div>
+                                        <div class="message">Adds dynamic question retrieval for resource categories
 
-Updates image rendering to use Next.js &lt;Image&gt; component for improved performance and automatic optimization.
+Implements a new function to asynchronously load questions based on category ID.
 
-Adds width and height attributes to enhance layout stability and accessibility.
+Enhances the user interface by adding a button for question retrieval next to each category title, improving interactivity and resource access.
 
-Relates to performance improvements for image-heavy components.</div>
+Improves error handling for loading questions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f75fb9d</div>
+                                        <div class="message">Update Success Stories link to correct path for improved navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bddba5a</div>
+                                        <div class="message">Add Success Stories page and SuccessStoryCard component for showcasing user testimonials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af873cc</div>
+                                        <div class="message">Remove Success Stories page component to streamline content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2fcbc5</div>
+                                        <div class="message">Revamp landing page content and structure to enhance user engagement and promote wellness programs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13c7069</div>
+                                        <div class="message">Add new health and support features with corresponding icons to constants</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c8f848</div>
+                                        <div class="message">Add Home link to FlyoutMenu for improved navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37724d6</div>
+                                        <div class="message">Refactor DynamicButton styles for link variant and improve icon class handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e550020</div>
+                                        <div class="message">Add plus.unsplash.com to imageHosts for remote image loading</div>
                                     </div>
                                 </div>
                             </section>
@@ -200,127 +153,170 @@ Relates to performance improvements for image-heavy components.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 13 commits in
+                                        Pushed 31 commits in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#859ac33</div>
-                                        <div class="message">Refactors color variables in globals.css for improved theme consistency and updates layout.tsx to include ThemeToggle component.</div>
+                                        <div class="sha">#3fee342</div>
+                                        <div class="message">Updates category IDs for consistency across tools
+
+Replaces outdated category IDs with standardized names to improve organization and clarity within the toolkit structure.
+
+Enhances maintainability and ensures uniformity in categorization across various tools.
+
+Relates to user feedback on tool categorization.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#15a18c9</div>
-                                        <div class="message">Adds navigation menu configuration and new toggle component
+                                        <div class="sha">#cd02cf9</div>
+                                        <div class="message">Removes unnecessary href comment from Tool interface
 
-Introduces a structured navigation menu with main and secondary pages to enhance user experience.
+Cleans up the Tool interface by removing the comment
+indicating that the href property needs to be removed.
 
-Adds a new toggle component from Radix UI for better UI control.
-
-Updates package dependencies to include the new toggle component.
-
-Improves overall code organization and maintainability.</div>
+No functional changes are made.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4e98cf5</div>
-                                        <div class="message">Enhances theme toggle and adds logo cloud component
+                                        <div class="sha">#9473518</div>
+                                        <div class="message">Updates logo in FlyoutMenu component
 
-Improves the theme toggle button's styling for better user experience.
+Replaces external logo source with a local image file.
 
-Introduces a new logo cloud component to showcase partner logos, enhancing the visual appeal of the application.
+Adjusts image dimensions for improved responsiveness and visual consistency.
 
-Updates navigation component to use constants for menu items, improving maintainability.
+Enhances the aspect ratio and object fitting for better display quality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#813d369</div>
+                                        <div class="message">Updates ToolCard to use dynamic URL formatting
 
-Refactors various components for consistent styling and improved accessibility.
+Modifies the href property of the DynamicButton to construct a dynamic URL using the tool's categoryId and title.
+
+This enhances the routing structure for the mental health toolkit resources.
+
+Improves maintainability by utilizing utility functions for URL formatting.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad34011</div>
+                                        <div class="message">Adds new tool page component
+
+Implements a new React component for the mental health toolkit.
+
+The component includes a title, subtitle, and descriptive text to enhance user engagement with the tool.
+
+Improves overall structure and organization of resources.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07a1a86</div>
+                                        <div class="message">Adds dynamic pricing button and improves pricing layout
+
+Implements a dynamic button for pricing navigation
+Enhances the pricing page layout with improved styling and structure
+Introduces sorting functionality for tools in the mental health toolkit
 
 Fixes #456</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#564dba0</div>
-                                        <div class="message">Refactors styling for improved UI consistency
-
-Removes unnecessary background classes for various components
-Streamlines text classes for better readability and consistency
-Enhances button styles and alignment across components
-
-Relates to UI/UX improvements</div>
+                                        <div class="sha">#fdd2d16</div>
+                                        <div class="message">Fix primary color definition for improved accessibility</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d954e28</div>
-                                        <div class="message">Removes background color from several components
-
-Eliminates unnecessary white background styling across multiple components to enhance visual consistency.
-
-Refines text styling for better readability and accessibility.
-
-Improves overall design coherence without altering layout functionality.</div>
+                                        <div class="sha">#9bdd1da</div>
+                                        <div class="message">Add high-resolution logo images and monograms</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b281312</div>
-                                        <div class="message">Adds multiple wellness article pages
+                                        <div class="sha">#e6bc876</div>
+                                        <div class="message">Refactors URL formatting and adds object sorting function
 
-Creates new React components for various wellness articles
-Includes placeholder content for future updates
-Enhances the structure and organization of the wellness library</div>
+Removes unnecessary string replacements in URL formatting for clarity.
+
+Introduces a new function to sort an array of objects by a specified property, enhancing utility for developers.
+
+Improves code maintainability and usability.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bb0da0b</div>
-                                        <div class="message">Adds new FAQ and resources center pages
+                                        <div class="sha">#220311e</div>
+                                        <div class="message">Refines mental health toolkit resources and IDs
 
-Implements multiple new React components for FAQ and resources center sections.
+Updates resource IDs for improved clarity and consistency
+Enhances descriptions for various mental health tools
+Introduces new tools related to nutrition, sleep, anxiety, and more
 
-Enhances user navigation and content accessibility with structured layout and placeholder text.
-
-Includes pages for assessments, wellness resources, events, and workshops.</div>
+Relates to user feedback on resource accessibility</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a53b8e9</div>
-                                        <div class="message">removes unused resources center page component</div>
+                                        <div class="sha">#607dab8</div>
+                                        <div class="message">Sorts mental health toolkits by title
+
+Implements sorting functionality for mental health toolkits.
+
+Removes the description from the ToolkitCard component for a cleaner display.
+
+Improves user experience by presenting toolkits in a more organized manner.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#52d57f7</div>
-                                        <div class="message">Renames and reorganizes accessibility-related pages
+                                        <div class="sha">#491dc12</div>
+                                        <div class="message">Adds ToolCard component to display tools
 
-Moves accessibility statement and affiliates pages to a more appropriate directory structure under 'about'
+Implements the ToolCard component for improved visualization of tools in the mental health toolkit.
 
-Removes several empty or redundant page files
+Removes unnecessary console logging and integrates the ToolCard into the page, enhancing user experience by displaying corresponding tools dynamically.
 
-Improves overall project organization and clarity</div>
+Improves code organization and readability.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#721bad8</div>
-                                        <div class="message">Improves button styling and interaction
-
-Enhances button appearance with updated font and shadow effects.
-
-Modifies clickability with cursor pointer and adjusts sizing for better responsiveness.
-
-Refines icon display with improved color and spacing.</div>
+                                        <div class="sha">#39bcbaa</div>
+                                        <div class="message">Update text size in globals.css and adjust BreadcrumbSeparator color in dynamic-breadcrumb.tsx for improved visibility</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1dee9b6</div>
-                                        <div class="message">Adds dynamic button components and theme toggler
+                                        <div class="sha">#8f172e6</div>
+                                        <div class="message">Updates mental health toolkit links for clarity
 
-Implements "Back to Top" and "Theme Toggle" buttons for improved user navigation and accessibility.
+Removes redundant path segments from toolkit resource links
 
-Introduces a reusable dynamic button that supports icons and varied styles, enhancing UI flexibility.
+Improves URL structure for easier navigation and access</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b5f466</div>
+                                        <div class="message">Enhances mental health toolkit tool structure
+
+Refactors tool definitions to use a consistent interface, ensuring type safety and clarity.
+
+Adds categoryId to each tool for better organization and retrieval.
+
+Updates tools map to include newly structured tools.
+
+Improves maintainability and extensibility of the toolkit resources.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#814220b</div>
+                                        <div class="message">Updates mental health toolkit page and data structure
+
+Refines the mental health toolkit page to dynamically display toolkit information based on URL segments.
+
+Implements state management for toolkit data and randomizes icons for enhanced user experience.
+
+Modifies data structure to allow for optional fields in toolkits and updates existing self-assessment tools to match the new format.
 
 Fixes #456</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21caace</div>
-                                        <div class="message">Adds footer component with navigation links
-
-Implements a footer component featuring navigation sections for solutions, support, company information, and legal links.
-
-Includes a newsletter subscription form for user engagement.
-
-Enhances overall site structure and usability.</div>
+                                        <div class="sha">#576d401</div>
+                                        <div class="message">Refactor ArticleCard, ResourceCard, and ToolkitCard components for improved usability; fix accessibility statement link; add Tool interface.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9853d9e</div>
-                                        <div class="message">Refactors class name handling to use utility function in pricing components</div>
+                                        <div class="sha">#1d3b8dd</div>
+                                        <div class="message">Update page titles for accessibility, affiliates, about, contact, program pricing, start your journey, success stories, and mental health toolkit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb2e9de</div>
+                                        <div class="message">Add comprehensive toolkit resources for nutrition, resilience, self-compassion, sleep optimization, mindfulness, self-care, cognitive behavioral therapy, breathing techniques, progressive muscle relaxation, affirmations, anxiety, depression, trauma, grief, anger management, work-life balance, communication, leadership, visualization exercises, behavioral activation, journaling, and checklists.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8788f2</div>
+                                        <div class="message">Remove unused Page component from form directory</div>
                                     </div>
                                 </div>
                             </section>
@@ -339,46 +335,56 @@ Enhances overall site structure and usability.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c5bf6d</div>
-                                        <div class="message">Renames service-related constants and updates imports
+                                        <div class="sha">#13819a2</div>
+                                        <div class="message">Adds Toolkit and Article interfaces
 
-Moves service constants to a dedicated services directory
-Updates import paths to use absolute references for easier navigation
+Introduces new interfaces to define the structure of toolkits and articles.
 
-Improves project structure and maintainability</div>
+Enhances type safety and clarity in resource management.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9159fe9</div>
-                                        <div class="message">refactor: enhance DynamicBreadcrumb component with improved rendering and styling</div>
+                                        <div class="sha">#6bb118a</div>
+                                        <div class="message">Adds self-assessment tools and UI component
+
+Introduces a new self-assessment card component for displaying various mental and physical health assessment tools.
+
+Populates the toolkit with multiple assessments to guide users in evaluating their health and well-being.
+
+Improves user experience by providing informative content and clear warnings associated with each assessment.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b62e144</div>
-                                        <div class="message">refactor: remove unused MaterialTailwind ThemeProvider from Providers component</div>
+                                        <div class="sha">#34e0460</div>
+                                        <div class="message">Adds ArticleCard component and article data
+
+Implements the ArticleCard component for displaying articles.
+
+Includes a collection of articles with titles, descriptions, and images for use within the application.
+
+Enhances user experience by providing a structured way to present health-related content.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ac4ea8a</div>
-                                        <div class="message">feat: add FlyoutMenu and DynamicBreadcrumb components; update layout and providers
+                                        <div class="sha">#2d8a76e</div>
+                                        <div class="message">Adds article cards to health articles page
 
-- Introduced FlyoutMenu component for navigation with mobile support.
-- Added DynamicBreadcrumb component for dynamic breadcrumb navigation based on the current path.
-- Updated RootLayout to include FlyoutMenu and DynamicBreadcrumb.
-- Modified Providers to wrap children with Material Tailwind ThemeProvider.
-- Implemented generateRandomString utility function for random string generation.
-- Created UI components for breadcrumb navigation including Breadcrumb, BreadcrumbList, BreadcrumbItem, and others.</div>
+Implements a grid layout to display articles using ArticleCard components.
+
+Increases paragraph spacing for better readability.
+
+Enhances user engagement by showcasing available health articles.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3df110e</div>
-                                        <div class="message">Adds new dependencies for UI components and utilities</div>
+                                        <div class="sha">#d886a39</div>
+                                        <div class="message">Updates self-assessment page and integrates tools
+
+Modifies the title to "Self Assessments" for clarity.
+Increases paragraph spacing for improved readability.
+Adds a grid layout to display self-assessment tools dynamically using SelfAssessmentCard components.
+
+Enhances user experience by providing interactive health assessment options.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3ad65f2</div>
-                                        <div class="message">Updates path aliases for improved module organization
-
-Refactors path aliases in configuration files to enhance clarity and maintainability.
-
-Changes include updating the 'utils' and 'constants' paths to reflect their new locations in the 'lib' directory.
-
-This restructuring aims to streamline imports across the project.</div>
+                                        <div class="sha">#941824c</div>
+                                        <div class="message">Increases paragraph spacing for improved readability across multiple pages in the wellness library</div>
                                     </div>
                                 </div>
                             </section>
@@ -390,150 +396,21 @@ This restructuring aims to streamline imports across the project.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 18 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#384d5d0</div>
-                                        <div class="message">Removes unused font imports and integrates Providers
+                                        <div class="sha">#9492221</div>
+                                        <div class="message">Updates resource links to new digital resource paths
 
-Eliminates unnecessary font imports to streamline code.
+Modifies URLs for mental health toolkit resources to reflect the new structure under digital resources.
 
-Introduces Providers component for improved layout management.
+Ensures users access the correct resources for mental health support and exercises.
 
-Enhances body structure for better responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c367885</div>
-                                        <div class="message">Adds NotFoundContextType interface
-
-Implements a new type to manage not found states in the application.
-
-This addition facilitates better handling of not found scenarios, allowing components to easily track and update their not found status.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b41a84b</div>
-                                        <div class="message">Adds NotFound context and provider for error handling
-
-Introduces NotFoundContext and NotFoundProvider to manage "not found" state within the application.
-
-Wraps child components with NotFoundProvider in the Providers component to enable access to not found state throughout the app.
-
-Improves overall user experience by allowing components to handle not found errors gracefully.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7c5bbc</div>
-                                        <div class="message">Adds service and tier information constants
-
-Introduces structured data for various wellness services and tiers, enhancing the application's ability to provide detailed service offerings.
-
-Supports better organization of service details, pricing, and session information for user access.
-
-No related issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffbe515</div>
-                                        <div class="message">Enhances subServices with introductory descriptions
-
-Adds optional introduction field to SubService interface
-Implements introductory descriptions for existing wellness programs
-Introduces new interfaces for subService and service tier information</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4448fe6</div>
-                                        <div class="message">Refactors ServiceCategory interface and adds SubService and SubServiceTier interfaces for enhanced service structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ef3a6f</div>
-                                        <div class="message">Adds serviceCategories and subServices constants to define wellness, nutrition, fitness, mental health, and corporate wellness offerings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fe867b</div>
-                                        <div class="message">Adds ServiceCategory interface to define service category structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9913e37</div>
-                                        <div class="message">Adds debounce utility function to delay function invocation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46d5457</div>
-                                        <div class="message">Adds utility functions for string manipulation and array filtering</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fbe3fa</div>
-                                        <div class="message">Adds tw-animate-css dependency to enhance animation capabilities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17e34ac</div>
-                                        <div class="message">Updates ESLint configuration to relax certain rules
-
-Modifies ESLint settings to disable specific rules related to React hooks and TypeScript.
-
-This change aims to reduce linting errors during development and improve code flexibility.
-
-Relates to JIRA-456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dd144f</div>
-                                        <div class="message">Enhances TypeScript configuration for module resolution
-
-Adds support for importing TypeScript extensions.
-
-Expands path mappings to simplify imports across the project,
-allowing for clearer and more organized code structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b3a31a</div>
-                                        <div class="message">Updates component aliases in configuration
-
-Refactors component paths for better organization
-Changes 'utils' and 'ui' aliases to new locations
-Introduces 'constants' alias to enhance clarity
-
-Relates to JIRA-456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27efe66</div>
-                                        <div class="message">Adds custom screen size detection hooks
-
-Implements three custom hooks to determine screen sizes:
-- `useLargerScreen` for screens between 1025px and 1440px
-- `useMediumScreen` for screens less than or equal to 768px
-- `useSmallScreen` for screens less than or equal to 640px
-
-Enhances responsive design capabilities by allowing components to adapt based on screen size.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55aeb9e</div>
-                                        <div class="message">Adds next-themes and react-icons dependencies
-
-Includes next-themes for improved theme management in the application.
-Adds react-icons for enhanced icon usage throughout the UI.
-
-No issues referenced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#208f030</div>
-                                        <div class="message">Enhances color scheme and typography in styles
-
-Introduces new color variables for improved theming
-Updates background and foreground colors for better contrast
-Adds custom fonts for enhanced visual appeal and readability
-
-Relates to design improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6d7b26</div>
-                                        <div class="message">Adds new font files for improved typography
-
-Introduces several font files to enhance the visual appeal of the application.
-
-Includes Barlow Condensed, Cormorant, DM Serif Display, IBMPlex Sans, Nunito, and Poppins fonts.
-
-Improves overall design consistency and readability.</div>
+No functional changes to the content itself.</div>
                                     </div>
                                 </div>
                             </section>
