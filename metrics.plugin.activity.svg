@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1327" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1377" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,88 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#12e3bca</div>
+                                        <div class="message">Add journaling prompts for self-discovery, mindfulness, morning mindset, overcoming fears, resilience, and self-compassion
+
+- Introduced life purpose and self-discovery prompts to encourage reflection on personal values and passions.
+- Added mindfulness prompts to enhance present-moment awareness and emotional acceptance.
+- Created morning mindset prompts to set positive intentions and cultivate gratitude at the start of the day.
+- Developed prompts for overcoming fear and limiting beliefs, focusing on reframing perspectives and taking actionable steps.
+- Included resilience journaling prompts to reflect on past challenges and build emotional strength.
+- Established self-compassion prompts to foster kindness and acceptance towards oneself.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c80907</div>
+                                        <div class="message">Add various checklists for mental health support, including anxiety management, burnout prevention, daily self-care, depression support, emotional regulation, grounding techniques, healthy sleep hygiene, mindfulness practices, positive thinking, and social connection.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca27b67</div>
+                                        <div class="message">Implement data fetching for journaling tools and enhance loading state management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a68d14</div>
+                                        <div class="message">Add layout components for various mental health toolkits
+
+- Created layout.tsx files for the following toolkits:
+  - Behavioral Activation Worksheets
+  - Breathing Techniques
+  - Checklists and Planners Tools
+  - Cognitive Behavioral Therapy Exercises
+  - Communication Tools
+  - Emotional Regulation Toolkit
+  - Fitness Toolkit
+  - Journaling Tools
+  - Leadership Tools
+  - Mindfulness Practices
+  - Nutrition Tools
+  - Progressive Muscle Relaxation Guides
+  - Resilience Toolkit
+  - Self-Care and Discovery Toolkit
+  - Self-Compassion and Esteem Practices
+  - Sleep Optimization Tools
+  - Stress Management Tools
+  - Visualization Exercises
+  - Work-Life Balance Tools
+
+- Each layout component utilizes ToolProvider and fetches tool information based on the current pathname.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99fc22e</div>
+                                        <div class="message">Update checklist titles and descriptions for improved mental health support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c244793</div>
+                                        <div class="message">Add Checkbox component using Radix UI for enhanced UI consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1ebc2e</div>
+                                        <div class="message">Enhance checklist functionality by implementing data fetching and checkbox handling for affirmation cards</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c608c19</div>
+                                        <div class="message">Refactor journaling tools with updated titles and descriptions for enhanced clarity and focus on self-discovery and emotional well-being</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c46a515</div>
+                                        <div class="message">Fix heading level for tool information subtitle in Page component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -481,74 +563,6 @@ Fixes #456</div>
                                     <div class="commit">
                                         <div class="sha">#d8788f2</div>
                                         <div class="message">Remove unused Page component from form directory</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#13819a2</div>
-                                        <div class="message">Adds Toolkit and Article interfaces
-
-Introduces new interfaces to define the structure of toolkits and articles.
-
-Enhances type safety and clarity in resource management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bb118a</div>
-                                        <div class="message">Adds self-assessment tools and UI component
-
-Introduces a new self-assessment card component for displaying various mental and physical health assessment tools.
-
-Populates the toolkit with multiple assessments to guide users in evaluating their health and well-being.
-
-Improves user experience by providing informative content and clear warnings associated with each assessment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34e0460</div>
-                                        <div class="message">Adds ArticleCard component and article data
-
-Implements the ArticleCard component for displaying articles.
-
-Includes a collection of articles with titles, descriptions, and images for use within the application.
-
-Enhances user experience by providing a structured way to present health-related content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d8a76e</div>
-                                        <div class="message">Adds article cards to health articles page
-
-Implements a grid layout to display articles using ArticleCard components.
-
-Increases paragraph spacing for better readability.
-
-Enhances user engagement by showcasing available health articles.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d886a39</div>
-                                        <div class="message">Updates self-assessment page and integrates tools
-
-Modifies the title to "Self Assessments" for clarity.
-Increases paragraph spacing for improved readability.
-Adds a grid layout to display self-assessment tools dynamically using SelfAssessmentCard components.
-
-Enhances user experience by providing interactive health assessment options.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#941824c</div>
-                                        <div class="message">Increases paragraph spacing for improved readability across multiple pages in the wellness library</div>
                                     </div>
                                 </div>
                             </section>
