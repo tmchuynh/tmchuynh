@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1011" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1327" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,170 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 58 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#970b803</div>
+                                        <div class="message">Implements date-based filtering functionality
+
+Adds a new function to filter arrays based on date comparisons, allowing for more flexible data manipulation.
+
+Updates documentation with clear examples for usage.
+
+Improves overall utility of the sorting and filtering utilities.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61b9873</div>
+                                        <div class="message">Adds date filtering utility function
+
+Implements a new function to filter arrays of objects by a specified date property in the format YYYY-MM-DD.
+
+This enhancement allows for more flexible data handling in scenarios requiring date-based filtering.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9f0506</div>
+                                        <div class="message">Adds property comparison filter utility function
+
+Implements a new function to filter an array based on a specified property and comparison criteria (lessThan or greaterThan).
+
+Enhances the utility library for more flexible data manipulation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84659f0</div>
+                                        <div class="message">Adds property filtering functions to utilities
+
+Implements `filterByProperty` to simplify filtering of arrays based on a specific property value.
+
+Introduces `filterByPropertyComparison` for advanced filtering, allowing comparisons based on "lessThan" or "greaterThan" criteria.
+
+Enhances utility functions for better data manipulation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6715b42</div>
+                                        <div class="message">Adds filterByProperty utility function
+
+Implements a new function to filter an array of objects
+based on a specified property and its value.
+
+Enhances code utility for better data manipulation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24dfee0</div>
+                                        <div class="message">Removes example usage comments from groupAndSortByProperties function for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d355cc8</div>
+                                        <div class="message">Improves grouping and sorting functionality
+
+Enhances the grouping and sorting of arrays by allowing optional sorting by date format.
+
+Refines documentation with more examples and clearer parameter descriptions to aid in understanding usage.
+
+Addresses edge cases for sorting with date strings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#143d8e5</div>
+                                        <div class="message">Adds EventsCard component and event data
+
+Introduces a new EventsCard component to display event details.
+
+Creates a constants file for event and workshop data, enhancing the app's ability to showcase mental health events and workshops.
+
+Improves code organization and maintainability.
+
+Relates to user engagement initiatives.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ebef48</div>
+                                        <div class="message">Refactors type definitions in about and partners modules to use specific interfaces for improved type safety and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35be158</div>
+                                        <div class="message">Adds target and rel properties to DynamicButtonProps type for improved link handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07ccfc3</div>
+                                        <div class="message">Updates logos for affiliate and partnership companies to use high-quality images from Unsplash for improved visual consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89c7520</div>
+                                        <div class="message">Adds target and rel attributes to anchor tag in DynamicButton component for improved link handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96cfb9c</div>
+                                        <div class="message">Enhances the Affiliates and Partnerships page with detailed content and dynamic sections for affiliate and partnership companies, promoting holistic wellness and collaboration.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66aa2f7</div>
+                                        <div class="message">Refines content on the About page for clarity and empowerment, enhancing the mission and approach sections to better reflect Harmona Health's commitment to holistic wellness.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad214c8</div>
+                                        <div class="message">Updates text content for clarity and empowerment in the main sections of the page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30bb1f2</div>
+                                        <div class="message">Adds affiliate and partnership companies constants
+
+Introduces two new arrays for affiliate and partnership companies.
+
+These constants provide detailed information, including names, descriptions, websites, logos, and partnership details for each company, enhancing the overall structure and data management of the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0beb13f</div>
+                                        <div class="message">Removes unused import from utility functions
+
+Cleans up the code by eliminating the unused toolsMap import.
+
+This change enhances code clarity and maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a027182</div>
+                                        <div class="message">Updates navigation structure and menu items
+
+Replaces "Programs" with "About HH" in the menu.
+Refactors navigation items to include new "aboutPages" and "secondaryPages".
+Corrects spelling of "secondaryPages" and cleans up unused elements.
+Improves user experience by providing clearer navigation options.
+
+Relates to UX enhancements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99dd830</div>
+                                        <div class="message">Enhances success stories display and structure
+
+Introduces a new success stories data structure for improved content management.
+
+Implements sorting and grouping of stories by program and name, enhancing the user experience.
+
+Updates the page layout and text to reflect a more engaging narrative for visitors.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2895cb7</div>
+                                        <div class="message">Implements grouping and sorting utility function
+
+Adds a new function to group and sort arrays by specified properties.
+
+Replaces existing sorting logic in the resource rendering with this new utility for improved organization and flexibility.
+
+Enhances code readability and maintainability.
+
+No related issues.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -385,32 +549,6 @@ Enhances user experience by providing interactive health assessment options.</di
                                     <div class="commit">
                                         <div class="sha">#941824c</div>
                                         <div class="message">Increases paragraph spacing for improved readability across multiple pages in the wellness library</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9492221</div>
-                                        <div class="message">Updates resource links to new digital resource paths
-
-Modifies URLs for mental health toolkit resources to reflect the new structure under digital resources.
-
-Ensures users access the correct resources for mental health support and exercises.
-
-No functional changes to the content itself.</div>
                                     </div>
                                 </div>
                             </section>
