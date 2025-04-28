@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1377" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1111" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,44 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b536185</div>
+                                        <div class="message">refactor: Update component styles and improve toolkit descriptions for clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d60b74c</div>
+                                        <div class="message">feat: Add new layouts and pages for various mental health toolkits
+
+- Implemented layout and page components for behavioral activation activities, checklists toolkit, journaling prompts, and self-compassion and self-esteem practices.
+- Enhanced existing pages for breathing techniques, cognitive behavioral therapy exercises, communication tools, emotional regulation toolkit, fitness toolkit, mindfulness practices, nutrition tools, progressive muscle relaxation guides, resilience toolkit, and leadership tools by removing unnecessary width classes.
+- Introduced context provider for tool information across new layouts to manage state and provide relevant data to child components.
+- Added loading states and error handling for data fetching in checklist and journaling prompt pages.
+- Removed outdated journaling tools page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5880597</div>
+                                        <div class="message">Add JournalPrompts interface to define structure for journaling prompts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c00bc54</div>
+                                        <div class="message">Refactor checklists and journaling prompts to use typed arrays for improved type safety</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -388,181 +426,6 @@ Improves error handling for loading questions.</div>
                                     <div class="commit">
                                         <div class="sha">#e550020</div>
                                         <div class="message">Add plus.unsplash.com to imageHosts for remote image loading</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 31 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3fee342</div>
-                                        <div class="message">Updates category IDs for consistency across tools
-
-Replaces outdated category IDs with standardized names to improve organization and clarity within the toolkit structure.
-
-Enhances maintainability and ensures uniformity in categorization across various tools.
-
-Relates to user feedback on tool categorization.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd02cf9</div>
-                                        <div class="message">Removes unnecessary href comment from Tool interface
-
-Cleans up the Tool interface by removing the comment
-indicating that the href property needs to be removed.
-
-No functional changes are made.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9473518</div>
-                                        <div class="message">Updates logo in FlyoutMenu component
-
-Replaces external logo source with a local image file.
-
-Adjusts image dimensions for improved responsiveness and visual consistency.
-
-Enhances the aspect ratio and object fitting for better display quality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#813d369</div>
-                                        <div class="message">Updates ToolCard to use dynamic URL formatting
-
-Modifies the href property of the DynamicButton to construct a dynamic URL using the tool's categoryId and title.
-
-This enhances the routing structure for the mental health toolkit resources.
-
-Improves maintainability by utilizing utility functions for URL formatting.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad34011</div>
-                                        <div class="message">Adds new tool page component
-
-Implements a new React component for the mental health toolkit.
-
-The component includes a title, subtitle, and descriptive text to enhance user engagement with the tool.
-
-Improves overall structure and organization of resources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07a1a86</div>
-                                        <div class="message">Adds dynamic pricing button and improves pricing layout
-
-Implements a dynamic button for pricing navigation
-Enhances the pricing page layout with improved styling and structure
-Introduces sorting functionality for tools in the mental health toolkit
-
-Fixes #456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdd2d16</div>
-                                        <div class="message">Fix primary color definition for improved accessibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bdd1da</div>
-                                        <div class="message">Add high-resolution logo images and monograms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6bc876</div>
-                                        <div class="message">Refactors URL formatting and adds object sorting function
-
-Removes unnecessary string replacements in URL formatting for clarity.
-
-Introduces a new function to sort an array of objects by a specified property, enhancing utility for developers.
-
-Improves code maintainability and usability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#220311e</div>
-                                        <div class="message">Refines mental health toolkit resources and IDs
-
-Updates resource IDs for improved clarity and consistency
-Enhances descriptions for various mental health tools
-Introduces new tools related to nutrition, sleep, anxiety, and more
-
-Relates to user feedback on resource accessibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#607dab8</div>
-                                        <div class="message">Sorts mental health toolkits by title
-
-Implements sorting functionality for mental health toolkits.
-
-Removes the description from the ToolkitCard component for a cleaner display.
-
-Improves user experience by presenting toolkits in a more organized manner.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#491dc12</div>
-                                        <div class="message">Adds ToolCard component to display tools
-
-Implements the ToolCard component for improved visualization of tools in the mental health toolkit.
-
-Removes unnecessary console logging and integrates the ToolCard into the page, enhancing user experience by displaying corresponding tools dynamically.
-
-Improves code organization and readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39bcbaa</div>
-                                        <div class="message">Update text size in globals.css and adjust BreadcrumbSeparator color in dynamic-breadcrumb.tsx for improved visibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f172e6</div>
-                                        <div class="message">Updates mental health toolkit links for clarity
-
-Removes redundant path segments from toolkit resource links
-
-Improves URL structure for easier navigation and access</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b5f466</div>
-                                        <div class="message">Enhances mental health toolkit tool structure
-
-Refactors tool definitions to use a consistent interface, ensuring type safety and clarity.
-
-Adds categoryId to each tool for better organization and retrieval.
-
-Updates tools map to include newly structured tools.
-
-Improves maintainability and extensibility of the toolkit resources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#814220b</div>
-                                        <div class="message">Updates mental health toolkit page and data structure
-
-Refines the mental health toolkit page to dynamically display toolkit information based on URL segments.
-
-Implements state management for toolkit data and randomizes icons for enhanced user experience.
-
-Modifies data structure to allow for optional fields in toolkits and updates existing self-assessment tools to match the new format.
-
-Fixes #456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#576d401</div>
-                                        <div class="message">Refactor ArticleCard, ResourceCard, and ToolkitCard components for improved usability; fix accessibility statement link; add Tool interface.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d3b8dd</div>
-                                        <div class="message">Update page titles for accessibility, affiliates, about, contact, program pricing, start your journey, success stories, and mental health toolkit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb2e9de</div>
-                                        <div class="message">Add comprehensive toolkit resources for nutrition, resilience, self-compassion, sleep optimization, mindfulness, self-care, cognitive behavioral therapy, breathing techniques, progressive muscle relaxation, affirmations, anxiety, depression, trauma, grief, anger management, work-life balance, communication, leadership, visualization exercises, behavioral activation, journaling, and checklists.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8788f2</div>
-                                        <div class="message">Remove unused Page component from form directory</div>
                                     </div>
                                 </div>
                             </section>
