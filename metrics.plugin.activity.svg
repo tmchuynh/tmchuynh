@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1094" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="611" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,82 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b3dd2a0</div>
+                                        <div class="message">Removes unused LogoCloud import from About page to streamline code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba5fb08</div>
+                                        <div class="message">Refines About page content to emphasize well-being as a foundation for impact and updates statistics to reflect lives impacted through wellness programs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddca502</div>
+                                        <div class="message">Adds timeline data to About constants and removes unused timeline variable from page component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ef23db1</div>
+                                        <div class="message">Removes unused imports from About page to streamline code</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72c5e49</div>
+                                        <div class="message">Enhances About page by improving layout and content structure for commitments and wellness programs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2e20a0</div>
+                                        <div class="message">Updates About interface to replace icon with href for improved resource linking</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0f68ce</div>
+                                        <div class="message">Refines language across various components to enhance clarity and consistency in wellness messaging</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -143,316 +219,6 @@ Enhances the behavioral activation toolkit with structured activities for improv
                                     <div class="commit">
                                         <div class="sha">#c00bc54</div>
                                         <div class="message">Refactor checklists and journaling prompts to use typed arrays for improved type safety</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#12e3bca</div>
-                                        <div class="message">Add journaling prompts for self-discovery, mindfulness, morning mindset, overcoming fears, resilience, and self-compassion
-
-- Introduced life purpose and self-discovery prompts to encourage reflection on personal values and passions.
-- Added mindfulness prompts to enhance present-moment awareness and emotional acceptance.
-- Created morning mindset prompts to set positive intentions and cultivate gratitude at the start of the day.
-- Developed prompts for overcoming fear and limiting beliefs, focusing on reframing perspectives and taking actionable steps.
-- Included resilience journaling prompts to reflect on past challenges and build emotional strength.
-- Established self-compassion prompts to foster kindness and acceptance towards oneself.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c80907</div>
-                                        <div class="message">Add various checklists for mental health support, including anxiety management, burnout prevention, daily self-care, depression support, emotional regulation, grounding techniques, healthy sleep hygiene, mindfulness practices, positive thinking, and social connection.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca27b67</div>
-                                        <div class="message">Implement data fetching for journaling tools and enhance loading state management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a68d14</div>
-                                        <div class="message">Add layout components for various mental health toolkits
-
-- Created layout.tsx files for the following toolkits:
-  - Behavioral Activation Worksheets
-  - Breathing Techniques
-  - Checklists and Planners Tools
-  - Cognitive Behavioral Therapy Exercises
-  - Communication Tools
-  - Emotional Regulation Toolkit
-  - Fitness Toolkit
-  - Journaling Tools
-  - Leadership Tools
-  - Mindfulness Practices
-  - Nutrition Tools
-  - Progressive Muscle Relaxation Guides
-  - Resilience Toolkit
-  - Self-Care and Discovery Toolkit
-  - Self-Compassion and Esteem Practices
-  - Sleep Optimization Tools
-  - Stress Management Tools
-  - Visualization Exercises
-  - Work-Life Balance Tools
-
-- Each layout component utilizes ToolProvider and fetches tool information based on the current pathname.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99fc22e</div>
-                                        <div class="message">Update checklist titles and descriptions for improved mental health support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c244793</div>
-                                        <div class="message">Add Checkbox component using Radix UI for enhanced UI consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1ebc2e</div>
-                                        <div class="message">Enhance checklist functionality by implementing data fetching and checkbox handling for affirmation cards</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c608c19</div>
-                                        <div class="message">Refactor journaling tools with updated titles and descriptions for enhanced clarity and focus on self-discovery and emotional well-being</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c46a515</div>
-                                        <div class="message">Fix heading level for tool information subtitle in Page component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 58 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#970b803</div>
-                                        <div class="message">Implements date-based filtering functionality
-
-Adds a new function to filter arrays based on date comparisons, allowing for more flexible data manipulation.
-
-Updates documentation with clear examples for usage.
-
-Improves overall utility of the sorting and filtering utilities.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61b9873</div>
-                                        <div class="message">Adds date filtering utility function
-
-Implements a new function to filter arrays of objects by a specified date property in the format YYYY-MM-DD.
-
-This enhancement allows for more flexible data handling in scenarios requiring date-based filtering.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9f0506</div>
-                                        <div class="message">Adds property comparison filter utility function
-
-Implements a new function to filter an array based on a specified property and comparison criteria (lessThan or greaterThan).
-
-Enhances the utility library for more flexible data manipulation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84659f0</div>
-                                        <div class="message">Adds property filtering functions to utilities
-
-Implements `filterByProperty` to simplify filtering of arrays based on a specific property value.
-
-Introduces `filterByPropertyComparison` for advanced filtering, allowing comparisons based on "lessThan" or "greaterThan" criteria.
-
-Enhances utility functions for better data manipulation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6715b42</div>
-                                        <div class="message">Adds filterByProperty utility function
-
-Implements a new function to filter an array of objects
-based on a specified property and its value.
-
-Enhances code utility for better data manipulation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24dfee0</div>
-                                        <div class="message">Removes example usage comments from groupAndSortByProperties function for cleaner code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d355cc8</div>
-                                        <div class="message">Improves grouping and sorting functionality
-
-Enhances the grouping and sorting of arrays by allowing optional sorting by date format.
-
-Refines documentation with more examples and clearer parameter descriptions to aid in understanding usage.
-
-Addresses edge cases for sorting with date strings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#143d8e5</div>
-                                        <div class="message">Adds EventsCard component and event data
-
-Introduces a new EventsCard component to display event details.
-
-Creates a constants file for event and workshop data, enhancing the app's ability to showcase mental health events and workshops.
-
-Improves code organization and maintainability.
-
-Relates to user engagement initiatives.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ebef48</div>
-                                        <div class="message">Refactors type definitions in about and partners modules to use specific interfaces for improved type safety and clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35be158</div>
-                                        <div class="message">Adds target and rel properties to DynamicButtonProps type for improved link handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07ccfc3</div>
-                                        <div class="message">Updates logos for affiliate and partnership companies to use high-quality images from Unsplash for improved visual consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89c7520</div>
-                                        <div class="message">Adds target and rel attributes to anchor tag in DynamicButton component for improved link handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96cfb9c</div>
-                                        <div class="message">Enhances the Affiliates and Partnerships page with detailed content and dynamic sections for affiliate and partnership companies, promoting holistic wellness and collaboration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66aa2f7</div>
-                                        <div class="message">Refines content on the About page for clarity and empowerment, enhancing the mission and approach sections to better reflect Harmona Health's commitment to holistic wellness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad214c8</div>
-                                        <div class="message">Updates text content for clarity and empowerment in the main sections of the page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30bb1f2</div>
-                                        <div class="message">Adds affiliate and partnership companies constants
-
-Introduces two new arrays for affiliate and partnership companies.
-
-These constants provide detailed information, including names, descriptions, websites, logos, and partnership details for each company, enhancing the overall structure and data management of the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0beb13f</div>
-                                        <div class="message">Removes unused import from utility functions
-
-Cleans up the code by eliminating the unused toolsMap import.
-
-This change enhances code clarity and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a027182</div>
-                                        <div class="message">Updates navigation structure and menu items
-
-Replaces "Programs" with "About HH" in the menu.
-Refactors navigation items to include new "aboutPages" and "secondaryPages".
-Corrects spelling of "secondaryPages" and cleans up unused elements.
-Improves user experience by providing clearer navigation options.
-
-Relates to UX enhancements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99dd830</div>
-                                        <div class="message">Enhances success stories display and structure
-
-Introduces a new success stories data structure for improved content management.
-
-Implements sorting and grouping of stories by program and name, enhancing the user experience.
-
-Updates the page layout and text to reflect a more engaging narrative for visitors.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2895cb7</div>
-                                        <div class="message">Implements grouping and sorting utility function
-
-Adds a new function to group and sort arrays by specified properties.
-
-Replaces existing sorting logic in the resource rendering with this new utility for improved organization and flexibility.
-
-Enhances code readability and maintainability.
-
-No related issues.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3133cee</div>
-                                        <div class="message">Enhances About page content and structure
-
-Revamps the About page with detailed sections on mission, story, purpose, and approach.
-
-Introduces dynamic content rendering for team members and supporters, improving user engagement.
-
-Refines layout for better readability and responsiveness.
-
-Improves overall user experience by providing comprehensive insights into Harmona Health's offerings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d05a8a7</div>
-                                        <div class="message">Adds wellness commitments and team member details
-
-Introduces new constants for wellness commitments and health programs to enhance the user experience and provide clear guidance on services.
-
-Adds detailed team member profiles, highlighting their expertise and roles within the organization to foster trust and connection with clients.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db2558b</div>
-                                        <div class="message">Add custom hook useLargeScreen to determine screen width for responsive design</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4b85e1</div>
-                                        <div class="message">Refactor breadcrumb component layout for improved spacing and responsiveness</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e5bbd4</div>
-                                        <div class="message">Refactor layout widths in mental health toolkit pages for improved responsiveness
-
-- Updated width classes from w-11/12 to w-10/12 md:w-11/12 across multiple pages in the mental health toolkit section, including cognitive behavioral therapy, communication tools, depression tools, emotional regulation tools, fitness toolkit, grief tools, journaling tools, leadership tools, mindfulness practices, nutrition tools, progressive muscle relaxation guides, resilience toolkit, self-care and discovery toolkit, self-compassion and esteem practices, sleep optimization tools, stress management tools, trauma tools, visualization exercises, work-life balance tools, and the main toolkit page.
-- Adjusted the same width classes in related layout files to maintain consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0ff28f</div>
-                                        <div class="message">Refactors paragraph elements in the hero section for improved styling consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c58c366</div>
-                                        <div class="message">Refines UI layout and styles for improved readability
-
-Adds padding to paragraph elements for better spacing.
-Adjusts list item structure to enhance alignment of icons.
-
-Removes redundant padding classes from specific elements.</div>
                                     </div>
                                 </div>
                             </section>
