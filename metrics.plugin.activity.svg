@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="578" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="545" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,60 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b73c8c2</div>
+                                        <div class="message">Refactor BehavioralActivitiesCard to improve heading structure and add MindfulnessPractices interface for enhanced toolkit organization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d542109</div>
+                                        <div class="message">Enhance mental health toolkit pages with tool information display
+
+- Added subtitle and introduction rendering to various toolkit pages.
+- Removed unnecessary console logs from layout components.
+- Implemented data fetching for tool resources in multiple pages.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb5f00</div>
+                                        <div class="message">Removes debug console logs from Layout component to clean up code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91cfce9</div>
+                                        <div class="message">Add mindfulness practices for sensory resets, daily check-ins, emotional responses, mood tracking, and breath anchoring techniques
+
+- Implemented various mindfulness practices including sensory resets (temperature contrast, taste-based grounding, weighted object reset, etc.) to enhance emotional regulation.
+- Introduced daily check-in practices (morning self-scan, emotional temperature check, gratitude snapshot, etc.) to promote self-awareness and emotional intelligence.
+- Added techniques for responding instead of reacting (pause practice, mindful listening, cognitive reframing, etc.) to improve emotional responses.
+- Created mood tracking methods (mood logging, mood trigger journal, mood-event correlation chart, etc.) to identify emotional patterns and triggers.
+- Developed breath anchoring techniques (box breathing, 4-7-8 breathing, diaphragmatic breathing, etc.) to enhance focus and reduce anxiety.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca97a45</div>
+                                        <div class="message">Removes unused breathing techniques layout and page components to streamline the mental health toolkit section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aecc084</div>
+                                        <div class="message">Removes debug console logs from Layout component to clean up code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d781db</div>
+                                        <div class="message">Adds BehavioralActivitiesCard component and updates mental health toolkit page to display activities; refines BehavioralActivities interface for better type safety.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -111,100 +165,6 @@
                                     <div class="commit">
                                         <div class="sha">#f0f68ce</div>
                                         <div class="message">Refines language across various components to enhance clarity and consistency in wellness messaging</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#671c67e</div>
-                                        <div class="message">Enhances About page layout and content structure
-
-Introduces a responsive design with a logo cloud and timeline section.
-
-Reorganizes content for clarity, focusing on the company's mission and story.
-
-Replaces outdated icons and improves accessibility features.
-
-Updates styling for a modern user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25cfd62</div>
-                                        <div class="message">Refactors layout components to enhance titles display
-
-Updates title rendering in layout components to include toolkit names for better context.
-
-Removes unnecessary console logs and adds a new utility function to slice off the last word from the toolkit name.
-
-Improves code organization by consolidating imports.
-
-No related issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b2bc0c</div>
-                                        <div class="message">Enhances toolkit header display logic
-
-Adds functionality to display the toolkit name alongside the tool name in the header.
-
-Introduces a new utility function to modify the display format, improving user experience and context.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da13cb5</div>
-                                        <div class="message">Adds BehavioralActivities interface for resource management
-
-Introduces a new interface for managing behavioral activities,
-including structured fields for title, introduction, description,
-steps, conclusion, and optional afterthoughts.
-
-This enhancement facilitates better organization and management
-of behavioral activity resources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3548933</div>
-                                        <div class="message">Updates behavioral activation tools with new titles and descriptions
-
-Renames tools to enhance clarity and relevance for users.
-Improves descriptions to better reflect the purpose and benefits of each activity, promoting mental and physical well-being.
-
-Relates to user feedback on tool usability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#674d13b</div>
-                                        <div class="message">fix: Update image source URLs in MasonryGridGallery for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca4b012</div>
-                                        <div class="message">Adds function to remove the last word from a string
-
-Implements a utility function that removes the last word from an input string, enhancing string manipulation capabilities.
-
-Includes handling for cases with no spaces, returning an empty string when appropriate.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9992eb7</div>
-                                        <div class="message">Adds cognitive restructuring and creative expression activities
-
-Implements various cognitive restructuring techniques to aid emotional resilience and mental well-being.
-
-Introduces creative expression methods to facilitate self-exploration and emotional processing.
-
-Enhances the behavioral activation toolkit with structured activities for improved mental health support.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70011ed</div>
-                                        <div class="message">feat: Add img.freepik.com to remote image hosts for enhanced image support</div>
                                     </div>
                                 </div>
                             </section>
