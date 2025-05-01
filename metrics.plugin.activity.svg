@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1011" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,113 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 38 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#503b677</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7358291</div>
+                                        <div class="message">Refactor Toolkit and ToolLinks interfaces to make href and image properties optional for improved flexibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28c3c2e</div>
+                                        <div class="message">Remove unused image properties from education tool links for cleaner data structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ee4e77</div>
+                                        <div class="message">Add initial exports for strong communication practices resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fb803e</div>
+                                        <div class="message">Remove unused imports and image handling from ToolLinkCard component for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40446d7</div>
+                                        <div class="message">Increase breadcrumb display range to include additional path segments for improved navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c572084</div>
+                                        <div class="message">Refactor toolData state type from specific interfaces to a unified Activity type for consistency across components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6680a0a</div>
+                                        <div class="message">Rename "Communication Tools" to "Strong Communication Practices" for clarity and alignment with resource focus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a93648e</div>
+                                        <div class="message">Make frequency and approximateTime optional in Activity interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f382f02</div>
+                                        <div class="message">Add cognitive behavioral therapy skills walkthrough with structured exercises</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f919240</div>
+                                        <div class="message">Add educational and mindfulness resources, update data types for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0568134</div>
+                                        <div class="message">Refactor CBT exercises and journaling prompts for enhanced clarity and depth
+
+- Updated `situationalThoughtChallenge` and `thoughtRecordGuide` to use `Activity` type instead of `MindfulnessPractices`.
+- Expanded CBT exercises with detailed steps, conclusions, and use cases to improve user engagement and understanding.
+- Added new journaling prompts across various categories, including emotional healing, resilience, gratitude, and self-compassion, to encourage deeper reflection and personal growth.
+- Enhanced existing prompts with additional ideas to facilitate richer journaling experiences.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc35c36</div>
+                                        <div class="message">Refactor DynamicBreadcrumb component to import Breadcrumb UI elements and remove unnecessary console logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7497e8</div>
+                                        <div class="message">Remove BehavioralActivitiesCard and MindfulPracticeCard components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac1f761</div>
+                                        <div class="message">Add ActivityCard component for displaying activity details and instructions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b4a1eb</div>
+                                        <div class="message">Refactors toolkit data handling and card components
+
+Updates toolkit information retrieval to use titles instead of hrefs for better accuracy.
+
+Replaces specific activity card components with a unified ActivityCard component across various pages for consistency.
+
+Improves code readability and maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01b0ce6</div>
+                                        <div class="message">Refactor resilience practices to use Activity interface for improved consistency and resource management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe9bfae</div>
+                                        <div class="message">Refactor MindfulPracticeCard layout for improved readability and structure; consolidate difficulty and approximate time display.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77097cf</div>
+                                        <div class="message">Fix conditional rendering for afterThoughts in BehavioralActivitiesCard component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#928e30d</div>
+                                        <div class="message">Add Activity interface with detailed attributes for enhanced resource management</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -199,26 +306,6 @@ Updates existing mindfulness practices to enhance clarity and organization of th
                                     <div class="commit">
                                         <div class="sha">#ddca502</div>
                                         <div class="message">Adds timeline data to About constants and removes unused timeline variable from page component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef23db1</div>
-                                        <div class="message">Removes unused imports from About page to streamline code</div>
                                     </div>
                                 </div>
                             </section>
