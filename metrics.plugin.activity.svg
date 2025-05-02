@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e8b5dd</div>
-                                        <div class="message">Remove unused QuadGallery component and its imports from the page</div>
+                                        <div class="sha">#a520f56</div>
+                                        <div class="message">Fix optional chaining for highlights in LeadershipCard component</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,142 +42,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 41 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21efec3</div>
-                                        <div class="message">Adds carousel component for displaying cards
+                                        <div class="sha">#ef43c53</div>
+                                        <div class="message">Refactors health articles page layout and adds image tiles
 
-Implements a responsive carousel for card display, allowing users to scroll through items smoothly.
+Improves the structure of the health articles page by introducing a main layout wrapper.
 
-Enhances user interaction with close functionality for each card and integrates animations for a better user experience.
+Includes overlapping image tiles for enhanced visual appeal and updates the styling for improved readability and user engagement.
 
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1feb61</div>
-                                        <div class="message">Improves sorting functionality for Fitness objects
-
-Adds support for "All Levels" difficulty in sorting logic.
-
-Updates the sorting order to clarify difficulty hierarchy, enhancing usability for users.
-
-No issues related to this change.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd8ebbc</div>
-                                        <div class="message">Add fitness routines for recovery, regeneration, and strength training
-
-- Introduced a new file for recovery and regeneration exercises, including active stretching, foam rolling, and breathwork routines.
-- Added a comprehensive strength training program covering full-body, upper body, lower body, and core strength with detailed exercise descriptions, tips, and sets/reps.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa547e2</div>
-                                        <div class="message">Adds "All Levels" option to Fitness difficulty
-
-Enhances the Fitness interface by including an "All Levels" option for the difficulty property.
-
-This adjustment provides greater flexibility for categorizing workouts, accommodating a wider range of fitness levels.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e77dbb7</div>
-                                        <div class="message">Revamps fitness toolkit with enhanced descriptions and tools
-
-Updates fitness toolkit to include detailed introductions for each tool, emphasizing the benefits of strength training, cardio conditioning, mobility, and recovery.
-
-Improves user experience by providing clear guidance and motivation through structured routines and insights for all fitness levels.
-
-Enhances overall toolkit organization and accessibility to support users in achieving their health and wellness goals.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97957ba</div>
-                                        <div class="message">Adds sorting functionality for Fitness objects
-
-Implements a new function to sort Fitness objects by difficulty level.
-
-Enhances existing sorting utilities by improving code clarity and removing unnecessary whitespace.
-
-Updates documentation to provide clear examples for grouping and sorting.
-
-No issues resolved.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2bbd05</div>
-                                        <div class="message">Add Fitness interface and related types for workout management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45a1a1e</div>
-                                        <div class="message">Refactor import paths for screen hooks in DynamicBreadcrumb component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e10f4af</div>
-                                        <div class="message">Add motion library for enhanced animations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e28f166</div>
-                                        <div class="message">Add animation for horizontal movement in globals.css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b38ebd</div>
-                                        <div class="message">Add custom screen size hooks for responsive design</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b169c37</div>
-                                        <div class="message">Add hooks alias to components.json for improved module organization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c12e410</div>
-                                        <div class="message">Refactor JournalPrompts interface to replace MixedGallery with explicit gallery structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc90511</div>
-                                        <div class="message">Refactors QuadGallery component to simplify data handling
-
-Changes the data type for the QuadGallery component
-from an object array to a string array for improved
-simplicity and clarity in image source handling.
-
-Removes unnecessary destructuring and enhances
-component readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a63cfc</div>
-                                        <div class="message">Updates image component heights for consistency
-
-Modifies image height styles to fixed values for uniformity
-Enhances layout consistency across different screen sizes
-
-Relates to design improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ca3d65</div>
-                                        <div class="message">Refactors ActivityCard layout for improved structure
-
-Reorganizes JSX structure to enhance readability and maintainability.
-
-Groups related elements within a section and adjusts class names for better styling consistency.
-
-No functional changes are introduced.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa6dc42</div>
-                                        <div class="message">Refactor layout for consistency across mental health toolkit pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3c346d</div>
-                                        <div class="message">Update daily journaling prompts images for enhanced visual appeal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f943b2c</div>
-                                        <div class="message">Add introduction text for cognitive restructuring in behavioral activation activities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dbd2f4</div>
-                                        <div class="message">Remove unnecessary React import from layout component</div>
+Removes redundant elements to streamline the content presentation.</div>
                                     </div>
                                 </div>
                             </section>
@@ -189,102 +68,19 @@ No functional changes are introduced.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 38 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#503b677</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                        <div class="sha">#696c80e</div>
+                                        <div class="message">Add strong communication practices toolkit: Include resources on communicating in relationships, leadership communication, and digital communication practices.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7358291</div>
-                                        <div class="message">Refactor Toolkit and ToolLinks interfaces to make href and image properties optional for improved flexibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28c3c2e</div>
-                                        <div class="message">Remove unused image properties from education tool links for cleaner data structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ee4e77</div>
-                                        <div class="message">Add initial exports for strong communication practices resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fb803e</div>
-                                        <div class="message">Remove unused imports and image handling from ToolLinkCard component for cleaner code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40446d7</div>
-                                        <div class="message">Increase breadcrumb display range to include additional path segments for improved navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c572084</div>
-                                        <div class="message">Refactor toolData state type from specific interfaces to a unified Activity type for consistency across components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6680a0a</div>
-                                        <div class="message">Rename "Communication Tools" to "Strong Communication Practices" for clarity and alignment with resource focus</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a93648e</div>
-                                        <div class="message">Make frequency and approximateTime optional in Activity interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f382f02</div>
-                                        <div class="message">Add cognitive behavioral therapy skills walkthrough with structured exercises</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f919240</div>
-                                        <div class="message">Add educational and mindfulness resources, update data types for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0568134</div>
-                                        <div class="message">Refactor CBT exercises and journaling prompts for enhanced clarity and depth
-
-- Updated `situationalThoughtChallenge` and `thoughtRecordGuide` to use `Activity` type instead of `MindfulnessPractices`.
-- Expanded CBT exercises with detailed steps, conclusions, and use cases to improve user engagement and understanding.
-- Added new journaling prompts across various categories, including emotional healing, resilience, gratitude, and self-compassion, to encourage deeper reflection and personal growth.
-- Enhanced existing prompts with additional ideas to facilitate richer journaling experiences.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc35c36</div>
-                                        <div class="message">Refactor DynamicBreadcrumb component to import Breadcrumb UI elements and remove unnecessary console logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7497e8</div>
-                                        <div class="message">Remove BehavioralActivitiesCard and MindfulPracticeCard components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac1f761</div>
-                                        <div class="message">Add ActivityCard component for displaying activity details and instructions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b4a1eb</div>
-                                        <div class="message">Refactors toolkit data handling and card components
-
-Updates toolkit information retrieval to use titles instead of hrefs for better accuracy.
-
-Replaces specific activity card components with a unified ActivityCard component across various pages for consistency.
-
-Improves code readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01b0ce6</div>
-                                        <div class="message">Refactor resilience practices to use Activity interface for improved consistency and resource management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe9bfae</div>
-                                        <div class="message">Refactor MindfulPracticeCard layout for improved readability and structure; consolidate difficulty and approximate time display.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77097cf</div>
-                                        <div class="message">Fix conditional rendering for afterThoughts in BehavioralActivitiesCard component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#928e30d</div>
-                                        <div class="message">Add Activity interface with detailed attributes for enhanced resource management</div>
+                                        <div class="sha">#3a1ad40</div>
+                                        <div class="message">Refactor ToolLinkCard component to use LeadershipTools interface and update CommunicationTools interface structure</div>
                                     </div>
                                 </div>
                             </section>
@@ -296,77 +92,15 @@ Improves code readability and maintainability.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15b6f1c</div>
-                                        <div class="message">Add work-life balance resources including nurturing relationships, prioritizing personal time, seeking support, setting boundaries, and time management strategies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b67d4e</div>
-                                        <div class="message">Add technology toolkit with various developer tools and resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d5d60b</div>
-                                        <div class="message">Add resource links for various industries including finance, healthcare, hospitality, manufacturing, marketing, real estate, and retail
-
-- Created finance.ts with links to financial tools and resources.
-- Created healthcare.ts with links to healthcare tools and resources.
-- Created hospitality.ts with links to hospitality management tools.
-- Created manufacturing.ts with links to manufacturing software and tools.
-- Created marketing.ts with a comprehensive list of marketing platforms and tools.
-- Created real-estate.ts with links to real estate platforms and services.
-- Created retail.ts with links to retail management and e-commerce solutions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afb9511</div>
-                                        <div class="message">Refactors leadership tools for updated industry focus
-
-Replaces existing leadership tools with new entries that reflect current industry sectors, including technology, healthcare, finance, education, retail, manufacturing, hospitality, energy, marketing, and real estate.
-
-Enhances descriptions and introductions to better align with industry-specific leadership challenges and growth areas.
-
-Improves overall clarity and relevance of the tools for users seeking targeted leadership resources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a02c636</div>
-                                        <div class="message">Extends mindfulness practices with new work-life balance interface
-
-Adds a new interface for work-life balance scenarios, providing structured data for both work and life scenarios, along with reasoning and afterthoughts.
-
-Updates existing mindfulness practices to enhance clarity and organization of the data structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b69911</div>
-                                        <div class="message">Add WorkLifeBalanceCard component to display work-life balance information with dynamic content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2cb966</div>
-                                        <div class="message">Add ToolLinkCard component to display tool links with dynamic images and buttons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a090ffe</div>
-                                        <div class="message">Refactor BehavioralActivitiesCard to use 'data' prop for consistency in data access</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eff179f</div>
-                                        <div class="message">Add debug logging for corresponding tools in Layout component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7215514</div>
-                                        <div class="message">Add ToolLinkCard and WorkLifeBalanceCard components to display tool data in mental health toolkit pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13ea921</div>
-                                        <div class="message">Fix prop name in BehavioralActivitiesCard component for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#903b302</div>
-                                        <div class="message">Add additional image hosts to remotePatterns for enhanced image loading support</div>
+                                        <div class="sha">#ebe44b0</div>
+                                        <div class="message">Refactor communication resources: Add detailed sections on powerful communication pillars, tone, two-way communication, and open-ended questions with examples and descriptions to enhance understanding and practical application.</div>
                                     </div>
                                 </div>
                             </section>
@@ -378,49 +112,15 @@ Updates existing mindfulness practices to enhance clarity and organization of th
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/harmona-health</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b73c8c2</div>
-                                        <div class="message">Refactor BehavioralActivitiesCard to improve heading structure and add MindfulnessPractices interface for enhanced toolkit organization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d542109</div>
-                                        <div class="message">Enhance mental health toolkit pages with tool information display
-
-- Added subtitle and introduction rendering to various toolkit pages.
-- Removed unnecessary console logs from layout components.
-- Implemented data fetching for tool resources in multiple pages.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfb5f00</div>
-                                        <div class="message">Removes debug console logs from Layout component to clean up code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91cfce9</div>
-                                        <div class="message">Add mindfulness practices for sensory resets, daily check-ins, emotional responses, mood tracking, and breath anchoring techniques
-
-- Implemented various mindfulness practices including sensory resets (temperature contrast, taste-based grounding, weighted object reset, etc.) to enhance emotional regulation.
-- Introduced daily check-in practices (morning self-scan, emotional temperature check, gratitude snapshot, etc.) to promote self-awareness and emotional intelligence.
-- Added techniques for responding instead of reacting (pause practice, mindful listening, cognitive reframing, etc.) to improve emotional responses.
-- Created mood tracking methods (mood logging, mood trigger journal, mood-event correlation chart, etc.) to identify emotional patterns and triggers.
-- Developed breath anchoring techniques (box breathing, 4-7-8 breathing, diaphragmatic breathing, etc.) to enhance focus and reduce anxiety.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca97a45</div>
-                                        <div class="message">Removes unused breathing techniques layout and page components to streamline the mental health toolkit section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aecc084</div>
-                                        <div class="message">Removes debug console logs from Layout component to clean up code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d781db</div>
-                                        <div class="message">Adds BehavioralActivitiesCard component and updates mental health toolkit page to display activities; refines BehavioralActivities interface for better type safety.</div>
+                                        <div class="sha">#6327120</div>
+                                        <div class="message">Update tool data types to use LeadershipTools and Activity interfaces across multiple pages</div>
                                     </div>
                                 </div>
                             </section>
