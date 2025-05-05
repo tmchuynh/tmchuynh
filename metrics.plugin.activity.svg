@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,217 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 51 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a6fd74e</div>
+                                        <div class="message">Updates nutrition infographic data and visuals
+
+Refines titles and data for bar charts representing nutrient quality and meal preparation times.
+
+Improves labeling for better clarity and enhances color schemes for better visual appeal.
+
+Removes outdated graphs to streamline the infographic presentation.
+
+Relates to user feedback for clearer representations of nutritional information.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67bd9d4</div>
+                                        <div class="message">Enhances Nutrition interface with optional description and imports ChartOptions; updates title casing in nutrition infographics</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6698f6</div>
+                                        <div class="message">Adds chart component for nutrition data visualization
+
+Implements a new chart component to display various nutrition data types using Chart.js.
+
+Updates the page to render the chart for each nutrition dataset fetched, enhancing the user experience with visual representation.
+
+Improves data handling by changing the state type from Activity to Nutrition.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05e9a04</div>
+                                        <div class="message">Adds nutrition chart interfaces and types
+
+Implements interfaces for nutrition data visualization.
+
+Introduces `Nutrition`, `Data`, and `ChartOptions` types to support various chart configurations.
+
+Enhances the codebase for future nutrition-related features.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f42340a</div>
+                                        <div class="message">Refactors import statements in carousel component
+
+Reorders and organizes import statements for clarity and consistency.
+
+Ensures better readability of the code structure.
+
+No functional changes introduced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c5dc7a</div>
+                                        <div class="message">Removes duplicate icon import in dynamic button component
+
+Eliminates redundant import of icons to streamline the codebase.
+
+Improves maintainability by reducing potential confusion.
+
+No functional changes made.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3e4a67</div>
+                                        <div class="message">Renames nutrition tools to nutrition infographics
+
+Changes identifiers and titles from "nutritionTools" to "nutritionInfographics" for better clarity and categorization.
+
+Refines descriptions and adds visual elements for enhanced user engagement and understanding of nutritional concepts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76709a9</div>
+                                        <div class="message">Add nutrition infographics for macronutrient breakdown, meal frequency patterns, micronutrient deficiencies, sources of added sugar, and weekly grocery cost vs. nutrition
+
+- Created macronutrient breakdown visualizations including daily ratios, meal content, diet types, and fitness goals.
+- Developed meal frequency patterns charts covering distribution, age group preferences, health impacts, and productivity.
+- Introduced micronutrient deficiencies graphics highlighting adult deficiencies, gender prevalence, and health impacts.
+- Added sources of added sugar analysis with pie and bar charts on dietary contributions and age group consumption.
+- Implemented weekly grocery cost vs. nutrition insights comparing costs with protein, fat, vitamin intake, and meal planning success.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0210e49</div>
+                                        <div class="message">Add nutrition infographics layout and page components to the mental health toolkit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2c0f52</div>
+                                        <div class="message">Remove deprecated nutrition tools and associated layout and page components from the mental health toolkit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df58eca</div>
+                                        <div class="message">Add chart.js and react-chartjs-2 dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cb06f4</div>
+                                        <div class="message">Remove deprecated toolkits from resources, including self-compassion, sleep optimization, self-care, emotional regulation, and visualization exercises.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8da4ae</div>
+                                        <div class="message">Remove deprecated toolkits and their associated pages from the mental health toolkit section, including self-care and discovery, self-compassion and self-esteem, sleep optimization guides, stress management tools, and visualization exercises. Update the toolkit resource file to reflect these removals.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac92b2b</div>
+                                        <div class="message">Enhances fitness toolkit carousel functionality
+
+Implements new carousel navigation with buttons for easier user interaction.
+
+Refactors icon handling to improve visual representation.
+
+Incorporates additional image display options in the gallery based on data length.
+
+Fixes layout issues in the Masonry and Mixed galleries for better responsiveness.
+
+Updates gallery data structure for flexibility.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cdd05a</div>
+                                        <div class="message">Remove unused fitness collection components and Embla Carousel files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5793786</div>
+                                        <div class="message">Add Embla Carousel component with navigation buttons and dot indicators</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc018c3</div>
+                                        <div class="message">Add fitness routines for recovery, regeneration, and strength training
+
+- Introduced a new file for recovery and regeneration routines, including active stretching, foam rolling, and breathwork exercises.
+- Added a comprehensive strength training file featuring various workouts targeting full-body strength, upper and lower body, and core stability.
+- Each routine includes detailed exercise descriptions, how-to steps, tips, sets, and repetitions to guide users effectively.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dab61cc</div>
+                                        <div class="message">Rename fitness toolkit to fitness collection and update related imports and descriptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11cf0cc</div>
+                                        <div class="message">Add fitness collection layout and page components with tool context integration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8982ad3</div>
+                                        <div class="message">Adds GSAP and Embla Carousel dependencies
+
+Implements GSAP for advanced animations and
+Embla Carousel for enhanced carousel functionality.
+
+Updates package-lock and package.json to include
+version 3.13.0 of GSAP and version 8.6.0 of
+Embla Carousel.
+
+Improves UI interactions and animations.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b9007c1</div>
+                                        <div class="message">Refactors theme toggle component for improved performance
+
+Memoizes toggle button content to optimize rendering.
+Updates accessibility labels for better user experience.
+Ensures proper mounting check before rendering the toggle.
+
+Relates to UI enhancement efforts.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db0dcf5</div>
+                                        <div class="message">Adds client directive to not-found component
+
+Enhances the not-found component by adding the "use client" directive.
+
+This change ensures the component is rendered on the client side, improving user experience and responsiveness.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -57,70 +268,6 @@ Improves the structure of the health articles page by introducing a main layout 
 Includes overlapping image tiles for enhanced visual appeal and updates the styling for improved readability and user engagement.
 
 Removes redundant elements to streamline the content presentation.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#696c80e</div>
-                                        <div class="message">Add strong communication practices toolkit: Include resources on communicating in relationships, leadership communication, and digital communication practices.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a1ad40</div>
-                                        <div class="message">Refactor ToolLinkCard component to use LeadershipTools interface and update CommunicationTools interface structure</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ebe44b0</div>
-                                        <div class="message">Refactor communication resources: Add detailed sections on powerful communication pillars, tone, two-way communication, and open-ended questions with examples and descriptions to enhance understanding and practical application.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6327120</div>
-                                        <div class="message">Update tool data types to use LeadershipTools and Activity interfaces across multiple pages</div>
                                     </div>
                                 </div>
                             </section>
