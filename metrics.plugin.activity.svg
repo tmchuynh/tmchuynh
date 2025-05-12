@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="811" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="911" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,82 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 15 commits in
+                                        <span class="repo">tmchuynh/small-shop-menu</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#01be26b</div>
+                                        <div class="message">fix: reorder imports and improve formatting in Button component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b61391</div>
+                                        <div class="message">fix: adjust padding in DynamicBreadcrumb component for improved layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac93e2c</div>
+                                        <div class="message">fix: update GalleryWithTab component to use string array for images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c7a395</div>
+                                        <div class="message">feat: refactor LogoCloud component to accept dynamic title and logo data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af63dfa</div>
+                                        <div class="message">fix: remove debug console logs from FeaturedImageGallery component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c30a16d</div>
+                                        <div class="message">feat: add Skeleton and Toggle components with styling and variants</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c533e1</div>
+                                        <div class="message">feat: add NavBar component with responsive navigation and theme toggle</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26f809a</div>
+                                        <div class="message">fix: remove unnecessary classes from multiple page components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efb71e0</div>
+                                        <div class="message">fix: remove unnecessary classes from About Us page container</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e529b0</div>
+                                        <div class="message">feat: implement carousel component with navigation buttons and enhanced layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db54c8d</div>
+                                        <div class="message">fix: correct import path for NavBar component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06ae410</div>
+                                        <div class="message">feat: update color variables and add new font faces for improved styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc65be3</div>
+                                        <div class="message">feat: add new font files for Antonio, Mitr, Mukta Malar, and Raleway</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc66fb1</div>
+                                        <div class="message">feat: add @radix-ui/react-toggle dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6768583</div>
+                                        <div class="message">feat: add media.istockphoto.com to image hosts for remote patterns</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -185,66 +261,6 @@ Improves accessibility and responsiveness of the UI</div>
                                     <div class="commit">
                                         <div class="sha">#cd2a6f1</div>
                                         <div class="message">Update Footer component headings for improved accessibility and visual consistency</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c8ee8a3</div>
-                                        <div class="message">Update FlyoutMenu styles for improved visual consistency and accessibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd8a9a2</div>
-                                        <div class="message">Refactor Footer component for improved structure and accessibility; update headings and add icons for better visual cues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e09389e</div>
-                                        <div class="message">Refactors Footer component to use dynamic navigation
-
-Replaces static navigation data with imports from constants for improved maintainability.
-
-Updates layout and styling for better visual consistency.
-
-Disables email input for subscription to prevent user input errors.
-
-Improves code readability and component structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#145f7c3</div>
-                                        <div class="message">Update service tier information to remove totalPrice field and adjust pricing for services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#474d681</div>
-                                        <div class="message">Update keypoint list item styling for improved layout and spacing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab9989d</div>
-                                        <div class="message">Refactor table component for improved code consistency and readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd74995</div>
-                                        <div class="message">Refactor pricing section layout for improved readability and organization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0a3509</div>
-                                        <div class="message">Refactor Providers component to correct defaultTheme value in ThemeProvider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90bf38f</div>
-                                        <div class="message">Fix accent foreground color in globals.css for improved contrast</div>
                                     </div>
                                 </div>
                             </section>
