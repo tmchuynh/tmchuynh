@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="711" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,112 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cd2a6f1</div>
+                                        <div class="message">Update Footer component headings for improved accessibility and visual consistency</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c8ee8a3</div>
+                                        <div class="message">Update FlyoutMenu styles for improved visual consistency and accessibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd8a9a2</div>
+                                        <div class="message">Refactor Footer component for improved structure and accessibility; update headings and add icons for better visual cues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e09389e</div>
+                                        <div class="message">Refactors Footer component to use dynamic navigation
+
+Replaces static navigation data with imports from constants for improved maintainability.
+
+Updates layout and styling for better visual consistency.
+
+Disables email input for subscription to prevent user input errors.
+
+Improves code readability and component structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145f7c3</div>
+                                        <div class="message">Update service tier information to remove totalPrice field and adjust pricing for services</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#474d681</div>
+                                        <div class="message">Update keypoint list item styling for improved layout and spacing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab9989d</div>
+                                        <div class="message">Refactor table component for improved code consistency and readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd74995</div>
+                                        <div class="message">Refactor pricing section layout for improved readability and organization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0a3509</div>
+                                        <div class="message">Refactor Providers component to correct defaultTheme value in ThemeProvider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90bf38f</div>
+                                        <div class="message">Fix accent foreground color in globals.css for improved contrast</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f4b728</div>
+                                        <div class="message">Updates blog post dates and visibility settings
+
+Modifies publication dates for several blog posts to reflect accurate timelines.
+
+Adjusts the featured status of specific posts to enhance content visibility and relevance.
+
+Improves content organization for better user experience.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -89,132 +195,6 @@ Improves user engagement through informative content.</div>
                                     <div class="commit">
                                         <div class="sha">#b19d4a4</div>
                                         <div class="message">Implement new feature for user authentication and improve error handling</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c8381c8</div>
-                                        <div class="message">Enhances text capitalization for consistency
-
-Updates various headings and text to follow capitalization standards.
-
-Ensures uniformity in presentation across components.
-
-No functional changes made.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7ca72a</div>
-                                        <div class="message">Add slogan property to Project interface for enhanced project representation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#454c8d7</div>
-                                        <div class="message">Update ProjectCards component to replace short property with slogan for improved clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fc371e</div>
-                                        <div class="message">Sort blog posts by title and update header text for improved clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#706f738</div>
-                                        <div class="message">Update blog post images and descriptions for improved relevance and clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a359962</div>
-                                        <div class="message">Update past projects with new descriptions, slogans, and project details for enhanced clarity and engagement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8773e31</div>
-                                        <div class="message">Refactor FeaturedProject component to remove Link wrapper and improve layout structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6105df5</div>
-                                        <div class="message">Sort past projects by title for improved display order</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87bb609</div>
-                                        <div class="message">Add autoplay functionality to carousels and improve layout consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50b52ae</div>
-                                        <div class="message">Add embla-carousel-autoplay dependency for enhanced carousel functionality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c916a76</div>
-                                        <div class="message">Removes next-themes dependency and related code
-
-Eliminates the use of the next-themes package throughout the application.
-
-Refactors components to remove theme-related functionality, ensuring a more streamlined approach to styling.
-
-Improves code maintainability by reducing dependencies.
-
-Fixes #456</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ceee24</div>
-                                        <div class="message">Remove ThemeToggle component to streamline codebase and eliminate unused functionality</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#38ed71c</div>
-                                        <div class="message">Update affiliate and partnership company descriptions for clarity and detail</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e32eea1</div>
-                                        <div class="message">Refactor image styling for improved layout and responsiveness in affiliates and partnerships page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#363efa1</div>
-                                        <div class="message">Add new image assets for enhanced visual content</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d673b42</div>
-                                        <div class="message">Refactor BlogPostPage layout for improved structure and styling consistency</div>
                                     </div>
                                 </div>
                             </section>
