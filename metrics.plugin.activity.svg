@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1227" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1177" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,87 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ccb1bf4</div>
+                                        <div class="message">Enhance mindfulness practices documentation with additional details and use cases
+
+- Expanded introductions for Box Breathing, 4-7-8 Breathing, Diaphragmatic Breathing, Mindful Breathing, and Alternate Nostril Breathing to include context for use in high-stress situations.
+- Added specific notes and details to each step of the breathing techniques to improve clarity and guidance.
+- Included new practice "Breath Counting" with comprehensive instructions and benefits.
+- Improved overall readability and consistency across all practices.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#322d70c</div>
+                                        <div class="message">Add self-care prompt and mindful walking activity to enhance stress management and emotional well-being</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ec4059</div>
+                                        <div class="message">Add gratitude affirmations practice and new resilience journaling prompts to enhance emotional well-being and personal growth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58b363e</div>
+                                        <div class="message">Add new journaling prompts for stress management, mindfulness, and overcoming fears to enhance emotional well-being and personal growth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b84c749</div>
+                                        <div class="message">Enhance mindfulness practices and journaling prompts for emotional well-being and self-discovery</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b456218</div>
+                                        <div class="message">Enhance social connection activities and promote positive emotions
+
+- Added new activities to the social connection toolkit, including "Gratitude Letter Exchange," "Mindfulness Walk with a Friend," "Cooking Challenge with Friends," and expanded existing activities with detailed steps and conclusions.
+- Improved the "Practice Gratitude" section in the promoting positive emotions toolkit by adding more detailed steps, notes, and reflections to enhance the practice.
+- Introduced new activities focused on self-compassion, cultivating positive relationships, and engaging in creative activities to further promote emotional well-being.
+- Updated adaptability skills checklist with additional reflective practices and growth-oriented statements.
+- Expanded grounding techniques checklist with new strategies for grounding and self-compassion.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f113ac4</div>
+                                        <div class="message">Add new journaling prompts for emotional healing, expressive writing, goal setting, and self-discovery to enhance personal growth and emotional well-being</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#435c984</div>
+                                        <div class="message">Add new reflection prompts and strategies to various checklists for enhanced emotional well-being and personal growth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f6dfe4</div>
+                                        <div class="message">Add new mindfulness and positive thinking strategies to checklists for enhanced emotional well-being</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b472b9</div>
+                                        <div class="message">Add new strategies to various checklists for enhanced emotional well-being and resilience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff6b266</div>
+                                        <div class="message">Add new affirmations and cognitive restructuring techniques for enhanced emotional well-being</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18a8d27</div>
+                                        <div class="message">Enhance feedback practices documentation with additional insights and examples
+
+- Expanded descriptions for constructive vs. destructive feedback, emphasizing the importance of understanding the differences.
+- Added new sections on Timeliness, Empathy and Kindness, Follow-Up, and more to provide comprehensive guidance on effective feedback.
+- Improved clarity and detail in existing sections, including Balanced Approach, Encouraging Self-Reflection, and Creating a Feedback Culture.
+- Updated feedback techniques with more context and practical applications for various scenarios, including performance reviews and remote work.
+- Enhanced the section on feedback for personal development, highlighting the significance of self-assessment, peer feedback, and mentorship.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -254,82 +335,6 @@ Streamlines the user interface for a cleaner look.</div>
                                     <div class="commit">
                                         <div class="sha">#45f8a93</div>
                                         <div class="message">fix: update color variables in globals.css for improved theme consistency</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">tmchuynh/small-shop-menu</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#01be26b</div>
-                                        <div class="message">fix: reorder imports and improve formatting in Button component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b61391</div>
-                                        <div class="message">fix: adjust padding in DynamicBreadcrumb component for improved layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac93e2c</div>
-                                        <div class="message">fix: update GalleryWithTab component to use string array for images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c7a395</div>
-                                        <div class="message">feat: refactor LogoCloud component to accept dynamic title and logo data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af63dfa</div>
-                                        <div class="message">fix: remove debug console logs from FeaturedImageGallery component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c30a16d</div>
-                                        <div class="message">feat: add Skeleton and Toggle components with styling and variants</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c533e1</div>
-                                        <div class="message">feat: add NavBar component with responsive navigation and theme toggle</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26f809a</div>
-                                        <div class="message">fix: remove unnecessary classes from multiple page components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efb71e0</div>
-                                        <div class="message">fix: remove unnecessary classes from About Us page container</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e529b0</div>
-                                        <div class="message">feat: implement carousel component with navigation buttons and enhanced layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db54c8d</div>
-                                        <div class="message">fix: correct import path for NavBar component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06ae410</div>
-                                        <div class="message">feat: update color variables and add new font faces for improved styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc65be3</div>
-                                        <div class="message">feat: add new font files for Antonio, Mitr, Mukta Malar, and Raleway</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc66fb1</div>
-                                        <div class="message">feat: add @radix-ui/react-toggle dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6768583</div>
-                                        <div class="message">feat: add media.istockphoto.com to image hosts for remote patterns</div>
                                     </div>
                                 </div>
                             </section>
