@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1044" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1294" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,98 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a74509d</div>
+                                        <div class="message">Add current job openings section and update benefits icons for improved clarity and engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c14b38</div>
+                                        <div class="message">Add job postings for various roles to enhance career opportunities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8e034a</div>
+                                        <div class="message">Revise Join Us page content for clarity and engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eecb60</div>
+                                        <div class="message">Add icons to benefits for enhanced visual appeal and clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4aa46ec</div>
+                                        <div class="message">Adjust heading sizes for improved typography consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6033aa7</div>
+                                        <div class="message">Enhance benefits descriptions for clarity and impact</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30e96cf</div>
+                                        <div class="message">Refactor benefits data structure and move to a separate file for better organization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b892f27</div>
+                                        <div class="message">Refactor testimonials page to import testimonials from constants and streamline component structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d873cb0</div>
+                                        <div class="message">Fix import path for features in the home constants</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd8e7a4</div>
+                                        <div class="message">Fix import path for benefits in About Us page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b14d5b</div>
+                                        <div class="message">Fix import path for officeLocations in Contact Us page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b90451c</div>
+                                        <div class="message">Adds features constants for advanced financial tools and resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08dcb84</div>
+                                        <div class="message">Adds office locations constants with detailed address and contact information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2134ab</div>
+                                        <div class="message">Adds about and partners constants with detailed values, goals, benefits, and partnerships information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7243098</div>
+                                        <div class="message">Enhances Our Partners page with detailed partner information and improved layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ddb012</div>
+                                        <div class="message">Refactors pricing page layout for improved structure and readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f3242a</div>
+                                        <div class="message">Refactors FAQs page layout for improved readability and structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01850e4</div>
+                                        <div class="message">Adds contact us page with office locations and details</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f60184</div>
+                                        <div class="message">Updates accent color values for improved visual consistency</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -260,38 +352,6 @@ Enhances button components for trial initiation and tier selection, ensuring a m
                                         <div class="sha">#172603e</div>
                                         <div class="message">fix: update Article component to use params for article and simplify rendering
 feat: add new category constants for finance calculators</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53f8aca</div>
-                                        <div class="message">refactor: define ArticleProps interface for improved type safety and clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14a8dca</div>
-                                        <div class="message">feat: add CalculatorCard component for structured calculator display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#581aafd</div>
-                                        <div class="message">feat: add new calculator components for debt, insurance, investment, real estate, retirement, savings, and tax</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#295ef83</div>
-                                        <div class="message">feat: update BusinessCalculator and CalculatorLayout for improved clarity and functionality</div>
                                     </div>
                                 </div>
                             </section>
