@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1727" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1644" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,144 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 15 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#616ed3a</div>
+                                        <div class="message">Adds example table for typical personal assets and liabilities in Working Capital Calculator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d115e8</div>
+                                        <div class="message">Enhances Working Capital Calculator description and structure for clarity and user understanding</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d0a47a</div>
+                                        <div class="message">Refactors business partnership checklist categories
+
+Updates the business partnership checklist categories to consolidate similar entries and improve clarity.
+
+Removes redundant checklists related to valuation, investment strategy, risk management, and exit strategy, streamlining the category structure.
+
+Modifies the ID and title of the "Business Partnership Research" checklist for consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#174814f</div>
+                                        <div class="message">Refines financial calculator descriptions for clarity
+
+Enhances the user interface of various financial calculators by updating headings and descriptions to provide clearer guidance on their functionalities.
+
+Improves overall readability and user comprehension, ensuring that users can easily understand the purpose and benefits of each calculator.
+
+Removes unnecessary styling elements for a cleaner look and incorporates more informative content to aid user decision-making.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2739a3e</div>
+                                        <div class="message">Adds multiple financial ratio calculators
+
+Introduces new calculators for financial ratios, including Current Ratio, Debt Service Coverage Ratio, Expense Ratio, Net Profit Margin, Operating Margin, Quick Ratio, Return on Assets, and Payroll Tax.
+
+These tools enhance the application's functionality by aiding users in assessing their business's financial health through effective calculations.
+
+Improves user experience with informative interfaces for each calculator, helping users make better financial decisions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b83360d</div>
+                                        <div class="message">Adds business growth, operations, partnerships, customer service, financial planning, human resources, and marketing strategy checklists</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03bec7f</div>
+                                        <div class="message">Adds Cash Conversion Cycle Calculator component
+
+Introduces a new calculator to compute the cash conversion cycle (CCC) for businesses.
+
+The component allows users to input days inventory outstanding, days sales outstanding, and days payables outstanding, providing a calculated result along with an explanation of the CCC's significance.
+
+This enhancement improves user capability to assess financial efficiency through a clear and interactive interface.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dc4242</div>
+                                        <div class="message">Adds cash flow management calculator component
+
+Introduces a new calculator for managing cash flow, allowing users to input cash inflows, outflows, and starting cash balance.
+
+Calculates net cash flow and ending cash position, helping users analyze financial health and ensure liquidity.
+
+Provides a user-friendly interface with clear instructions and results display.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d29b55</div>
+                                        <div class="message">Adds cash flow forecasting calculator component
+
+Introduces a new component for forecasting monthly cash flow, allowing users to estimate their business's cash position by inputting starting cash, monthly income, expenses, and payment timing.
+
+Implements state management for user inputs and results, improving financial planning capabilities for businesses.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d9acb7</div>
+                                        <div class="message">Adds business loan calculator component
+
+Implements a new business loan calculator feature that allows users to estimate monthly payments, total interest, and total loan costs.
+
+The component uses React hooks for state management and includes input fields for loan amount, annual interest rate, and loan term. It provides a clear user interface and straightforward calculations based on standard loan formulas.
+
+Enhances the user experience by providing instant feedback on loan calculations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5064ef</div>
+                                        <div class="message">Adds business expense tracker component
+
+Introduces a new component for tracking and analyzing business expenses.
+
+Users can input revenue and expenses, categorize them, and determine key metrics such as total expenses and expense ratios.
+
+This feature enhances financial management capabilities within the application, providing insights for better budgeting decisions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0feeea</div>
+                                        <div class="message">Adds Break-Even Point Calculator component
+
+Introduces a new calculator component that allows users to determine the break-even point for their business operations.
+
+The component captures fixed costs, variable costs per unit, and price per unit, then calculates key financial metrics such as contribution margin, break-even units, and break-even sales.
+
+This enhancement aims to improve financial decision-making for users by providing a user-friendly interface for profitability analysis.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12ab2d7</div>
+                                        <div class="message">Renames Expense Tracker to Business Expense Tracker for clarity and consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d369b5c</div>
+                                        <div class="message">Adds Inventory Turnover Ratio Calculator component
+
+Introduces a new component for calculating the inventory turnover ratio, enhancing the finance calculators suite.
+
+The component allows users to input cost of goods sold and average inventory, providing calculations for turnover ratio and days sales of inventory. It includes explanations and formulas to assist users in understanding the importance of the metric for inventory management.
+
+This addition improves user experience by offering a tool for better inventory optimization and cash flow management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08ba8a5</div>
+                                        <div class="message">Adds Profit Margin Calculator component
+
+Implements a new Profit Margin Calculator to help users assess their business's financial health by calculating profit margins based on revenue and cost inputs.
+
+The calculator provides an interactive UI for input, validates user data, and displays the calculated profit margin percentage. This tool enhances decision-making regarding pricing and cost management.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -463,118 +601,6 @@ Enhances user experience by providing a more informative and structured view of 
                                     <div class="commit">
                                         <div class="sha">#fec482f</div>
                                         <div class="message">Adds Stock Market Learning Simulator with buy/sell functionality and portfolio management</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 47 commits in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ffc2443</div>
-                                        <div class="message">fix: adjust layout classes for better responsiveness and consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3d38de</div>
-                                        <div class="message">fix: simplify FAQ section heading for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a604902</div>
-                                        <div class="message">fix: remove unnecessary padding from FAQ section for better layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b63b43</div>
-                                        <div class="message">feat: enhance pricing tier layout for improved readability and structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfb70f5</div>
-                                        <div class="message">feat: add formatNumberToCurrency function for currency formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b465103</div>
-                                        <div class="message">feat: update pricing tiers and features for improved clarity and structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#541bc18</div>
-                                        <div class="message">Adds FAQ component to display frequently asked questions
-
-Introduces a new FAQ component that presents frequently asked questions and their answers in a structured format.
-
-The component utilizes a predefined list of FAQs and renders them with appropriate styling to enhance user experience.
-
-This addition aims to improve user navigation by providing clear answers to common queries.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7a7b9d</div>
-                                        <div class="message">Adds comprehensive FAQ and pricing information
-
-Introduces a detailed set of frequently asked questions and corresponding answers to enhance user understanding of the tools offered, including customization options, support availability, and pricing tiers.
-
-This update aims to improve user experience by providing clarity on the services and tools available, addressing common inquiries, and facilitating informed decision-making regarding usage and subscriptions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7029308</div>
-                                        <div class="message">Refactors pricing page to use ToggleGroup for frequency selection
-
-Replaces the RadioGroup component with a ToggleGroup for selecting payment frequency, improving the user interface and interaction experience.
-
-Updates the layout for better responsiveness and visual consistency.
-
-Enhances button components for trial initiation and tier selection, ensuring a more modern design and better usability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb8bcb6</div>
-                                        <div class="message">feat: add Tiers, Features, and Pricing interfaces for enhanced structure and organization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d29fa0</div>
-                                        <div class="message">fix: update color variables for improved accessibility and consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba59cf8</div>
-                                        <div class="message">feat: add ToggleGroup component with context support for variant and size management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9d60f4</div>
-                                        <div class="message">feat: update pricing page with enhanced tier display and FAQ integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c088a87</div>
-                                        <div class="message">feat: implement BusinessCalculator component with context integration and logging</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0659de2</div>
-                                        <div class="message">fix: update font family in DynamicBreadcrumb component for improved readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88b5083</div>
-                                        <div class="message">feat: integrate CalculatorProvider and update layout for calculator context management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efe8d8e</div>
-                                        <div class="message">feat: add custom font faces and update typography styles in globals.css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8beb92</div>
-                                        <div class="message">refactor: update heading elements from h4 to h5 for improved semantic structure in NavBar and Footer components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f04cfb</div>
-                                        <div class="message">fix: update icon library to react-icons and clean up image hosts in next.config.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39a38f8</div>
-                                        <div class="message">feat: add CalculatorContext for managing calculator state and context</div>
                                     </div>
                                 </div>
                             </section>
