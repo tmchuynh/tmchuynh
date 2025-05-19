@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1177" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="744" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,76 +22,107 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">tmchuynh/harmona-health</span>
+                                        Pushed 47 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ccb1bf4</div>
-                                        <div class="message">Enhance mindfulness practices documentation with additional details and use cases
+                                        <div class="sha">#ffc2443</div>
+                                        <div class="message">fix: adjust layout classes for better responsiveness and consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3d38de</div>
+                                        <div class="message">fix: simplify FAQ section heading for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a604902</div>
+                                        <div class="message">fix: remove unnecessary padding from FAQ section for better layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b63b43</div>
+                                        <div class="message">feat: enhance pricing tier layout for improved readability and structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb70f5</div>
+                                        <div class="message">feat: add formatNumberToCurrency function for currency formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b465103</div>
+                                        <div class="message">feat: update pricing tiers and features for improved clarity and structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#541bc18</div>
+                                        <div class="message">Adds FAQ component to display frequently asked questions
 
-- Expanded introductions for Box Breathing, 4-7-8 Breathing, Diaphragmatic Breathing, Mindful Breathing, and Alternate Nostril Breathing to include context for use in high-stress situations.
-- Added specific notes and details to each step of the breathing techniques to improve clarity and guidance.
-- Included new practice "Breath Counting" with comprehensive instructions and benefits.
-- Improved overall readability and consistency across all practices.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#322d70c</div>
-                                        <div class="message">Add self-care prompt and mindful walking activity to enhance stress management and emotional well-being</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ec4059</div>
-                                        <div class="message">Add gratitude affirmations practice and new resilience journaling prompts to enhance emotional well-being and personal growth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58b363e</div>
-                                        <div class="message">Add new journaling prompts for stress management, mindfulness, and overcoming fears to enhance emotional well-being and personal growth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b84c749</div>
-                                        <div class="message">Enhance mindfulness practices and journaling prompts for emotional well-being and self-discovery</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b456218</div>
-                                        <div class="message">Enhance social connection activities and promote positive emotions
+Introduces a new FAQ component that presents frequently asked questions and their answers in a structured format.
 
-- Added new activities to the social connection toolkit, including "Gratitude Letter Exchange," "Mindfulness Walk with a Friend," "Cooking Challenge with Friends," and expanded existing activities with detailed steps and conclusions.
-- Improved the "Practice Gratitude" section in the promoting positive emotions toolkit by adding more detailed steps, notes, and reflections to enhance the practice.
-- Introduced new activities focused on self-compassion, cultivating positive relationships, and engaging in creative activities to further promote emotional well-being.
-- Updated adaptability skills checklist with additional reflective practices and growth-oriented statements.
-- Expanded grounding techniques checklist with new strategies for grounding and self-compassion.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f113ac4</div>
-                                        <div class="message">Add new journaling prompts for emotional healing, expressive writing, goal setting, and self-discovery to enhance personal growth and emotional well-being</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#435c984</div>
-                                        <div class="message">Add new reflection prompts and strategies to various checklists for enhanced emotional well-being and personal growth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f6dfe4</div>
-                                        <div class="message">Add new mindfulness and positive thinking strategies to checklists for enhanced emotional well-being</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b472b9</div>
-                                        <div class="message">Add new strategies to various checklists for enhanced emotional well-being and resilience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff6b266</div>
-                                        <div class="message">Add new affirmations and cognitive restructuring techniques for enhanced emotional well-being</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18a8d27</div>
-                                        <div class="message">Enhance feedback practices documentation with additional insights and examples
+The component utilizes a predefined list of FAQs and renders them with appropriate styling to enhance user experience.
 
-- Expanded descriptions for constructive vs. destructive feedback, emphasizing the importance of understanding the differences.
-- Added new sections on Timeliness, Empathy and Kindness, Follow-Up, and more to provide comprehensive guidance on effective feedback.
-- Improved clarity and detail in existing sections, including Balanced Approach, Encouraging Self-Reflection, and Creating a Feedback Culture.
-- Updated feedback techniques with more context and practical applications for various scenarios, including performance reviews and remote work.
-- Enhanced the section on feedback for personal development, highlighting the significance of self-assessment, peer feedback, and mentorship.</div>
+This addition aims to improve user navigation by providing clear answers to common queries.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7a7b9d</div>
+                                        <div class="message">Adds comprehensive FAQ and pricing information
+
+Introduces a detailed set of frequently asked questions and corresponding answers to enhance user understanding of the tools offered, including customization options, support availability, and pricing tiers.
+
+This update aims to improve user experience by providing clarity on the services and tools available, addressing common inquiries, and facilitating informed decision-making regarding usage and subscriptions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7029308</div>
+                                        <div class="message">Refactors pricing page to use ToggleGroup for frequency selection
+
+Replaces the RadioGroup component with a ToggleGroup for selecting payment frequency, improving the user interface and interaction experience.
+
+Updates the layout for better responsiveness and visual consistency.
+
+Enhances button components for trial initiation and tier selection, ensuring a more modern design and better usability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb8bcb6</div>
+                                        <div class="message">feat: add Tiers, Features, and Pricing interfaces for enhanced structure and organization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d29fa0</div>
+                                        <div class="message">fix: update color variables for improved accessibility and consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba59cf8</div>
+                                        <div class="message">feat: add ToggleGroup component with context support for variant and size management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9d60f4</div>
+                                        <div class="message">feat: update pricing page with enhanced tier display and FAQ integration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c088a87</div>
+                                        <div class="message">feat: implement BusinessCalculator component with context integration and logging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0659de2</div>
+                                        <div class="message">fix: update font family in DynamicBreadcrumb component for improved readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88b5083</div>
+                                        <div class="message">feat: integrate CalculatorProvider and update layout for calculator context management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efe8d8e</div>
+                                        <div class="message">feat: add custom font faces and update typography styles in globals.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8beb92</div>
+                                        <div class="message">refactor: update heading elements from h4 to h5 for improved semantic structure in NavBar and Footer components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f04cfb</div>
+                                        <div class="message">fix: update icon library to react-icons and clean up image hosts in next.config.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39a38f8</div>
+                                        <div class="message">feat: add CalculatorContext for managing calculator state and context</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,92 +134,36 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 24 commits in
-                                        <span class="repo">tmchuynh/small-shop-menu</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#73ccf6f</div>
-                                        <div class="message">feat: integrate TabbedImages component and update carousel image source</div>
+                                        <div class="sha">#b303b9b</div>
+                                        <div class="message">refactor: remove unused ArticleCard component to streamline codebase</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae2f5ea</div>
-                                        <div class="message">feat: add gallery images and tabbed image structure for enhanced visual content</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9101765</div>
-                                        <div class="message">feat: add new image asset for coffee cups</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed3fe85</div>
-                                        <div class="message">fix: add 'www.canva.com' to the list of allowed image hosts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1978240</div>
-                                        <div class="message">Implement new feature for user authentication and improve error handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8cbe6a</div>
-                                        <div class="message">chore: update motion and tailwind-merge dependencies in package.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e000e88</div>
-                                        <div class="message">refactor: streamline AboutUs and ContactUs pages layout for consistency
-refactor: enhance MenuPage structure by simplifying JSX and improving readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07179b2</div>
-                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1941d8c</div>
-                                        <div class="message">refactor: improve MenuItem layout by restructuring JSX and enhancing image display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5222ee0</div>
-                                        <div class="message">refactor: simplify MenuSection component by removing unused props and optimizing item sorting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c046438</div>
-                                        <div class="message">fix: add example.com to the list of allowed image hosts in next.config.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#814fb6b</div>
-                                        <div class="message">feat: add ScrollArea component using @radix-ui/react-scroll-area for enhanced UI scrolling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3aaa360</div>
-                                        <div class="message">feat: enhance MenuPage with structured Card components for food and drinks menus</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b822a9</div>
-                                        <div class="message">refactor: simplify MenuItem component by removing unused props and conditional rendering</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efae993</div>
-                                        <div class="message">fix: enhance formatCurrency function to handle non-numeric inputs and improve documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5c16cf</div>
-                                        <div class="message">refactor: simplify MenuItemInfo interface by removing unused properties</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61dbc82</div>
-                                        <div class="message">fix: update FeaturedImageGallery and TabbedImages components for improved data handling and consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aedfe98</div>
-                                        <div class="message">fix: update color values for primary, secondary, and tertiary variables in globals.css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1994903</div>
-                                        <div class="message">fix: update image source for HomePage component and adjust class order for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f755a22</div>
-                                        <div class="message">feat: add additional image hosts to next.config for enhanced image loading</div>
+                                        <div class="sha">#172603e</div>
+                                        <div class="message">fix: update Article component to use params for article and simplify rendering
+feat: add new category constants for finance calculators</div>
                                     </div>
                                 </div>
                             </section>
@@ -201,26 +176,26 @@ refactor: enhance MenuPage structure by simplifying JSX and improving readabilit
                                     </svg>
                                     <div class="content">
                                         Pushed 4 commits in
-                                        <span class="repo">tmchuynh/small-shop-menu</span>
+                                        <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9501d07</div>
-                                        <div class="message">fix: reorder imports and clean up Dialog component for improved readability</div>
+                                        <div class="sha">#53f8aca</div>
+                                        <div class="message">refactor: define ArticleProps interface for improved type safety and clarity</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2d2b7a3</div>
-                                        <div class="message">feat: add accent and tertiary button variants for enhanced styling options</div>
+                                        <div class="sha">#14a8dca</div>
+                                        <div class="message">feat: add CalculatorCard component for structured calculator display</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1081000</div>
-                                        <div class="message">fix: remove unused "fancy" and "disabled" variants from BackdropButton component</div>
+                                        <div class="sha">#581aafd</div>
+                                        <div class="message">feat: add new calculator components for debt, insurance, investment, real estate, retirement, savings, and tax</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ecb3b3c</div>
-                                        <div class="message">feat: add @radix-ui/react-dialog dependency for dialog component functionality</div>
+                                        <div class="sha">#295ef83</div>
+                                        <div class="message">feat: update BusinessCalculator and CalculatorLayout for improved clarity and functionality</div>
                                     </div>
                                 </div>
                             </section>
@@ -232,109 +207,19 @@ refactor: enhance MenuPage structure by simplifying JSX and improving readabilit
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">tmchuynh/small-shop-menu</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ac1422</div>
-                                        <div class="message">feat: add drinkMenu constant with detailed drink categories and items</div>
+                                        <div class="sha">#774c758</div>
+                                        <div class="message">fix: update Article component to correctly use article prop instead of params</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#de4a43e</div>
-                                        <div class="message">feat: add foodMenu constant with detailed menu categories and items</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e44006</div>
-                                        <div class="message">feat: add MenuSection component to display menu categories and items</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#527959c</div>
-                                        <div class="message">feat: implement MenuItem component for displaying menu items</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4520a1a</div>
-                                        <div class="message">feat: add MenuItemInfo and MenuCategory interfaces for menu structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41c3faa</div>
-                                        <div class="message">Enhances carousel functionality with autoplay feature
-
-Adds autoplay capability to the carousel with a 9-second delay.
-
-Refines carousel options for better alignment and looping.
-
-Removes unnecessary content to streamline the page structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21800d8</div>
-                                        <div class="message">fix: enhance formatCurrency function to ensure two decimal places in output</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05a3d3e</div>
-                                        <div class="message">fix: remove unused navigation items and standardize font styles in NavBar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c226017</div>
-                                        <div class="message">fix: simplify Gallery and Menu pages by removing unnecessary classes and improving structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df68cfe</div>
-                                        <div class="message">Simplifies header in Contact Us page
-
-Removes unnecessary styling from the header element.
-
-Streamlines the user interface for a cleaner look.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a78f89</div>
-                                        <div class="message">fix: simplify About Us heading by removing unnecessary classes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d10726</div>
-                                        <div class="message">fix: adjust heading styles for improved typography</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d95089</div>
-                                        <div class="message">fix: remove unused page components for cleaner codebase</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8572e81</div>
-                                        <div class="message">fix: add embla-carousel-autoplay dependency for enhanced carousel functionality</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/small-shop-menu</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#19302f0</div>
-                                        <div class="message">fix: replace Skeleton component with Image for improved loading experience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed735c5</div>
-                                        <div class="message">fix: update font faces in globals.css for improved typography</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c1070f</div>
-                                        <div class="message">fix: remove unused font files and add new font files for better typography</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45f8a93</div>
-                                        <div class="message">fix: update color variables in globals.css for improved theme consistency</div>
+                                        <div class="sha">#f55b6ec</div>
+                                        <div class="message">refactor: update federal tax brackets to include max thresholds for better clarity</div>
                                     </div>
                                 </div>
                             </section>
