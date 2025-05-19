@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1610" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,172 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 71 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#64a2e87</div>
+                                        <div class="message">Enhances user interface and formatting for stock simulator
+
+Improves the layout and user experience of the stock market learning simulator by updating the component structure and adding informative text.
+
+Formats monetary values consistently using a dedicated utility function, enhancing readability across the application.
+
+The changes aim to provide users with a clearer understanding of their cash balance, transaction history, and overall portfolio value in the simulator.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44d10aa</div>
+                                        <div class="message">Adds stock selection functionality in portfolio table
+
+Implements a new stock selection feature in the portfolio table.
+
+Users can now select stocks directly from the table, enhancing interactivity and improving user experience. The stock selection handler is passed as a prop, allowing for better management of selected stocks.
+
+This change facilitates easier portfolio management and decision-making for users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15bac0f</div>
+                                        <div class="message">Adds compound interest visualizer component
+
+Implements a new React component for visualizing compound interest.
+
+Users can input initial amounts, interest rates, monthly contributions, and duration in years to see how their investments grow over time.
+
+Includes a line chart for visual representation and displays total contributions, interest earned, and final balance.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb19fd0</div>
+                                        <div class="message">Adds article title to the finance articles page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b3ed42</div>
+                                        <div class="message">Adds Rent vs Buy calculator component
+
+Implements a new component that allows users to compare the total costs of renting versus buying a home over a specified period.
+
+The tool calculates total renting costs considering annual rent increases and total buying costs including mortgage payments, property taxes, insurance, and maintenance.
+
+This feature enhances the application's functionality by providing users with valuable financial insights.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86385bf</div>
+                                        <div class="message">Adds college cost comparison tool
+
+Introduces a new component to compare the estimated net costs of attending public versus private colleges.
+
+Calculates total costs based on user inputs for tuition, room &amp; board, fees, scholarships, and years of attendance.
+
+Provides recommendations based on the calculated net costs, enhancing user experience in financial decision-making for college education.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a0a939</div>
+                                        <div class="message">Adds HDHP vs Traditional Health Plan calculator
+
+Introduces a new calculator component that allows users to compare estimated annual costs between a High-Deductible Health Plan (HDHP) and a Traditional Health Plan.
+
+The component includes input fields for premiums, deductibles, out-of-pocket maximums, and expected medical expenses, providing a clear breakdown of net costs for each plan.
+
+This addition enhances the financial decision-making tools available to users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f952569</div>
+                                        <div class="message">Adds freelance vs full-time income comparison tool
+
+Implements a new component that allows users to compare estimated net annual income from freelancing versus full-time employment.
+
+The tool calculates gross and net income based on user inputs for hourly rates, hours worked, benefits, and tax rates, providing a clear recommendation based on the calculated values.
+
+This addition enhances the financial decision-making capabilities of the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae1bbce</div>
+                                        <div class="message">Adds Fixed vs ARM Mortgage comparison tool
+
+Implements a new component to compare fixed-rate and adjustable-rate mortgages.
+
+Calculates monthly payments and total costs for both mortgage types, providing users with recommendations based on their input.
+
+Includes validation for user inputs to ensure all values are non-negative and logically consistent before performing calculations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ca632e</div>
+                                        <div class="message">Adds debt consolidation comparison tool
+
+Implements a new tool to compare current debts against a proposed debt consolidation loan.
+
+Calculates total interest from existing debts and evaluates potential savings from consolidation. The user can enter multiple debts, loan amount, interest rate, and term to receive an analysis of their options.
+
+This tool enhances financial decision-making by providing clear insights into the benefits of debt consolidation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5493120</div>
+                                        <div class="message">Adds balance transfer vs paydown comparison tool
+
+Introduces a new component to compare the financial impacts of balance transferring versus paying down credit card debt.
+
+The tool calculates total interest and time to payoff for both options, providing users with personalized recommendations based on their input values.
+
+This feature aims to help users make informed financial decisions regarding credit card management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f4fb57</div>
+                                        <div class="message">Enhance IRA vs Roth IRA Decision Tool with additional informational content for better user guidance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77545d8</div>
+                                        <div class="message">Enhance Learning Simulator page with additional resource cards for improved user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e99330</div>
+                                        <div class="message">Refactor Financial Decision Tools page layout and enhance content for better user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb0d215</div>
+                                        <div class="message">Adds ResourceCard component for displaying resources
+
+Introduces a new ResourceCard component that presents a title, optional description, and a clickable link.
+
+The component enhances navigation by utilizing the router for link handling, improving the user experience when accessing resources.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b180a09</div>
+                                        <div class="message">Add chart.js and react-chartjs-2 dependencies for enhanced charting capabilities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a1ca6e</div>
+                                        <div class="message">Adds PortfolioTable component to enhance portfolio display
+
+Introduces a new PortfolioTable component that encapsulates portfolio rendering functionality, improving code organization and readability.
+
+Replaces the inline portfolio table in the stock market simulator with the new component, which also adds features such as value change calculations and better separation of concerns for future maintenance.
+
+Enhances user experience by providing a more informative and structured view of portfolio holdings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ad83a8</div>
+                                        <div class="message">Update team member details and images for enhanced representation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6192631</div>
+                                        <div class="message">Refactor Our Team page to improve layout and add team member contact icons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#082144b</div>
+                                        <div class="message">Add team structure and member details to enhance company representation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -331,27 +497,6 @@ Enhances button components for trial initiation and tier selection, ensuring a m
                                     <div class="commit">
                                         <div class="sha">#b303b9b</div>
                                         <div class="message">refactor: remove unused ArticleCard component to streamline codebase</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#172603e</div>
-                                        <div class="message">fix: update Article component to use params for article and simplify rendering
-feat: add new category constants for finance calculators</div>
                                     </div>
                                 </div>
                             </section>
