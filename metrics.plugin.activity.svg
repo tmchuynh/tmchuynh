@@ -22,6 +22,176 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 73 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8c01e0a</div>
+                                        <div class="message">Adds Investment Property Cash Flow Calculator component
+
+Implements a new calculator for estimating annual cash flow from rental properties.
+
+Users can input monthly rent, vacancy rate, expenses, mortgage payments, and other income to calculate net cash flow and various income metrics.
+
+This feature enhances the app's functionality, providing valuable insights for property investors and landlords.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa079f3</div>
+                                        <div class="message">Adds home renovation cost calculator component
+
+Introduces a new component that allows users to estimate home renovation costs and potential value added based on various renovation types.
+
+Users can input home value, select renovation types, and calculate total costs, percentage of home value, and estimated value added.
+
+This tool enhances user experience by providing a clear understanding of renovation investments.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81d1217</div>
+                                        <div class="message">Adds tips for beginners and a step-by-step example to the Home Equity Loan Calculator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b39a441</div>
+                                        <div class="message">Enhances Home Insurance Calculator with improved input fields and added tips for beginners</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa6213e</div>
+                                        <div class="message">Enhances Rental Income Calculator with beginner tips and improved input fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8774eb</div>
+                                        <div class="message">Adds typical input values table and enhanced input fields for Rent vs Buy calculator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eec8f63</div>
+                                        <div class="message">Adds step-by-step example and input fields for mortgage refinance calculations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#667ad9e</div>
+                                        <div class="message">Enhances Mortgage Payment Calculator with beginner tips and improved input layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b18e5ed</div>
+                                        <div class="message">Adds rental income calculator component
+
+Introduces a new component that allows users to estimate their annual rental income and net operating income (NOI) by inputting rental details such as monthly rent, vacancy rate, and expenses.
+
+This feature enhances the application's functionality, providing users with essential financial insights related to rental properties.
+
+Improves user experience by offering informative explanations and a structured interface for calculations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba24ee9</div>
+                                        <div class="message">Adds Real Estate Commission Calculator component
+
+Introduces a new React component that calculates real estate commissions based on sale price, commission rate, and broker split.
+
+Enhances user experience by providing detailed explanations of commission structures and typical input values, allowing users to estimate how commissions are divided among agents and brokers.
+
+Improves functionality by validating inputs and displaying results dynamically.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#576b084</div>
+                                        <div class="message">Adds Property Tax Calculator component
+
+Introduces a new Property Tax Calculator that allows users to estimate their annual property tax based on property value and tax rate inputs.
+
+The component includes user input fields, a calculation function, and informative content about property tax, making it beneficial for users to understand and manage their property tax obligations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aca9dd7</div>
+                                        <div class="message">Adds mortgage refinance calculator component
+
+Introduces a new mortgage refinance calculator that allows users to estimate new monthly payments, savings, and break-even points when refinancing their mortgage.
+
+The component includes input fields for current balance, interest rates, loan terms, and closing costs, alongside the logic to calculate the necessary values. This functionality enhances user experience by providing valuable financial insights.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a162751</div>
+                                        <div class="message">Adds mortgage payoff calculator component
+
+Implements a new mortgage payoff calculator that allows users to input loan details and calculate potential savings from making extra payments.
+
+The component includes functions for calculating monthly payments, remaining balance, and payoff timelines. It also provides a user-friendly interface with explanations of key terms and displays results for original and new payoff scenarios.
+
+Enhances the application's financial tools by providing valuable insights into mortgage management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b7afb4</div>
+                                        <div class="message">Adds mortgage payment calculator component
+
+Implements a new mortgage payment calculator that allows users to input loan amount, interest rate, and loan term to calculate their estimated monthly payment.
+
+The component includes detailed explanations of mortgage terms and a step-by-step calculation guide to assist users in understanding their payments.
+
+Enhances user experience by providing real-time feedback on calculated payments based on user input.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5333653</div>
+                                        <div class="message">Adds Home Insurance Calculator component
+
+Implements a new Home Insurance Calculator feature that allows users to estimate their annual home insurance premium based on home value, coverage percent, annual rate, and deductible.
+
+Includes user-friendly input fields, detailed explanations of key insurance terms, and instructions on how premiums are calculated.
+
+The component enhances the application's functionality and provides valuable information to users about home insurance.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c98f7e2</div>
+                                        <div class="message">Adds Home Equity Loan Calculator component
+
+Implements a new Home Equity Loan Calculator, allowing users to estimate their borrowing capacity and monthly payments based on home value, mortgage balance, loan-to-value ratio, interest rate, and loan term.
+
+The component includes detailed explanations of key terms, calculation methods, and a user-friendly interface for input and results display.
+
+Enhances user engagement by providing essential financial insights and tools for home equity loans.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3176753</div>
+                                        <div class="message">Adds Home Affordability Calculator component
+
+Introduces a new component that allows users to calculate the maximum home price they can afford based on their financial inputs, including annual income, down payment, monthly debts, interest rate, and loan term.
+
+The component implements necessary calculations following common lending rules, providing a user-friendly interface with detailed guidance on home affordability factors and tips for buyers.
+
+This enhancement aims to assist users in making informed financial decisions regarding home purchases.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#209e14b</div>
+                                        <div class="message">Adds a closing cost calculator component
+
+Introduces a new component for calculating estimated closing costs when purchasing a home.
+
+This feature allows users to input home price, closing cost rate, and any additional custom costs to calculate total expenses. It also provides informative content on common closing costs, their calculations, and tips for saving money.
+
+Enhances the user experience by offering an interactive tool for better financial planning in home buying.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e648acf</div>
+                                        <div class="message">Adds Rent vs Buy Home Calculator component
+
+Implements a new calculator to compare the total costs of renting versus buying a home over a specified duration.
+
+This component allows users to input various parameters such as monthly rent, home price, mortgage rate, and more, and provides a recommendation based on the computed costs.
+
+Enhances financial decision-making by clearly outlining the costs involved in both options.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6852d3b</div>
+                                        <div class="message">Renames "Rent vs. Buy Calculator" to "Rent vs Buy Home Calculator" for clarity and updates the corresponding ID.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 15 commits in
                                         <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
@@ -505,102 +675,6 @@ Enhances user experience by providing a more informative and structured view of 
                                     <div class="commit">
                                         <div class="sha">#0f60184</div>
                                         <div class="message">Updates accent color values for improved visual consistency</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 28 commits in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6a68d0</div>
-                                        <div class="message">Enhances typography styles by adding accent color to h5 elements and introducing primary color for strong elements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a326b83</div>
-                                        <div class="message">Updates Careers link in company navigation to point to the correct URL.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2342a34</div>
-                                        <div class="message">Enhances Our Team page with team member details, improved layout, and engaging content for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6fb1f8</div>
-                                        <div class="message">Adds constants for About Us section including values, goals, benefits, and metrics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e7b5a1</div>
-                                        <div class="message">Adds Join Us page component to the careers section.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f21b6b</div>
-                                        <div class="message">Removes Join Us page component as part of site restructuring.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e75036</div>
-                                        <div class="message">Enhances About Us page with detailed content, improved layout, and added interactive elements for better user engagement.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#638e612</div>
-                                        <div class="message">Adds feature constants for financial tools including calculators, checklists, decision tools, and simulators.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5aa2862</div>
-                                        <div class="message">Refactors layout of Testimonials page for improved styling and responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1756b7b</div>
-                                        <div class="message">Refactors layout of Article and Finance Articles pages for improved styling and responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90555d2</div>
-                                        <div class="message">Refactors layout of Learning Simulators page for improved styling and responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f152b6</div>
-                                        <div class="message">Refactors layout of Helpful Guides and Join Us pages for consistent styling; updates Pricing page for improved structure and responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07c6d4e</div>
-                                        <div class="message">Refactors layout of About Us, Our Partners, Our Team, and Contact Us pages to ensure consistent styling with centered content and improved responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f80a267</div>
-                                        <div class="message">Refactors main page to integrate dynamic content for features, pricing, and FAQs; enhances layout and descriptions for better user engagement.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cec48d1</div>
-                                        <div class="message">Updates pricing tiers to adjust featured status for Personal and Starter plans</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54eeb35</div>
-                                        <div class="message">Adds new pages for Our Partners, Our Team, About Us, Contact Us, Helpful Guides, Join Us, and Testimonials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a7c858</div>
-                                        <div class="message">Refactors navigation constants to improve structure and clarity, renames engagement to essentials, and updates resource links.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e5f8a9</div>
-                                        <div class="message">Adds featured resources section with marketing and sales content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#836197e</div>
-                                        <div class="message">Refactors NavBar component to update resource categories and improve layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fec482f</div>
-                                        <div class="message">Adds Stock Market Learning Simulator with buy/sell functionality and portfolio management</div>
                                     </div>
                                 </div>
                             </section>
