@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1161" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1244" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.category,.repository{display:flex;flex-direction:column}.category{align-items:center;flex:1 1 0}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.category,.repository{display:flex;flex-direction:column}.category{align-items:center;flex:1 1 0}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,167 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 50 commits in
+                                        <span class="repo">tmchuynh/mental-health-non-profit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b5b5ed2</div>
+                                        <div class="message">Enforces subtitle as a required field in ArticleCategory
+
+Updates the ArticleCategory interface to make the subtitle property mandatory.
+
+This change improves data consistency by ensuring that all articles have a subtitle defined, which can enhance user experience and content clarity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15dc1e4</div>
+                                        <div class="message">Updates navigation menu for improved user engagement
+
+Renames and restructures menu items to better reflect the organization's focus on community involvement and resources.
+
+Adds new links for "About Us," "Get Involved," and "Programs &amp; Services" to enhance user access to important information.
+
+Replaces outdated labels with more relevant options, promoting a user-friendly experience and clearer navigation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#495ebda</div>
+                                        <div class="message">Improves ThemeToggle component styling and functionality
+
+Updates the ThemeToggle component to enhance its appearance and behavior.
+
+Changes include adjusting the `className` for a more transparent background and modifying the `pressed` state to reflect the light theme instead of dark.
+
+Additionally, introduces a `data-state` attribute to indicate the current theme state, improving accessibility and user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b795cee</div>
+                                        <div class="message">Adds new service categories and session details for mental health support
+
+Introduces multiple new service categories, including peer support groups, workshops, and counseling sessions, aimed at enhancing mental health resources.
+
+Each category features detailed descriptions, benefits, hosting information, and fees to provide clear guidance and improve accessibility for users seeking support.
+
+These additions aim to create a comprehensive directory of mental health services for community engagement and awareness.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dbe429</div>
+                                        <div class="message">Adds fundraising and volunteer pages
+
+Introduces two new components for fundraising and volunteer opportunities.
+
+These pages provide information and links to respective forms, enhancing user engagement and support for the organization's mission.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f521fc</div>
+                                        <div class="message">Updates About Us page content to reflect new mission
+
+Replaces existing text with a detailed description of InnerLight Elevation's mission, vision, and values.
+
+The update emphasizes a commitment to mental wellness, inclusivity, and community support, aligning the content with the organization's goals.
+
+This change enhances the clarity and relevance of the information presented to visitors.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8762139</div>
+                                        <div class="message">Enhances diversity and inclusion content on pages
+
+Adds comprehensive diversity and inclusion statements to the
+Diversity and Inclusion page, emphasizing the organization's
+commitment to accessible mental health care for all backgrounds.
+
+Updates the Mental Health Pledge with detailed commitments
+to empathy, understanding, and advocacy for mental wellness.
+
+Revises the Donors page to express gratitude and highlight
+the impact of donor contributions on expanding mental health
+initiatives and community outreach.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#242ebf1</div>
+                                        <div class="message">Adds about section with goals, values, staff, and stats
+
+Introduces a comprehensive about section detailing the organization's goals, core values, staff directory, key statistics, donor recognition, impact stories, and a timeline of milestones.
+
+This enhancement aims to clearly communicate the mission and impact of the organization, fostering transparency and connection with stakeholders.
+
+Relates to documentation and user engagement improvements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12d28f7</div>
+                                        <div class="message">feat: add Helplines component to provide support resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a58965</div>
+                                        <div class="message">feat: enhance MenuBarNav with router integration for improved navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa4096c</div>
+                                        <div class="message">feat: implement HoverEffect component for enhanced UI interaction on category display</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb6e3e4</div>
+                                        <div class="message">feat: update homepage content to enhance mental health awareness messaging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf9ec3e</div>
+                                        <div class="message">feat: add useIsMobile hook for mobile responsiveness detection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d098dc5</div>
+                                        <div class="message">feat: add new UI components including Input, Separator, Sheet, Sidebar, Skeleton, Sonner, Switch, ToggleGroup, and Tooltip
+
+- Introduced Input component for text input fields.
+- Added Separator component for visual separation of UI elements.
+- Implemented Sheet component for modal-like overlays.
+- Created Sidebar component for navigation with collapsible functionality.
+- Developed Skeleton component for loading placeholders.
+- Integrated Sonner component for notifications using the Toaster library.
+- Built Switch component for toggle functionality.
+- Established ToggleGroup and ToggleGroupItem components for grouped toggle buttons.
+- Added Tooltip component for displaying additional information on hover.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7071d6</div>
+                                        <div class="message">Fix formatting in globals.css and enhance base styles for consistent theming</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d372a7c</div>
+                                        <div class="message">Update dependencies in package.json and package-lock.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd228ea</div>
+                                        <div class="message">Add new pages for Diversity and Inclusion Statement, Mental Health Pledge, Our Partners, Our Staff, About Us, Learning Resources, Donors, Donations, Events, Event Stories Overview, Helplines, Programs and Services, and Testimonials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c11da5e</div>
+                                        <div class="message">Add ServiceCategory and ServiceMeeting interfaces for service management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e593cb</div>
+                                        <div class="message">Refactor articles related to mood disorders and depression
+
+- Updated the article section for cognitive behavioral therapy exercises to focus on mood disorders, specifically depression.
+- Created a new article titled "The Stages of Depression" with detailed sections on mild, moderate, and severe depression, including symptoms, seeking help, and self-care strategies.
+- Removed several articles that were previously included in the articles list to streamline content.
+- Modified the ArticleCategory and ArticleIntro interfaces to better reflect the structure of articles, including changes to the properties for clarity and consistency.
+- Added references to the new article for further reading and support resources.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51d2066</div>
+                                        <div class="message">Removes awareness articles from the constants module</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -345,144 +506,6 @@ Enhances financial decision-making by clearly outlining the costs involved in bo
                                     <div class="commit">
                                         <div class="sha">#6852d3b</div>
                                         <div class="message">Renames "Rent vs. Buy Calculator" to "Rent vs Buy Home Calculator" for clarity and updates the corresponding ID.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#616ed3a</div>
-                                        <div class="message">Adds example table for typical personal assets and liabilities in Working Capital Calculator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d115e8</div>
-                                        <div class="message">Enhances Working Capital Calculator description and structure for clarity and user understanding</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d0a47a</div>
-                                        <div class="message">Refactors business partnership checklist categories
-
-Updates the business partnership checklist categories to consolidate similar entries and improve clarity.
-
-Removes redundant checklists related to valuation, investment strategy, risk management, and exit strategy, streamlining the category structure.
-
-Modifies the ID and title of the "Business Partnership Research" checklist for consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#174814f</div>
-                                        <div class="message">Refines financial calculator descriptions for clarity
-
-Enhances the user interface of various financial calculators by updating headings and descriptions to provide clearer guidance on their functionalities.
-
-Improves overall readability and user comprehension, ensuring that users can easily understand the purpose and benefits of each calculator.
-
-Removes unnecessary styling elements for a cleaner look and incorporates more informative content to aid user decision-making.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2739a3e</div>
-                                        <div class="message">Adds multiple financial ratio calculators
-
-Introduces new calculators for financial ratios, including Current Ratio, Debt Service Coverage Ratio, Expense Ratio, Net Profit Margin, Operating Margin, Quick Ratio, Return on Assets, and Payroll Tax.
-
-These tools enhance the application's functionality by aiding users in assessing their business's financial health through effective calculations.
-
-Improves user experience with informative interfaces for each calculator, helping users make better financial decisions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b83360d</div>
-                                        <div class="message">Adds business growth, operations, partnerships, customer service, financial planning, human resources, and marketing strategy checklists</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03bec7f</div>
-                                        <div class="message">Adds Cash Conversion Cycle Calculator component
-
-Introduces a new calculator to compute the cash conversion cycle (CCC) for businesses.
-
-The component allows users to input days inventory outstanding, days sales outstanding, and days payables outstanding, providing a calculated result along with an explanation of the CCC's significance.
-
-This enhancement improves user capability to assess financial efficiency through a clear and interactive interface.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dc4242</div>
-                                        <div class="message">Adds cash flow management calculator component
-
-Introduces a new calculator for managing cash flow, allowing users to input cash inflows, outflows, and starting cash balance.
-
-Calculates net cash flow and ending cash position, helping users analyze financial health and ensure liquidity.
-
-Provides a user-friendly interface with clear instructions and results display.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d29b55</div>
-                                        <div class="message">Adds cash flow forecasting calculator component
-
-Introduces a new component for forecasting monthly cash flow, allowing users to estimate their business's cash position by inputting starting cash, monthly income, expenses, and payment timing.
-
-Implements state management for user inputs and results, improving financial planning capabilities for businesses.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d9acb7</div>
-                                        <div class="message">Adds business loan calculator component
-
-Implements a new business loan calculator feature that allows users to estimate monthly payments, total interest, and total loan costs.
-
-The component uses React hooks for state management and includes input fields for loan amount, annual interest rate, and loan term. It provides a clear user interface and straightforward calculations based on standard loan formulas.
-
-Enhances the user experience by providing instant feedback on loan calculations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5064ef</div>
-                                        <div class="message">Adds business expense tracker component
-
-Introduces a new component for tracking and analyzing business expenses.
-
-Users can input revenue and expenses, categorize them, and determine key metrics such as total expenses and expense ratios.
-
-This feature enhances financial management capabilities within the application, providing insights for better budgeting decisions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0feeea</div>
-                                        <div class="message">Adds Break-Even Point Calculator component
-
-Introduces a new calculator component that allows users to determine the break-even point for their business operations.
-
-The component captures fixed costs, variable costs per unit, and price per unit, then calculates key financial metrics such as contribution margin, break-even units, and break-even sales.
-
-This enhancement aims to improve financial decision-making for users by providing a user-friendly interface for profitability analysis.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12ab2d7</div>
-                                        <div class="message">Renames Expense Tracker to Business Expense Tracker for clarity and consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d369b5c</div>
-                                        <div class="message">Adds Inventory Turnover Ratio Calculator component
-
-Introduces a new component for calculating the inventory turnover ratio, enhancing the finance calculators suite.
-
-The component allows users to input cost of goods sold and average inventory, providing calculations for turnover ratio and days sales of inventory. It includes explanations and formulas to assist users in understanding the importance of the metric for inventory management.
-
-This addition improves user experience by offering a tool for better inventory optimization and cash flow management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08ba8a5</div>
-                                        <div class="message">Adds Profit Margin Calculator component
-
-Implements a new Profit Margin Calculator to help users assess their business's financial health by calculating profit margins based on revenue and cost inputs.
-
-The calculator provides an interactive UI for input, validates user data, and displays the calculated profit margin percentage. This tool enhances decision-making regarding pricing and cost management.</div>
                                     </div>
                                 </div>
                             </section>
