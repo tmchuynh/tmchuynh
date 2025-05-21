@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.category,.repository{display:flex;flex-direction:column}.category{align-items:center;flex:1 1 0}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.topics{display:flex;flex-wrap:wrap}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,114 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 35 commits in
+                                        <span class="repo">tmchuynh/mental-health-non-profit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ea9499f</div>
+                                        <div class="message">Adds event filtering and display functionality
+
+Implements filtering options for event types, allowing users to filter events displayed based on their type.
+
+Adds a button interface for selecting different event types and updates the event rendering logic to reflect the selected filter.
+
+Enhances user experience by making it easier to browse through hosted events.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#637a54c</div>
+                                        <div class="message">Removes outdated article on grief and loss and adds new articles on bipolar disorder, anxiety disorders, and trauma responses for enhanced mental health resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae01639</div>
+                                        <div class="message">Refactors BlogarticleData component to simplify title rendering and improve readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02c29ea</div>
+                                        <div class="message">Removes unnecessary wrapper elements from Layout component for cleaner structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66a3183</div>
+                                        <div class="message">Refactors Blog component layout for improved readability and updates heading to emphasize mental health focus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56c285c</div>
+                                        <div class="message">Renames toolModule to articleModule for clarity in getArticleData function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27cfed9</div>
+                                        <div class="message">Adds detailed resources for various mental health disorders including Social Anxiety Disorder, Specific Phobias, Autism Spectrum Disorder, Dissociative Identity Disorder, and Premenstrual Dysphoric Disorder.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d23acfe</div>
+                                        <div class="message">Refactors Blog component to use useSearchParams hook
+
+Improves the Blog component by replacing the manual search parameter handling with the useSearchParams hook for better readability and efficiency.
+
+Ensures proper parsing of the page number and category from the URL, maintaining the notFound functionality for invalid page numbers.
+
+This change streamlines state management and enhances code clarity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd5cf1b</div>
+                                        <div class="message">Adds articles on mental health topics including eating disorders, grief, LGBTQ+ youth, substance abuse, schizophrenia, panic disorder, anxiety, PTSD, OCD, BPD, and ADHD for comprehensive resource coverage.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2bb8a9</div>
+                                        <div class="message">Adds HelplineEntry interface for structured helpline information representation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d7d6c3</div>
+                                        <div class="message">Renames ArticleCategory interface to Category for consistency and updates references in ArticleIntro</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#995a2cd</div>
+                                        <div class="message">Refactors Blog component to unwrap searchParams for improved readability and consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6728ac6</div>
+                                        <div class="message">Fix import order for Footer component in layout.tsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c4c8a1</div>
+                                        <div class="message">Adds HelplineList component to display crisis helpline information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#335b226</div>
+                                        <div class="message">Adds Resource interfaces for structured resource management and content representation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10c2368</div>
+                                        <div class="message">Refactors Categories component to use MenubarMenu for improved category selection and UI consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a40cd4</div>
+                                        <div class="message">Adds crisis helpline directory for enhanced support resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d8724b</div>
+                                        <div class="message">Adds HelplineList component to the Helplines page for improved support visibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf948dd</div>
+                                        <div class="message">Adds comprehensive learning resources for various mental health disorders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82d88e5</div>
+                                        <div class="message">Refactors article categories to enhance clarity and detail, updates data structure and adds comprehensive overviews for mental health categories</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -336,176 +444,6 @@ This update improves the user experience by organizing articles and allowing eas
                                         Created new
                       repository
                                         <span class="repo">tmchuynh/mental-health-non-profit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 73 commits in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8c01e0a</div>
-                                        <div class="message">Adds Investment Property Cash Flow Calculator component
-
-Implements a new calculator for estimating annual cash flow from rental properties.
-
-Users can input monthly rent, vacancy rate, expenses, mortgage payments, and other income to calculate net cash flow and various income metrics.
-
-This feature enhances the app's functionality, providing valuable insights for property investors and landlords.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa079f3</div>
-                                        <div class="message">Adds home renovation cost calculator component
-
-Introduces a new component that allows users to estimate home renovation costs and potential value added based on various renovation types.
-
-Users can input home value, select renovation types, and calculate total costs, percentage of home value, and estimated value added.
-
-This tool enhances user experience by providing a clear understanding of renovation investments.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81d1217</div>
-                                        <div class="message">Adds tips for beginners and a step-by-step example to the Home Equity Loan Calculator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b39a441</div>
-                                        <div class="message">Enhances Home Insurance Calculator with improved input fields and added tips for beginners</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa6213e</div>
-                                        <div class="message">Enhances Rental Income Calculator with beginner tips and improved input fields</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8774eb</div>
-                                        <div class="message">Adds typical input values table and enhanced input fields for Rent vs Buy calculator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eec8f63</div>
-                                        <div class="message">Adds step-by-step example and input fields for mortgage refinance calculations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#667ad9e</div>
-                                        <div class="message">Enhances Mortgage Payment Calculator with beginner tips and improved input layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b18e5ed</div>
-                                        <div class="message">Adds rental income calculator component
-
-Introduces a new component that allows users to estimate their annual rental income and net operating income (NOI) by inputting rental details such as monthly rent, vacancy rate, and expenses.
-
-This feature enhances the application's functionality, providing users with essential financial insights related to rental properties.
-
-Improves user experience by offering informative explanations and a structured interface for calculations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba24ee9</div>
-                                        <div class="message">Adds Real Estate Commission Calculator component
-
-Introduces a new React component that calculates real estate commissions based on sale price, commission rate, and broker split.
-
-Enhances user experience by providing detailed explanations of commission structures and typical input values, allowing users to estimate how commissions are divided among agents and brokers.
-
-Improves functionality by validating inputs and displaying results dynamically.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#576b084</div>
-                                        <div class="message">Adds Property Tax Calculator component
-
-Introduces a new Property Tax Calculator that allows users to estimate their annual property tax based on property value and tax rate inputs.
-
-The component includes user input fields, a calculation function, and informative content about property tax, making it beneficial for users to understand and manage their property tax obligations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aca9dd7</div>
-                                        <div class="message">Adds mortgage refinance calculator component
-
-Introduces a new mortgage refinance calculator that allows users to estimate new monthly payments, savings, and break-even points when refinancing their mortgage.
-
-The component includes input fields for current balance, interest rates, loan terms, and closing costs, alongside the logic to calculate the necessary values. This functionality enhances user experience by providing valuable financial insights.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a162751</div>
-                                        <div class="message">Adds mortgage payoff calculator component
-
-Implements a new mortgage payoff calculator that allows users to input loan details and calculate potential savings from making extra payments.
-
-The component includes functions for calculating monthly payments, remaining balance, and payoff timelines. It also provides a user-friendly interface with explanations of key terms and displays results for original and new payoff scenarios.
-
-Enhances the application's financial tools by providing valuable insights into mortgage management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b7afb4</div>
-                                        <div class="message">Adds mortgage payment calculator component
-
-Implements a new mortgage payment calculator that allows users to input loan amount, interest rate, and loan term to calculate their estimated monthly payment.
-
-The component includes detailed explanations of mortgage terms and a step-by-step calculation guide to assist users in understanding their payments.
-
-Enhances user experience by providing real-time feedback on calculated payments based on user input.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5333653</div>
-                                        <div class="message">Adds Home Insurance Calculator component
-
-Implements a new Home Insurance Calculator feature that allows users to estimate their annual home insurance premium based on home value, coverage percent, annual rate, and deductible.
-
-Includes user-friendly input fields, detailed explanations of key insurance terms, and instructions on how premiums are calculated.
-
-The component enhances the application's functionality and provides valuable information to users about home insurance.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c98f7e2</div>
-                                        <div class="message">Adds Home Equity Loan Calculator component
-
-Implements a new Home Equity Loan Calculator, allowing users to estimate their borrowing capacity and monthly payments based on home value, mortgage balance, loan-to-value ratio, interest rate, and loan term.
-
-The component includes detailed explanations of key terms, calculation methods, and a user-friendly interface for input and results display.
-
-Enhances user engagement by providing essential financial insights and tools for home equity loans.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3176753</div>
-                                        <div class="message">Adds Home Affordability Calculator component
-
-Introduces a new component that allows users to calculate the maximum home price they can afford based on their financial inputs, including annual income, down payment, monthly debts, interest rate, and loan term.
-
-The component implements necessary calculations following common lending rules, providing a user-friendly interface with detailed guidance on home affordability factors and tips for buyers.
-
-This enhancement aims to assist users in making informed financial decisions regarding home purchases.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#209e14b</div>
-                                        <div class="message">Adds a closing cost calculator component
-
-Introduces a new component for calculating estimated closing costs when purchasing a home.
-
-This feature allows users to input home price, closing cost rate, and any additional custom costs to calculate total expenses. It also provides informative content on common closing costs, their calculations, and tips for saving money.
-
-Enhances the user experience by offering an interactive tool for better financial planning in home buying.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e648acf</div>
-                                        <div class="message">Adds Rent vs Buy Home Calculator component
-
-Implements a new calculator to compare the total costs of renting versus buying a home over a specified duration.
-
-This component allows users to input various parameters such as monthly rent, home price, mortgage rate, and more, and provides a recommendation based on the computed costs.
-
-Enhances financial decision-making by clearly outlining the costs involved in both options.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6852d3b</div>
-                                        <div class="message">Renames "Rent vs. Buy Calculator" to "Rent vs Buy Home Calculator" for clarity and updates the corresponding ID.</div>
                                     </div>
                                 </div>
                             </section>
