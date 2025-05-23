@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1627" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.topics{display:flex;flex-wrap:wrap}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,36 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">tmchuynh/coding-courses</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">tmchuynh/coding-courses</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -242,301 +272,6 @@ This change streamlines state management and enhances code clarity.</div>
                                     <div class="commit">
                                         <div class="sha">#82d88e5</div>
                                         <div class="message">Refactors article categories to enhance clarity and detail, updates data structure and adds comprehensive overviews for mental health categories</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 50 commits in
-                                        <span class="repo">tmchuynh/mental-health-non-profit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b5b5ed2</div>
-                                        <div class="message">Enforces subtitle as a required field in ArticleCategory
-
-Updates the ArticleCategory interface to make the subtitle property mandatory.
-
-This change improves data consistency by ensuring that all articles have a subtitle defined, which can enhance user experience and content clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15dc1e4</div>
-                                        <div class="message">Updates navigation menu for improved user engagement
-
-Renames and restructures menu items to better reflect the organization's focus on community involvement and resources.
-
-Adds new links for "About Us," "Get Involved," and "Programs &amp; Services" to enhance user access to important information.
-
-Replaces outdated labels with more relevant options, promoting a user-friendly experience and clearer navigation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#495ebda</div>
-                                        <div class="message">Improves ThemeToggle component styling and functionality
-
-Updates the ThemeToggle component to enhance its appearance and behavior.
-
-Changes include adjusting the `className` for a more transparent background and modifying the `pressed` state to reflect the light theme instead of dark.
-
-Additionally, introduces a `data-state` attribute to indicate the current theme state, improving accessibility and user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b795cee</div>
-                                        <div class="message">Adds new service categories and session details for mental health support
-
-Introduces multiple new service categories, including peer support groups, workshops, and counseling sessions, aimed at enhancing mental health resources.
-
-Each category features detailed descriptions, benefits, hosting information, and fees to provide clear guidance and improve accessibility for users seeking support.
-
-These additions aim to create a comprehensive directory of mental health services for community engagement and awareness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dbe429</div>
-                                        <div class="message">Adds fundraising and volunteer pages
-
-Introduces two new components for fundraising and volunteer opportunities.
-
-These pages provide information and links to respective forms, enhancing user engagement and support for the organization's mission.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f521fc</div>
-                                        <div class="message">Updates About Us page content to reflect new mission
-
-Replaces existing text with a detailed description of InnerLight Elevation's mission, vision, and values.
-
-The update emphasizes a commitment to mental wellness, inclusivity, and community support, aligning the content with the organization's goals.
-
-This change enhances the clarity and relevance of the information presented to visitors.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8762139</div>
-                                        <div class="message">Enhances diversity and inclusion content on pages
-
-Adds comprehensive diversity and inclusion statements to the
-Diversity and Inclusion page, emphasizing the organization's
-commitment to accessible mental health care for all backgrounds.
-
-Updates the Mental Health Pledge with detailed commitments
-to empathy, understanding, and advocacy for mental wellness.
-
-Revises the Donors page to express gratitude and highlight
-the impact of donor contributions on expanding mental health
-initiatives and community outreach.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#242ebf1</div>
-                                        <div class="message">Adds about section with goals, values, staff, and stats
-
-Introduces a comprehensive about section detailing the organization's goals, core values, staff directory, key statistics, donor recognition, impact stories, and a timeline of milestones.
-
-This enhancement aims to clearly communicate the mission and impact of the organization, fostering transparency and connection with stakeholders.
-
-Relates to documentation and user engagement improvements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12d28f7</div>
-                                        <div class="message">feat: add Helplines component to provide support resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a58965</div>
-                                        <div class="message">feat: enhance MenuBarNav with router integration for improved navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa4096c</div>
-                                        <div class="message">feat: implement HoverEffect component for enhanced UI interaction on category display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb6e3e4</div>
-                                        <div class="message">feat: update homepage content to enhance mental health awareness messaging</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf9ec3e</div>
-                                        <div class="message">feat: add useIsMobile hook for mobile responsiveness detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d098dc5</div>
-                                        <div class="message">feat: add new UI components including Input, Separator, Sheet, Sidebar, Skeleton, Sonner, Switch, ToggleGroup, and Tooltip
-
-- Introduced Input component for text input fields.
-- Added Separator component for visual separation of UI elements.
-- Implemented Sheet component for modal-like overlays.
-- Created Sidebar component for navigation with collapsible functionality.
-- Developed Skeleton component for loading placeholders.
-- Integrated Sonner component for notifications using the Toaster library.
-- Built Switch component for toggle functionality.
-- Established ToggleGroup and ToggleGroupItem components for grouped toggle buttons.
-- Added Tooltip component for displaying additional information on hover.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7071d6</div>
-                                        <div class="message">Fix formatting in globals.css and enhance base styles for consistent theming</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d372a7c</div>
-                                        <div class="message">Update dependencies in package.json and package-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd228ea</div>
-                                        <div class="message">Add new pages for Diversity and Inclusion Statement, Mental Health Pledge, Our Partners, Our Staff, About Us, Learning Resources, Donors, Donations, Events, Event Stories Overview, Helplines, Programs and Services, and Testimonials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c11da5e</div>
-                                        <div class="message">Add ServiceCategory and ServiceMeeting interfaces for service management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e593cb</div>
-                                        <div class="message">Refactor articles related to mood disorders and depression
-
-- Updated the article section for cognitive behavioral therapy exercises to focus on mood disorders, specifically depression.
-- Created a new article titled "The Stages of Depression" with detailed sections on mild, moderate, and severe depression, including symptoms, seeking help, and self-care strategies.
-- Removed several articles that were previously included in the articles list to streamline content.
-- Modified the ArticleCategory and ArticleIntro interfaces to better reflect the structure of articles, including changes to the properties for clarity and consistency.
-- Added references to the new article for further reading and support resources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51d2066</div>
-                                        <div class="message">Removes awareness articles from the constants module</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">tmchuynh/mental-health-non-profit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c188cc7</div>
-                                        <div class="message">Adds date formatting and URL ID conversion utilities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f661918</div>
-                                        <div class="message">Adds article-related interfaces for structured content
-
-Introduces TypeScript interfaces for managing article categories, introductions, and content structures.
-
-These additions enable better organization and type safety for article-related data throughout the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa45a7d</div>
-                                        <div class="message">Adds comprehensive mental health resource tools
-
-Introduces a collection of articles and guides focused on various mental health practices, including cognitive-behavioral therapy exercises, mindfulness techniques, and resilience-building tools.
-
-These resources aim to empower individuals by providing structured approaches to improve emotional well-being, enhance coping mechanisms, and foster self-reflection.
-
-The additions support a holistic approach to mental health and aim to create lasting positive changes in users' lives.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#692a0a1</div>
-                                        <div class="message">Adds social media icons and article context provider
-
-Introduces new SVG components for social media icons, enhancing the UI with visual elements for X, Instagram, GitHub, and LinkedIn.
-
-Implements an ArticleContext provider to manage and share article data across components, improving state management and accessibility in the application.
-
-Updates the MenuBarNav styling for better alignment and spacing in the layout.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7057fc8</div>
-                                        <div class="message">Adds Container components for layout management
-
-Introduces `ContainerOuter`, `ContainerInner`, and a wrapper `Container` component to enhance layout capabilities in the application.
-
-These components utilize `forwardRef` for better reference handling and leverage `clsx` for dynamic class management, providing a more flexible and responsive design structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0525f4b</div>
-                                        <div class="message">Adds blog article data component for dynamic content rendering
-
-Introduces a new component to fetch and display blog article data based on the URL slug.
-
-Implements dynamic loading of article content, including titles, subtitles, images, sections, and conclusions, enhancing the user experience by providing tailored content.
-
-This change improves maintainability by allowing articles to be easily added or updated through modular imports.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f5bb3d</div>
-                                        <div class="message">Adds layout component for article detail pages
-
-Implements a new layout component that provides context for article detail pages.
-
-It integrates the ArticleProvider to manage article-related state and displays the article title and description dynamically based on the URL path.
-
-This enhances the user experience by ensuring relevant information is presented for each article.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0a4c56</div>
-                                        <div class="message">Adds article listing and category filtering component
-
-Implements a new page for displaying articles with category filtering and pagination functionality.
-
-Includes reusable components for categories and posts, enhancing user navigation and content discovery.
-
-This update improves the user experience by organizing articles and allowing easier access to specific content based on categories.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5660be</div>
-                                        <div class="message">Refactor Home component to improve structure and add image gallery</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e90844</div>
-                                        <div class="message">Remove unused styles from main element in globals.css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f88bfa</div>
-                                        <div class="message">Add new image assets including avatars and various photos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c28dd38</div>
-                                        <div class="message">Add dependencies for Heroicons and Day.js; update TypeScript paths for styles and images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e364328</div>
-                                        <div class="message">Add new SVG logos for various brands including Airbnb, Animaginary, Cosmos, Facebook, Helio Stream, Open Shuttle, Planetaria, and Starbucks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f01fce</div>
-                                        <div class="message">Refactor Home component structure and remove unused button variant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e679fb</div>
-                                        <div class="message">Update color variables and replace NavBar with MenuBarNav in layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe449f6</div>
-                                        <div class="message">Add MenuBarNav component and menuData for navigation structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6322e8f</div>
-                                        <div class="message">Add className to NavigationMenu for styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1a0cc7</div>
-                                        <div class="message">Adds Menubar component and updates package.json with @radix-ui/react-menubar dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5877b50</div>
-                                        <div class="message">Adds new font files: Sansita-Black, Spectral-ExtraBold, and Yrsa-VariableFont</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecb16d6</div>
-                                        <div class="message">Adds tw-animate-css dependency and updates styles for new animations</div>
                                     </div>
                                 </div>
                             </section>
