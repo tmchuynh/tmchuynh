@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.topics{display:flex;flex-wrap:wrap}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.topics{display:flex;flex-wrap:wrap}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,272 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">tmchuynh/coding-courses</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#741c6a2</div>
+                                        <div class="message">Update global styles for improved UI consistency
+
+Refines color variables and font styles to enhance the visual coherence of the application.
+
+Adjusts background, foreground, and card colors for better contrast and readability.
+
+Changes font applications in various components to unify typography across headings and body text, ensuring a more polished look.
+
+Improves overall design consistency in the UI elements, making it more user-friendly and aesthetically pleasing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a37d9e</div>
+                                        <div class="message">Removes unused fonts and adds DynamicBreadcrumb component
+
+Cleans up the layout by removing unused font imports and metadata.
+
+Introduces the DynamicBreadcrumb component to enhance navigation within the application, wrapped inside the Providers component for better context management.
+
+Improves the overall structure and readability of the layout.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b21487d</div>
+                                        <div class="message">Refactors home page with new layout and features
+
+Implements a revamped design for the home page, introducing a more structured layout with a focus on primary and secondary features.
+
+Enhances user engagement through testimonials and a newsletter section, while improving overall aesthetics and responsiveness.
+
+Removes outdated elements and streamlines code for better maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#664c684</div>
+                                        <div class="message">Adds dynamic breadcrumb navigation component
+
+Implements a new component for dynamic breadcrumb navigation that adapts based on screen size.
+
+Calculates and displays breadcrumb items based on the current pathname, enhancing user navigation experience across different devices.
+
+Includes handling for 404 pages and random string generation for unique keys in breadcrumb items.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#904c714</div>
+                                        <div class="message">Adds a debounce hook for function throttling
+
+Implements a debounced function that delays invoking the provided function until after a specified wait time has elapsed since the last invocation.
+
+This enhances performance by reducing the frequency of function calls, particularly useful for scenarios like input handling or window resizing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f0c31a</div>
+                                        <div class="message">Adds custom hooks for medium and small screen detection
+
+Introduces two custom hooks: `useMediumScreen` and `useSmallScreen`,
+which determine if the screen width is classified as medium (&lt;= 768px)
+or small (&lt;= 640px) respectively.
+
+These hooks enhance responsiveness by managing window resize events
+and debouncing the resize handler for performance optimization.
+They provide a straightforward way to conditionally render components
+based on screen size.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#673e50f</div>
+                                        <div class="message">Adds footer and main navigation constants
+
+Introduces constants for footer and main navigation menus, enhancing the structure for easier management of navigation links.
+
+This change facilitates future updates and ensures consistency across the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6a85e0</div>
+                                        <div class="message">Adds utility functions for string and date formatting
+
+Introduces several utility functions to enhance string and date formatting capabilities, including methods for capitalizing strings, formatting dates and times, and converting camel case to title case.
+
+These additions improve code readability and usability across the application, addressing the need for consistent formatting utilities.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#781eeda</div>
+                                        <div class="message">Adds utility functions for sorting and grouping arrays
+
+Implements several utility functions for array manipulation, including generating random strings, filtering featured items, and sorting/grouping by specified properties.
+
+Enhances data handling capabilities by allowing sorting based on property values and lengths, as well as grouping items dynamically.
+
+These changes improve code organization and facilitate data processing in future features.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8112277</div>
+                                        <div class="message">Adds breadcrumb component and updates dependencies
+
+Introduces a new breadcrumb component to enhance navigation within the application.
+
+Updates package dependencies, including @headlessui/react and @heroicons/react, to improve UI components and maintain compatibility with React.
+
+Ensures the project uses the latest versions for better performance and security.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65ef485</div>
+                                        <div class="message">Adds a new Footer component for website navigation and subscription
+
+Introduces a Footer component that enhances website usability by providing navigation links for solutions, support, company information, and legal resources.
+
+Also includes a subscription form for users to receive newsletters, improving user engagement and communication.
+
+This addition aims to create a more complete and user-friendly website experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c58c48d</div>
+                                        <div class="message">Adds responsive header component with mobile menu
+
+Implements a new header component featuring navigation links and a mobile menu for improved user experience.
+
+The mobile menu is accessible via a button, enhancing usability on smaller screens. The header design follows best practices for responsive layouts, ensuring seamless navigation across devices.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">tmchuynh/coding-courses</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35ecc73</div>
+                                        <div class="message">Adds new Times type and updates CourseSchedule structure
+
+Introduces a new `Times` type to better represent scheduling details, including duration, start and end times, and days.
+
+Updates `CourseSchedule` to utilize the new `Schedules` type, enhancing clarity and flexibility in schedule management.
+
+These changes aim to improve type safety and maintainability in the scheduling module.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4b35c4</div>
+                                        <div class="message">Replace Schedule with Times in course interfaces
+
+Updates the course interface to use the new Times type instead of Schedule.
+
+This change enhances type safety and aligns with recent updates to the type definitions, ensuring a more consistent handling of course scheduling data.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b74e765</div>
+                                        <div class="message">Adds year-round course schedule for K–12 education
+
+Introduces a comprehensive year-round schedule for courses aimed at students from grades K–12.
+
+This addition enhances the educational offerings by providing detailed descriptions, focus areas, outcomes, and logistical information for each course, promoting structured learning and engagement for diverse age groups.
+
+Improves curriculum accessibility and planning for educators and students alike.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f91194</div>
+                                        <div class="message">Adds summer courses curriculum for youth education programs
+
+Introduces a comprehensive set of summer courses aimed at various age groups, including Elementary, Middle School, High School, and specialized weekend workshops.
+
+Each course outlines key projects and learning outcomes to enhance programming, robotics, web development, and cybersecurity skills.
+
+This addition supports the organization's goal of providing engaging and educational activities for students during the summer months.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff019d5</div>
+                                        <div class="message">Adds student stories to showcase coding program impacts
+
+Introduces a new module containing narratives of students
+highlighting their journeys through various coding programs.
+These stories emphasize personal growth, skills gained,
+and the positive outcomes resulting from participation.
+This addition aims to inspire and illustrate the
+real-world applications of coding education.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d44883</div>
+                                        <div class="message">Adds learning roadmap structure for coding courses
+
+Introduces a comprehensive learning roadmap for various grade groups, detailing courses and their outcomes.
+
+This enhances curriculum development by providing a structured approach to computational thinking and coding education, facilitating better planning for educators and students.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57ff113</div>
+                                        <div class="message">Adds comprehensive curriculum courses for K–12 education
+
+Introduces a structured set of curriculum courses for grades K–12, focusing on coding and technology education.
+
+Each course emphasizes essential skills, outcomes, and progression paths, enhancing educational offerings and supporting student development in programming, logic, and creative problem-solving.
+
+This addition aims to enrich the learning experience and prepare students for future tech-related challenges.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#101b755</div>
+                                        <div class="message">Adds staff constants for educational team profiles
+
+Introduces a new constants file containing detailed profiles of the leadership, instructors, curriculum specialists, and support staff.
+
+This addition enhances the structure and accessibility of team information, promoting better understanding of roles and expertise within the organization.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0b6750</div>
+                                        <div class="message">Adds pricing plans configuration for educational offerings
+
+Introduces a new file containing detailed pricing plans for various courses, including single course enrollments, monthly memberships, full-year learning paths, optional add-ons, and special offers.
+
+This structured approach enhances clarity for users regarding available options and pricing, facilitating better decision-making for potential customers.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fea20ee</div>
+                                        <div class="message">Adds FAQ sections for pricing, courses, general, and parents
+
+Introduces a new FAQ module to enhance user support by addressing common questions regarding pricing, course offerings, general inquiries, and parental concerns.
+
+This addition aims to improve user experience and provide clarity on important topics, making information more accessible for potential students and their families.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd7229b</div>
+                                        <div class="message">Adds new interfaces for course management and page structure
+
+Introduces interfaces for managing course tracks, roadmaps, and curriculum structures, enhancing the organization of course data.
+
+Also adds a page interface to support structured content presentation, improving overall documentation and user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3e6571</div>
+                                        <div class="message">Adds classroom rules, code of conduct, and curriculum details
+
+Introduces new constants for classroom rules and a code of conduct to foster a positive learning environment.
+
+Enhances curriculum documentation with progressive learning tracks, inclusion strategies, and real-world skills to prepare students effectively.
+
+These changes support the educational framework and ensure a safe, respectful atmosphere for all participants.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47fdf82</div>
+                                        <div class="message">Adds new type definitions for testimonials and courses
+
+Introduces several new type definitions to enhance data structure representation, including `Testimonial`, `Subsection`, `Stories`, `FAQs`, `FAQSection`, `Course`, `Schedule`, and `CourseSchedule`.
+
+These additions improve the clarity and organization of course-related data, facilitating better management and usage throughout the application.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -144,134 +410,6 @@ This enhances the utility of the format module for generating consistent and cle
                                     <div class="commit">
                                         <div class="sha">#90fe044</div>
                                         <div class="message">Refactors article layout and data handling; removes unused imports and simplifies component structure</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f48c5e7</div>
-                                        <div class="message">update import path</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 35 commits in
-                                        <span class="repo">tmchuynh/mental-health-non-profit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ea9499f</div>
-                                        <div class="message">Adds event filtering and display functionality
-
-Implements filtering options for event types, allowing users to filter events displayed based on their type.
-
-Adds a button interface for selecting different event types and updates the event rendering logic to reflect the selected filter.
-
-Enhances user experience by making it easier to browse through hosted events.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#637a54c</div>
-                                        <div class="message">Removes outdated article on grief and loss and adds new articles on bipolar disorder, anxiety disorders, and trauma responses for enhanced mental health resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae01639</div>
-                                        <div class="message">Refactors BlogarticleData component to simplify title rendering and improve readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02c29ea</div>
-                                        <div class="message">Removes unnecessary wrapper elements from Layout component for cleaner structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66a3183</div>
-                                        <div class="message">Refactors Blog component layout for improved readability and updates heading to emphasize mental health focus</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56c285c</div>
-                                        <div class="message">Renames toolModule to articleModule for clarity in getArticleData function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27cfed9</div>
-                                        <div class="message">Adds detailed resources for various mental health disorders including Social Anxiety Disorder, Specific Phobias, Autism Spectrum Disorder, Dissociative Identity Disorder, and Premenstrual Dysphoric Disorder.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d23acfe</div>
-                                        <div class="message">Refactors Blog component to use useSearchParams hook
-
-Improves the Blog component by replacing the manual search parameter handling with the useSearchParams hook for better readability and efficiency.
-
-Ensures proper parsing of the page number and category from the URL, maintaining the notFound functionality for invalid page numbers.
-
-This change streamlines state management and enhances code clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd5cf1b</div>
-                                        <div class="message">Adds articles on mental health topics including eating disorders, grief, LGBTQ+ youth, substance abuse, schizophrenia, panic disorder, anxiety, PTSD, OCD, BPD, and ADHD for comprehensive resource coverage.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2bb8a9</div>
-                                        <div class="message">Adds HelplineEntry interface for structured helpline information representation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d7d6c3</div>
-                                        <div class="message">Renames ArticleCategory interface to Category for consistency and updates references in ArticleIntro</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#995a2cd</div>
-                                        <div class="message">Refactors Blog component to unwrap searchParams for improved readability and consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6728ac6</div>
-                                        <div class="message">Fix import order for Footer component in layout.tsx</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c4c8a1</div>
-                                        <div class="message">Adds HelplineList component to display crisis helpline information</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#335b226</div>
-                                        <div class="message">Adds Resource interfaces for structured resource management and content representation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10c2368</div>
-                                        <div class="message">Refactors Categories component to use MenubarMenu for improved category selection and UI consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a40cd4</div>
-                                        <div class="message">Adds crisis helpline directory for enhanced support resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d8724b</div>
-                                        <div class="message">Adds HelplineList component to the Helplines page for improved support visibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf948dd</div>
-                                        <div class="message">Adds comprehensive learning resources for various mental health disorders</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82d88e5</div>
-                                        <div class="message">Refactors article categories to enhance clarity and detail, updates data structure and adds comprehensive overviews for mental health categories</div>
                                     </div>
                                 </div>
                             </section>
