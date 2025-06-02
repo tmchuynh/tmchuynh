@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1319" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1311" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label,.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,124 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 114 commits in
+                                        <span class="repo">tmchuynh/velari-voyages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#72883d1</div>
+                                        <div class="message">Adds CityAttractions and BaseAttraction interfaces for attraction data structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43afe27</div>
+                                        <div class="message">Removes YachtRoute interface and associated meeting point type from routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be59259</div>
+                                        <div class="message">Refactors TeamMember interface and renames TourGuide to ContactPersonnel, updating optional properties</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0caf7b</div>
+                                        <div class="message">Adds contact department information for customer support and inquiries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d34cd4</div>
+                                        <div class="message">Adds new font files for improved typography</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef5be3c</div>
+                                        <div class="message">Refactors global styles and updates color variables for improved theming</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2199e4b</div>
+                                        <div class="message">Adds TeamMember and TourGuide interfaces for staff management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1f9f9e</div>
+                                        <div class="message">Adds YachtRoute interface for managing yacht route details</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#babcd78</div>
+                                        <div class="message">Adds Testimonial interface for managing user testimonials</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4af2742</div>
+                                        <div class="message">Adds Tour interfaces and types for tour management
+
+Introduces interfaces for TourCategory and BaseTour to streamline the management of tour-related data.
+
+Enhances type safety and organization for tour attributes, including locations, images, and pricing details.
+
+This foundational structure supports future development of tour services.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9609ae</div>
+                                        <div class="message">Adds utility functions for string formatting and accents removal
+
+Implements several utility functions to enhance string manipulation capabilities, including converting camelCase and kebab-case to title case, formatting numbers as currency, creating URL-friendly slugs, and removing diacritical marks from strings.
+
+These additions improve the handling of various string formats for better usability in applications.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa762bf</div>
+                                        <div class="message">Adds utility functions for filtering and sorting arrays
+
+Implements new functions to filter arrays of objects by specified properties and sort arrays based on dates, prices, and durations.
+
+Enhances the utility library by providing additional capabilities for handling common array operations, improving code reusability and efficiency.
+
+These changes facilitate easier manipulation and organization of data structures throughout the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#403c5e5</div>
+                                        <div class="message">Adds function to generate random dates from next Monday
+
+Implements a new utility function that generates an array of random dates starting from the next week's Monday.
+
+This function allows users to specify the number of dates and an optional range in days, enhancing date manipulation capabilities for applications.
+
+The generated dates are formatted as 'YYYY-MM-DD' strings, promoting consistent date handling across the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d84276</div>
+                                        <div class="message">Adds displayRatingStars component for rendering star ratings based on a given score</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#644d925</div>
+                                        <div class="message">Refactors StaffTeams type to use TeamMember; removes unused Testimonial type; adds MeetingPoint, Flags, Package, Details, Location, and ContactInfo types for enhanced data structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7382053</div>
+                                        <div class="message">Refactors navigation imports and updates Footer and Header components for improved structure and styling; replaces NavBar with DockNavigation; enhances DynamicBreadcrumb with new icon and segment formatting.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9041829</div>
+                                        <div class="message">Adds HeroSlantedPhotos component for displaying images with rotation effects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32d2d4f</div>
+                                        <div class="message">Adds Loading component for improved user experience during data fetching</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f52542</div>
+                                        <div class="message">Updates icon library to use react-icons and adds lh3.googleusercontent.com to remote image hosts for improved image handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db101b5</div>
+                                        <div class="message">Adds Accordion and Calendar components, and Menubar implementation with various subcomponents for enhanced UI functionality and user experience</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -380,136 +498,6 @@ Optimizes performance with memoization to efficiently calculate filter options a
                                     <div class="commit">
                                         <div class="sha">#c440f22</div>
                                         <div class="message">Refactor TourPage component: remove family-friendly indicator, update FAQ display structure, and modify Book Now button functionality.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 127 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b7d874</div>
-                                        <div class="message">Add country field to TourGuide interface for enhanced location details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79c0d47</div>
-                                        <div class="message">Fix city names in cityattractions for accurate representation: "Altas Mountains" to "Atlas Mountains", "Da Nang" to "Đà Nẵng", "Ho Chi Minh City" to "Hồ Chí Minh", and "Hoi Anh" to "Hội An".</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d49433c</div>
-                                        <div class="message">Refactor TourPackages component to enhance UI with a custom button for navigating to tour guides, and improve the structure of the category display for better readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8847bb7</div>
-                                        <div class="message">Refactor RentAYachtPage to replace select elements with custom Select components for improved styling and consistency, and update input elements for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45e9c0c</div>
-                                        <div class="message">Refactor LuxuriousDestinations and Homestay components to enhance UI with custom input and select components, improve navigation with quick links, and update content structure for better readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6e8a86</div>
-                                        <div class="message">Refactor TourGuides component to group and sort tour guides by country, add quick navigation, and enhance UI with buttons for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7b7a2d</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c464a1</div>
-                                        <div class="message">Add attractions data for Kampala, Ouarzazate, and Palawan including descriptions, images, and accessibility features</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c25101d</div>
-                                        <div class="message">Refactor label elements to use the Label component for improved consistency and styling across various pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2a613f</div>
-                                        <div class="message">Add attractions data for Hokkaido, Melbourne, and Zanzibar
-
-- Created Hokkaido attractions list including Furano Flower Fields, Shirogane Blue Pond, and Sapporo Snow Festival.
-- Added Melbourne attractions featuring Federation Square, Royal Botanic Gardens, and National Gallery of Victoria.
-- Introduced Zanzibar attractions such as Stone Town, Prison Island, and Nungwi Beach.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59e74d1</div>
-                                        <div class="message">Remove tour data for multiple cities including Milan, Philadelphia, Portland, Quebec City, Queenstown, Salzburg, San Sebastian, Santander, Santiago, Santorini, Seville, St. Petersburg, Taipei, Toronto, Wellington, and Zurich.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d16ed27</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2fa740</div>
-                                        <div class="message">Adds attraction data for Maui, Patagonia, and Zagreb, enhancing destination offerings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bada5f4</div>
-                                        <div class="message">Removes outdated attraction data for Marrakech, Fes, and Philadelphia</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4a2450</div>
-                                        <div class="message">Refactors filtering components to use Select for experience and language filters</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef81fca</div>
-                                        <div class="message">Enhances filter reset functionality and label formatting
-
-Implements a consistent button component for resetting filters, improving UI consistency.
-
-Updates amenity and feature labels to use a capitalize utility for better readability.
-
-These changes enhance the user experience by providing a cleaner interface.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f882c3e</div>
-                                        <div class="message">Adds filtering options for aviation personnel
-
-Implements functionality to filter aviation personnel by minimum experience and spoken language, enhancing user experience.
-
-Introduces state management for filters and modifies the rendering logic to display only profiles that meet the selected criteria.
-
-Adds a reset button to clear filters for convenience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d3aa47</div>
-                                        <div class="message">Refactors vehicle feature labels and resets buttons
-
-Improves the readability of vehicle feature labels by applying a capitalization utility.
-
-Replaces standard HTML buttons with a consistent UI component for reset actions, enhancing the visual coherence across the interface.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dbc860</div>
-                                        <div class="message">Adds filtering options for available drivers
-
-Implements filter functionality based on experience and language for the driver profiles displayed.
-
-Introduces state management for filters and enhances the user interface with dropdown selections.
-
-Updates the driver display logic to reflect the applied filters, ensuring only matching profiles appear.
-
-Improves usability by allowing users to reset filters easily.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d266f2</div>
-                                        <div class="message">Adds filtering functionality for crew members by experience and language
-
-Implements a filtering system that allows users to narrow down the list of crew members based on minimum experience and spoken languages.
-
-Introduces state management for filters and enhances the user interface with dropdown selections for ease of use.
-
-The code also ensures that the displayed crew members are sorted and dynamically updates based on user input, improving the overall user experience.</div>
                                     </div>
                                 </div>
                             </section>
