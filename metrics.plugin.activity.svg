@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1319" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label,.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label,.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,174 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dccb205</div>
+                                        <div class="message">Refactors popular tours component for improved clarity
+
+Removes unused imports and logs to streamline code readability.
+
+Enhances filter handling by memoizing functions, reducing unnecessary re-renders.
+
+Improves error logging specificity for better debugging and modifies city info retrieval logic for robustness.
+
+Optimizes category sorting and ensures consistent handling of tour data.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 125 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ac94b90</div>
+                                        <div class="message">Enhance meeting point details for Portland and Pucallpa tours with addresses, coordinates, instructions, and contact numbers for improved user guidance.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#130dcfe</div>
+                                        <div class="message">Enhance tour details for Berlin, Bhaktapur, and Blagaj
+
+- Added new attributes to tours including popularity, adventure, cultural, culinary, spiritual, nightlife, wellness, luxury, and art/music indicators.
+- Updated meeting points with detailed addresses, coordinates, instructions, contact numbers, and emails for each tour.
+- Expanded FAQs for each tour to provide comprehensive information on accessibility, historical significance, culinary experiences, and local customs.
+- Improved descriptions of unique experiences and interactions with local culture, enhancing the overall tour offerings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bba5de</div>
+                                        <div class="message">Refactor Beijing tour descriptions, pricing, and details for enhanced clarity and appeal; update images, meeting points, and FAQs for improved user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efcf850</div>
+                                        <div class="message">Enhance Ayutthaya and Bali tour details with additional attributes, meeting points, and FAQs
+
+- Added new attributes (isPopular, isAdventure, isCultural, etc.) to Ayutthaya tours for better categorization.
+- Updated meeting points in Ayutthaya tours to include detailed instructions, contact information, and coordinates.
+- Introduced comprehensive FAQs for each Ayutthaya tour to address common inquiries.
+- Enhanced Bali tours with new meeting points, FAQs, and additional tour options including Uluwatu Temple &amp; Kecak Fire Dance and Ubud Monkey Forest &amp; Rice Terrace Trekking.
+- Improved cancellation policies and inclusions/exclusions for clarity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c0a6bf</div>
+                                        <div class="message">Enhance Atlanta and Atlas Mountains tours with detailed attributes and FAQs
+
+- Added new attributes (isPopular, isAdventure, isCultural, etc.) to various tours in Atlanta and Atlas Mountains.
+- Included comprehensive meeting point details for each tour.
+- Expanded FAQs for multiple tours to provide better information on physical demands, accommodations, food, and cultural etiquette.
+- Updated cancellation policies and available dates for several tours.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bf67db</div>
+                                        <div class="message">Add meeting points and FAQs for Amsterdam and Anchorage tours; update images and tour details</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#900758e</div>
+                                        <div class="message">Adds new attractions to Da Nang tour data, enhancing cultural and historical offerings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8797aee</div>
+                                        <div class="message">Refactors attraction and tour interfaces for clarity
+
+Improves the structure of attraction and tour interfaces by introducing base interfaces and consolidating common properties.
+
+This change enhances maintainability and readability, separating core attributes from specific flags and details.
+
+Additionally, it standardizes the handling of shared properties, facilitating future expansions and modifications.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2b4fec</div>
+                                        <div class="message">Update Da Nang tour details with new images, descriptions, and meeting points</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e42f50</div>
+                                        <div class="message">Updates meeting point instructions to be required
+
+Changes the meeting point's instructions property from optional to required.
+
+This ensures that additional instructions are always provided for clarity in meeting arrangements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#477f191</div>
+                                        <div class="message">Improves accent removal functionality in strings
+
+Enhances the `removeAccents` function by adding specific replacements for characters "đ" and "Đ" before removing diacritical marks.
+
+This ensures that accented characters are handled more accurately, improving string normalization.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc89132</div>
+                                        <div class="message">Enhance city name processing by removing accents for tour data and attractions fetching</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99fe422</div>
+                                        <div class="message">Updates import paths for tour categories
+
+Refactors the import statements for tour categories to use the correct path, enhancing code organization and clarity.
+
+No functional changes are introduced; this update improves maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08302f4</div>
+                                        <div class="message">Update import path for tourCategoryMap constants
+
+Refactors the import statement for `tourCategoryMap` to point to the correct location in the `info` directory.
+
+This change ensures that the application accesses the updated and accurate tour category constants, improving maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89e2eec</div>
+                                        <div class="message">Add tour categories and mapping for quick lookup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4a9a03</div>
+                                        <div class="message">Adds booking functionality and tour guide details
+
+Implements a comprehensive booking interface for tours, including date selection and participant count.
+
+Enhances the tour page by introducing features to fetch and display tour guides based on specialty, while presenting similar tours for user convenience.
+
+Improves overall user experience with loading states and structured tour information display.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b922cb</div>
+                                        <div class="message">Remove meeting points from various tours in Anchorage, Athens, Atlanta, Atlas Mountains, Austin, and Bali; add popularity and other attributes to tours in Athens, Austin, Bali, and more.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd1c77d</div>
+                                        <div class="message">Add detailed inclusions, exclusions, itineraries, highlights, and meeting points for Barcelona tours</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56075c7</div>
+                                        <div class="message">Enhance meeting point details display with address, coordinates, instructions, and contact information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03a7ccc</div>
+                                        <div class="message">Update Tour interface to use MeetingPoint type for meetingPoint property</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -342,247 +510,6 @@ Implements a filtering system that allows users to narrow down the list of crew 
 Introduces state management for filters and enhances the user interface with dropdown selections for ease of use.
 
 The code also ensures that the displayed crew members are sorted and dynamically updates based on user input, improving the overall user experience.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 48 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3adc17a</div>
-                                        <div class="message">Refactor Chiang Mai tour details for improved clarity and accuracy in descriptions, titles, and pricing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c4d85c</div>
-                                        <div class="message">Update color variables for primary, secondary, and tertiary themes to improve visual consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb292a1</div>
-                                        <div class="message">Update styling for price display across various services to enhance visual consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf2ebda</div>
-                                        <div class="message">Refactor table and card styles for accommodations, cancellation, travel safety, private aviation, and yacht charters pages to enhance visual consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3214213</div>
-                                        <div class="message">Refactor styling for consistency across company history, core team, sustainability, transportation, and homestay pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38c7b1b</div>
-                                        <div class="message">Enhance tour and destination details presentation with improved styling and rating display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a9bfa3</div>
-                                        <div class="message">Adds structured organization and detailed presentation for tour guides
-
-Enhances the tour guides' page by grouping guides by region for better navigation and organization.
-
-Introduces a more comprehensive description of guides, including their expertise and specialties.
-
-Implements a selection process section to highlight the criteria for guide selection, emphasizing local expertise, training, and storytelling abilities.
-
-Improves user engagement with a call-to-action for joining the guide network.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#678f4f1</div>
-                                        <div class="message">Add new tour constants for various destinations including Nha Trang, Paris, Philadelphia, Queenstown, Rome, Sacred Valley, San Diego, San Francisco, Savannah, Seattle, Shanghai, Singapore, St. Petersburg, Thessaloniki, Tokyo, Tuscany, Vienna, and Washington. Each tour includes details such as title, description, images, duration, price, rating, tags, family-friendliness, historical significance, romantic appeal, local experience, tour guide, category, and FAQs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8598a58</div>
-                                        <div class="message">Updates tour interface to use tourCategoryId
-
-Refactors the Tour interface to replace the tourGuideId property with tourCategoryId for better clarity and accuracy in representing the relationship with TourCategory.
-
-This change enhances the data model by correctly associating the category of the tour rather than the guide, improving overall code consistency and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3e250d</div>
-                                        <div class="message">Refactors getTourData to streamline city-based tour fetching
-
-Updates the getTourData function to accept a city parameter instead of tour category and tour name.
-
-Implements formatting for the city input to create a tourID, enhancing the logic for dynamically importing tour modules based on city names.
-
-This change simplifies function usage and improves code maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#482360c</div>
-                                        <div class="message">Add tour categories with detailed descriptions and tags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3331817</div>
-                                        <div class="message">Add Calendar component with customizable styles and navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13da568</div>
-                                        <div class="message">Adds tour categories display in TourPackages component
-
-Implements a mapping of tour categories to render their titles, descriptions, and associated tags in the TourPackages component.
-
-This enhancement improves the user interface by providing more detailed information about available tour categories, making it easier for users to understand their options.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dc99a7</div>
-                                        <div class="message">Add date-fns and react-day-picker dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1906a0</div>
-                                        <div class="message">Remove PackagePage component and associated layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11e8979</div>
-                                        <div class="message">Adds tour listings with loading and error handling
-
-Implements a new tour page that fetches and displays tours based on selected city and country.
-
-Introduces loading indicators and error handling during data fetch.
-Enhances user experience by showing a message when no tours are available.
-
-Ensures responsive design with a structured layout for tour details.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#264a309</div>
-                                        <div class="message">Enhances tour page with dynamic data fetching and UI updates
-
-Implements dynamic data fetching for tour details based on selected city and tour parameters.
-
-Improves user experience with a loading state, better error handling, and structured layout for displaying tour information, images, and booking options.
-
-Adds components for displaying ratings and frequently asked questions while enhancing visual elements for clarity and engagement.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#801ddab</div>
-                                        <div class="message">Add Tour and TourCategory interfaces to define tour attributes and structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a7d688</div>
-                                        <div class="message">Add attractions data for Malta, Helsinki, Glasgow, Casablanca, Budapest, and Amsterdam with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b0bf89</div>
-                                        <div class="message">Add attractions data for Athens with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 38 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c106e67</div>
-                                        <div class="message">Add attractions data for Madrid, Malta, and Marrakech with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8776ac4</div>
-                                        <div class="message">Add attraction data for various destinations: Atlas Mountains, Bali, Bandipur, and Barcelona</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87956f0</div>
-                                        <div class="message">Add attractions data for Coorg, Copenhagen, Da Nang, and Denpasar with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e18099</div>
-                                        <div class="message">Add attractions data for Cannes, Cape Town, and Chefchaouen with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#937eb4a</div>
-                                        <div class="message">Add attractions data for Bora Bora, Budapest, and Takayama with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c517306</div>
-                                        <div class="message">Add attractions data for Atlanta, Austin, and Ayutthaya with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87a84e7</div>
-                                        <div class="message">Add Anchorage attractions data with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26a995e</div>
-                                        <div class="message">Add Amsterdam attractions data with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c147b53</div>
-                                        <div class="message">Add Amalfi Coast attractions data with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74c5578</div>
-                                        <div class="message">Add Munich attractions data with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ad19b7</div>
-                                        <div class="message">Add Mto wa Mbu Village attractions data with detailed attributes and improved naming conventions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cda804f</div>
-                                        <div class="message">Refactor Xi'an attractions data for improved naming conventions and enhanced attributes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43f7073</div>
-                                        <div class="message">Refactor Shanghai and Thessaloniki attractions data for improved naming conventions and enhanced attributes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4a1d2d</div>
-                                        <div class="message">Refactor Piraeus attractions data for improved naming conventions and enhanced attributes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb5e5e1</div>
-                                        <div class="message">Refactor Chengdu attractions data for improved naming conventions and enhanced attributes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81dcad9</div>
-                                        <div class="message">Refactor Athens and Beijing attraction constants for improved naming conventions and added detailed attributes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca0673c</div>
-                                        <div class="message">Remove Đà Nẵng attractions data for codebase cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2ee4d6</div>
-                                        <div class="message">Improves city, region, and country formatting in get function
-
-Enhances the formatting of city, region, and country names in the getCityAttractions function to ensure proper camelCase and accent removal.
-
-This change improves the consistency and reliability of the formatted strings used for fetching attractions, ultimately leading to better data handling and user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#222d358</div>
-                                        <div class="message">Refactors attraction interface for improved clarity
-
-Updates the attraction interface to replace `priceRange` and `priceCategory` with `entryFee` and `entryFeeCategory`, enhancing semantic clarity.
-
-Ensures `priceRange` is explicitly defined with specific values and makes `isFree` a required field to better represent the attraction's attributes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff017e5</div>
-                                        <div class="message">Improves price filtering logic for attractions
-
-Enhances the attraction price filtering by incorporating entry fee and entry fee category into the decision-making process.
-
-Updates the UI to display entry fees alongside titles, providing clearer information to users.
-
-This change ensures a more accurate representation of attractions based on the user-selected filters, improving the overall experience.</div>
                                     </div>
                                 </div>
                             </section>
