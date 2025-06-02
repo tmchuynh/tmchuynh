@@ -22,6 +22,187 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 146 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2481ffa</div>
+                                        <div class="message">Fix import path for tour categories and correct variable name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb6c55</div>
+                                        <div class="message">Add tour categories and remove Sacred Valley Cusco tours
+
+- Introduced a new file for tour categories with detailed descriptions and tags for various types of tours including cultural, culinary, wellness, and more.
+- Deleted the existing Sacred Valley Cusco tours file as part of a restructuring of tour offerings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5c2370</div>
+                                        <div class="message">Update import path for city attractions
+
+Changes the import path for city attractions to reflect the new directory structure.
+
+This adjustment helps maintain a clean and organized codebase by ensuring all related files are correctly accessed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dee39b6</div>
+                                        <div class="message">Updates imports for city attractions and sorting utilities
+
+Refactors the import structure by replacing the city attractions and utilities from their previous paths.
+
+This change improves code organization by ensuring that the correct modules are sourced from their updated locations, enhancing maintainability and clarity in the PopularDestinations component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b12de11</div>
+                                        <div class="message">Updates import path for city attractions and adds margin
+
+Refactors the import statement for city attractions to point to the correct directory, enhancing code organization.
+
+Additionally, adds a top margin to the attractions grid for better spacing in the layout.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#499fce2</div>
+                                        <div class="message">Updates import path for city attractions data
+
+Refactors the import statement for city attractions data to point to the correct module.
+
+This change enhances code organization and ensures accurate data retrieval for the tourist information feature.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d269b56</div>
+                                        <div class="message">Adds filtering capabilities for tour guides
+
+Implements a comprehensive filtering system for tour guides based on country, city, language, name, and specialty.
+
+Introduces new input components for user interaction, enhancing the overall user experience and allowing users to easily find guides that match their preferences.
+
+Also includes a reset functionality to clear all applied filters for convenience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64b687a</div>
+                                        <div class="message">Adds button for viewing tours and refactors click handler
+
+Implements a button to navigate to the tours page for each destination.
+
+Refactors the click handler for city names to ensure better user interaction and improve code organization.
+
+Updates import path for city attractions to enhance clarity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6ce03b</div>
+                                        <div class="message">Fix image source reference for tour guide profiles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fef0d1</div>
+                                        <div class="message">Enhances tour filtering interface with slider
+
+Replaces the price filter input fields with a slider for improved user experience.
+
+Introduces a formatted price display and a reset filters button to streamline the filtering process.
+
+Fixes issues with price range input validation and enhances overall filtering functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcdc4ce</div>
+                                        <div class="message">Enhances attraction filters with additional options
+
+Implements new filtering options for attractions, including "Family Friendly," "Culinary," "Spiritual," "Wellness," "Art/Music," and "Cultural."
+
+Removes outdated filters such as "Shopping" and "Dining" to streamline the user experience.
+
+Updates the user interface to reflect these changes, ensuring better usability in selecting destination preferences.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#098a7f3</div>
+                                        <div class="message">Adds filter toggle and card layout for driver filters
+
+Introduces a toggle button to show or hide the filter section for available drivers, enhancing user experience by allowing dynamic visibility of filter options.
+
+The filter options are now presented within a card layout for better organization and aesthetics. Additionally, the logic for displaying the minimum experience and language spoken filters remains intact, ensuring functionality while improving the UI.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37722c9</div>
+                                        <div class="message">Enhances vehicle rental filters with improved UI and interactivity
+
+Implements a refined filter section for the vehicle rental feature, allowing users to toggle visibility and utilize a more interactive selection interface.
+
+Adds dropdowns for passenger and sound system filters, replacing traditional select elements with a cleaner design.
+
+Improves overall user experience by reducing clutter and enhancing usability, making it easier to find suitable vehicle options.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c71baaa</div>
+                                        <div class="message">Adds filter functionality with improved UI for aircraft selection
+
+Introduces a new filter section for aircraft selection, enhancing user experience by allowing dynamic visibility of filters.
+
+Implements passenger and price filters using a modern card layout and select components, improving accessibility and organization.
+
+Updates filter handling logic for a more intuitive interaction and clearer state management.
+
+Fixes #123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a70f5e8</div>
+                                        <div class="message">Adds filter toggle and card layout for personnel
+
+Implements a filter toggle button to show or hide personnel filters, enhancing user experience.
+
+Wraps filter controls in a card layout for improved design and organization.
+
+Maintains existing filter functionality for experience and language selection.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d86099a</div>
+                                        <div class="message">Adds filter section with toggle functionality
+
+Implements a collapsible filter section for personnel, enhancing user experience by allowing users to show or hide filter options. Introduces a button to toggle the visibility of the filter options, improving layout and accessibility.
+
+Integrates Card components for better styling and organization of filters.
+
+Ensures filters for minimum experience and language spoken remain functional.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b972b2e</div>
+                                        <div class="message">Enhances yacht filtering UI with collapsible filters
+
+Implements a collapsible filter section for yacht rentals, improving user experience by allowing users to toggle filter visibility.
+
+Updates the filter defaults to 'any' for cabins, privacy level, length, and passengers, enhancing usability.
+
+Adds a reset filters button for convenience and maintains state consistency across filter options.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#390ae80</div>
+                                        <div class="message">Refactor Attraction interface: add isCultural, isCulinary, isSpiritual, isWellness, and isArtOrMusic properties; remove isShopping and isDining properties.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1444ada</div>
+                                        <div class="message">Refactor Tour interface: add isCulinary and isSpiritual properties, remove isFoodAndDrink property.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b8741b</div>
+                                        <div class="message">Adds filtering functionality to tour listings
+
+Implements a comprehensive filter panel for tours, allowing users to filter by duration, price range, rating, tour guide, category, and tags.
+
+Enhances user experience by enabling dynamic filtering of displayed tours based on selected criteria.
+
+Optimizes performance with memoization to efficiently calculate filter options and apply filters to the tour list.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
@@ -402,116 +583,6 @@ Enhances the attraction price filtering by incorporating entry fee and entry fee
 Updates the UI to display entry fees alongside titles, providing clearer information to users.
 
 This change ensures a more accurate representation of attractions based on the user-selected filters, improving the overall experience.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 142 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6c9be75</div>
-                                        <div class="message">Refactor Yacht Charters page for improved structure and readability, including header adjustments, section updates, and enhanced button functionality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d81fad</div>
-                                        <div class="message">Refactor About Paragon Trails pages for improved structure and readability, including header adjustments and removal of unnecessary margin classes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4a413c</div>
-                                        <div class="message">Refactor About Paragon Trails page for improved structure and readability, including header adjustments and removal of unnecessary margin classes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a8aeeb</div>
-                                        <div class="message">Refactor Tour Packages page header for improved styling consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#056522b</div>
-                                        <div class="message">Refactor Private Aviation page for improved structure and readability, including updated sections, added testimonials, and enhanced button functionality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec8946</div>
-                                        <div class="message">Refactor Travel Safety Information page for improved structure and readability, including updated headings and removal of unnecessary elements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c53df1</div>
-                                        <div class="message">Refactor Travel Insurance page for enhanced structure, clarity, and comprehensive coverage details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cb3177</div>
-                                        <div class="message">Refines Tour Guides page for improved readability
-
-Simplifies the header and paragraph elements for better clarity.
-
-Removes unnecessary class names to streamline the HTML structure while maintaining visual integrity. This enhances the overall user experience by making the content more accessible.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50186f5</div>
-                                        <div class="message">Add Rent a Yacht page with introductory content and layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c90558</div>
-                                        <div class="message">Adds language formatting utility function
-
-Implements a new utility function to format an array of languages into a readable string.
-
-The function enhances user experience by providing a clear and natural way to display multiple languages, accommodating various array lengths.
-
-This improves the overall formatting capabilities of the library.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b74fba2</div>
-                                        <div class="message">Refactor Cancellation and Refund Policy page for improved structure and clarity, including updated headings and enhanced user interface elements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bc736d</div>
-                                        <div class="message">Add Homestay Page with comprehensive details on experiences, benefits, and booking process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3b5547</div>
-                                        <div class="message">Remove unnecessary styling from the Tour Details header for a cleaner presentation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5cb43d</div>
-                                        <div class="message">Remove unnecessary styling from the Destinations Page header for a cleaner presentation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4852997</div>
-                                        <div class="message">Remove unnecessary styling from the Luxurious Destinations header for a cleaner presentation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9fb1b1</div>
-                                        <div class="message">Revamp Accommodations page with comprehensive policy details, enhanced structure, and improved user interface elements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8727ffa</div>
-                                        <div class="message">Replace TransportationPage with a comprehensive Ground Transportation Services page, enhancing content and structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c7d165</div>
-                                        <div class="message">Refine typography styles and add spacing for headings, blockquotes, and sections</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8805c65</div>
-                                        <div class="message">Adds utility functions for dynamic tool resource retrieval
-
-Implements a function to dynamically import tool resources based on toolkit and tool names, enhancing modularity and resource management.
-
-Introduces a new export for driver languages, consolidating language data from the driver qualification matrix for easier access and manipulation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ce9f0d</div>
-                                        <div class="message">Add additional contact departments with phone, email, and hours of operation</div>
                                     </div>
                                 </div>
                             </section>
