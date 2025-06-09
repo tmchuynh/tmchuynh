@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1810" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1510" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.audit svg{margin:0}.track{justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,121 +22,137 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 13 commits in
                                         <span class="repo">tmchuynh/velari-voyages</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#597d957</div>
-                                        <div class="message">Update react-day-picker to version 8.10.1
+                                        <div class="sha">#fd81970</div>
+                                        <div class="message">Enhances vessel name generation with country phrases
 
-Downgrades react-day-picker from version 9.7.0 to 8.10.1 to ensure compatibility with existing dependencies.
+Updates the vessel name generation logic to incorporate random phrases based on the country associated with the city.
 
-Removes unused dependencies from package-lock.json, streamlining the package management and reducing potential conflicts.</div>
+This change enriches the variety of generated vessel names by replacing static city names with dynamic country phrases, improving the overall user experience and thematic relevance of the vessel naming process.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e689220</div>
-                                        <div class="message">Adds vessel fetching functionality and code cleanup
+                                        <div class="sha">#249e2cc</div>
+                                        <div class="message">Adds country-specific cultural phrases to utility
 
-Introduces a new function to fetch all vessels dynamically based on city data.
+Enhances the utility by incorporating a wide range of cultural phrases associated with various countries.
 
-Refactors existing code for improved readability by removing unnecessary line breaks and ensuring consistent formatting.
-
-Enhances error handling for vessel imports and improves logging messages for better debugging.
-
-This update streamlines the vessel management process within the application.</div>
+This addition enriches the existing functionality, allowing for a more diverse representation of global cultures, which may improve user experience in applications utilizing this utility.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ec7e3d5</div>
-                                        <div class="message">Adds new cuisine types to Restaurant type definition
+                                        <div class="sha">#500e0f1</div>
+                                        <div class="message">Adds country-specific name phrases for enhanced localization
 
-Introduces "Asian" and "Southern" as additional cuisine options in the Restaurant type.
+Introduces a new data structure that includes arrays of culturally significant names and phrases for various countries, improving localization support.
 
-This enhancement expands the variety of restaurant classifications, improving data representation and flexibility in the application.</div>
+This change enhances the application's ability to represent diverse cultural contexts and enrich user experiences across different regions.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c5ede5c</div>
-                                        <div class="message">Refactors Amsterdam cruise data structure for consistency
+                                        <div class="sha">#1c8640b</div>
+                                        <div class="message">Adds descriptive utilities for cruise and city experiences
 
-Enhances the data structure of Amsterdam cruise details by standardizing formatting and improving readability.
+Introduces a new module that generates engaging descriptions for cruise experiences and cities.
 
-These changes include consistent use of object property formatting, ensuring clear separation of information. This refactoring aims to facilitate easier maintenance and future updates.
+Includes a variety of adjectives and descriptors to enhance the appeal of travel-related content, aiming to improve user engagement and marketing efforts.
 
-No functional changes were made to the cruise details or logic.</div>
+Enhances the overall storytelling potential for travel experiences.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b97b263</div>
-                                        <div class="message">Refactors import statements and formatting in calendar and form components
+                                        <div class="sha">#c3c7ebe</div>
+                                        <div class="message">Adds comprehensive country language mappings
 
-Standardizes import statements by removing unnecessary semicolons and ensuring consistent formatting across calendar and form components.
+Introduces a new mapping of languages spoken in various countries, including second languages for tourism and business.
 
-This change improves code readability and maintains a uniform coding style throughout the project.</div>
+Enhances the `getRandomLanguages` function to support country-specific language retrieval alongside regional options, ensuring English inclusion where relevant.
+
+Improves the logic to handle duplicates and enforce unique language selections.
+
+This update facilitates better language management for international contexts and enhances user experience in multilingual scenarios.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ef0880c</div>
-                                        <div class="message">Fixes formatting inconsistencies in query strings
+                                        <div class="sha">#8b5ff1e</div>
+                                        <div class="message">Adds new names to feminine and last names lists
 
-Addresses minor formatting issues by ensuring consistent trailing commas in function arguments.
+Introduces several new names to the feminine and last names collections to enhance diversity and inclusivity.
 
-This change enhances code readability and maintains a uniform style throughout the file.</div>
+The added names include:
+- Feminine names: Joshua, Christopher, Matthew, Alexander, Nicholas
+- Last names: Charlotte, Olivia
+
+These changes aim to broaden the name options available in the application.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e58d1bb</div>
-                                        <div class="message">Refactors destination search and sorting logic
+                                        <div class="sha">#88bd43e</div>
+                                        <div class="message">Refactors testimonial generation by using utility functions
 
-Improves the destination filtering by simplifying the search criteria to directly access properties.
+Improves the generation of restaurant testimonials by refactoring to utilize utility functions for random name generation and adjective selection.
 
-Updates sorting logic to consistently use "country" and "city" for better clarity.
+Removes redundant arrays and streamlines the code, enhancing maintainability and readability.
 
-Enhances the UI interaction by streamlining the click handlers for routing, ensuring a more efficient navigation experience.</div>
+Additionally, updates the testimonial file generation to include metadata for better tracking and management.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#050670e</div>
-                                        <div class="message">Removes unused tag list from cruise categories
+                                        <div class="sha">#e0e0458</div>
+                                        <div class="message">Adds header comments to auto-generated menu files
 
-Eliminates the display of tags in the cruise categories section to streamline the user interface.
+Implements auto-generated header comments in menu files,
+including city information and generation timestamp.
 
-This change enhances readability by focusing on key information without unnecessary elements.</div>
+This improves maintainability by clearly indicating that
+the files are generated and should not be edited manually.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3c6edbb</div>
-                                        <div class="message">Fixes syntax issues in booking confirmation and trip pages
+                                        <div class="sha">#e6e91fe</div>
+                                        <div class="message">Adds auto-generation metadata to restaurant data files
 
-Corrects trailing commas in multiple function calls and object initializations to ensure consistent syntax throughout the booking confirmation and trip pages.
+Enhances the auto-generated restaurant data files by including metadata comments.
 
-Enhances code readability and maintains uniformity in style without altering any functionality.</div>
+The comments specify the city name and generation timestamp, providing context for users and preventing manual edits.
+
+This change improves documentation and maintainability of the generated files.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#80f301a</div>
-                                        <div class="message">Refactors vessel data handling with async fetching
+                                        <div class="sha">#0b83e40</div>
+                                        <div class="message">Enhances crew member generation script documentation
 
-Implements asynchronous fetching of vessel data from an API, improving data management and performance.
+Improves the documentation for the crew member generation script, detailing usage instructions, command-line arguments, and file structure.
 
-Replaces hardcoded vessel data with dynamic API data, groups vessels by type, and initializes pagination state accordingly.
+Refactors the `generateCrewMember` function to streamline name and language assignment, enhancing readability and maintainability.
 
-Enhances the user interface by displaying the correct number of vessels and improving overall application responsiveness.</div>
+Introduces additional comments and auto-generated file metadata for clarity.
+
+These changes aim to facilitate better understanding and usage of the script by developers.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4158dc1</div>
-                                        <div class="message">Fix formatting issues in kebabToCamelCase functions
+                                        <div class="sha">#c2833c2</div>
+                                        <div class="message">Enhances vessel data generation with new attributes and names
 
-Corrects trailing commas in `kebabToCamelCase` function calls and several other locations to ensure consistent code formatting.
+Updates the vessel data generation process by adding an `id` attribute to each vessel object and including a broader array of vessel names to enhance variety.
 
-Improves readability and maintains coding standards across various files related to city cruise and vessel data generation.
+Refines regex patterns for improved data extraction and ensures the generated files include essential metadata.
 
-No functional changes were made; this is purely a formatting update.</div>
+Introduces a top speed calculation and a default image URL for vessels, improving overall vessel information quality.
+
+Maintains backward compatibility while enhancing the functionality of the vessel creation process.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a394795</div>
-                                        <div class="message">Fixes regex patterns and formatting in utility functions
+                                        <div class="sha">#34ca585</div>
+                                        <div class="message">Enhances cruise data generation with new descriptors
 
-Improves regex patterns for better parsing of city files and refines formatting in utility functions to ensure consistency.
+Introduces new cruise adjectives, city descriptors, and region descriptors to improve the realism and variety of generated cruise itineraries.
 
-Adds missing commas in function calls for clarity and maintains code style.
+Refactors the data generation functions to utilize these descriptors, allowing for more engaging and descriptive cruise titles and experiences.
 
-Enhances error handling by ensuring proper file parsing and improving readability.</div>
+Removes redundant hardcoded descriptors, ensuring scalability and maintainability of the code.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51be1c8</div>
+                                        <div class="message">Implement new feature for user authentication and improve error handling</div>
                                     </div>
                                 </div>
                             </section>
@@ -148,127 +164,179 @@ Enhances error handling by ensuring proper file parsing and improving readabilit
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 29 commits in
+                                        Pushed 26 commits in
                                         <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3085c76</div>
-                                        <div class="message">Adds new hotel and room options for Amsterdam and Athens
+                                        <div class="sha">#ad68f78</div>
+                                        <div class="message">Updates motorcycle rental configurations for Amalfi Coast and Amsterdam
 
-Introduces new hotel listings and detailed room options for City Lights Inn, Grand Central Hotel, The Prestige Hotel, and Oceanview Inn in Amsterdam and Athens.
+Refines motorcycle rental data by replacing outdated models, adjusting specifications, and enhancing availability for better user experience.
 
-Enhances user experience by expanding accommodation choices, providing comprehensive amenities, and updating contact information.
+Implements new motorcycles with updated features, pricing, and requirements across both locations.
 
-Also includes various updates to existing hotel details, ensuring accuracy and relevance for users seeking lodging options in these cities.</div>
+Focuses on improving rental offerings and ensuring data accuracy for enhanced customer service.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7057517</div>
-                                        <div class="message">Updates homestay listings for Amsterdam and Athens
+                                        <div class="sha">#801e351</div>
+                                        <div class="message">Refactors car rental data for Amalfi Coast and Amsterdam
 
-Refines host information and enhances guest policies for improved user experience.
+Updates car rental listings by removing outdated entries and replacing them with new luxury models.
 
-Changes include updates to host details, languages, curfews, and availability, ensuring listings accurately reflect the current offerings.
+Enhances user experience by featuring a wider selection of vehicles and improving rental details such as pricing, specifications, and availability.
 
-Additionally, adjusts guest policies to promote inclusivity and better accommodate various traveler needs.
+Ensures consistency in data format and maintains the auto-generated status for future updates.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#981812e</div>
+                                        <div class="message">Adds generation date to motorcycle rental files
 
-This aims to enhance the quality and attractiveness of the listings.</div>
+Includes the current date in ISO format within the auto-generated city files for motorcycle rentals. This enhancement improves clarity by indicating when the file was created, facilitating better tracking of generated content.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#36fdd24</div>
-                                        <div class="message">Remove unused attraction data for various cities
+                                        <div class="sha">#f826465</div>
+                                        <div class="message">Adds metadata to generated city guide files
 
-Eliminates outdated and unnecessary attraction data files for cities including Amsterdam, Athens, Auckland, Bali, Bangkok, Barcelona, Berlin, Bermuda, and Boston.
+Enhances generated city guide files by including metadata such as the tour guide title, region, and generation date.
 
-This cleanup improves project maintainability and reduces clutter in the codebase.</div>
+This improvement aids in better organization and provides context for users interacting with the generated files.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0947b6f</div>
-                                        <div class="message">Implements variable name consistency and adds options
+                                        <div class="sha">#739abca</div>
+                                        <div class="message">Adds new hotel room options and updates hotel details
 
-Refactors variable naming conventions across multiple scripts to ensure consistency by removing periods from country names.
+Introduces room options for Borgo Antico and Hotel Capri Mare, enhancing the diversity of accommodations available.
 
-Adds options for additional data types in the data deletion script, enhancing the script’s functionality for managing generated data.
+Removes outdated room definitions for Grand Hotel Roma, Hotel Bella Napoli, and La Casa di Marco, streamlining the hotel data.
 
-Improves code readability and maintainability.</div>
+Updates key details for existing hotels, including contact information and cancellation policies, improving user experience and accuracy.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c745440</div>
-                                        <div class="message">Fixes missing newline at end of file in format-utils
+                                        <div class="sha">#5a6d949</div>
+                                        <div class="message">Updates room options generation to include timestamp
 
-Ensures proper formatting by adding a newline at the end of the file.
+Enhances the auto-generated room options file by adding a timestamp indicating when the file was generated.
 
-This change improves consistency and prevents potential issues with file handling in various editors and tools.</div>
+Imports the RoomOption interface after the timestamp comment for better organization and clarity in the generated content.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cd8970a</div>
-                                        <div class="message">Fixes newline omission at end of data-generator file
+                                        <div class="sha">#40a6b68</div>
+                                        <div class="message">Adds generation metadata to homestay location files
 
-Adds a newline at the end of the data-generator.mjs file to adhere to coding standards and improve file consistency.
+Enhances generated homestay files by including metadata such as generation date, city, region, and country.
 
-Ensuring proper file termination can prevent issues in some editors and tools that expect a newline at the end of files.</div>
+This improvement aids in tracking the context and origin of the generated data, ensuring better maintainability and clarity for users.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#77df301</div>
-                                        <div class="message">Adds new attractions for multiple cities
+                                        <div class="sha">#f32eba6</div>
+                                        <div class="message">Adds auto-generated file notice and timestamp to hotel files
 
-Includes updated city identifiers and adds popular attractions for Auckland, Bali, Berlin, Boston, Bermuda, Buenos Aires, Cape Town, Cartagena, Charleston, Copenhagen, Dublin, Florence, Helsinki, Hong Kong, Lisbon, Los Angeles, Montreal, Oslo, Quebec City, Roatan, San Juan, Santiago, Santorini, Seattle, Shanghai, Singapore, Tampa, Toronto, Vancouver, and others.
+Includes a warning against manual edits and adds a timestamp for when the file was generated. This improves clarity and maintains accurate documentation for generated files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5defe9</div>
+                                        <div class="message">Updates homestay listings for Amalfi Coast and Amsterdam
 
-This enhancement improves the application's offerings by expanding the list of attractions, making it more comprehensive and user-friendly for travelers.</div>
+Replaces existing host details with new entries for improved variety and accuracy.
+
+Enhances guest policies, availability times, and contact information for better user experience.
+
+Increases representation of different types of hosts and their unique offerings, making the listings more appealing to potential guests.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#79c0deb</div>
-                                        <div class="message">Remove AttractionTags type definition to simplify type management</div>
+                                        <div class="sha">#e6b87a6</div>
+                                        <div class="message">Adds generation timestamp to auto-generated city files
+
+Includes a timestamp in the header of auto-generated city files to indicate when they were created.
+
+This helps track file generation times for better version control and auditing purposes.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#676c8a8</div>
-                                        <div class="message">Add forceConsistentCasingInFileNames option to tsconfig for improved file name consistency</div>
+                                        <div class="sha">#77fa8e6</div>
+                                        <div class="message">Adds generation timestamp to city tour files
+
+Includes a timestamp in the auto-generated city tour files to indicate when they were created. This enhances file traceability and aids in maintaining up-to-date documentation for users and developers.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#32d3f77</div>
-                                        <div class="message">Refactor BaseAttraction interface to remove AttractionTags type and use string array for tags</div>
+                                        <div class="sha">#63f8051</div>
+                                        <div class="message">Update generation timestamp for city attractions files
+
+Enhances the auto-generated files by adding a timestamp comment indicating the date of generation.
+
+This change improves the traceability of the files and provides clarity on when the data was last updated, which can be useful for maintenance and debugging purposes.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a60ee29</div>
-                                        <div class="message">Add Washington DC attractions and remove Yokohama attractions; introduce Zurich attractions</div>
+                                        <div class="sha">#417de29</div>
+                                        <div class="message">Adds generation date to city testimonials file
+
+Includes the current date in ISO format as a comment at the top of the auto-generated city testimonials file. This enhancement improves file metadata for better tracking and documentation purposes.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#29b7dc2</div>
-                                        <div class="message">Refactor city attractions generation to standardize city name formatting and improve file naming consistency</div>
+                                        <div class="sha">#464b8dc</div>
+                                        <div class="message">Adds generation date to city car rental files
+
+Includes the generation date in the auto-generated luxury car rental files to provide better context for when the file was created.
+
+This enhancement improves traceability and helps developers understand the recency of the generated data.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b59d685</div>
-                                        <div class="message">Add capitalize function for improved string formatting</div>
+                                        <div class="sha">#a109992</div>
+                                        <div class="message">Adds timestamp to auto-generated attractions file
+
+Includes the generation date in the header comment of the attractions file to indicate when it was created.
+
+This change enhances traceability and helps prevent manual edits by clearly showing the file's generation time.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ee1fa9f</div>
-                                        <div class="message">Export cityAttractions as attractionAddresses for improved accessibility</div>
+                                        <div class="sha">#7ea3717</div>
+                                        <div class="message">Adds new hotel names to the shared hotel data
+
+Introduces several new hotel names to enhance the diversity of options available in the shared hotel data.
+
+These additions aim to improve user experience by offering a broader selection of accommodations.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1721654</div>
-                                        <div class="message">Reorder cityFiles array for improved organization and consistency</div>
+                                        <div class="sha">#0815d17</div>
+                                        <div class="message">Enhances screen size hooks with customizable breakpoints
+
+Updates the `useMediumScreen` and `useSmallScreen` hooks to accept a customizable breakpoint parameter, allowing for greater flexibility in screen size determination.
+
+Removes the debounce function to streamline the resize handling process, ensuring immediate updates to screen state.
+
+Sets the initial state upon component mounting and ensures proper cleanup of event listeners during unmounting.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f89083d</div>
-                                        <div class="message">Enhance city attractions generation by normalizing city names and integrating real attraction data sources</div>
+                                        <div class="sha">#659098d</div>
+                                        <div class="message">Adds custom hook for large screen detection
+
+Implements a new custom hook that detects if the viewport width exceeds a specified breakpoint.
+
+This improves responsiveness by allowing components to conditionally render based on screen size.
+
+The hook sets up an event listener for window resize events and cleans up after itself to prevent memory leaks.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d33b299</div>
-                                        <div class="message">Refactor city name formatting to use formatKebebToTitleCase function across multiple scripts</div>
+                                        <div class="sha">#da04171</div>
+                                        <div class="message">Removes unused attraction name variable from page logic
+
+Eliminates the redundant attraction name variable, simplifying the event handler for the button click action.
+
+This change enhances code clarity and maintains functionality without unnecessary variables.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c0a2660</div>
-                                        <div class="message">Add formatKebebToTitleCase function for kebab-case to title case conversion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b96075</div>
-                                        <div class="message">Add city attractions integration for dynamic city titles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fcf0b7</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                        <div class="sha">#39a4193</div>
+                                        <div class="message">Enhances city attraction page layout and responsiveness
+
+Improves the layout of the city attraction page by introducing responsive design elements for better user experience across different screen sizes.
+
+Adds navigation links to explore tours and testimonials, facilitating easier access to related content.
+
+Integrates hooks for screen size detection to dynamically adjust button styles based on the device.
+
+Refines the main content structure for improved clarity and usability.</div>
                                     </div>
                                 </div>
                             </section>
@@ -280,431 +348,388 @@ This enhancement improves the application's offerings by expanding the list of a
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 31 commits in
-                                        <span class="repo">tmchuynh/velari-voyages</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a717f0a</div>
-                                        <div class="message">Adds vessel information to booking confirmation page
-
-Integrates vessel details into the booking confirmation page, enhancing user experience by displaying relevant cruise vessel information such as name, type, capacity, and key amenities.
-
-Implements a new tab for vessel details and incorporates conditional rendering for vessel information based on booking data.
-
-Improves overall navigation by allowing users to view vessel specifics alongside booking and crew details.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87b4b75</div>
-                                        <div class="message">Adds Cruise Vessels page component with initial content structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c949a1</div>
-                                        <div class="message">Refactors file-utils.mjs for consistency and adds formatting functions for kebab and title cases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57d91da</div>
-                                        <div class="message">Adds City Vessel Generator script for creating and managing vessel data files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fefcbde</div>
-                                        <div class="message">Refactors documentation in City Cruise Generator script for clarity and completeness</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#226e935</div>
-                                        <div class="message">Adds cruise category selection and imports formatting utility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61a7773</div>
-                                        <div class="message">Enhances cruise and vessel type definitions
-
-Updates the 'BaseCruise' interface to include new cruise categories, improving the specificity of cruise offerings.
-
-Refines the 'Vessels' interface by introducing a separate 'CruiseShipType' type, allowing for more detailed classifications of vessels.
-
-These changes enhance the overall structure and clarity of service interfaces, supporting future feature development.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5800d9d</div>
-                                        <div class="message">Adds travel date generation function and refines form submission handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90c21e1</div>
-                                        <div class="message">Adds form component with context and hooks for improved form handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4de19b</div>
-                                        <div class="message">Adds Booking Confirmation page with crew member filtering and pagination</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58aa088</div>
-                                        <div class="message">Implements booking form for cruise selection with validation and package options</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f21df8</div>
-                                        <div class="message">Enhances homepage layout and content for clarity
-
-Improves the homepage by updating feature titles and descriptions for better engagement and clarity.
-
-Adds responsive design elements to optimize the display for small and medium screens. Integrates an image component for a more visually appealing layout.
-
-Refines the messaging to emphasize luxury and exploration, ensuring a cohesive narrative that aligns with the brand's identity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99c11b0</div>
-                                        <div class="message">Adds initial Book Your Trip page component
-
-Introduces a new page for booking trips, featuring a header and a placeholder for future booking forms.
-
-This sets the foundation for trip exploration and booking functionalities, enhancing user experience for trip planning.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a25b743</div>
-                                        <div class="message">Improves class management for restaurant hours display
-
-Enhances the class assignment for the restaurant hours component by adding a default class of "m-0".
-
-This change ensures consistent styling while maintaining dynamic class assignment based on the current day and dark mode settings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d8245c</div>
-                                        <div class="message">Refactors cruise destination filtering and presentation
-
-Updates the filtering logic to use predefined cruise departure locations, enhancing clarity and efficiency.
-
-Modifies the display of cruise information to include city and country in the title for better user context.
-
-Introduces a Card component for improved UI consistency and structure in the layout.
-
-This change aims to streamline user navigation and improve the overall presentation of cruise options.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68cf008</div>
-                                        <div class="message">Refactors imports for crew member utilities
-
-Updates the import statements in the crew members page to streamline the code structure.
-
-Moves the import of `getRoleDescription` to a more appropriate module, enhancing code organization and maintainability.
-
-This change aims to facilitate easier updates and reduce dependencies on utility functions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f40f618</div>
-                                        <div class="message">Adds city information retrieval function
-
-Introduces a new function to retrieve city information based on the city name from the predefined cruise departure locations.
-
-Enhances the utility of the codebase by enabling easy access to city data, improving overall functionality for related features.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#585c219</div>
-                                        <div class="message">Removes role description function for crew members
-
-Eliminates the extensive role description function for crew members to streamline the codebase.
-
-This change reduces complexity and enhances maintainability by removing hardcoded descriptions that may no longer align with current role definitions or requirements. Future role information can be managed more dynamically or through separate documentation as needed.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a47ef5b</div>
-                                        <div class="message">Adds city information display to restaurant page
-
-Includes city-related details such as subtitle, quote, and additional info on the restaurants page. This enhances user experience by providing more context about the dining options in the selected city.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7bc3b1</div>
-                                        <div class="message">Adds new commands for deleting various files
-
-Introduces new scripts for deleting crew members, cruise files, restaurant menu files, and restaurant testimonials files.
-
-These additions streamline file management by providing dedicated commands for cleanup tasks, enhancing overall system efficiency.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">tmchuynh/velari-voyages</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dfd7abd</div>
-                                        <div class="message">Refactors Amsterdam cruises data structure for consistency
-
-Standardizes the format of cruise details, improving readability and maintainability.
-
-Updates location data and itinerary descriptions to ensure uniformity across multiple cruise entries, enhancing clarity for future developers.
-
-Addresses inconsistencies in object notation and enhances the organization of cruise information.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1218965</div>
-                                        <div class="message">Refactors testimonial data structure for consistency
-
-Updates the testimonial data format to use consistent object syntax across all entries.
-
-This change enhances readability and maintainability of the code, ensuring a uniform structure for future updates.
-
-No functional changes were made to the testimonial content itself.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f67c2c</div>
-                                        <div class="message">Refactors Amsterdam Amstel Chophouse menu structure
-
-Updates the menu data structure for the Amsterdam Amstel Chophouse to use consistent object notation for properties.
-
-This change enhances readability and maintainability of the menu items by standardizing the format across all categories and items.
-
-No functional changes are introduced, but it improves the codebase for future enhancements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6db35e1</div>
-                                        <div class="message">Removes redundant crew member entries for Amsterdam team
-
-Streamlines the crew member list by removing outdated and redundant entries from the Amsterdam team.
-
-This change enhances maintainability and clarity of the codebase, ensuring only relevant team members are included.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d916cdb</div>
-                                        <div class="message">Fix syntax errors by adding missing commas in various scripts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d5720e</div>
-                                        <div class="message">Adds new cruise itineraries and updates existing details
-
-Introduces several new cruise itineraries departing from Amsterdam, enhancing the diversity of options available to travelers.
-
-Updates include improved descriptions, adjustments to pricing, and detailed itineraries with time at sea and on land.
-
-Additionally, introduces new contact personnel for the cruises, ensuring better customer support and engagement.
-
-These changes aim to provide a richer experience for users and attract a wider audience to the cruise offerings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f63a27</div>
-                                        <div class="message">Adds new testimonials for Amstel Chophouse and Canal Farm Table
-
-Introduces a comprehensive set of testimonials for Amstel Chophouse and Canal Farm Table, enhancing the dining experience narrative for users.
-
-Removes outdated testimonials for Amsterdam Bar &amp; Kitchen, Amsterdam Brasserie, Amsterdam House, and Anne Frank Saloon to streamline content.
-
-Improves user engagement by providing fresh, appealing reviews that reflect current offerings and guest experiences.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66eaca4</div>
-                                        <div class="message">Adds Atlantic Charcuterie menu and removes Atlantic Room menu
-
-Introduces a comprehensive menu for the Atlantic Charcuterie, featuring various categories and detailed item descriptions, enhancing the dining experience.
-
-Removes the existing Atlantic Room menu to streamline offerings and focus on the new charcuterie concept.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6852e69</div>
-                                        <div class="message">Removes obsolete menu data for Boston restaurants
-
-Deletes menu data files for Beacon Smokehouse and Boston Chophouse, streamlining the project by eliminating outdated content. This change helps maintain an up-to-date and relevant codebase for restaurant menus.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1d923b</div>
-                                        <div class="message">Updates menu items and descriptions for Bermuda restaurant
-
-Refines the menu structure by updating item names, prices, and descriptions to enhance clarity and appeal.
-
-Replaces old dishes with new ones that reflect modern culinary trends while maintaining a focus on quality and local ingredients.
-
-Improves the overall dining experience by offering a more diverse and enticing menu selection.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#594e1fc</div>
-                                        <div class="message">Adds menu data for Alexanderplatz Atelier; removes Bavarian Pizzeria menu
-
-Introduces a new menu data structure for the Alexanderplatz Atelier, showcasing a diverse selection of dishes and drinks, while enhancing customer experience with detailed item descriptions and dietary information.
-
-Removes the existing Bavarian Pizzeria menu to streamline offerings and focus on the new dining experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9584b14</div>
-                                        <div class="message">Adds new restaurant menu data for Barcelona locations
-
-Introduces comprehensive menu data for two Barcelona restaurants, Barcelona Ramen-Ya and Barri Gòtic Barbecue.
-
-This addition enhances the culinary offerings available in the application, providing detailed descriptions, pricing, and dietary information for each dish, thereby improving user experience and enabling better dining choices.
-
-No related issues or tickets.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bea62ee</div>
-                                        <div class="message">Adds Blue Fine Dining menu and removes Blue Harvest menu
-
-Introduces a comprehensive menu for Blue Fine Dining in Bangkok, featuring a diverse selection of dishes across multiple categories.
-
-Removes the outdated Blue Harvest menu to streamline offerings and enhance user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dcb6c17</div>
-                                        <div class="message">Adds menu data for Blue Atelier and removes Blue Barbecue
-
-Introduces a new menu for the Blue Atelier restaurant, featuring a comprehensive selection of dishes across multiple categories, enhancing the dining experience with detailed descriptions and dietary information.
-
-Removes the previous Blue Barbecue menu, streamlining the restaurant offerings to focus on the Blue Atelier's culinary theme.
-
-This change ensures a more cohesive menu presentation and aligns with the current dining strategy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#027da55</div>
-                                        <div class="message">Removes Auckland cafe and provisions menu files
-
-Deletes the Auckland cafe and provisions menu files to streamline codebase and remove outdated or redundant data.
-
-This change enhances maintainability by eliminating unused components, allowing for a more efficient and cleaner project structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed05967</div>
-                                        <div class="message">Adds new menu data for Blue Project in Athens
-
-Introduces a comprehensive menu for the Blue Project restaurant in Athens, replacing the previous Ristorante menu. This update enhances the dining experience by offering a diverse selection of Italian-inspired dishes across various categories, including main courses, appetizers, desserts, and drinks, to cater to a wider range of preferences and dietary requirements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6ac727</div>
-                                        <div class="message">Adds Amstel Chophouse menu data for Amsterdam
-
-Introduces a comprehensive menu data set for Amstel Chophouse, featuring detailed descriptions, categories, and items, enhancing the restaurant's offerings for customer engagement.
-
-Removes the outdated Amsterdam Bar &amp; Kitchen menu data to streamline the codebase and focus on current menu options.
-
-This update improves the culinary representation of the restaurant and provides a richer dining experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d1ff56</div>
-                                        <div class="message">Updates Amsterdam team members with new roles and bios
-
-Replaces existing crew member data with updated entries for the Amsterdam team, enhancing diversity and reflecting current staffing.
-
-Adds new members with detailed roles, experiences, and language proficiencies to improve the team's representation and operational capabilities.
-
-Removes outdated entries to maintain relevance and accuracy in crew member information.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bc2fff</div>
-                                        <div class="message">Refactors file deletion scripts for improved organization
-
-Consolidates and reorganizes the deletion scripts for crew members and restaurant menu files into a more coherent structure.
-
-Removes redundant scripts and unifies the logic to streamline operations, enhancing maintainability and clarity.
-
-Additionally, updates import paths and improves user interaction for file deletions, promoting a better user experience.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19b30fd</div>
-                                        <div class="message">Add geographic data for additional cities and their coordinates</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 133 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a905e64</div>
-                                        <div class="message">Enhance transportation services by adding new aircraft, vehicles, and yachts to the selection guide. Updated aircraft options include Cessna Citation M2, Cirrus Vision SF50, Gulfstream G280, and more. Expanded vehicle offerings feature luxury models like Bentley Flying Spur, Rolls-Royce Cullinan, and armored vehicles. Introduced new yacht options such as Celestial Legacy and Quantum Blue, along with detailed amenities and features for each category.</div>
+                                        <div class="sha">#236b1c8</div>
+                                        <div class="message">Update .gitignore to include scripts and source directories</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 69 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ee8192b</div>
+                                        <div class="message">Adds script for full development reset and data regeneration
+
+Introduces a new script that deletes all generated data files and executes generation scripts in the correct order for a complete development environment reset.
+
+This improvement streamlines the development process by automating data cleanup and regeneration, ensuring a fresh state for testing and development.
+
+Improves error handling during script execution.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b3da258</div>
-                                        <div class="message">Add detailed FAQs addressing group travel, sustainable practices, cultural immersion, family services, luggage transfers, dietary needs, and connectivity options to enhance user support and engagement.</div>
+                                        <div class="sha">#12c77af</div>
+                                        <div class="message">Standardizes country names and regional designations
+
+Updates country names for consistency, replacing "U.S. Virgin Islands" with "US Virgin Islands" and standardizing "Bosnia &amp; Herzegovina" to "Bosnia and Herzegovina".
+
+Additionally, simplifies regional designations by removing unnecessary qualifiers, such as changing "Georgia (Caucasus)" to "Georgia" and "Catalonia (Spain)" to "Catalonia".
+
+These changes enhance clarity and maintain uniformity across the codebase.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5351ea4</div>
-                                        <div class="message">Refactor contact department descriptions for clarity and engagement</div>
+                                        <div class="sha">#c27fb8a</div>
+                                        <div class="message">Improves string normalization functions
+
+Updates the `removeSpecialCharacters` function to allow hyphens in addition to alphanumeric characters and spaces.
+
+Adds a new `normalizeString` function that combines accent removal and special character filtering for better string formatting.
+
+These changes enhance the overall string handling capabilities in the utility module.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#921d8f2</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                        <div class="sha">#6fa5142</div>
+                                        <div class="message">Refactors attraction details structure for consistency
+
+Updates the attraction details format to a consistent JSON-like structure, enhancing readability and maintainability.
+
+Standardizes opening hours and attributes for various attractions, improving data integrity and future extensibility.
+
+No functional changes are introduced; changes focus on structural improvements for better data handling.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c3106e4</div>
-                                        <div class="message">Add testimonials for aviation, general, ground transportation, homestay, and yacht services to enhance user engagement and showcase diverse client experiences.</div>
+                                        <div class="sha">#d7550a4</div>
+                                        <div class="message">Refactors attraction data structure for better clarity
+
+Updates the attraction data structure to use consistent key formatting and improves readability by organizing the data more clearly.
+
+No functional changes were introduced; the refactor aims to enhance maintainability and facilitate future updates.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2495eba</div>
-                                        <div class="message">Enhance cultural highlights for homestay destinations in India, Japan, Italy, Vietnam, Morocco, and Nepal with detailed activities and experiences, including subtitles for each location to enrich user engagement and provide a more immersive travel narrative.</div>
+                                        <div class="sha">#8e40d2a</div>
+                                        <div class="message">Refactors tour themes and titles for better organization
+
+Updates the structure of tour themes and titles to enhance clarity and maintainability.
+
+Introduces new themes and a streamlined title mapping, consolidating and simplifying the existing array for improved usability.
+
+Adds a utility function to remove special characters from titles, ensuring consistency in formatting.
+
+Enhances the overall user experience by providing a more cohesive and organized approach to tour management.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#90ae29f</div>
-                                        <div class="message">Add FAQs for special occasions, loyalty rewards, language support, travel insurance, and property previews</div>
+                                        <div class="sha">#8e1f826</div>
+                                        <div class="message">Adds city attractions auditing script
+
+Implements a Node.js script to audit and synchronize city and attraction data.
+
+The script loads city files, attraction basic information, and details, compares them, and generates a comprehensive audit report.
+
+This addition addresses data consistency issues and ensures that the city and attraction datasets are properly aligned and populated.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7537aea</div>
-                                        <div class="message">Refactor homestay interfaces to improve structure and type safety</div>
+                                        <div class="sha">#95676bd</div>
+                                        <div class="message">Adds script to generate missing attraction info for cities
+
+Implements a script that generates basic and detailed attraction information for cities based on existing city files.
+
+The script fills in missing entries without overwriting existing data, ensuring the attraction data remains up-to-date and comprehensive.
+
+It provides default values for attractions not previously listed and includes a fallback mechanism for cities lacking specific attractions.
+
+Generates updated files only when new information is added.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#23d17a8</div>
-                                        <div class="message">Add imports for TourCategory and react-icons to enhance tour category representation</div>
+                                        <div class="sha">#68365fc</div>
+                                        <div class="message">Removes and updates city data in the city constants
+
+Reduces the number of cities listed by removing several entries, streamlining the dataset.
+
+Updates the region for "Amalfi Coast" to "Italy" and changes the region for "Auckland" to "New Zealand."
+
+Additionally, replaces "Bangkok" with "Amsterdam," preserving its details while maintaining clarity in the city dataset.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5a6c35b</div>
-                                        <div class="message">Enhance tour category descriptions for improved clarity and engagement</div>
+                                        <div class="sha">#18cfd33</div>
+                                        <div class="message">Adds new cities to the cityFiles list
+
+Updates the cityFiles array to include additional cities, enhancing the geographical diversity of options available.
+
+Removes some existing cities to streamline the list and improve relevance.
+
+Adds new city data for Sapa, providing a detailed description to enrich user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#850efb8</div>
-                                        <div class="message">Refactor homestay heritage locations to use HomestayHostLocations type for improved type safety</div>
+                                        <div class="sha">#8265495</div>
+                                        <div class="message">Updates geographic and currency mappings for accuracy
+
+Refines country and city mappings to ensure accuracy,
+including changes to the representation of Fiji, Patagonia,
+and several countries' currencies.
+
+Adds new currency rates for Jamaica, Dominican Republic,
+Taiwan, and Cambodia to enhance currency data completeness.
+
+Removes outdated mappings for Croatia and Eurozone countries
+to streamline currency associations.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f67d5a1</div>
-                                        <div class="message">Adds Location type with detailed attributes for enhanced geographical context</div>
+                                        <div class="sha">#8472577</div>
+                                        <div class="message">Refactors country names for Bosnia and Herzegovina to improve consistency</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bd3e537</div>
-                                        <div class="message">Adds country information to homestay destinations for improved clarity and organization</div>
+                                        <div class="sha">#e2cc2d7</div>
+                                        <div class="message">Refactors city and region mappings for improved organization and clarity</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0e34dea</div>
-                                        <div class="message">Adds detailed host information for homestay locations in India, Japan, Italy, and Vietnam to enhance cultural immersion for guests</div>
+                                        <div class="sha">#e584450</div>
+                                        <div class="message">Updates city names and adds new city entries
+
+Renames "New York" to "New York City" for accuracy.
+
+Adds new city entries for Sitka, Skagway, Svaneti Region, Washington, and Xi'an, enhancing the city dataset.
+
+Improves overall representation of cities in the application.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d9c134d</div>
-                                        <div class="message">Adds new homestay locations in India, Japan, Italy, and Vietnam with detailed descriptions</div>
+                                        <div class="sha">#43a7609</div>
+                                        <div class="message">Refactors hotel filter options for improved clarity
+
+Enhances the filtering logic for hotel options by consolidating unique value extraction into a reusable helper function.
+
+This change streamlines the filtering process, making it easier to manage and understand the conditions for each selection.
+
+Additionally, updates the UI components to utilize the new filtered values, ensuring a consistent and efficient user experience across all filter categories.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#09648fb</div>
-                                        <div class="message">Make buttons in PrivateAviation and YachtCharters components navigate to contact information</div>
+                                        <div class="sha">#4af1355</div>
+                                        <div class="message">Improves car rental filter options functionality
+
+Enhances the filtering logic for car rental options by implementing a dynamic method to generate unique values based on current selections.
+
+This change addresses the need for more accurate filter options in the dropdowns, allowing users to see only the relevant choices based on their selections, thereby improving the overall user experience.
+
+Additionally, it replaces previously hardcoded unique values with dynamically generated ones for various car attributes.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#484ebfb</div>
-                                        <div class="message">Replaces button with a clickable component to navigate to homestay destinations</div>
+                                        <div class="sha">#ea093d7</div>
+                                        <div class="message">Refactors motorcycle filter logic for improved usability
+
+Enhances the filtering system by replacing hardcoded unique values with dynamic options based on current selections.
+
+This change allows users to see only relevant choices in dropdown menus, improving the overall user experience and making it easier to find motorcycles that meet specific criteria.
+
+Also updates the filtering logic for features, ensuring it accurately reflects the selected motorcycle attributes.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9b2ee1a</div>
-                                        <div class="message">Adds button to request transportation on the TransportationPage</div>
+                                        <div class="sha">#f7db5a4</div>
+                                        <div class="message">Improves type safety for city data mappings
+
+Enhances type safety by specifying the key types when accessing city-to-region and city-to-country mappings.
+
+This change ensures better type checking and reduces potential runtime errors related to undefined values in the mappings.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6ad35e8</div>
-                                        <div class="message">Adds general testimonials data for enhanced user experience</div>
+                                        <div class="sha">#1f91afe</div>
+                                        <div class="message">Adds new cities and updates existing city information
+
+Enhances the city and country mapping by adding new cities, such as Puerto Vallarta and Punta Cana, and correcting existing entries like Zanzibar.
+
+Updates geographical coordinates and regions to improve accuracy and support for additional locations.
+
+Improves overall data completeness for geographic utilities.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#05ee707</div>
-                                        <div class="message">Enhances HomePage layout with new sections for features, popular trails, and testimonials</div>
+                                        <div class="sha">#dd0df59</div>
+                                        <div class="message">Adds new cities and enhances city information
+
+Updates the city data by adding numerous new cities and enhancing existing city entries with additional details such as region, country, subtitle, and quotes. This change enriches the dataset and provides a more comprehensive representation of global cities.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 363 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6413360</div>
+                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d66da10</div>
+                                        <div class="message">Refactor HomePage component: update layout styles, improve header semantics, and remove testimonials section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f040453</div>
+                                        <div class="message">Add process-city-attractions script to generate TypeScript files for city attractions with structured data and tags</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee354ba</div>
+                                        <div class="message">Fix command usage paths in documentation for generate-city-crew script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92f4319</div>
+                                        <div class="message">Fix command usage paths in documentation for generate-city-cars script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0171fe</div>
+                                        <div class="message">Enhances city attractions generator by adding geo-utils for region and country data, updating command line argument parsing, and improving opening hours handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcf1d01</div>
+                                        <div class="message">Updates attraction details to include more specific data
+
+Refines the attraction data structure by replacing default
+opening hours with specific values from the details object.
+
+Adds new fields for entry fees, entry fee category, and
+features to enhance the attraction information provided.
+
+This improves the overall accuracy and richness of the
+attraction data presented to users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d74a023</div>
+                                        <div class="message">Refactors attraction details to use detailed opening hours format
+
+Converts the opening hours for attractions into a structured format, allowing for more detailed hour specifications per day.
+
+This change enhances the clarity and usability of the attraction details, making it easier to manage and understand opening times.
+
+Additionally, it standardizes the entry fees and features for various attractions across different cities, improving maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5c1e7a</div>
+                                        <div class="message">Adds utility functions for dynamic tool resource loading
+
+Introduces a new function to dynamically import tool resources based on toolkit and tool name.
+
+Enhances error handling by logging issues when exports are not found or when loading fails, returning an empty array in such cases.
+
+This change lays the groundwork for better modular resource management in the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b54d36</div>
+                                        <div class="message">Updates attraction interface to enhance entry fee details
+
+Refines the `BaseAttraction` interface by replacing `openingHours` with `openingHoursDetailed`, using a more structured format for weekly availability.
+
+Adds `entryFees` and `features` properties for better categorization of attraction details, improving data handling and user experience.
+
+Introduces the `EntryFeeDetail` interface for clearer representation of entry fee categories and price ranges.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ca45c7</div>
+                                        <div class="message">Update import path for attraction utility functions
+
+Refactors the import statement for attraction utility functions to use the more accurately named module, enhancing code clarity and maintainability.
+
+No functional changes are introduced by this update.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1344cc2</div>
+                                        <div class="message">Removes outdated attraction utility file
+
+Eliminates the attraction utilities file that contained extensive information about various tourist attractions, simplifying the codebase.
+
+This change addresses redundancy and potential maintenance issues by removing unused data.
+
+No replacement data is provided, indicating a shift in how attraction information will be managed or accessed in the future.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f77a01</div>
+                                        <div class="message">Refactors attraction data handling for improved clarity
+
+Updates import structure for attraction data utilities.
+
+Implements a special case for Seattle to accommodate naming conventions.
+
+Enhances error handling for missing attraction information and defaults opening hours to a specific range if detailed data is unavailable.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#548da9c</div>
+                                        <div class="message">Adds attraction information for multiple global cities
+
+Introduces a new module that contains detailed information about popular attractions in cities including Amsterdam, London, New York City, Paris, and more. Each entry includes the title, location, image URL, tags, and popularity status, enhancing the application's ability to provide users with valuable insights into global destinations.
+
+This addition aims to improve user experience by offering a comprehensive guide to attractions, making it easier for users to explore and plan their visits.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03c1dbb</div>
+                                        <div class="message">Adds detailed attraction information for multiple cities
+
+Introduces a comprehensive data structure containing attraction details for cities including Amsterdam, London, New York City, and more.
+
+Each entry includes descriptions, opening hours, entry fees, accessibility features, and ratings to enhance user experience and facilitate better planning for visitors.
+
+This addition aims to improve the application's functionality and user engagement by providing rich, accessible information about popular attractions worldwide.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c53d418</div>
+                                        <div class="message">Refactors city attraction data handling to streamline access
+
+Updates the method for retrieving city attraction data by replacing the previous approach with a new function that utilizes city files.
+
+This change simplifies the logic and improves maintainability by reducing redundancy.
+
+Removes unused code related to simple attraction data handling, enhancing clarity and performance.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83fed94</div>
+                                        <div class="message">Updates city attraction reference in data generator
+
+Replaces the usage of `cityAttractions` with `attractionBasicInfo` to streamline the data generation process for city titles.
+
+This change enhances the accuracy of generated titles by utilizing a more relevant source of attraction information, ensuring better alignment with the overall data structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1f985a</div>
+                                        <div class="message">Standardizes attraction keys and adds new entries for Cape Town
+
+Refactors attraction keys to use hyphenated format for consistency across locations.
+
+Adds detailed information for three attractions in Cape Town: Table Mountain, Robben Island, and Cape of Good Hope, enhancing the dataset for better user experience and information retrieval.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#498c6ca</div>
+                                        <div class="message">Removes unused get utility function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddf211f</div>
+                                        <div class="message">Removes unused imports and refactors code for clarity
+
+Eliminates redundant `stat` and `readFile` imports across multiple scripts to streamline code.
+
+Improves overall readability and maintainability by removing unnecessary functions and imports.
+
+Ensures consistent coding practices throughout the project.</div>
                                     </div>
                                 </div>
                             </section>
