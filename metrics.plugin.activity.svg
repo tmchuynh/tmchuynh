@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{justify-content:space-around;margin-top:4px}.categories,.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.audit svg{margin:0}.track{justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories,.track{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.audit.text{min-width:42px}.audit svg{margin:0}.track{justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,211 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 87 commits in
+                                        <span class="repo">tmchuynh/velari-voyages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76dab21</div>
+                                        <div class="message">Adds venue interfaces for various service types
+
+Introduces new interfaces for different venue types, including Spa, Casino, FitnessCenter, ShoppingArea, EntertainmentVenue, ArtGallery, and Library.
+
+These changes enhance type safety and structure for venue-related data, facilitating better organization and use of venue attributes in the application.
+
+Updates the Details type to make the rating field optional, improving flexibility in how details are represented.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adf6a23</div>
+                                        <div class="message">Updates cruise departure locations and details
+
+Modifies the list of cruise departure locations by adding new cities and updating existing details.
+
+Removes outdated entries and enhances descriptions for improved clarity and relevance.
+
+This update aims to provide a more accurate and engaging representation of cruise ports and their attractions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e2243d</div>
+                                        <div class="message">Updates Amsterdam vessels list with new specifications
+
+Enhances the vessel definitions to include updated specifications, types, and features for various ships operating from Amsterdam.
+
+This change reflects a broader range of vessel categories, improves the accuracy of data, and ensures that new features align with modern maritime standards.
+
+Additionally, it removes outdated entries while introducing new vessels to enrich the cruise experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0a51e0</div>
+                                        <div class="message">Adds rating and date fields to Testimonial interface
+
+Enhances the Testimonial interface by adding optional
+rating and date fields to provide more context for
+testimonials.
+
+This improves the flexibility and detail of testimonial
+data representation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#714ded1</div>
+                                        <div class="message">Updates vessel interface to include additional properties
+
+Enhances the Vessels interface by adding 'id' and optional 'imageUrl' fields, and changes 'topSpeed' to a numeric type for better data handling.
+
+Removes 'topSpeed' from CruiseVessel to streamline the interface.
+
+This improves type consistency and allows for more detailed vessel representations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7509575</div>
+                                        <div class="message">Adds City interface to manage city-related data
+
+Introduces a new interface for representing city attributes, including optional fields for region, state, quote, subtitle, and popularity.
+
+This enhancement aims to support better organization and management of city-related information within the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e2719d</div>
+                                        <div class="message">Adds commands for managing city vessels and crew members
+
+Introduces new commands for creating and deleting city vessel data files and crew member data files, enhancing the CLI's functionality.
+
+Also adds commands to delete city cruise data files and restaurant testimonial files, improving overall data management capabilities.
+
+This update enriches the command registry, allowing for more comprehensive operations within the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70a2076</div>
+                                        <div class="message">Enhances deletion scripts with detailed usage instructions
+
+Improves the delete scripts for crew members, cruises, restaurant menus, and testimonials by adding comprehensive documentation and usage examples.
+
+This update aids users in understanding how to effectively use the scripts, including command-line options and interactive modes, while ensuring clarity on the deletion processes.
+
+No functional changes are made; the focus is solely on enhancing usability and documentation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f0667b</div>
+                                        <div class="message">Adds positive adjectives to vessel descriptions
+
+Enhances vessel descriptions by incorporating randomly selected positive adjectives, improving the appeal and engagement of the generated text.
+
+This change enriches the narrative for each vessel, making it more enticing for potential travelers.
+
+No issues were reported, but this enhancement aims to elevate the user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ea1c66</div>
+                                        <div class="message">Refines vessel data structure for cruise compatibility
+
+Updates the vessel retrieval function to return a more comprehensive vessel object with additional specifications and properties.
+
+This change enhances the functionality by providing detailed attributes such as engine type, fuel capacity, and home port information, improving the overall data structure for better integration with cruise features.
+
+The return type has been adjusted from `CruiseVessel` to `Vessels` to reflect these updates accurately.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2291ba3</div>
+                                        <div class="message">Refactors vessel state to use Vessels interface
+
+Updates the vessel state in the booking confirmation page to use the Vessels interface instead of CruiseVessel.
+
+This change improves type consistency and prepares the code for potential future enhancements related to vessel handling.
+
+No functional changes are introduced, ensuring a seamless experience for users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a55fe5c</div>
+                                        <div class="message">Removes testimonial generation script
+
+Eliminates the testimonials generation script to streamline the codebase and remove unnecessary complexity.
+
+This change addresses the need for a more maintainable and focused code structure by removing an entire file that is no longer required.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e95c6de</div>
+                                        <div class="message">Adds cruise experiences and refactors related logic
+
+Introduces a new array of cruise experiences to enhance the variety of cruise offerings.
+
+Refactors the code to eliminate redundancy by removing the previously defined cruise experiences within the `generateCruiseData` function, ensuring that the logic now accesses the newly defined array.
+
+Implements changes to utilize the defined `cruiseTitle` for contact email generation, streamlining the data flow and improving readability.
+
+Enhances maintainability by organizing the cruise descriptors for better code structure and clarity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4d0646</div>
+                                        <div class="message">Adds crew member bio templates for maritime roles
+
+Introduces a comprehensive set of bio templates for various maritime crew positions, including Captain, First Officer, and Safety Officer, enhancing the personalization and professionalism of crew introductions.
+
+These templates aim to standardize bios while providing flexibility for customization with specific details, thereby improving communication and representation of crew members in maritime contexts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7491394</div>
+                                        <div class="message">Improves placeholder handling in template processing
+
+Updates the placeholder replacement logic to improve clarity by using an unused parameter in the callback function. This change enhances code readability without altering functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#427d5e5</div>
+                                        <div class="message">Adds restaurant name prefixes and suffixes for multiple cities
+
+Introduces a comprehensive list of restaurant name prefixes categorized by various cities and a collection of suffixes to enhance the naming conventions for restaurants.
+
+This change aims to provide a more localized and diverse set of options for restaurant naming, improving user experience and engagement.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b6e911</div>
+                                        <div class="message">Adds dynamic cruise descriptors for improved user engagement
+
+Integrates new cruise experience descriptions using random adjectives and experiences based on city and regional data.
+
+Enhances the user experience by generating more engaging content for cruise journeys, promoting exploration and cultural immersion.
+
+Improves code maintainability by organizing related functionalities through imports.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a498d19</div>
+                                        <div class="message">Adds general email starters utility
+
+Introduces a new utility that provides a list of common email starters for improved communication within the application.
+
+This addition enhances code maintainability and readability by centralizing frequently used email prefixes, making it easier to manage and update them as needed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a504677</div>
+                                        <div class="message">Enhances adjective lists and adds city descriptions
+
+Refines the list of positive adjectives by removing redundancies and introducing new terms to enrich vocabulary.
+
+Adds detailed descriptions for various cities, including landmarks, features, and specialties, to provide a more immersive experience for users.
+
+This update improves the overall quality and variety of descriptions available in the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35e6363</div>
+                                        <div class="message">Adds functions for generating random hours and prices
+
+Implements `getRandomHours` to simulate business hours for each day of the week, with a 90% chance of being open, providing a random opening and closing time.
+
+Introduces `getRandomPrice` to generate random pricing tiers, enhancing the utility of the data generator.
+
+These additions improve the flexibility and realism of generated data for testing purposes.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -561,175 +766,6 @@ Improves overall data completeness for geographic utilities.</div>
                                         <div class="message">Adds new cities and enhances city information
 
 Updates the city data by adding numerous new cities and enhancing existing city entries with additional details such as region, country, subtitle, and quotes. This change enriches the dataset and provides a more comprehensive representation of global cities.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 363 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6413360</div>
-                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d66da10</div>
-                                        <div class="message">Refactor HomePage component: update layout styles, improve header semantics, and remove testimonials section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f040453</div>
-                                        <div class="message">Add process-city-attractions script to generate TypeScript files for city attractions with structured data and tags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee354ba</div>
-                                        <div class="message">Fix command usage paths in documentation for generate-city-crew script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92f4319</div>
-                                        <div class="message">Fix command usage paths in documentation for generate-city-cars script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0171fe</div>
-                                        <div class="message">Enhances city attractions generator by adding geo-utils for region and country data, updating command line argument parsing, and improving opening hours handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dcf1d01</div>
-                                        <div class="message">Updates attraction details to include more specific data
-
-Refines the attraction data structure by replacing default
-opening hours with specific values from the details object.
-
-Adds new fields for entry fees, entry fee category, and
-features to enhance the attraction information provided.
-
-This improves the overall accuracy and richness of the
-attraction data presented to users.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d74a023</div>
-                                        <div class="message">Refactors attraction details to use detailed opening hours format
-
-Converts the opening hours for attractions into a structured format, allowing for more detailed hour specifications per day.
-
-This change enhances the clarity and usability of the attraction details, making it easier to manage and understand opening times.
-
-Additionally, it standardizes the entry fees and features for various attractions across different cities, improving maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5c1e7a</div>
-                                        <div class="message">Adds utility functions for dynamic tool resource loading
-
-Introduces a new function to dynamically import tool resources based on toolkit and tool name.
-
-Enhances error handling by logging issues when exports are not found or when loading fails, returning an empty array in such cases.
-
-This change lays the groundwork for better modular resource management in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b54d36</div>
-                                        <div class="message">Updates attraction interface to enhance entry fee details
-
-Refines the `BaseAttraction` interface by replacing `openingHours` with `openingHoursDetailed`, using a more structured format for weekly availability.
-
-Adds `entryFees` and `features` properties for better categorization of attraction details, improving data handling and user experience.
-
-Introduces the `EntryFeeDetail` interface for clearer representation of entry fee categories and price ranges.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ca45c7</div>
-                                        <div class="message">Update import path for attraction utility functions
-
-Refactors the import statement for attraction utility functions to use the more accurately named module, enhancing code clarity and maintainability.
-
-No functional changes are introduced by this update.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1344cc2</div>
-                                        <div class="message">Removes outdated attraction utility file
-
-Eliminates the attraction utilities file that contained extensive information about various tourist attractions, simplifying the codebase.
-
-This change addresses redundancy and potential maintenance issues by removing unused data.
-
-No replacement data is provided, indicating a shift in how attraction information will be managed or accessed in the future.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f77a01</div>
-                                        <div class="message">Refactors attraction data handling for improved clarity
-
-Updates import structure for attraction data utilities.
-
-Implements a special case for Seattle to accommodate naming conventions.
-
-Enhances error handling for missing attraction information and defaults opening hours to a specific range if detailed data is unavailable.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#548da9c</div>
-                                        <div class="message">Adds attraction information for multiple global cities
-
-Introduces a new module that contains detailed information about popular attractions in cities including Amsterdam, London, New York City, Paris, and more. Each entry includes the title, location, image URL, tags, and popularity status, enhancing the application's ability to provide users with valuable insights into global destinations.
-
-This addition aims to improve user experience by offering a comprehensive guide to attractions, making it easier for users to explore and plan their visits.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03c1dbb</div>
-                                        <div class="message">Adds detailed attraction information for multiple cities
-
-Introduces a comprehensive data structure containing attraction details for cities including Amsterdam, London, New York City, and more.
-
-Each entry includes descriptions, opening hours, entry fees, accessibility features, and ratings to enhance user experience and facilitate better planning for visitors.
-
-This addition aims to improve the application's functionality and user engagement by providing rich, accessible information about popular attractions worldwide.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c53d418</div>
-                                        <div class="message">Refactors city attraction data handling to streamline access
-
-Updates the method for retrieving city attraction data by replacing the previous approach with a new function that utilizes city files.
-
-This change simplifies the logic and improves maintainability by reducing redundancy.
-
-Removes unused code related to simple attraction data handling, enhancing clarity and performance.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83fed94</div>
-                                        <div class="message">Updates city attraction reference in data generator
-
-Replaces the usage of `cityAttractions` with `attractionBasicInfo` to streamline the data generation process for city titles.
-
-This change enhances the accuracy of generated titles by utilizing a more relevant source of attraction information, ensuring better alignment with the overall data structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1f985a</div>
-                                        <div class="message">Standardizes attraction keys and adds new entries for Cape Town
-
-Refactors attraction keys to use hyphenated format for consistency across locations.
-
-Adds detailed information for three attractions in Cape Town: Table Mountain, Robben Island, and Cape of Good Hope, enhancing the dataset for better user experience and information retrieval.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#498c6ca</div>
-                                        <div class="message">Removes unused get utility function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddf211f</div>
-                                        <div class="message">Removes unused imports and refactors code for clarity
-
-Eliminates redundant `stat` and `readFile` imports across multiple scripts to streamline code.
-
-Improves overall readability and maintainability by removing unnecessary functions and imports.
-
-Ensures consistent coding practices throughout the project.</div>
                                     </div>
                                 </div>
                             </section>
