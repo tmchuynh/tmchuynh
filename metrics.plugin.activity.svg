@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1077" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories,.track{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.track{justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.categories,.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,90 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bbab53c</div>
+                                        <div class="message">Add Property Showcase section with carousel and details for enhanced user experience</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#34ae3a7</div>
+                                        <div class="message">Update branding from TripTrap to ParagonTrails in Header component for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ca37e1</div>
+                                        <div class="message">Add embla-carousel and embla-carousel-react dependencies for enhanced carousel functionality</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c80ea4</div>
+                                        <div class="message">Update imageHosts in next.config.ts and enhance HomePage layout for improved structure and readability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60552ba</div>
+                                        <div class="message">Enhance HomePage layout with responsive design adjustments, including mobile search card and improved hero section for better user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4752b5d</div>
+                                        <div class="message">Refactor Header component to use Next.js Link for navigation and update branding from ParagonTrails to TripTrap for improved consistency and performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62b7456</div>
+                                        <div class="message">Enhance HomePage with improved text clarity, added Booking Experience and Sophisticated Stays sections for a more engaging user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2ee5ed</div>
+                                        <div class="message">Refactor Footer component with updated branding, improved layout, and enhanced social media links for better user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fff5ff</div>
+                                        <div class="message">Revamp Footer component with newsletter subscription, enhanced layout, and social media links for improved user engagement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd9ebad</div>
+                                        <div class="message">Enhance Header component with new action buttons and improved layout for better user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a50a004</div>
+                                        <div class="message">Refactor HomePage layout and improve UI consistency with updated styles and structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7213a0b</div>
+                                        <div class="message">Add utility functions for string and number formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35dae43</div>
+                                        <div class="message">start over</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -386,210 +470,6 @@ Removes redundant hardcoded descriptors, ensuring scalability and maintainabilit
                                     <div class="commit">
                                         <div class="sha">#51be1c8</div>
                                         <div class="message">Implement new feature for user authentication and improve error handling</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ad68f78</div>
-                                        <div class="message">Updates motorcycle rental configurations for Amalfi Coast and Amsterdam
-
-Refines motorcycle rental data by replacing outdated models, adjusting specifications, and enhancing availability for better user experience.
-
-Implements new motorcycles with updated features, pricing, and requirements across both locations.
-
-Focuses on improving rental offerings and ensuring data accuracy for enhanced customer service.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#801e351</div>
-                                        <div class="message">Refactors car rental data for Amalfi Coast and Amsterdam
-
-Updates car rental listings by removing outdated entries and replacing them with new luxury models.
-
-Enhances user experience by featuring a wider selection of vehicles and improving rental details such as pricing, specifications, and availability.
-
-Ensures consistency in data format and maintains the auto-generated status for future updates.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#981812e</div>
-                                        <div class="message">Adds generation date to motorcycle rental files
-
-Includes the current date in ISO format within the auto-generated city files for motorcycle rentals. This enhancement improves clarity by indicating when the file was created, facilitating better tracking of generated content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f826465</div>
-                                        <div class="message">Adds metadata to generated city guide files
-
-Enhances generated city guide files by including metadata such as the tour guide title, region, and generation date.
-
-This improvement aids in better organization and provides context for users interacting with the generated files.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#739abca</div>
-                                        <div class="message">Adds new hotel room options and updates hotel details
-
-Introduces room options for Borgo Antico and Hotel Capri Mare, enhancing the diversity of accommodations available.
-
-Removes outdated room definitions for Grand Hotel Roma, Hotel Bella Napoli, and La Casa di Marco, streamlining the hotel data.
-
-Updates key details for existing hotels, including contact information and cancellation policies, improving user experience and accuracy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a6d949</div>
-                                        <div class="message">Updates room options generation to include timestamp
-
-Enhances the auto-generated room options file by adding a timestamp indicating when the file was generated.
-
-Imports the RoomOption interface after the timestamp comment for better organization and clarity in the generated content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40a6b68</div>
-                                        <div class="message">Adds generation metadata to homestay location files
-
-Enhances generated homestay files by including metadata such as generation date, city, region, and country.
-
-This improvement aids in tracking the context and origin of the generated data, ensuring better maintainability and clarity for users.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f32eba6</div>
-                                        <div class="message">Adds auto-generated file notice and timestamp to hotel files
-
-Includes a warning against manual edits and adds a timestamp for when the file was generated. This improves clarity and maintains accurate documentation for generated files.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5defe9</div>
-                                        <div class="message">Updates homestay listings for Amalfi Coast and Amsterdam
-
-Replaces existing host details with new entries for improved variety and accuracy.
-
-Enhances guest policies, availability times, and contact information for better user experience.
-
-Increases representation of different types of hosts and their unique offerings, making the listings more appealing to potential guests.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6b87a6</div>
-                                        <div class="message">Adds generation timestamp to auto-generated city files
-
-Includes a timestamp in the header of auto-generated city files to indicate when they were created.
-
-This helps track file generation times for better version control and auditing purposes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77fa8e6</div>
-                                        <div class="message">Adds generation timestamp to city tour files
-
-Includes a timestamp in the auto-generated city tour files to indicate when they were created. This enhances file traceability and aids in maintaining up-to-date documentation for users and developers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63f8051</div>
-                                        <div class="message">Update generation timestamp for city attractions files
-
-Enhances the auto-generated files by adding a timestamp comment indicating the date of generation.
-
-This change improves the traceability of the files and provides clarity on when the data was last updated, which can be useful for maintenance and debugging purposes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#417de29</div>
-                                        <div class="message">Adds generation date to city testimonials file
-
-Includes the current date in ISO format as a comment at the top of the auto-generated city testimonials file. This enhancement improves file metadata for better tracking and documentation purposes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#464b8dc</div>
-                                        <div class="message">Adds generation date to city car rental files
-
-Includes the generation date in the auto-generated luxury car rental files to provide better context for when the file was created.
-
-This enhancement improves traceability and helps developers understand the recency of the generated data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a109992</div>
-                                        <div class="message">Adds timestamp to auto-generated attractions file
-
-Includes the generation date in the header comment of the attractions file to indicate when it was created.
-
-This change enhances traceability and helps prevent manual edits by clearly showing the file's generation time.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ea3717</div>
-                                        <div class="message">Adds new hotel names to the shared hotel data
-
-Introduces several new hotel names to enhance the diversity of options available in the shared hotel data.
-
-These additions aim to improve user experience by offering a broader selection of accommodations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0815d17</div>
-                                        <div class="message">Enhances screen size hooks with customizable breakpoints
-
-Updates the `useMediumScreen` and `useSmallScreen` hooks to accept a customizable breakpoint parameter, allowing for greater flexibility in screen size determination.
-
-Removes the debounce function to streamline the resize handling process, ensuring immediate updates to screen state.
-
-Sets the initial state upon component mounting and ensures proper cleanup of event listeners during unmounting.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#659098d</div>
-                                        <div class="message">Adds custom hook for large screen detection
-
-Implements a new custom hook that detects if the viewport width exceeds a specified breakpoint.
-
-This improves responsiveness by allowing components to conditionally render based on screen size.
-
-The hook sets up an event listener for window resize events and cleans up after itself to prevent memory leaks.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da04171</div>
-                                        <div class="message">Removes unused attraction name variable from page logic
-
-Eliminates the redundant attraction name variable, simplifying the event handler for the button click action.
-
-This change enhances code clarity and maintains functionality without unnecessary variables.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39a4193</div>
-                                        <div class="message">Enhances city attraction page layout and responsiveness
-
-Improves the layout of the city attraction page by introducing responsive design elements for better user experience across different screen sizes.
-
-Adds navigation links to explore tours and testimonials, facilitating easier access to related content.
-
-Integrates hooks for screen size detection to dynamically adjust button styles based on the device.
-
-Refines the main content structure for improved clarity and usability.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#236b1c8</div>
-                                        <div class="message">Update .gitignore to include scripts and source directories</div>
                                     </div>
                                 </div>
                             </section>
