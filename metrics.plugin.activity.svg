@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1510" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1211" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories,.track{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.audit.text{min-width:42px}.audit svg{margin:0}.track{justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories,.track{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.track{justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,34 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/velari-voyages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d198ac7</div>
+                                        <div class="message">Removes deprecated booking dashboard and trip pages
+
+Eliminates the login dashboard and trip booking pages to streamline the application. This cleanup helps maintain codebase integrity and simplifies future development efforts by removing unused components.
+
+No further functionality is affected, as these pages were no longer in use.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ffa485</div>
+                                        <div class="message">Remove data validation utilities and cruise vessel validation script</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -562,210 +590,6 @@ Refines the main content structure for improved clarity and usability.</div>
                                     <div class="commit">
                                         <div class="sha">#236b1c8</div>
                                         <div class="message">Update .gitignore to include scripts and source directories</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 69 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ee8192b</div>
-                                        <div class="message">Adds script for full development reset and data regeneration
-
-Introduces a new script that deletes all generated data files and executes generation scripts in the correct order for a complete development environment reset.
-
-This improvement streamlines the development process by automating data cleanup and regeneration, ensuring a fresh state for testing and development.
-
-Improves error handling during script execution.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12c77af</div>
-                                        <div class="message">Standardizes country names and regional designations
-
-Updates country names for consistency, replacing "U.S. Virgin Islands" with "US Virgin Islands" and standardizing "Bosnia &amp; Herzegovina" to "Bosnia and Herzegovina".
-
-Additionally, simplifies regional designations by removing unnecessary qualifiers, such as changing "Georgia (Caucasus)" to "Georgia" and "Catalonia (Spain)" to "Catalonia".
-
-These changes enhance clarity and maintain uniformity across the codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c27fb8a</div>
-                                        <div class="message">Improves string normalization functions
-
-Updates the `removeSpecialCharacters` function to allow hyphens in addition to alphanumeric characters and spaces.
-
-Adds a new `normalizeString` function that combines accent removal and special character filtering for better string formatting.
-
-These changes enhance the overall string handling capabilities in the utility module.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fa5142</div>
-                                        <div class="message">Refactors attraction details structure for consistency
-
-Updates the attraction details format to a consistent JSON-like structure, enhancing readability and maintainability.
-
-Standardizes opening hours and attributes for various attractions, improving data integrity and future extensibility.
-
-No functional changes are introduced; changes focus on structural improvements for better data handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7550a4</div>
-                                        <div class="message">Refactors attraction data structure for better clarity
-
-Updates the attraction data structure to use consistent key formatting and improves readability by organizing the data more clearly.
-
-No functional changes were introduced; the refactor aims to enhance maintainability and facilitate future updates.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e40d2a</div>
-                                        <div class="message">Refactors tour themes and titles for better organization
-
-Updates the structure of tour themes and titles to enhance clarity and maintainability.
-
-Introduces new themes and a streamlined title mapping, consolidating and simplifying the existing array for improved usability.
-
-Adds a utility function to remove special characters from titles, ensuring consistency in formatting.
-
-Enhances the overall user experience by providing a more cohesive and organized approach to tour management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e1f826</div>
-                                        <div class="message">Adds city attractions auditing script
-
-Implements a Node.js script to audit and synchronize city and attraction data.
-
-The script loads city files, attraction basic information, and details, compares them, and generates a comprehensive audit report.
-
-This addition addresses data consistency issues and ensures that the city and attraction datasets are properly aligned and populated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95676bd</div>
-                                        <div class="message">Adds script to generate missing attraction info for cities
-
-Implements a script that generates basic and detailed attraction information for cities based on existing city files.
-
-The script fills in missing entries without overwriting existing data, ensuring the attraction data remains up-to-date and comprehensive.
-
-It provides default values for attractions not previously listed and includes a fallback mechanism for cities lacking specific attractions.
-
-Generates updated files only when new information is added.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68365fc</div>
-                                        <div class="message">Removes and updates city data in the city constants
-
-Reduces the number of cities listed by removing several entries, streamlining the dataset.
-
-Updates the region for "Amalfi Coast" to "Italy" and changes the region for "Auckland" to "New Zealand."
-
-Additionally, replaces "Bangkok" with "Amsterdam," preserving its details while maintaining clarity in the city dataset.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18cfd33</div>
-                                        <div class="message">Adds new cities to the cityFiles list
-
-Updates the cityFiles array to include additional cities, enhancing the geographical diversity of options available.
-
-Removes some existing cities to streamline the list and improve relevance.
-
-Adds new city data for Sapa, providing a detailed description to enrich user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8265495</div>
-                                        <div class="message">Updates geographic and currency mappings for accuracy
-
-Refines country and city mappings to ensure accuracy,
-including changes to the representation of Fiji, Patagonia,
-and several countries' currencies.
-
-Adds new currency rates for Jamaica, Dominican Republic,
-Taiwan, and Cambodia to enhance currency data completeness.
-
-Removes outdated mappings for Croatia and Eurozone countries
-to streamline currency associations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8472577</div>
-                                        <div class="message">Refactors country names for Bosnia and Herzegovina to improve consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2cc2d7</div>
-                                        <div class="message">Refactors city and region mappings for improved organization and clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e584450</div>
-                                        <div class="message">Updates city names and adds new city entries
-
-Renames "New York" to "New York City" for accuracy.
-
-Adds new city entries for Sitka, Skagway, Svaneti Region, Washington, and Xi'an, enhancing the city dataset.
-
-Improves overall representation of cities in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43a7609</div>
-                                        <div class="message">Refactors hotel filter options for improved clarity
-
-Enhances the filtering logic for hotel options by consolidating unique value extraction into a reusable helper function.
-
-This change streamlines the filtering process, making it easier to manage and understand the conditions for each selection.
-
-Additionally, updates the UI components to utilize the new filtered values, ensuring a consistent and efficient user experience across all filter categories.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4af1355</div>
-                                        <div class="message">Improves car rental filter options functionality
-
-Enhances the filtering logic for car rental options by implementing a dynamic method to generate unique values based on current selections.
-
-This change addresses the need for more accurate filter options in the dropdowns, allowing users to see only the relevant choices based on their selections, thereby improving the overall user experience.
-
-Additionally, it replaces previously hardcoded unique values with dynamically generated ones for various car attributes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea093d7</div>
-                                        <div class="message">Refactors motorcycle filter logic for improved usability
-
-Enhances the filtering system by replacing hardcoded unique values with dynamic options based on current selections.
-
-This change allows users to see only relevant choices in dropdown menus, improving the overall user experience and making it easier to find motorcycles that meet specific criteria.
-
-Also updates the filtering logic for features, ensuring it accurately reflects the selected motorcycle attributes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7db5a4</div>
-                                        <div class="message">Improves type safety for city data mappings
-
-Enhances type safety by specifying the key types when accessing city-to-region and city-to-country mappings.
-
-This change ensures better type checking and reduces potential runtime errors related to undefined values in the mappings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f91afe</div>
-                                        <div class="message">Adds new cities and updates existing city information
-
-Enhances the city and country mapping by adding new cities, such as Puerto Vallarta and Punta Cana, and correcting existing entries like Zanzibar.
-
-Updates geographical coordinates and regions to improve accuracy and support for additional locations.
-
-Improves overall data completeness for geographic utilities.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd0df59</div>
-                                        <div class="message">Adds new cities and enhances city information
-
-Updates the city data by adding numerous new cities and enhancing existing city entries with additional details such as region, country, subtitle, and quotes. This change enriches the dataset and provides a more comprehensive representation of global cities.</div>
                                     </div>
                                 </div>
                             </section>
