@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1311" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.activity .field,.organization.name{white-space:nowrap}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.activity .field,.organization.name{white-space:nowrap}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd8bea0</div>
+                                        <div class="message">Wraps order confirmation and tracking pages with Suspense
+
+Improves user experience by preventing hydration mismatches and providing loading states during server-side rendering.
+
+Extracts main page content into separate components and adds custom loading fallbacks with skeleton animations to maintain visual consistency while pages load.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -442,226 +466,6 @@ Enhances styling with better hover states and focus management for improved user
 Creates a new shopping landing page that displays product categories in a responsive grid layout. Users can browse and navigate to different shopping sections including men's and women's clothing, electronics, and jewelry.
 
 Provides clear category descriptions and intuitive navigation to enhance the shopping experience.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 141 commits in
-                                        <span class="repo">tmchuynh/paragon-trails</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6ecf1cb</div>
-                                        <div class="message">Refactors vehicle data handling to use asynchronous fetching
-
-Implements asynchronous data fetching for vehicle information instead of relying on mock data.
-
-Updates state management to handle loading states and errors during data retrieval.
-
-Refactors various computations and filtering logic to interact with the fetched vehicle data, ensuring a more dynamic and responsive application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2037cf5</div>
-                                        <div class="message">Fetch tours data from mock API instead of static data
-
-Implements data fetching for tours using a mock API, replacing static data.
-
-Updates state management to handle loading and error scenarios.
-
-Adjusts filtering logic to utilize fetched tours data for dynamic filtering options.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9192768</div>
-                                        <div class="message">Fetches hotel data from a mock API
-
-Implements data fetching for hotel information using a mock API.
-
-Replaces the use of hardcoded mock hotels with dynamic data retrieval, enhancing the component's flexibility and maintainability.
-
-Updates filtering and pricing calculations to utilize the fetched hotel data instead of static values.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5908c3</div>
-                                        <div class="message">Refactors flight data handling to use async fetching
-
-Improves the Flights and FlightDetails pages by replacing the static mock flight data with an asynchronous fetch from a data source.
-
-Enhances user experience by implementing a loading state while flight details are being retrieved.
-
-Updates the rendering logic to ensure the application reacts correctly to the fetched flight data.
-
-Fixes potential issues with direct data manipulation and prepares the application for future integrations with real flight data APIs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29b7caf</div>
-                                        <div class="message">Refactors destination data handling to use async fetching
-
-Updates the destination details and general destination pages to replace mock data with asynchronous fetching of destination-related data.
-
-Implements state management for loading and error handling during data fetching, enhancing the user experience.
-
-This change allows for dynamic data retrieval, improving scalability and maintainability of the codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f4787f</div>
-                                        <div class="message">Fetches attractions data and updates state management
-
-Implements data fetching for attractions using a mock API.
-
-Replaces static mock data with dynamic data from the API, enhancing the application’s responsiveness to data updates.
-
-Updates state management to handle loading states and integrates the fetched data into the filtering logic for improved user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65f2e63</div>
-                                        <div class="message">Refactors attraction loading to use asynchronous fetching
-
-Updates the attraction details page to fetch attractions asynchronously instead of using a mock data array.
-
-Implements loading state management and error handling during data fetching.
-
-Replaces instances of the hardcoded mock data with dynamically fetched attractions, enhancing flexibility and maintaining up-to-date information.
-
-Improves overall code structure and readability by utilizing state management for attractions and the current attraction.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e91c5fb</div>
-                                        <div class="message">Refactors activity and tour data fetching in ActivityDetailsPage
-
-Updates the ActivityDetailsPage to replace mock data with asynchronous data fetching for activities and tours.
-
-Implements loading state management while data is being fetched and optimizes activity selection based on the fetched data.
-
-This change enhances the component's responsiveness and prepares it for integration with real data sources.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ab19ea</div>
-                                        <div class="message">Refactors user data fetching in rewards page
-
-Updates the rewards page to fetch user data asynchronously instead of using mock data directly.
-
-Introduces loading state management to enhance user experience while data is being retrieved.
-
-Updates the user data state once the current user information is loaded, ensuring accurate representation of rewards and points.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8134e8f</div>
-                                        <div class="message">Adds trip and budget statistics retrieval and loading state
-
-Implements fetching and displaying trip and budget statistics for users in the dashboard.
-
-Introduces state management for trip and budget stats, including total trips, completed trips, total spent, and budget achievements.
-
-Implements a loading state to enhance user experience while data is being fetched.
-
-Refines displayed information to accurately represent trip completion and budget achievements.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19ae99a</div>
-                                        <div class="message">Adds user-specific trip fetching and loading state
-
-Implements data fetching for user trips using `getTripsByUser`, enhancing the user experience by displaying a loading state while the trips are being retrieved.
-
-Filters completed and upcoming trips based on their end dates, improving the accuracy of displayed past trips.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eca2861</div>
-                                        <div class="message">Adds trip fetching and loading state to MyTripsSection
-
-Implements data fetching for user trips in MyTripsSection.
-
-Introduces loading state to improve user experience while trips are being retrieved.
-
-Handles potential errors during the fetching process and displays a loading indicator.
-
-Updates trip filtering logic to utilize fetched trips.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a55ce24</div>
-                                        <div class="message">Refactors favorites page to use typed state management
-
-Updates the FavoritesPage component to utilize TypeScript interfaces for better type safety in state management.
-
-Replaces generic `any[]` types with specific types for users, hotels, flights, tours, destinations, attractions, activities, and vehicles.
-
-Enhances code clarity and maintainability by ensuring type consistency throughout the component's state and filtering logic.
-
-Additionally, introduces a loading state UI to improve user experience during data fetching.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd72e93</div>
-                                        <div class="message">Adds data fetching for user budgets and trips
-
-Implements data retrieval for user budgets and trips using asynchronous calls.
-
-Introduces loading state handling to improve user experience during data fetching.
-
-Ensures fallback on error by resetting state and displaying loading indicators.
-
-Enhances the component's responsiveness to user context changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd428c6</div>
-                                        <div class="message">Adds data fetching for favorites page using mock APIs
-
-Implements state management and data fetching for users, hotels, flights, tours, destinations, attractions, activities, and vehicles on the favorites page.
-
-Utilizes mock API functions to retrieve data asynchronously and updates the component state accordingly.
-
-Enhances user experience by ensuring accurate and dynamic rendering of favorite items based on fetched data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#991960a</div>
-                                        <div class="message">Adds budget and trip retrieval functions
-
-Introduces functions to fetch budgets and trips by user, enhancing data management capabilities within the account dashboard.
-
-This change sets the stage for improved user-specific data handling in future features.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#297bff1</div>
-                                        <div class="message">Enhances loading and error handling for activities
-
-Implements loading and error states for the activities page.
-
-Loads activity data asynchronously, displaying a loading indicator while fetching and providing error feedback if the request fails. Updates filters and calculations based on the retrieved data, improving user experience and data integrity.
-
-Relates to issue #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7fb3c7</div>
-                                        <div class="message">Adds user-related budget, trip, and favorites retrieval
-
-Implements new functions to retrieve budgets, trips, and favorites for a user.
-
-These additions enhance the user service capabilities, allowing for better data management and user experience.
-
-No existing functionality is broken, ensuring backward compatibility is maintained.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7893d0</div>
-                                        <div class="message">Adds user-related budget, favorites, and trip retrieval methods
-
-Implements new static methods to fetch budgets, user favorites, and trips for a specified user, enhancing user data management capabilities.
-
-These methods utilize caching to improve performance and minimize redundant API calls. Each method simulates fetching data and handles errors gracefully, ensuring a robust user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0729ddf</div>
-                                        <div class="message">Adds user metrics for last year and new trip details
-
-Enhances the user service by incorporating metrics for total spending in the last year and introducing fields for favorite destinations, upcoming trips, and recent activities.
-
-These additions aim to provide a more comprehensive view of user engagement and activity, improving the overall functionality of the user service.</div>
                                     </div>
                                 </div>
                             </section>
