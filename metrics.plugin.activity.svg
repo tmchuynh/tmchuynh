@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1077" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1943" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.field.language{margin:0 8px;flex-grow:0}.categories,.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.categories{align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.activity .field,.organization.name{white-space:nowrap}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,15 +22,415 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 57 commits in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f0e34fd</div>
+                                        <div class="message">Improves shopping page layout and error handling
+
+Enhances the shopping categories page with better visual design using card components and improved spacing. Adds a more user-friendly error state with an icon and navigation button to help users return home when categories fail to load.
+
+Updates the grid layout to be more responsive and replaces plain text links with styled card components for better user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d621ce4</div>
+                                        <div class="message">Refactors product detail page to use product names instead of IDs
+
+Changes API integration from fetching by product ID to searching by product title, improving URL readability and user experience.
+
+Removes inline StarRating component in favor of reusable utility function from shared library.
+
+Adds back navigation button and improves layout styling with better spacing and responsive design.
+
+Updates error handling and loading states to reflect the new search-based approach.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#270c7b8</div>
+                                        <div class="message">Adds legacy behavior to category links for improved compatibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f43c88a</div>
+                                        <div class="message">Refactors navigation links to use legacy behavior for improved compatibility</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bebf50</div>
+                                        <div class="message">Refactors breadcrumb component for better UX and performance
+
+Simplifies the breadcrumb implementation by removing dropdown functionality and complex state management in favor of a cleaner, more accessible design.
+
+Improves visual hierarchy with better spacing, typography, and hover states while adding smart path collapsing for long URLs to prevent UI overflow.
+
+Enhances accessibility with proper ARIA patterns and keyboard navigation support, and optimizes performance by eliminating unnecessary API calls and state updates.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f88ce86</div>
+                                        <div class="message">Adds product detail page with image gallery and reviews
+
+Creates a comprehensive product detail view that fetches product data from API and displays complete product information including pricing, availability, and customer reviews.
+
+Implements image gallery with thumbnail selection, star rating component for reviews, breadcrumb navigation, and responsive layout. Handles loading states, error handling, and currency formatting integration.
+
+Supports discount pricing display, stock availability indicators, shipping/warranty information, and minimum order quantity details.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#022314c</div>
+                                        <div class="message">Simplifies provider structure and adds theme support
+
+Removes multiple nested context providers and replaces them with a streamlined setup focused on essential functionality.
+
+Adds ThemeProvider with class attribute support, light default theme, and system theme detection to enable dark/light mode switching.
+
+Retains CurrencyProvider and introduces NotFoundProvider while removing Auth, Customer, Product, Wishlist, Payment, and Cart providers to reduce complexity.
+
+Improves code documentation with JSDoc annotations explaining component purpose and parameters.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01ec603</div>
+                                        <div class="message">Simplifies layout structure and consolidates components
+
+Removes multiple wrapper providers and consolidates navigation components into a single Header component.
+
+Streamlines the component hierarchy by eliminating NotFoundProvider and ThemeProvider wrappers while moving theme management to the Providers component.
+
+Updates styling with relative positioning and adjusted margins for better layout control.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca90d95</div>
+                                        <div class="message">Adds product grid component with currency formatting
+
+Creates a responsive grid layout for displaying products with proper image handling and navigation links.
+
+Integrates currency context to format prices according to user preferences, improving internationalization support.
+
+Implements hover effects and responsive design that adapts from single column on mobile to four columns on extra large screens.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#387b6b2</div>
+                                        <div class="message">Adds currency status indicator component
+
+Provides visual feedback for currency rate loading states and error handling.
+
+Displays a spinning loader with "Loading rates..." text during data fetching and shows an error icon with retry button when rate updates fail.
+
+Improves user experience by making currency operations more transparent and recoverable.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b061178</div>
+                                        <div class="message">Refactors currency context with improved API handling
+
+Simplifies currency management by removing complex tax-related functionality and consolidating currency operations into a cleaner interface.
+
+Improves exchange rate fetching with better error handling and automatic fallback to static rates when API is unavailable or fails.
+
+Streamlines the currency data structure and reduces dependencies on external constants while maintaining all core conversion and formatting capabilities.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90f3484</div>
+                                        <div class="message">Enhances UI components with modern variants and styling
+
+Expands badge, button, dropdown menu, and select components with comprehensive variant systems including modern, minimal, glass, and professional styling options.
+
+Adds size variants and improved accessibility features with proper focus states, hover effects, and animation support.
+
+Replaces React Icons with Lucide React icons for consistency and updates import organization for better code structure.
+
+Introduces variant-based styling using class-variance-authority for better maintainability and design system coherence.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5a0377</div>
+                                        <div class="message">Adds forbidden access error page
+
+Provides users with clear feedback when attempting to access unauthorized resources.
+
+Includes navigation back to home page for better user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa87da4</div>
+                                        <div class="message">Adds core library utilities and navigation structure
+
+Establishes foundational TypeScript utilities including class name merging,
+string formatting functions, and comprehensive type definitions for products,
+users, and UI components.
+
+Creates navigation configuration supporting multi-level dropdown menus for
+travel booking, trip planning, and content discovery features.
+
+Updates interface definitions to align with DummyJSON API structure while
+maintaining backward compatibility for existing components.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5dcfe8</div>
+                                        <div class="message">Remove unused navigation components
+
+Cleans up codebase by eliminating navigation-related UI components that are no longer needed, including footer, sidebar navigation elements, and navigation menu primitives.
+
+Reduces bundle size and simplifies the component structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#033c691</div>
+                                        <div class="message">Updates project configuration and dependencies
+
+Migrates from Tailwind config file to inline configuration and switches from slate to neutral color scheme for better design consistency.
+
+Updates icon library reference to correct package name and reorganizes import statements for better code organization.
+
+Streamlines Next.js configuration by removing experimental features, environment variables, and bundle analyzer setup while expanding image host allowlist for broader external image support.
+
+Adds Lucide React icons package and updates multiple dependencies to latest versions for improved performance and security.
+
+Enhances TypeScript configuration with comprehensive path mappings for better import organization and developer experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74196bb</div>
+                                        <div class="message">Refactors theme toggle from switch to button component
+
+Moves ThemeToggle component to buttons directory and replaces Switch UI with Toggle button for better UX.
+
+Improves accessibility with proper aria-labels and screen reader support.
+
+Optimizes performance by memoizing toggle button content to prevent unnecessary re-renders.
+
+Enhances styling with better hover states and focus management for improved user interaction.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b23781c</div>
+                                        <div class="message">remove files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbcc95b</div>
+                                        <div class="message">remove files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9f3376</div>
+                                        <div class="message">Adds shopping category page with navigation grid
+
+Creates a new shopping landing page that displays product categories in a responsive grid layout. Users can browse and navigate to different shopping sections including men's and women's clothing, electronics, and jewelry.
+
+Provides clear category descriptions and intuitive navigation to enhance the shopping experience.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 141 commits in
                                         <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bbab53c</div>
-                                        <div class="message">Add Property Showcase section with carousel and details for enhanced user experience</div>
+                                        <div class="sha">#6ecf1cb</div>
+                                        <div class="message">Refactors vehicle data handling to use asynchronous fetching
+
+Implements asynchronous data fetching for vehicle information instead of relying on mock data.
+
+Updates state management to handle loading states and errors during data retrieval.
+
+Refactors various computations and filtering logic to interact with the fetched vehicle data, ensuring a more dynamic and responsive application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2037cf5</div>
+                                        <div class="message">Fetch tours data from mock API instead of static data
+
+Implements data fetching for tours using a mock API, replacing static data.
+
+Updates state management to handle loading and error scenarios.
+
+Adjusts filtering logic to utilize fetched tours data for dynamic filtering options.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9192768</div>
+                                        <div class="message">Fetches hotel data from a mock API
+
+Implements data fetching for hotel information using a mock API.
+
+Replaces the use of hardcoded mock hotels with dynamic data retrieval, enhancing the component's flexibility and maintainability.
+
+Updates filtering and pricing calculations to utilize the fetched hotel data instead of static values.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5908c3</div>
+                                        <div class="message">Refactors flight data handling to use async fetching
+
+Improves the Flights and FlightDetails pages by replacing the static mock flight data with an asynchronous fetch from a data source.
+
+Enhances user experience by implementing a loading state while flight details are being retrieved.
+
+Updates the rendering logic to ensure the application reacts correctly to the fetched flight data.
+
+Fixes potential issues with direct data manipulation and prepares the application for future integrations with real flight data APIs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29b7caf</div>
+                                        <div class="message">Refactors destination data handling to use async fetching
+
+Updates the destination details and general destination pages to replace mock data with asynchronous fetching of destination-related data.
+
+Implements state management for loading and error handling during data fetching, enhancing the user experience.
+
+This change allows for dynamic data retrieval, improving scalability and maintainability of the codebase.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f4787f</div>
+                                        <div class="message">Fetches attractions data and updates state management
+
+Implements data fetching for attractions using a mock API.
+
+Replaces static mock data with dynamic data from the API, enhancing the application’s responsiveness to data updates.
+
+Updates state management to handle loading states and integrates the fetched data into the filtering logic for improved user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65f2e63</div>
+                                        <div class="message">Refactors attraction loading to use asynchronous fetching
+
+Updates the attraction details page to fetch attractions asynchronously instead of using a mock data array.
+
+Implements loading state management and error handling during data fetching.
+
+Replaces instances of the hardcoded mock data with dynamically fetched attractions, enhancing flexibility and maintaining up-to-date information.
+
+Improves overall code structure and readability by utilizing state management for attractions and the current attraction.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e91c5fb</div>
+                                        <div class="message">Refactors activity and tour data fetching in ActivityDetailsPage
+
+Updates the ActivityDetailsPage to replace mock data with asynchronous data fetching for activities and tours.
+
+Implements loading state management while data is being fetched and optimizes activity selection based on the fetched data.
+
+This change enhances the component's responsiveness and prepares it for integration with real data sources.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ab19ea</div>
+                                        <div class="message">Refactors user data fetching in rewards page
+
+Updates the rewards page to fetch user data asynchronously instead of using mock data directly.
+
+Introduces loading state management to enhance user experience while data is being retrieved.
+
+Updates the user data state once the current user information is loaded, ensuring accurate representation of rewards and points.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8134e8f</div>
+                                        <div class="message">Adds trip and budget statistics retrieval and loading state
+
+Implements fetching and displaying trip and budget statistics for users in the dashboard.
+
+Introduces state management for trip and budget stats, including total trips, completed trips, total spent, and budget achievements.
+
+Implements a loading state to enhance user experience while data is being fetched.
+
+Refines displayed information to accurately represent trip completion and budget achievements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19ae99a</div>
+                                        <div class="message">Adds user-specific trip fetching and loading state
+
+Implements data fetching for user trips using `getTripsByUser`, enhancing the user experience by displaying a loading state while the trips are being retrieved.
+
+Filters completed and upcoming trips based on their end dates, improving the accuracy of displayed past trips.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eca2861</div>
+                                        <div class="message">Adds trip fetching and loading state to MyTripsSection
+
+Implements data fetching for user trips in MyTripsSection.
+
+Introduces loading state to improve user experience while trips are being retrieved.
+
+Handles potential errors during the fetching process and displays a loading indicator.
+
+Updates trip filtering logic to utilize fetched trips.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a55ce24</div>
+                                        <div class="message">Refactors favorites page to use typed state management
+
+Updates the FavoritesPage component to utilize TypeScript interfaces for better type safety in state management.
+
+Replaces generic `any[]` types with specific types for users, hotels, flights, tours, destinations, attractions, activities, and vehicles.
+
+Enhances code clarity and maintainability by ensuring type consistency throughout the component's state and filtering logic.
+
+Additionally, introduces a loading state UI to improve user experience during data fetching.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd72e93</div>
+                                        <div class="message">Adds data fetching for user budgets and trips
+
+Implements data retrieval for user budgets and trips using asynchronous calls.
+
+Introduces loading state handling to improve user experience during data fetching.
+
+Ensures fallback on error by resetting state and displaying loading indicators.
+
+Enhances the component's responsiveness to user context changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd428c6</div>
+                                        <div class="message">Adds data fetching for favorites page using mock APIs
+
+Implements state management and data fetching for users, hotels, flights, tours, destinations, attractions, activities, and vehicles on the favorites page.
+
+Utilizes mock API functions to retrieve data asynchronously and updates the component state accordingly.
+
+Enhances user experience by ensuring accurate and dynamic rendering of favorite items based on fetched data.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#991960a</div>
+                                        <div class="message">Adds budget and trip retrieval functions
+
+Introduces functions to fetch budgets and trips by user, enhancing data management capabilities within the account dashboard.
+
+This change sets the stage for improved user-specific data handling in future features.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#297bff1</div>
+                                        <div class="message">Enhances loading and error handling for activities
+
+Implements loading and error states for the activities page.
+
+Loads activity data asynchronously, displaying a loading indicator while fetching and providing error feedback if the request fails. Updates filters and calculations based on the retrieved data, improving user experience and data integrity.
+
+Relates to issue #123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7fb3c7</div>
+                                        <div class="message">Adds user-related budget, trip, and favorites retrieval
+
+Implements new functions to retrieve budgets, trips, and favorites for a user.
+
+These additions enhance the user service capabilities, allowing for better data management and user experience.
+
+No existing functionality is broken, ensuring backward compatibility is maintained.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7893d0</div>
+                                        <div class="message">Adds user-related budget, favorites, and trip retrieval methods
+
+Implements new static methods to fetch budgets, user favorites, and trips for a specified user, enhancing user data management capabilities.
+
+These methods utilize caching to improve performance and minimize redundant API calls. Each method simulates fetching data and handles errors gracefully, ensuring a robust user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0729ddf</div>
+                                        <div class="message">Adds user metrics for last year and new trip details
+
+Enhances the user service by incorporating metrics for total spending in the last year and introducing fields for favorite destinations, upcoming trips, and recent activities.
+
+These additions aim to provide a more comprehensive view of user engagement and activity, improving the overall functionality of the user service.</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,59 +442,207 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 54 commits in
                                         <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#34ae3a7</div>
-                                        <div class="message">Update branding from TripTrap to ParagonTrails in Header component for consistency</div>
+                                        <div class="sha">#d33209d</div>
+                                        <div class="message">Adds new reward activities and improves dashboard layout
+
+Introduces new reward redemption and expired reward entries to enhance user engagement and tracking.
+
+Improves the dashboard layout by refining component structures and styles, ensuring a better user experience across various activities.
+
+Updates the helper function to format days left for better clarity on rewards, and adjusts event handling for activity items.
+
+Enhances visual feedback on activity status with clearer color indications and conditional styling.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9ca37e1</div>
-                                        <div class="message">Add embla-carousel and embla-carousel-react dependencies for enhanced carousel functionality</div>
+                                        <div class="sha">#eddbf9c</div>
+                                        <div class="message">Enhances rewards page with user data integration
+
+Updates the rewards page to utilize user-specific data instead of mock data.
+
+Introduces interfaces for reward and activity data structures, improving type safety.
+
+Implements state management for user data, available rewards, and points history.
+
+Adds functionality for redeeming rewards, reflecting changes in points and activity history dynamically.
+
+Improves overall user experience by displaying accurate current points, tier, and redeemable rewards.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4c80ea4</div>
-                                        <div class="message">Update imageHosts in next.config.ts and enhance HomePage layout for improved structure and readability</div>
+                                        <div class="sha">#98a824b</div>
+                                        <div class="message">Adds trip management and budget overview features
+
+Implements user authentication check for trip visibility, enhancing user experience by prompting login if not authenticated.
+
+Introduces a card-based stats overview displaying total trips, upcoming trips, total spent, and budget progress, providing users with valuable insights into their travel plans and finances.
+
+Includes quick action buttons for planning new trips, accessing the budget calculator, and exploring destinations, streamlining navigation within the app.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#60552ba</div>
-                                        <div class="message">Enhance HomePage layout with responsive design adjustments, including mobile search card and improved hero section for better user engagement</div>
+                                        <div class="sha">#727db55</div>
+                                        <div class="message">Adds history page to view user reward and booking activities
+
+Implements a new history page that allows users to view their bookings, activities, and reward transactions.
+
+Includes filtering and searching capabilities for improved user experience.
+
+Ensures users must be authenticated to access the page, enhancing security.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4752b5d</div>
-                                        <div class="message">Refactor Header component to use Next.js Link for navigation and update branding from ParagonTrails to TripTrap for improved consistency and performance</div>
+                                        <div class="sha">#c8776a6</div>
+                                        <div class="message">Refactors badge styles and improves type color handling
+
+Updates badge variants across multiple components for a more consistent design.
+
+Refactors the `getTypeColor` function in various cards to utilize gradient classes instead of background color classes, enhancing visual appeal.
+
+Modifies type definitions from string to Date for check-in and check-out dates in the hotel card to improve data handling.
+
+Improves user interface interactions by adjusting styles and layout properties, ensuring better responsiveness and user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#62b7456</div>
-                                        <div class="message">Enhance HomePage with improved text clarity, added Booking Experience and Sophisticated Stays sections for a more engaging user experience</div>
+                                        <div class="sha">#ac72a3b</div>
+                                        <div class="message">Improves footer icon visibility with text color change
+
+Updates the footer component to enhance the visibility of the globe icon by changing its text color to white, ensuring better contrast against the background gradient.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c2ee5ed</div>
-                                        <div class="message">Refactor Footer component with updated branding, improved layout, and enhanced social media links for better user engagement</div>
+                                        <div class="sha">#cbcdff4</div>
+                                        <div class="message">Enhances badge component with modern styling variants
+
+Improves the badge component by introducing a variety of modern styling options, including gradient, outline, and glass variants for better visual appeal.
+
+Updates sizes and hover effects to enhance user experience, ensuring the component is responsive and visually consistent across different states.
+
+Removes legacy variants for cleaner code and better maintainability.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8fff5ff</div>
-                                        <div class="message">Revamp Footer component with newsletter subscription, enhanced layout, and social media links for improved user engagement</div>
+                                        <div class="sha">#8648a90</div>
+                                        <div class="message">Adds favorites property to User interface
+
+Introduces a new `favorites` property in the User interface to store user preferences for hotels, flights, tours, destinations, attractions, activities, and vehicles.
+
+This enhancement allows better user personalization and management of favorite items, improving the overall user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cd9ebad</div>
-                                        <div class="message">Enhance Header component with new action buttons and improved layout for better user experience</div>
+                                        <div class="sha">#5e810a7</div>
+                                        <div class="message">Refactors trip layout to enhance UI structure
+
+Improves the layout by introducing a structured grid for displaying trips.
+
+Separates 'My Trips' and 'Past Trips' into distinct columns, enhancing visual clarity.
+Adds a full-width section for budgets to provide better organization of content.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a50a004</div>
-                                        <div class="message">Refactor HomePage layout and improve UI consistency with updated styles and structure</div>
+                                        <div class="sha">#0517ac2</div>
+                                        <div class="message">Implements Past Trips Section with user authentication
+
+Adds a new component to display past trips for authenticated users, enhancing user experience by showing completed trips and total expenses.
+
+Introduces conditional rendering based on user authentication status, with a call to action for users to log in.
+
+Implements a detailed layout for displaying trip information, including options for writing reviews and sharing memories.
+
+Improves overall UI with cards and buttons for better interaction.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7213a0b</div>
-                                        <div class="message">Add utility functions for string and number formatting</div>
+                                        <div class="sha">#55c86db</div>
+                                        <div class="message">Adds BudgetsSection component for managing travel budgets
+
+Implements a new component that allows users to view, filter, and manage their travel budgets.
+
+Users can see overall progress, create new budgets, and access detailed budget statuses. The component enhances user experience by providing a clear interface for tracking financial goals related to travel.
+
+No existing functionality was altered in this addition.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#35dae43</div>
-                                        <div class="message">start over</div>
+                                        <div class="sha">#b0deb7b</div>
+                                        <div class="message">Adds My Trips section and removes Create New Trip page
+
+Introduces a new My Trips section that displays user trips with filtering options for all, upcoming, ongoing, and completed trips.
+
+Removes the redundant Create New Trip page to streamline navigation and improve user experience.
+
+Enhances the overall trip management functionality within the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f9c666</div>
+                                        <div class="message">Adds favorites functionality for activities, attractions, and tours
+
+Implements new pages to display saved activities, attractions, and tours for users.
+
+Integrates user authentication checks and dynamically fetches user-specific favorite items.
+Enhances user experience by providing a clear display of saved items and the ability to manage favorites.
+
+Refactors the layout for better organization and accessibility of favorite items.
+
+Relates to user account dashboard enhancements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a2645d</div>
+                                        <div class="message">Update hotel IDs and tour categories for clarity
+
+Renames hotel IDs to a standardized format for consistency across the dataset.
+
+Additionally, refines tour categories to enhance organization and improve user navigation.
+
+These changes aim to provide a clearer structure for both hotel and tour data, facilitating better integration and user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e43e385</div>
+                                        <div class="message">Adds mock data for trips and budgets
+
+Introduces mock data for trips and budgets to enhance testing and development processes.
+
+This includes sample trip entries with details such as destination, hotel, and costs, as well as budget entries associated with the trips.
+
+The addition of helper functions facilitates the retrieval of trips and budget statistics, streamlining future development efforts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af83588</div>
+                                        <div class="message">Adds image hosts and user favorites data structure
+
+Introduces additional image hosts for asset loading.
+
+Enhances user data model by adding a favorites section,
+including hotels, vehicles, attractions, destinations,
+flights, tours, and activities for improved user experience.
+
+Replaces static avatar URLs with dynamic ones from Faker.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eebe707</div>
+                                        <div class="message">Adds new user mock data for testing and development
+
+Introduces two new user entries with detailed attributes, including membership status, rewards, and recent activities.
+
+This enhancement facilitates improved testing and development by providing a more comprehensive dataset.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afea84a</div>
+                                        <div class="message">Adjust padding for user account dropdown menu trigger</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42b7a1e</div>
+                                        <div class="message">Adds user data interface and mock user data
+
+Introduces a new user data interface that defines the structure for user information and adds mock user data for testing purposes.
+
+This change enhances the codebase by providing a consistent format for user data, facilitating easier integration and testing in the application development process.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95668e5</div>
+                                        <div class="message">Adds S3 as an additional image host
+
+Includes "s3.amazonaws.com" in the list of allowed image hosts to support loading images from Amazon S3.
+
+This enhancement improves the flexibility of image sourcing in the application.</div>
                                     </div>
                                 </div>
                             </section>
@@ -106,23 +654,154 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/velari-voyages</span>
+                                        Pushed 25 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d198ac7</div>
-                                        <div class="message">Removes deprecated booking dashboard and trip pages
+                                        <div class="sha">#4febd40</div>
+                                        <div class="message">Adds user avatar and modifies dashboard layout
 
-Eliminates the login dashboard and trip booking pages to streamline the application. This cleanup helps maintain codebase integrity and simplifies future development efforts by removing unused components.
+Enhances the dashboard by adding a user avatar display alongside the user's name and email for better personalization.
 
-No further functionality is affected, as these pages were no longer in use.</div>
+Updates the layout of the bookings section to present monthly and yearly data more clearly, improving overall user experience and information accessibility.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9ffa485</div>
-                                        <div class="message">Remove data validation utilities and cruise vessel validation script</div>
+                                        <div class="sha">#d353e09</div>
+                                        <div class="message">Adds rewards program page with tier benefits and user data
+
+Introduces a new rewards program page that displays tier benefits based on user points.
+
+Includes mock user data to reflect current points and tier status.
+
+Implements a user authentication check to ensure only logged-in users can access the page, redirecting unauthenticated users to the login page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c89e1fb</div>
+                                        <div class="message">Adds icons and improves dashboard layout
+
+Implements icon integration for profile, bookings, and rewards sections to enhance visual appeal.
+
+Adjusts badge positioning and adds a button for viewing rewards benefits, improving user navigation and experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c8daad</div>
+                                        <div class="message">Adds 'xs' size variant to button styles
+
+Introduces a new 'xs' size variant for buttons, enhancing component flexibility.
+
+This addition allows for smaller buttons, which can improve UI consistency across different screen sizes and use cases.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da5d092</div>
+                                        <div class="message">Improves registration form accessibility and usability
+
+Enhances the registration component by adding `autoComplete` attributes for password fields to improve user experience and security.
+
+Updates the travel interests selection with a more accessible checkbox component, enhancing visual clarity and interaction.
+
+Removes unnecessary complexity in the travel interests display, simplifying the UI while maintaining functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00e6558</div>
+                                        <div class="message">Adds new hotels data for Los Angeles and Singapore
+
+Introduces multiple new hotel entries, enhancing the application’s hotel offerings.
+
+Includes detailed descriptions, amenities, locations, and pricing structures for each new hotel.
+
+Improves user experience by providing a wider range of accommodation options in diverse locations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cae355</div>
+                                        <div class="message">Updates button icon hover styles for better visibility
+
+Refines the hover effect on the button's icon variant by removing the background change. This improves clarity and consistency in the button's appearance during interaction.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3f711d</div>
+                                        <div class="message">Add Checkout Confirmation Page component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d485ae2</div>
+                                        <div class="message">Removes unused CheckoutPage component
+
+Eliminates the CheckoutPage component as it is no longer needed in the application.
+
+This cleanup helps maintain a lean codebase and improves readability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac3a5a9</div>
+                                        <div class="message">Refactors tour link formatting in TourCard component
+
+Improves URL generation for tour links by utilizing
+the `formatToSlug` utility function, ensuring consistent
+and clean slugs based on the tour title.
+
+This change enhances maintainability and readability
+of the code.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b5c977</div>
+                                        <div class="message">Update SelectTrigger width for improved UI layout
+
+Increases the width of the SelectTrigger component from 64 to 80 units.
+
+This change enhances the user interface by providing more space for tour selection, improving overall usability and aesthetics.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e90667</div>
+                                        <div class="message">Enhances flight details page layout and functionality
+
+Improves the user experience on the flight details page by updating the layout of various sections, including amenities and seat availability.
+
+Adds conditional rendering for seat availability to ensure only available classes are displayed.
+
+Introduces new utility for displaying flight ratings, enhancing the visual representation of flight quality.
+
+Refines text styling for better readability and emphasis throughout the page.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6caea7d</div>
+                                        <div class="message">Update hotel city names to "New York City" and add new hotel entries for Cape Town and Cusco</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43ad31e</div>
+                                        <div class="message">Remove unused discount code functionality from Cart component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ce0417</div>
+                                        <div class="message">Add discount code functionality to CartSummaryPage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad234d7</div>
+                                        <div class="message">Remove Forgot Password page component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0589cd4</div>
+                                        <div class="message">Adds new destination entries with detailed information
+
+Incorporates new destinations such as Sydney, Rome, and Santorini, each featuring comprehensive details including geography, climate, attractions, and cultural insights.
+
+Enhances the dataset for better travel recommendations and user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cda0b48</div>
+                                        <div class="message">Updates emergencyNumber to be optional in Destination interface
+
+Modifies the Destination interface to make the emergencyNumber property optional.
+
+This change allows for greater flexibility in handling destinations that may not have an emergency number, improving data handling and reducing potential errors.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c34893</div>
+                                        <div class="message">Add DateTimePicker for date selection in Activities, Hotels, Tours, and Vehicles pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9344b62</div>
+                                        <div class="message">Refactor DateTimePicker to improve structure and add clear button functionality</div>
                                     </div>
                                 </div>
                             </section>
@@ -134,342 +813,202 @@ No further functionality is affected, as these pages were no longer in use.</div
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 87 commits in
-                                        <span class="repo">tmchuynh/velari-voyages</span>
+                                        Pushed 92 commits in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#76dab21</div>
-                                        <div class="message">Adds venue interfaces for various service types
+                                        <div class="sha">#88b7569</div>
+                                        <div class="message">Updates input styles in the Login component
 
-Introduces new interfaces for different venue types, including Spa, Casino, FitnessCenter, ShoppingArea, EntertainmentVenue, ArtGallery, and Library.
+Refines the appearance of email and password input fields by adjusting their heights and border styles for improved consistency and usability.
 
-These changes enhance type safety and structure for venue-related data, facilitating better organization and use of venue attributes in the application.
-
-Updates the Details type to make the rating field optional, improving flexibility in how details are represented.</div>
+Removes the primary focus styles and replaces them with muted tones to align with the overall design aesthetic.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#adf6a23</div>
-                                        <div class="message">Updates cruise departure locations and details
+                                        <div class="sha">#826bb93</div>
+                                        <div class="message">Removes unused state and improves UI layout
 
-Modifies the list of cruise departure locations by adding new cities and updating existing details.
+Eliminates the savings plan state as it is no longer needed.
 
-Removes outdated entries and enhances descriptions for improved clarity and relevance.
+Adjusts the layout of various components for better alignment and user experience, including consistent border styling and spacing adjustments.
 
-This update aims to provide a more accurate and engaging representation of cruise ports and their attractions.</div>
+Enhances the clarity of UI elements by adding tips for users on budget planning.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9e2243d</div>
-                                        <div class="message">Updates Amsterdam vessels list with new specifications
+                                        <div class="sha">#2d6e8cf</div>
+                                        <div class="message">Refactors currency context usage in ActivityPanel
 
-Enhances the vessel definitions to include updated specifications, types, and features for various ships operating from Amsterdam.
+Removes duplicate import of the currency context to streamline code.
 
-This change reflects a broader range of vessel categories, improves the accuracy of data, and ensures that new features align with modern maritime standards.
+Updates input styling for better alignment and consistency.
 
-Additionally, it removes outdated entries while introducing new vessels to enrich the cruise experience.</div>
+Improves overall code clarity by reducing redundancy.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a0a51e0</div>
-                                        <div class="message">Adds rating and date fields to Testimonial interface
+                                        <div class="sha">#a850ea6</div>
+                                        <div class="message">Update footer input styles for consistency
 
-Enhances the Testimonial interface by adding optional
-rating and date fields to provide more context for
-testimonials.
+Improves the styling of the email input field in the footer to align with the design system.
 
-This improves the flexibility and detail of testimonial
-data representation.</div>
+Changes the height and border styles for a more cohesive look across components.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#714ded1</div>
-                                        <div class="message">Updates vessel interface to include additional properties
+                                        <div class="sha">#8f3fe79</div>
+                                        <div class="message">Adds trip itinerary preview and improved sharing functionality
 
-Enhances the Vessels interface by adding 'id' and optional 'imageUrl' fields, and changes 'topSpeed' to a numeric type for better data handling.
+Introduces a preview dialog for trip itineraries, allowing users to review details before sharing or copying.
 
-Removes 'topSpeed' from CruiseVessel to streamline the interface.
+Enhances the sharing process with better feedback on the button state and error handling for clipboard operations.
 
-This improves type consistency and allows for more detailed vessel representations.</div>
+Resets button states appropriately when opening the preview and upon sharing actions, improving user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7509575</div>
-                                        <div class="message">Adds City interface to manage city-related data
+                                        <div class="sha">#bbdfcd2</div>
+                                        <div class="message">Enhances checkbox styling for terms agreement
 
-Introduces a new interface for representing city attributes, including optional fields for region, state, quote, subtitle, and popularity.
+Updates the styling of the checkbox components for agreeing to terms and marketing.
 
-This enhancement aims to support better organization and management of city-related information within the application.</div>
+Adds a border to improve visibility and consistency across the interface.
+
+This change enhances the user experience by ensuring the checkboxes are clearly defined and visually appealing.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8e2719d</div>
-                                        <div class="message">Adds commands for managing city vessels and crew members
+                                        <div class="sha">#8d48336</div>
+                                        <div class="message">Refines footer styles and improves readability
 
-Introduces new commands for creating and deleting city vessel data files and crew member data files, enhancing the CLI's functionality.
+Removes unnecessary color classes for improved design consistency.
 
-Also adds commands to delete city cruise data files and restaurant testimonial files, improving overall data management capabilities.
+Updates text color classes for better readability and accessibility.
 
-This update enriches the command registry, allowing for more comprehensive operations within the application.</div>
+Enhances layout structure while maintaining visual hierarchy.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#70a2076</div>
-                                        <div class="message">Enhances deletion scripts with detailed usage instructions
+                                        <div class="sha">#cc32e47</div>
+                                        <div class="message">Enhances UI with border styles for select components
 
-Improves the delete scripts for crew members, cruises, restaurant menus, and testimonials by adding comprehensive documentation and usage examples.
+Adds border styles to various select triggers and input fields to improve visual clarity and consistency across the vehicle selection interface.
 
-This update aids users in understanding how to effectively use the scripts, including command-line options and interactive modes, while ensuring clarity on the deletion processes.
+Refactors the reset button’s styling for better alignment and spacing.
 
-No functional changes are made; the focus is solely on enhancing usability and documentation.</div>
+Improves overall user experience by ensuring uniform appearance of interactive elements.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4f0667b</div>
-                                        <div class="message">Adds positive adjectives to vessel descriptions
+                                        <div class="sha">#7ea112e</div>
+                                        <div class="message">Update pagination and styling for select components
 
-Enhances vessel descriptions by incorporating randomly selected positive adjectives, improving the appeal and engagement of the generated text.
+Adjusts the items per page from 9 to 8 for better pagination control.
 
-This change enriches the narrative for each vessel, making it more enticing for potential travelers.
+Improves the styling of select triggers throughout the component by adding border classes for consistency.
 
-No issues were reported, but this enhancement aims to elevate the user experience.</div>
+Also modifies the reset filters button for improved layout.
+
+These changes enhance user experience and visual consistency.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0ea1c66</div>
-                                        <div class="message">Refines vessel data structure for cruise compatibility
+                                        <div class="sha">#87b28ed</div>
+                                        <div class="message">Fixes checkbox styling for terms acceptance
 
-Updates the vessel retrieval function to return a more comprehensive vessel object with additional specifications and properties.
+Updates the checkbox class to properly apply
+styling for checked state, ensuring consistent
+appearance with the design guidelines.
 
-This change enhances the functionality by providing detailed attributes such as engine type, fuel capacity, and home port information, improving the overall data structure for better integration with cruise features.
-
-The return type has been adjusted from `CruiseVessel` to `Vessels` to reflect these updates accurately.</div>
+Improves user experience by enhancing visual
+feedback on terms acceptance.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2291ba3</div>
-                                        <div class="message">Refactors vessel state to use Vessels interface
+                                        <div class="sha">#ffef3cf</div>
+                                        <div class="message">Refactors hotel selection logic and updates filters
 
-Updates the vessel state in the booking confirmation page to use the Vessels interface instead of CruiseVessel.
+Removes unused cart functionality and enhances the hotel filtering mechanism by adjusting default guest counts, star ratings, and price ranges.
 
-This change improves type consistency and prepares the code for potential future enhancements related to vessel handling.
+Improves user experience by refining input fields for check-in and check-out dates, and updates the styling of selection components for better visibility.
 
-No functional changes are introduced, ensuring a seamless experience for users.</div>
+Updates pagination settings to allow for more items per page, improving navigation through hotel listings.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a55fe5c</div>
-                                        <div class="message">Removes testimonial generation script
+                                        <div class="sha">#81d80f0</div>
+                                        <div class="message">Improves input styling for check-in and check-out fields
 
-Eliminates the testimonials generation script to streamline the codebase and remove unnecessary complexity.
+Enhances the visual appearance of the date input fields by adding a border to the check-in and check-out inputs.
 
-This change addresses the need for a more maintainable and focused code structure by removing an entire file that is no longer required.</div>
+This change improves user experience by providing clearer input boundaries, ensuring better accessibility and usability.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e95c6de</div>
-                                        <div class="message">Adds cruise experiences and refactors related logic
+                                        <div class="sha">#9108587</div>
+                                        <div class="message">Enhances UI styling for select components and button
 
-Introduces a new array of cruise experiences to enhance the variety of cruise offerings.
+Improves the visual presentation of select components by adding border styles for better consistency and usability.
 
-Refactors the code to eliminate redundancy by removing the previously defined cruise experiences within the `generateCruiseData` function, ensuring that the logic now accesses the newly defined array.
+Updates the button layout to remove extra margins and padding, ensuring a cleaner look in the filter section.
 
-Implements changes to utilize the defined `cruiseTitle` for contact email generation, streamlining the data flow and improving readability.
-
-Enhances maintainability by organizing the cruise descriptors for better code structure and clarity.</div>
+These changes enhance user experience and maintain design uniformity throughout the page.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e4d0646</div>
-                                        <div class="message">Adds crew member bio templates for maritime roles
+                                        <div class="sha">#b85f495</div>
+                                        <div class="message">Update pagination and styling in destinations page
 
-Introduces a comprehensive set of bio templates for various maritime crew positions, including Captain, First Officer, and Safety Officer, enhancing the personalization and professionalism of crew introductions.
+Adjusts the items per page to improve user experience by reducing it from 9 to 8.
 
-These templates aim to standardize bios while providing flexibility for customization with specific details, thereby improving communication and representation of crew members in maritime contexts.</div>
+Enhances UI consistency by adding border styles to select triggers across various filters, ensuring a uniform look and feel.
+
+Refines filtering logic without altering functionality, maintaining clarity in code.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7491394</div>
-                                        <div class="message">Improves placeholder handling in template processing
+                                        <div class="sha">#3b9bc22</div>
+                                        <div class="message">Improve styling of department selection component
 
-Updates the placeholder replacement logic to improve clarity by using an unused parameter in the callback function. This change enhances code readability without altering functionality.</div>
+Enhances the visual consistency of the department selection component by adding a border to the SelectTrigger.
+
+This change improves the user interface, making it more visually appealing and aligned with the overall design.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#427d5e5</div>
-                                        <div class="message">Adds restaurant name prefixes and suffixes for multiple cities
+                                        <div class="sha">#000318a</div>
+                                        <div class="message">Updates pagination and styling for select components
 
-Introduces a comprehensive list of restaurant name prefixes categorized by various cities and a collection of suffixes to enhance the naming conventions for restaurants.
+Reduces items per page from 9 to 8 for improved pagination usability.
 
-This change aims to provide a more localized and diverse set of options for restaurant naming, improving user experience and engagement.</div>
+Enhances styling of select triggers across multiple filters by adding a border for better visibility.
+
+Adjusts button styling to ensure consistent padding and margin.
+
+Improves overall UI consistency and user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8b6e911</div>
-                                        <div class="message">Adds dynamic cruise descriptors for improved user engagement
+                                        <div class="sha">#9bc1bab</div>
+                                        <div class="message">Update pagination and styling for select components
 
-Integrates new cruise experience descriptions using random adjectives and experiences based on city and regional data.
+Adjusts items per page from 9 to 8 to improve pagination.
 
-Enhances the user experience by generating more engaging content for cruise journeys, promoting exploration and cultural immersion.
+Enhances the styling of select triggers across various filters for consistency by adding border classes.
 
-Improves code maintainability by organizing related functionalities through imports.</div>
+Modifies the reset filters button for better layout by adjusting margin and padding.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a498d19</div>
-                                        <div class="message">Adds general email starters utility
+                                        <div class="sha">#61fe6f8</div>
+                                        <div class="message">Adds clipboard copy functionality and enhances UI
 
-Introduces a new utility that provides a list of common email starters for improved communication within the application.
+Implements a copy-to-clipboard feature for trip details, improving user experience by allowing direct copying from the dialog.
 
-This addition enhances code maintainability and readability by centralizing frequently used email prefixes, making it easier to manage and update them as needed.</div>
+Increases the height of the textarea for better visibility of the itinerary and adds visual feedback for successful copy actions.
+
+Enhancements also include new icon imports to represent copy actions.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a504677</div>
-                                        <div class="message">Enhances adjective lists and adds city descriptions
+                                        <div class="sha">#6b18f0f</div>
+                                        <div class="message">Enhances trip sharing functionality with detailed output
 
-Refines the list of positive adjectives by removing redundancies and introducing new terms to enrich vocabulary.
+Improves the trip sharing feature by generating a comprehensive trip summary that includes hotel, dates, guests, and daily itineraries.
 
-Adds detailed descriptions for various cities, including landmarks, features, and specialties, to provide a more immersive experience for users.
+Adds a fallback mechanism to allow manual copying of trip details if automatic clipboard access fails, ensuring a better user experience.
 
-This update improves the overall quality and variety of descriptions available in the application.</div>
+Introduces new UI components for displaying manual copy instructions if needed.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#35e6363</div>
-                                        <div class="message">Adds functions for generating random hours and prices
-
-Implements `getRandomHours` to simulate business hours for each day of the week, with a 90% chance of being open, providing a random opening and closing time.
-
-Introduces `getRandomPrice` to generate random pricing tiers, enhancing the utility of the data generator.
-
-These additions improve the flexibility and realism of generated data for testing purposes.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">tmchuynh/velari-voyages</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fd81970</div>
-                                        <div class="message">Enhances vessel name generation with country phrases
-
-Updates the vessel name generation logic to incorporate random phrases based on the country associated with the city.
-
-This change enriches the variety of generated vessel names by replacing static city names with dynamic country phrases, improving the overall user experience and thematic relevance of the vessel naming process.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#249e2cc</div>
-                                        <div class="message">Adds country-specific cultural phrases to utility
-
-Enhances the utility by incorporating a wide range of cultural phrases associated with various countries.
-
-This addition enriches the existing functionality, allowing for a more diverse representation of global cultures, which may improve user experience in applications utilizing this utility.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#500e0f1</div>
-                                        <div class="message">Adds country-specific name phrases for enhanced localization
-
-Introduces a new data structure that includes arrays of culturally significant names and phrases for various countries, improving localization support.
-
-This change enhances the application's ability to represent diverse cultural contexts and enrich user experiences across different regions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c8640b</div>
-                                        <div class="message">Adds descriptive utilities for cruise and city experiences
-
-Introduces a new module that generates engaging descriptions for cruise experiences and cities.
-
-Includes a variety of adjectives and descriptors to enhance the appeal of travel-related content, aiming to improve user engagement and marketing efforts.
-
-Enhances the overall storytelling potential for travel experiences.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3c7ebe</div>
-                                        <div class="message">Adds comprehensive country language mappings
-
-Introduces a new mapping of languages spoken in various countries, including second languages for tourism and business.
-
-Enhances the `getRandomLanguages` function to support country-specific language retrieval alongside regional options, ensuring English inclusion where relevant.
-
-Improves the logic to handle duplicates and enforce unique language selections.
-
-This update facilitates better language management for international contexts and enhances user experience in multilingual scenarios.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b5ff1e</div>
-                                        <div class="message">Adds new names to feminine and last names lists
-
-Introduces several new names to the feminine and last names collections to enhance diversity and inclusivity.
-
-The added names include:
-- Feminine names: Joshua, Christopher, Matthew, Alexander, Nicholas
-- Last names: Charlotte, Olivia
-
-These changes aim to broaden the name options available in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88bd43e</div>
-                                        <div class="message">Refactors testimonial generation by using utility functions
-
-Improves the generation of restaurant testimonials by refactoring to utilize utility functions for random name generation and adjective selection.
-
-Removes redundant arrays and streamlines the code, enhancing maintainability and readability.
-
-Additionally, updates the testimonial file generation to include metadata for better tracking and management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0e0458</div>
-                                        <div class="message">Adds header comments to auto-generated menu files
-
-Implements auto-generated header comments in menu files,
-including city information and generation timestamp.
-
-This improves maintainability by clearly indicating that
-the files are generated and should not be edited manually.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6e91fe</div>
-                                        <div class="message">Adds auto-generation metadata to restaurant data files
-
-Enhances the auto-generated restaurant data files by including metadata comments.
-
-The comments specify the city name and generation timestamp, providing context for users and preventing manual edits.
-
-This change improves documentation and maintainability of the generated files.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b83e40</div>
-                                        <div class="message">Enhances crew member generation script documentation
-
-Improves the documentation for the crew member generation script, detailing usage instructions, command-line arguments, and file structure.
-
-Refactors the `generateCrewMember` function to streamline name and language assignment, enhancing readability and maintainability.
-
-Introduces additional comments and auto-generated file metadata for clarity.
-
-These changes aim to facilitate better understanding and usage of the script by developers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2833c2</div>
-                                        <div class="message">Enhances vessel data generation with new attributes and names
-
-Updates the vessel data generation process by adding an `id` attribute to each vessel object and including a broader array of vessel names to enhance variety.
-
-Refines regex patterns for improved data extraction and ensures the generated files include essential metadata.
-
-Introduces a top speed calculation and a default image URL for vessels, improving overall vessel information quality.
-
-Maintains backward compatibility while enhancing the functionality of the vessel creation process.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34ca585</div>
-                                        <div class="message">Enhances cruise data generation with new descriptors
-
-Introduces new cruise adjectives, city descriptors, and region descriptors to improve the realism and variety of generated cruise itineraries.
-
-Refactors the data generation functions to utilize these descriptors, allowing for more engaging and descriptive cruise titles and experiences.
-
-Removes redundant hardcoded descriptors, ensuring scalability and maintainability of the code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51be1c8</div>
-                                        <div class="message">Implement new feature for user authentication and improve error handling</div>
+                                        <div class="sha">#a7de0f5</div>
+                                        <div class="message">Refactors drag-and-drop logic in TripPlannerContainer to improve item handling and ensure unique IDs for new items</div>
                                     </div>
                                 </div>
                             </section>
