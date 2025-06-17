@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.activity .field,.organization.name{white-space:nowrap}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,166 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9cb622c</div>
+                                        <div class="message">Update button styles in CategoriesPage to use modern variant</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 90 commits in
+                                        <span class="repo">tmchuynh/custom-ecommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#73a7b65</div>
+                                        <div class="message">Refines user ID handling for DummyJSON API integration
+
+Enhances the method of extracting the DummyJSON user ID from the logged-in user's information.
+
+Introduces specific handling for demo users, ensuring a consistent user ID is generated based on either the username hash or a parsed demo ID.
+
+Updates personal information display to clarify ownership and consistency for user data retrieved from the API.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47ebbe3</div>
+                                        <div class="message">Adds user data fetching and address/payment management
+
+Implements functionality to fetch user data from an external API and manage addresses and payment methods within the settings page.
+
+Enhances the user experience by allowing users to add new addresses and payment methods, while displaying existing ones as read-only.
+
+Also includes validation for input fields to ensure all required information is provided before submission.
+
+Fixes #123</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b2cb49</div>
+                                        <div class="message">Adds settings option to user menu for easier access to profile settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#227a248</div>
+                                        <div class="message">Adds fetchUserById function to retrieve a specific user by ID from DummyJSON API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9e5cec</div>
+                                        <div class="message">Enhances accessibility and user experience in forms
+
+Improves accessibility by adding aria attributes to the discount button and ensures consistent keyboard event handling across forms.
+
+Changes include:
+- Updated the discount input and button to use `onKeyDown` for better keyboard interaction.
+- Added aria-label and aria-disabled attributes for improved screen reader support.
+
+Relates to enhancing overall usability in the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aee9f02</div>
+                                        <div class="message">Adds university and company details to DummyUser interface
+
+Enhances the DummyUser interface by including new fields for university and company details.
+
+This update provides a more comprehensive structure for user information, allowing for better representation of user affiliations and employment data.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5ae80e</div>
+                                        <div class="message">Adds settings page for user profile and preferences
+
+Implements a comprehensive settings page that allows users to manage their profile information, notification preferences, privacy settings, and billing details.
+
+Enhances user experience by providing a structured interface for updating personal data, changing passwords, and managing notification options.
+
+Introduces form validation and user feedback through toast notifications to improve interaction and error handling.
+
+Relates to user account management enhancement.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#745a1c1</div>
+                                        <div class="message">Updates Premium tier highlight styling
+
+Adjusts the background color of the "Most Popular" label for the Premium tier to enhance visibility and consistency with the design.
+
+Improves user experience by making the label more prominent.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bfb44b</div>
+                                        <div class="message">Enhances MembershipCard layout and styling
+
+Improves the layout of the MembershipCard component by updating the flex properties to ensure better alignment and spacing.
+
+Adjusts border styles for the current tier and enhances the overall visual effect with consistent styling.
+
+These changes aim to provide a more user-friendly interface and better highlight the premium membership benefits.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d5a20d</div>
+                                        <div class="message">Refactor login page to use useEffect for redirecting logged-in users</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdd3a38</div>
+                                        <div class="message">Fix button text color variant for improved accessibility and consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9db668</div>
+                                        <div class="message">Adds shopping bag icon to hero sections on Categories and Sale Items pages for enhanced visual appeal.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8df685a</div>
+                                        <div class="message">Removes background gradient overlay from category item for improved visibility of product badges.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e03228</div>
+                                        <div class="message">Removes background color from hero section overlay for improved visual clarity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8200a83</div>
+                                        <div class="message">Enhances CategoriesPage layout with a new hero section, improved category stats, and dynamic product images; updates Button component variants for better styling consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56bfe3c</div>
+                                        <div class="message">Refactors HomePage hero section for improved layout and styling; updates background image, adds new text elements, and enhances category showcase with larger cards and better responsiveness.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#877862a</div>
+                                        <div class="message">Refactors HomePage component to fetch and display featured products dynamically; adds new hero section, category showcase, and features section highlighting shopping benefits.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3b5f2b</div>
+                                        <div class="message">Removes unused decoration and shopping images to clean up the project assets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9c24ab</div>
+                                        <div class="message">Updates button variants in ProductGrid component from "outline" to "classic" and from "default" to "modern" for improved styling consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db280e2</div>
+                                        <div class="message">Refactors HomePage layout with new hero section, featured products, and category showcase; integrates ProductGrid component and adds newsletter subscription form.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -75,397 +235,6 @@ Extracts main page content into separate components and adds custom loading fall
                                     <div class="commit">
                                         <div class="sha">#4d26068</div>
                                         <div class="message">Adds comprehensive returns and exchanges page with form and FAQ section</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 95 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c86e2c</div>
-                                        <div class="message">Adds event listener for checkout to mark wishlist items as purchased</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dab2d0</div>
-                                        <div class="message">Refactors DiscountRule interface by removing unused properties and cleaning up code structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eee4d8e</div>
-                                        <div class="message">Adds checkout functionality to cart context
-
-Implements order processing workflow that validates cart contents,
-clears cart state upon successful completion, and provides user
-feedback through structured response messages.
-
-Handles empty cart validation and error scenarios to improve
-user experience during the purchase flow.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddfe1fd</div>
-                                        <div class="message">Adds checkout method to cart context interface
-
-Extends the cart context with a checkout function that returns a promise
-resolving to success status and message, enabling cart finalization workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6ac47f</div>
-                                        <div class="message">Adds comprehensive wishlist page with cart integration
-
-Implements a full-featured wishlist interface that handles both active and purchased items. Provides authentication-aware access with login prompts for unauthenticated users.
-
-Enables seamless cart integration by allowing users to move wishlist items directly to cart while automatically removing them from the wishlist. Includes visual feedback through toast notifications for all user actions.
-
-Features responsive product cards with discount badges, rating displays, and purchase history tracking for previously bought items.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#446caf9</div>
-                                        <div class="message">Integrates wishlist functionality with context management
-
-Replaces local state management with centralized wishlist context to enable persistent wishlist data across components.
-
-Adds authentication check to prevent unauthorized wishlist operations and provides user feedback through toast notifications.
-
-Improves user experience by maintaining wishlist state globally and handling success/error scenarios appropriately.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1b8e83</div>
-                                        <div class="message">Adds wishlist icon with count badge for logged-in users
-
-Creates a navigation component that displays a heart icon linking to the wishlist page. Shows a count badge when items are present and limits display to 99+ for large quantities.
-
-Only renders for authenticated users to maintain clean UI for guests.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#579aace</div>
-                                        <div class="message">Adds wishlist context for user-specific item management
-
-Implements comprehensive wishlist functionality with localStorage persistence
-per user account. Provides add/remove operations, purchase tracking, and
-cart integration capabilities.
-
-Includes loading states and proper error handling for all wishlist operations.
-Automatically clears wishlist data when users log out to maintain privacy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f424655</div>
-                                        <div class="message">Adds wishlist and user menu components to header
-
-Enhances header navigation by integrating wishlist functionality and user account management.
-
-Improves user experience by providing quick access to saved items and account options directly from the main navigation bar on both mobile and desktop layouts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b405d79</div>
-                                        <div class="message">Adds wishlist functionality to app providers
-
-Integrates wishlist context provider into the application's provider hierarchy to enable wishlist state management across components.
-
-Wraps existing providers with the new wishlist provider to ensure wishlist functionality is available throughout the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3294846</div>
-                                        <div class="message">Adds comprehensive user dashboard page
-
-Implements a complete dashboard interface that provides users with centralized access to their profile information, membership status, and shopping overview.
-
-Features authentication protection with automatic redirection to login for unauthorized users. Displays user profile details including join date and contact information.
-
-Shows membership tier status with visual indicators, benefits listing, expiration tracking, and renewal prompts for memberships nearing expiry. Includes shopping cart summary with membership discount highlights.
-
-Provides quick action cards for easy navigation to key sections like shopping, membership management, and cart review.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4815dd</div>
-                                        <div class="message">Refactors filter layout to horizontal design
-
-Restructures the sidebar filters into a horizontal layout that spans the full width above the product grid. Changes the container structure from a vertical sidebar to a flex row arrangement with improved spacing.
-
-Updates container styling with larger max-width and increased padding for better visual hierarchy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2d68d8</div>
-                                        <div class="message">Adds user menu with authentication and membership features
-
-Implements a comprehensive dropdown menu component that handles both authenticated and unauthenticated user states.
-
-Provides login/register buttons for guests and a feature-rich menu for authenticated users including user avatar, membership tier display, navigation links to dashboard and membership pages, and logout functionality.
-
-Integrates with existing auth context to display user information and membership status with appropriate visual indicators.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b3e10a</div>
-                                        <div class="message">Adds membership discount display and free shipping indication in cart page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b876df9</div>
-                                        <div class="message">Adds comprehensive membership purchase page
-
-Implements a complete membership tier selection interface with three tiers (Basic, Premium, VIP) featuring different discount percentages and benefits.
-
-Provides user authentication flow integration, preventing purchases without login and displaying appropriate messaging for current membership status.
-
-Includes responsive card-based layout with tier comparison, purchase handling with loading states, and toast notifications for user feedback.
-
-Features membership benefits overview section highlighting key value propositions like instant discounts, priority support, and exclusive access.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05c013a</div>
-                                        <div class="message">Adds user registration page with form validation
-
-Implements a complete registration flow with username, phone number, email, and password fields. Includes client-side validation for password matching, minimum length requirements, and required field checks.
-
-Features password visibility toggles, loading states, and automatic redirect for authenticated users. Integrates with existing auth context and provides user feedback through toast notifications.
-
-Redirects to membership page upon successful registration to continue the onboarding flow.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76dc64d</div>
-                                        <div class="message">Adds user login page with authentication
-
-Implements a complete login interface with form validation, password visibility toggle, and error handling. Integrates with authentication context for user session management and redirects authenticated users to dashboard. Includes loading states and toast notifications for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30ec738</div>
-                                        <div class="message">Adds membership discount and free shipping benefits
-
-Integrates user membership tiers to provide automatic discounts and shipping benefits based on membership status.
-
-Applies membership discount percentage to total price before calculating final totals and combines with existing coupon discounts for comprehensive savings.
-
-Enables free shipping for premium and VIP members while maintaining standard shipping calculations for regular users.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3968e1f</div>
-                                        <div class="message">Adds comprehensive authentication context with membership system
-
-Implements complete user authentication flow including registration, login, and logout functionality with persistent storage using localStorage.
-
-Introduces a three-tier membership system (Basic, Premium, VIP) with varying discount percentages, benefits, and duration. Each tier provides different levels of customer support, shipping benefits, and exclusive features.
-
-Provides automatic membership expiry validation and discount calculation logic to ensure users receive appropriate pricing benefits based on their active membership status.
-
-Enables seamless state management across the application with React Context API, making authentication status and user data readily accessible to all components.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18476b1</div>
-                                        <div class="message">Adds authentication provider to app context
-
-Wraps the existing provider hierarchy with AuthProvider to enable
-authentication state management throughout the application.
-
-Maintains proper provider nesting order to ensure auth context is
-available to all child components and other context providers.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 57 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0e34fd</div>
-                                        <div class="message">Improves shopping page layout and error handling
-
-Enhances the shopping categories page with better visual design using card components and improved spacing. Adds a more user-friendly error state with an icon and navigation button to help users return home when categories fail to load.
-
-Updates the grid layout to be more responsive and replaces plain text links with styled card components for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d621ce4</div>
-                                        <div class="message">Refactors product detail page to use product names instead of IDs
-
-Changes API integration from fetching by product ID to searching by product title, improving URL readability and user experience.
-
-Removes inline StarRating component in favor of reusable utility function from shared library.
-
-Adds back navigation button and improves layout styling with better spacing and responsive design.
-
-Updates error handling and loading states to reflect the new search-based approach.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#270c7b8</div>
-                                        <div class="message">Adds legacy behavior to category links for improved compatibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f43c88a</div>
-                                        <div class="message">Refactors navigation links to use legacy behavior for improved compatibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bebf50</div>
-                                        <div class="message">Refactors breadcrumb component for better UX and performance
-
-Simplifies the breadcrumb implementation by removing dropdown functionality and complex state management in favor of a cleaner, more accessible design.
-
-Improves visual hierarchy with better spacing, typography, and hover states while adding smart path collapsing for long URLs to prevent UI overflow.
-
-Enhances accessibility with proper ARIA patterns and keyboard navigation support, and optimizes performance by eliminating unnecessary API calls and state updates.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f88ce86</div>
-                                        <div class="message">Adds product detail page with image gallery and reviews
-
-Creates a comprehensive product detail view that fetches product data from API and displays complete product information including pricing, availability, and customer reviews.
-
-Implements image gallery with thumbnail selection, star rating component for reviews, breadcrumb navigation, and responsive layout. Handles loading states, error handling, and currency formatting integration.
-
-Supports discount pricing display, stock availability indicators, shipping/warranty information, and minimum order quantity details.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022314c</div>
-                                        <div class="message">Simplifies provider structure and adds theme support
-
-Removes multiple nested context providers and replaces them with a streamlined setup focused on essential functionality.
-
-Adds ThemeProvider with class attribute support, light default theme, and system theme detection to enable dark/light mode switching.
-
-Retains CurrencyProvider and introduces NotFoundProvider while removing Auth, Customer, Product, Wishlist, Payment, and Cart providers to reduce complexity.
-
-Improves code documentation with JSDoc annotations explaining component purpose and parameters.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01ec603</div>
-                                        <div class="message">Simplifies layout structure and consolidates components
-
-Removes multiple wrapper providers and consolidates navigation components into a single Header component.
-
-Streamlines the component hierarchy by eliminating NotFoundProvider and ThemeProvider wrappers while moving theme management to the Providers component.
-
-Updates styling with relative positioning and adjusted margins for better layout control.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca90d95</div>
-                                        <div class="message">Adds product grid component with currency formatting
-
-Creates a responsive grid layout for displaying products with proper image handling and navigation links.
-
-Integrates currency context to format prices according to user preferences, improving internationalization support.
-
-Implements hover effects and responsive design that adapts from single column on mobile to four columns on extra large screens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#387b6b2</div>
-                                        <div class="message">Adds currency status indicator component
-
-Provides visual feedback for currency rate loading states and error handling.
-
-Displays a spinning loader with "Loading rates..." text during data fetching and shows an error icon with retry button when rate updates fail.
-
-Improves user experience by making currency operations more transparent and recoverable.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b061178</div>
-                                        <div class="message">Refactors currency context with improved API handling
-
-Simplifies currency management by removing complex tax-related functionality and consolidating currency operations into a cleaner interface.
-
-Improves exchange rate fetching with better error handling and automatic fallback to static rates when API is unavailable or fails.
-
-Streamlines the currency data structure and reduces dependencies on external constants while maintaining all core conversion and formatting capabilities.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90f3484</div>
-                                        <div class="message">Enhances UI components with modern variants and styling
-
-Expands badge, button, dropdown menu, and select components with comprehensive variant systems including modern, minimal, glass, and professional styling options.
-
-Adds size variants and improved accessibility features with proper focus states, hover effects, and animation support.
-
-Replaces React Icons with Lucide React icons for consistency and updates import organization for better code structure.
-
-Introduces variant-based styling using class-variance-authority for better maintainability and design system coherence.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5a0377</div>
-                                        <div class="message">Adds forbidden access error page
-
-Provides users with clear feedback when attempting to access unauthorized resources.
-
-Includes navigation back to home page for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa87da4</div>
-                                        <div class="message">Adds core library utilities and navigation structure
-
-Establishes foundational TypeScript utilities including class name merging,
-string formatting functions, and comprehensive type definitions for products,
-users, and UI components.
-
-Creates navigation configuration supporting multi-level dropdown menus for
-travel booking, trip planning, and content discovery features.
-
-Updates interface definitions to align with DummyJSON API structure while
-maintaining backward compatibility for existing components.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5dcfe8</div>
-                                        <div class="message">Remove unused navigation components
-
-Cleans up codebase by eliminating navigation-related UI components that are no longer needed, including footer, sidebar navigation elements, and navigation menu primitives.
-
-Reduces bundle size and simplifies the component structure.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#033c691</div>
-                                        <div class="message">Updates project configuration and dependencies
-
-Migrates from Tailwind config file to inline configuration and switches from slate to neutral color scheme for better design consistency.
-
-Updates icon library reference to correct package name and reorganizes import statements for better code organization.
-
-Streamlines Next.js configuration by removing experimental features, environment variables, and bundle analyzer setup while expanding image host allowlist for broader external image support.
-
-Adds Lucide React icons package and updates multiple dependencies to latest versions for improved performance and security.
-
-Enhances TypeScript configuration with comprehensive path mappings for better import organization and developer experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74196bb</div>
-                                        <div class="message">Refactors theme toggle from switch to button component
-
-Moves ThemeToggle component to buttons directory and replaces Switch UI with Toggle button for better UX.
-
-Improves accessibility with proper aria-labels and screen reader support.
-
-Optimizes performance by memoizing toggle button content to prevent unnecessary re-renders.
-
-Enhances styling with better hover states and focus management for improved user interaction.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b23781c</div>
-                                        <div class="message">remove files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbcc95b</div>
-                                        <div class="message">remove files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9f3376</div>
-                                        <div class="message">Adds shopping category page with navigation grid
-
-Creates a new shopping landing page that displays product categories in a responsive grid layout. Users can browse and navigate to different shopping sections including men's and women's clothing, electronics, and jewelry.
-
-Provides clear category descriptions and intuitive navigation to enhance the shopping experience.</div>
                                     </div>
                                 </div>
                             </section>
