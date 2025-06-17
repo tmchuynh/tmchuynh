@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1144" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,89 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fbebc48</div>
+                                        <div class="message">Removes unused testimonial components and imports
+
+Comments out testimonial sections in contact and info components to clean up the UI.
+
+Updates testimonial index reference to use first testimonial instead of fifth.
+
+Eliminates unused testimonial imports to reduce bundle size.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26dba40</div>
+                                        <div class="message">Enhances ServicesPage layout and styling; adds dynamic grid spans for sub-services and improves card presentations for better user engagement.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d963a04</div>
+                                        <div class="message">Refactors HowWeCanHelpYou component to enhance layout and styling; updates service links with improved descriptions and visuals for better user engagement.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e87919</div>
+                                        <div class="message">Implement new feature for user authentication and improve error handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e99b9b5</div>
+                                        <div class="message">Enhances TwoColumnTextImage component with improved layout and styling; adds carousel controls and refines text presentation for better user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be30dcd</div>
+                                        <div class="message">Refactors TestimonialCard component by removing unused star rating display and optimizing layout; updates Timeline component for improved styling consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0fd1174</div>
+                                        <div class="message">Removes redundant expertise section component
+
+Eliminates duplicate content that was likely consolidated into a more comprehensive component structure.
+
+Streamlines the about page architecture by removing the standalone expertise component that contained 4000+ lines of SVG icons and service descriptions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dc00e4</div>
+                                        <div class="message">Consolidates motivational drives and removes timeline images
+
+Merges "Community Impact" and "Sustainability" sections into a single cohesive value proposition to reduce redundancy and improve messaging clarity.
+
+Removes all image content from timeline entries and makes content property optional in the interface, simplifying the timeline component and reducing visual clutter while maintaining the descriptive text content.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d0aa0f</div>
+                                        <div class="message">Redesigns homepage with premium styling and layout
+
+Transforms the homepage into a more sophisticated and visually appealing design with:
+
+- Adds gradient backgrounds and elevated spacing throughout sections
+- Improves typography with refined font weights and sizing
+- Enhances section headers with centered layouts and decorative elements
+- Refines carousel controls with premium styling and hover effects
+- Updates pagination indicators with modern pill-style designs
+- Increases carousel autoplay delays for better user experience
+- Improves responsive spacing and container max-widths
+- Adds elegant CTA section styling with dark gradient background
+
+Creates a more polished and professional user experience while maintaining functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac17424</div>
+                                        <div class="message">Reorder import statements in blog-helpers for consistency</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -378,26 +461,6 @@ These changes aim to provide a more user-friendly interface and better highlight
 Improves user experience by preventing hydration mismatches and providing loading states during server-side rendering.
 
 Extracts main page content into separate components and adds custom loading fallbacks with skeleton animations to maintain visual consistency while pages load.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dcac77a</div>
-                                        <div class="message">Adds Size Guide page with comprehensive sizing charts, measurement tips, and fit advice</div>
                                     </div>
                                 </div>
                             </section>
