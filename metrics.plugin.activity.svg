@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,189 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 25 commits in
+                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7101d10</div>
+                                        <div class="message">Add new blog posts on website optimization, design communication, hiring designers, and the importance of writing for developers
+
+- Created "How to Optimize Your Website for Maximum Conversion" by Sarah Johnson
+- Created "Key Details to Share with Your Designer Before Kicking Off a Project" by Tina Huynh
+- Created "Key Factors to Consider When Hiring a Designer or Developer" by Tina Huynh
+- Created "Unlocking Creativity: The Power of Writing for Developers" by Tina Huynh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5e4007</div>
+                                        <div class="message">Add financial management and IoT development blog posts; refactor featured blogs fetching logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11d260d</div>
+                                        <div class="message">Add new blog posts on Google Analytics and constructive feedback for designers; implement API route for fetching featured blogs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79628f4</div>
+                                        <div class="message">Add new blog posts on real estate impact, commercial space selection, business planning, data analytics, and decision-making strategies
+
+- "How the Real Estate Market Affects Small Business Owners" explores the influence of real estate trends on small businesses, covering lease costs, location dynamics, and workforce accessibility.
+- "How to Choose the Right Commercial Space for Your Business" provides a comprehensive guide on evaluating commercial leases, location, space requirements, and negotiating terms.
+- "How to Create a Successful Business Plan" outlines the essential components of a business plan, including market analysis, marketing strategy, operations plan, and financial projections.
+- "How to Use Data Analytics for Smarter Business Decisions" discusses leveraging data analytics to identify trends, enhance operational efficiency, improve customer insights, and refine financial forecasting.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b5a85a</div>
+                                        <div class="message">Add new blog post on harnessing artificial intelligence for business growth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a62eba0</div>
+                                        <div class="message">Removes legacy blog renderer component
+
+Eliminates outdated blog rendering implementation that is no longer needed.
+
+Cleans up codebase by removing unused recursive list rendering logic
+and legacy blog post display functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a4e8e4</div>
+                                        <div class="message">Removes legacy blog system in favor of MDX-only approach
+
+Streamlines blog architecture by eliminating dual blog post systems
+
+Removes fallback logic for legacy blog posts and simplifies routing
+to use only MDX-based content, reducing complexity and maintenance
+overhead while ensuring consistent content management workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51a351a</div>
+                                        <div class="message">Adds MDX file validation script
+
+Creates a comprehensive validation tool to verify converted MDX blog files are properly structured and contain required metadata fields.
+
+Validates blog post integrity by checking for essential fields like author, date, excerpt, topics, and content, while providing detailed reporting on validation results and summary statistics.
+
+Enables quality assurance for blog migration processes and helps identify missing or malformed content during development.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5949c74</div>
+                                        <div class="message">Adds script to convert blog posts from TS to MDX format
+
+Creates automated conversion tool that transforms existing TypeScript blog post data into individual MDX files with proper frontmatter and markdown formatting.
+
+Handles title-to-slug conversion, date formatting, and hierarchical content structure transformation while preserving existing files to prevent overwrites.
+
+Enables migration from programmatic blog data to file-based content management system.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbf0ff2</div>
+                                        <div class="message">Adds unified blog helpers for MDX and legacy content
+
+Introduces utility functions to handle both MDX and legacy blog posts seamlessly. Provides methods to retrieve all blog slugs, filter featured posts, and search by topic across both content sources.
+
+Enables consistent blog operations regardless of content format and simplifies blog data management throughout the application.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ac5339</div>
+                                        <div class="message">Adds custom MDX component styling configuration
+
+Creates a comprehensive styling system for MDX components with consistent design tokens and responsive behavior.
+
+Implements custom styling for all standard HTML elements including headings, paragraphs, lists, code blocks, images, links, and tables. Uses Tailwind CSS classes with semantic color tokens for theming consistency.
+
+Enhances user experience with proper spacing, typography hierarchy, and accessibility features like external link handling and image optimization through Next.js Image component.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fea6d4f</div>
+                                        <div class="message">Adds legacy blog renderer and MDX blog interface
+
+Introduces a dedicated component for rendering legacy blog posts with recursive list support and complex styling for nested content structures.
+
+Extends blog interface definitions to support both legacy and MDX-based blog formats, enabling content migration and dual rendering capabilities.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b3d674</div>
+                                        <div class="message">Adds MDX blog support with legacy fallback
+
+Introduces support for MDX-based blog posts while maintaining backward compatibility with existing blog posts. The API now first attempts to fetch MDX content before falling back to legacy blog data, enabling a gradual migration path.
+
+Updates error handling and code formatting for consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3b8044</div>
+                                        <div class="message">Removes blog post about digital economy for small business
+
+Cleans up blog posts collection by removing outdated content about small business digital transformation strategies
+
+Streamlines the blog posts array to focus on more relevant content while maintaining the existing structure and formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d63a9ff</div>
+                                        <div class="message">Adds MDX blog rendering system with footer component
+
+Introduces a complete MDX blog system that enables rendering of markdown blog posts with frontmatter metadata.
+
+Includes utilities for reading and parsing blog files from the filesystem, with support for featured posts and topic-based filtering.
+
+Provides a reusable footer component that displays related topics as clickable links and encourages further reading through the blog section.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce70c18</div>
+                                        <div class="message">Refactors blog post routing to support MDX posts
+
+Converts blog post page from client-side to server-side rendering
+with dual support for new MDX-based posts and legacy blog posts.
+
+Prioritizes MDX posts when available, falling back to legacy posts
+for backward compatibility. Combines both post types in the blog
+listing page for unified content management.
+
+Improves performance by eliminating client-side data fetching
+and loading states while maintaining existing functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f295c1b</div>
+                                        <div class="message">Adds MDX support for blog functionality
+
+Configures Next.js to process MDX files by adding @next/mdx integration and extending page extensions to include .md and .mdx files.
+
+Installs necessary dependencies for MDX rendering and frontmatter parsing including next-mdx-remote and gray-matter.
+
+Adds Tailwind CSS typography plugin to improve prose styling for blog content.
+
+Includes new npm scripts for blog management operations like creating posts and listing existing content.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66973a7</div>
+                                        <div class="message">Adds script to generate new MDX blog posts
+
+Automates the creation of new blog posts with proper frontmatter structure and content template.
+
+Generates URL-friendly slugs from titles and sets up the file in the correct directory structure with placeholder content, making it easier for content creators to start writing immediately.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ab408b</div>
+                                        <div class="message">Adds MDX support for markdown content with JSX
+
+Enables processing and rendering of MDX files by installing the core MDX ecosystem packages including the loader, React integration, and Next.js plugin.
+
+Supports writing interactive documentation and content that combines markdown syntax with React components.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af0a762</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -215,26 +398,6 @@ Extracts main page content into separate components and adds custom loading fall
                                     <div class="commit">
                                         <div class="sha">#dcac77a</div>
                                         <div class="message">Adds Size Guide page with comprehensive sizing charts, measurement tips, and fit advice</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d26068</div>
-                                        <div class="message">Adds comprehensive returns and exchanges page with form and FAQ section</div>
                                     </div>
                                 </div>
                             </section>
