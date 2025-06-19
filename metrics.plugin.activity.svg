@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1144" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="761" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,56 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/paragon-trails</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6b387de</div>
+                                        <div class="message">update config</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">tmchuynh/tien-len</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">tmchuynh/tien-len</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -277,190 +327,6 @@ Supports writing interactive documentation and content that combines markdown sy
                                     <div class="commit">
                                         <div class="sha">#af0a762</div>
                                         <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9cb622c</div>
-                                        <div class="message">Update button styles in CategoriesPage to use modern variant</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 90 commits in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#73a7b65</div>
-                                        <div class="message">Refines user ID handling for DummyJSON API integration
-
-Enhances the method of extracting the DummyJSON user ID from the logged-in user's information.
-
-Introduces specific handling for demo users, ensuring a consistent user ID is generated based on either the username hash or a parsed demo ID.
-
-Updates personal information display to clarify ownership and consistency for user data retrieved from the API.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47ebbe3</div>
-                                        <div class="message">Adds user data fetching and address/payment management
-
-Implements functionality to fetch user data from an external API and manage addresses and payment methods within the settings page.
-
-Enhances the user experience by allowing users to add new addresses and payment methods, while displaying existing ones as read-only.
-
-Also includes validation for input fields to ensure all required information is provided before submission.
-
-Fixes #123</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b2cb49</div>
-                                        <div class="message">Adds settings option to user menu for easier access to profile settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#227a248</div>
-                                        <div class="message">Adds fetchUserById function to retrieve a specific user by ID from DummyJSON API</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9e5cec</div>
-                                        <div class="message">Enhances accessibility and user experience in forms
-
-Improves accessibility by adding aria attributes to the discount button and ensures consistent keyboard event handling across forms.
-
-Changes include:
-- Updated the discount input and button to use `onKeyDown` for better keyboard interaction.
-- Added aria-label and aria-disabled attributes for improved screen reader support.
-
-Relates to enhancing overall usability in the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aee9f02</div>
-                                        <div class="message">Adds university and company details to DummyUser interface
-
-Enhances the DummyUser interface by including new fields for university and company details.
-
-This update provides a more comprehensive structure for user information, allowing for better representation of user affiliations and employment data.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5ae80e</div>
-                                        <div class="message">Adds settings page for user profile and preferences
-
-Implements a comprehensive settings page that allows users to manage their profile information, notification preferences, privacy settings, and billing details.
-
-Enhances user experience by providing a structured interface for updating personal data, changing passwords, and managing notification options.
-
-Introduces form validation and user feedback through toast notifications to improve interaction and error handling.
-
-Relates to user account management enhancement.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#745a1c1</div>
-                                        <div class="message">Updates Premium tier highlight styling
-
-Adjusts the background color of the "Most Popular" label for the Premium tier to enhance visibility and consistency with the design.
-
-Improves user experience by making the label more prominent.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bfb44b</div>
-                                        <div class="message">Enhances MembershipCard layout and styling
-
-Improves the layout of the MembershipCard component by updating the flex properties to ensure better alignment and spacing.
-
-Adjusts border styles for the current tier and enhances the overall visual effect with consistent styling.
-
-These changes aim to provide a more user-friendly interface and better highlight the premium membership benefits.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d5a20d</div>
-                                        <div class="message">Refactor login page to use useEffect for redirecting logged-in users</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdd3a38</div>
-                                        <div class="message">Fix button text color variant for improved accessibility and consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9db668</div>
-                                        <div class="message">Adds shopping bag icon to hero sections on Categories and Sale Items pages for enhanced visual appeal.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8df685a</div>
-                                        <div class="message">Removes background gradient overlay from category item for improved visibility of product badges.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e03228</div>
-                                        <div class="message">Removes background color from hero section overlay for improved visual clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8200a83</div>
-                                        <div class="message">Enhances CategoriesPage layout with a new hero section, improved category stats, and dynamic product images; updates Button component variants for better styling consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56bfe3c</div>
-                                        <div class="message">Refactors HomePage hero section for improved layout and styling; updates background image, adds new text elements, and enhances category showcase with larger cards and better responsiveness.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#877862a</div>
-                                        <div class="message">Refactors HomePage component to fetch and display featured products dynamically; adds new hero section, category showcase, and features section highlighting shopping benefits.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3b5f2b</div>
-                                        <div class="message">Removes unused decoration and shopping images to clean up the project assets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9c24ab</div>
-                                        <div class="message">Updates button variants in ProductGrid component from "outline" to "classic" and from "default" to "modern" for improved styling consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db280e2</div>
-                                        <div class="message">Refactors HomePage layout with new hero section, featured products, and category showcase; integrates ProductGrid component and adds newsletter subscription form.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/custom-ecommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fd8bea0</div>
-                                        <div class="message">Wraps order confirmation and tracking pages with Suspense
-
-Improves user experience by preventing hydration mismatches and providing loading states during server-side rendering.
-
-Extracts main page content into separate components and adds custom loading fallbacks with skeleton animations to maintain visual consistency while pages load.</div>
                                     </div>
                                 </div>
                             </section>
