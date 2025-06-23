@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,166 +19,157 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">tmchuynh/documentation-starter-kit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">tmchuynh/documentation-starter-kit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">tmchuynh/blog-starter-kit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">tmchuynh/blog-starter-kit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 33 commits in
+                                        Pushed 27 commits in
                                         <span class="repo">tmchuynh/intro-to-front-end-web</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#154aaf7</div>
-                                        <div class="message">fix: Update color variables for improved theme consistency in globals.css</div>
+                                        <div class="sha">#d2a5013</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8146b68</div>
-                                        <div class="message">fix: Update blockquote styles for improved visual consistency in globals.css</div>
+                                        <div class="sha">#7c8672e</div>
+                                        <div class="message">feat: Add Project Details Page with dynamic routing and comprehensive project information</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9b458fb</div>
-                                        <div class="message">fix: Adjust spacing for list components in useMDXComponents</div>
+                                        <div class="sha">#01ae3c9</div>
+                                        <div class="message">Implement feature X to enhance user experience and optimize performance</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a8ce4ee</div>
-                                        <div class="message">Adds shadcn/ui component library with Tooltip support
+                                        <div class="sha">#d5a998c</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa8a429</div>
+                                        <div class="message">feat: Create Portfolio Page with guidelines for project display, responsive design, and optional features</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95ad69a</div>
+                                        <div class="message">feat: Add Error Page with user-friendly messaging, navigation options, and examples for improved user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bc955f</div>
+                                        <div class="message">feat: Enhance Not Found page with improved messaging, navigation options, and examples for better user experience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aab1e1e</div>
+                                        <div class="message">feat: Add Not Found page with user-friendly messaging and navigation options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a9afaa</div>
+                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4df1b2f</div>
+                                        <div class="message">feat: Add Contact page with form guidelines, examples, and best practices for user interaction</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65474d0</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20e43cb</div>
+                                        <div class="message">feat: Enhance About page with additional sections and formatting suggestions for education, experience, skills, and personal touch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12f9dc0</div>
+                                        <div class="message">feat: Add About page with comprehensive guidelines for personal branding and professional presentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a0042a</div>
+                                        <div class="message">feat: Update home page content with important considerations and examples for portfolio website design</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dde854</div>
+                                        <div class="message">feat: Expand loading component documentation with various examples and customization options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dfbd9c</div>
+                                        <div class="message">feat: Enhance portfolio website guide with additional sections and customization options</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2c55b4</div>
+                                        <div class="message">feat: Add loading component documentation with usage examples and Chakra UI integration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac6771d</div>
+                                        <div class="message">Enhance portfolio website documentation with design approaches and prerequisites
 
-Integrates shadcn/ui component system to enhance UI capabilities and consistency. Includes Radix UI primitives for accessible tooltip functionality and class variance authority for dynamic styling.
-
-Adds tooltip support to copy-to-clipboard button to improve user experience with helpful hover interactions.
-
-Updates theme system with comprehensive color tokens and CSS variables for better design system integration.</div>
+- Updated the `page.mdx` file to include three design approaches for the `Header` and `Footer` components, detailing minimalistic, bold, and professional styles.
+- Added a new section in the `overview/page.mdx` outlining goals, prerequisites, and a guide on how to use the documentation for building the portfolio website.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#07b6c43</div>
-                                        <div class="message">fix: Update button styles and improve icon color consistency in CopyButton component</div>
+                                        <div class="sha">#e210714</div>
+                                        <div class="message">feat: Add home page content with structure and guidelines for portfolio website</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c36092d</div>
-                                        <div class="message">fix: Update @types/node version to 24.0.3 in package.json and package-lock.json</div>
+                                        <div class="sha">#fa0dcbc</div>
+                                        <div class="message">fix: Update quotation marks for search query display in SearchResults component</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#19860ec</div>
-                                        <div class="message">fix: Refactor color variables in globals.css and update Sidebar and TopNavbar components for improved styling consistency</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">tmchuynh/documentation-starter-kit</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#227cf61</div>
-                                        <div class="message">fix: Update button styles and improve text color consistency in NavigationSection</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">tmchuynh/documentation-starter-kit</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#635881c</div>
-                                        <div class="message">fix: Update chapter descriptions and improve link styling for consistency</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">tmchuynh/blog-starter-kit</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc15af3</div>
-                                        <div class="message">Improves theme switching and UI consistency
-
-Replaces hardcoded color classes with semantic CSS variables for better theme customization and consistency across code blocks and table components.
-
-Adds hydration warning suppression and storage key configuration to prevent theme-related hydration mismatches during server-side rendering.
-
-Implements mounted state check to eliminate flash of incorrect theme icon during initial page load.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d86d6ad</div>
-                                        <div class="message">fix: Correct background color class in Navigation component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7baa3c</div>
-                                        <div class="message">fix: Update header background color for improved visibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a267289</div>
-                                        <div class="message">feat: Add SearchResults component for displaying search results</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ef4f9c</div>
-                                        <div class="message">feat: Add ThemeProvider component for theme management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ee1b6c</div>
-                                        <div class="message">feat: Enhance TopNavbar with search functionality and theme toggle</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1d58fd</div>
-                                        <div class="message">feat: Implement search functionality with navigation flattening and highlighting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0d5098</div>
-                                        <div class="message">feat: Add next-themes dependency for theme management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f43dbd0</div>
-                                        <div class="message">feat: Add next-themes package for theme management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfe45a7</div>
-                                        <div class="message">fix: Change paragraph to span for markdown-generated content to prevent HTML nesting issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e31aa88</div>
-                                        <div class="message">refactor: Improve layout and styling consistency in TopNavbar component</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">tmchuynh/blog-starter-kit</span>
                                     </div>
                                 </div>
                             </section>
