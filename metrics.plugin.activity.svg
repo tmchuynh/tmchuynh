@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.category,.repository{display:flex;flex-direction:column}.category{align-items:center;flex:1 1 0}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .items{padding-left:11px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,122 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a607771</div>
+                                        <div class="message">Add Table of Contents to project overview and all module pages for improved navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed64ce1</div>
+                                        <div class="message">Add Table of Contents to project overview and module pages for better navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80bf3bb</div>
+                                        <div class="message">Implement backend API for user management, including user model, controllers, routes, and authentication middleware</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04a0147</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c8f5051</div>
+                                        <div class="message">Implement feature X to enhance user experience and fix bug Y in module Z</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57617b5</div>
+                                        <div class="message">Implement feature X to enhance user experience and fix bug Y in module Z</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3039963</div>
+                                        <div class="message">Add frontend setup documentation with React and TailwindCSS, including project structure and common components</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07c3c50</div>
+                                        <div class="message">Add role-based authorization module with method-level security and custom permission evaluators</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7278e6a</div>
+                                        <div class="message">Add authentication module with Argon2 password hashing and JWT support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5b3352</div>
+                                        <div class="message">Add REST API controllers for User, Course, Module, and Enrollment management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9188db8</div>
+                                        <div class="message">Add repository and service layer documentation for online learning platform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05773ed</div>
+                                        <div class="message">Add data models and entities documentation for online learning platform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d50983</div>
+                                        <div class="message">Add Spring MongoDB integration documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9705f27</div>
+                                        <div class="message">Add Spring Boot setup documentation for online learning platform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6c2084</div>
+                                        <div class="message">Add MongoDB schema design documentation for online learning platform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db413c5</div>
+                                        <div class="message">Add MongoDB setup and configuration documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f08368e</div>
+                                        <div class="message">Add project overview documentation for online learning platform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#585e1cb</div>
+                                        <div class="message">Add BackToTop component to testing and deployment documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09335d3</div>
+                                        <div class="message">Add BackToTop component to frontend and authentication pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80b3167</div>
+                                        <div class="message">Add BackToTop component to database setup and backend API documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0be5e89</div>
+                                        <div class="message">Remove ORM category handling from navigation item categorization</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -151,122 +267,6 @@
                                     <div class="commit">
                                         <div class="sha">#a434613</div>
                                         <div class="message">Add image host configurations for remote image patterns in Next.js</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 34 commits in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#52c186c</div>
-                                        <div class="message">feat: add performance testing documentation covering key concepts, tools, best practices, and examples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9615b0</div>
-                                        <div class="message">fix: update code block titles for clarity and consistency in unit testing examples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7a7c07</div>
-                                        <div class="message">feat: add integration testing documentation covering types, benefits, tools, and best practices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ad3e15</div>
-                                        <div class="message">feat: add comprehensive unit testing documentation covering benefits, writing guidelines, and popular frameworks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2387d74</div>
-                                        <div class="message">fix: update code block titles for TypeScript implementations in design patterns documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7ab9f7</div>
-                                        <div class="message">fix: update code block titles for clarity and consistency in rate limiting examples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ca48ab</div>
-                                        <div class="message">fix: update links for API security and versioning sections for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d05d87</div>
-                                        <div class="message">fix: update code block titles for clarity and consistency in performance optimization documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#267f866</div>
-                                        <div class="message">feat: add comprehensive API versioning documentation covering strategies, best practices, and implementation examples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1738c9a</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#361acbf</div>
-                                        <div class="message">fix: update code block titles for clarity in performance monitoring documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e970e67</div>
-                                        <div class="message">feat: add comprehensive scalability documentation covering strategies, benefits, challenges, and best practices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#697eebb</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e509714</div>
-                                        <div class="message">feat: add comprehensive performance optimization documentation covering key concepts, techniques, and best practices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9065f09</div>
-                                        <div class="message">feat: add comprehensive performance monitoring documentation covering key concepts, tools, and best practices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4bc77a</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24e0aaf</div>
-                                        <div class="message">feat: update load balancing documentation with additional resource links for performance monitoring, scalability, and optimization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af22dc2</div>
-                                        <div class="message">feat: add comprehensive documentation on load balancing, covering key concepts, strategies, tools, best practices, and resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2699e0e</div>
-                                        <div class="message">feat: add comprehensive Kubernetes documentation covering core concepts and getting started guide</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c924762</div>
-                                        <div class="message">feat: update Docker documentation with additional resources and best practices links</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c39f29e</div>
-                                        <div class="message">feat: add comprehensive Docker documentation including installation, usage, and best practices</div>
                                     </div>
                                 </div>
                             </section>
