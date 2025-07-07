@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.category,.repository{display:flex;flex-direction:column}.category{align-items:center;flex:1 1 0}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,137 +22,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/mental-health-non-profit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2aba1dc</div>
-                                        <div class="message">Fix duplicate preserveIndent</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7683a4c</div>
-                                        <div class="message">Refactor configuration validation and secrets management for improved readability and consistency</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 41 commits in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7e46fad</div>
-                                        <div class="message">Add comprehensive overview of graph databases, including key features, benefits, use cases, and popular solutions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01cbdd5</div>
-                                        <div class="message">Add navigation structure for back-end development course with chapters and resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1618367</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf82194</div>
-                                        <div class="message">Revise course content structure and enhance learning path with new sections on back-end development, including projects and next steps guidance.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98806d4</div>
-                                        <div class="message">Add comprehensive deployment strategy and implementation documentation, including Dockerfiles, Kubernetes configurations, and CI/CD pipeline setup for the online learning platform.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51cb871</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3610680</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24bdd95</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbedb01</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fc0f4a</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf92b08</div>
-                                        <div class="message">Add comprehensive assessment and quiz system documentation with backend and frontend implementation details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71d974c</div>
-                                        <div class="message">Add progress tracking system documentation with backend and frontend implementation details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3f52e6</div>
-                                        <div class="message">Add content delivery system documentation with backend and frontend implementation details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11bfedb</div>
-                                        <div class="message">Add course management system documentation with core features and backend implementation details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7599824</div>
-                                        <div class="message">Update performance monitoring and caching strategies links in testing documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e64cf9</div>
-                                        <div class="message">Update links in scalability strategies and load balancing documentation for improved navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c5fc3a</div>
-                                        <div class="message">Fix header title for scalability strategies documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52ad5aa</div>
-                                        <div class="message">delete: remove caching strategies documentation from db-data-storage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#071c90b</div>
-                                        <div class="message">Add scalability strategies documentation with detailed explanations and code examples
+                                        <div class="sha">#66776c3</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/npm_and_yarn/next-15.3.3
 
-- Introduced a comprehensive guide on scalability, covering vertical and horizontal scaling, load distribution, auto-scaling, data partitioning, service discovery, and API rate limiting.
-- Included implementation details and code snippets for various rate limiting algorithms.
-- Discussed load balancing, caching, database sharding, and microservices architecture.
-- Added performance monitoring best practices and key metrics.
-- Provided next steps with links to related resources.</div>
+Bump next from 15.3.2 to 15.3.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#297dcb0</div>
-                                        <div class="message">Add comprehensive guide on database optimization, including key concepts, best practices, tools, and techniques</div>
+                                        <div class="sha">#0a6fc3f</div>
+                                        <div class="message">Bump next from 15.3.2 to 15.3.3
+
+Bumps [next](https://github.com/vercel/next.js) from 15.3.2 to 15.3.3.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.3.2...v15.3.3)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-version: 15.3.3
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -164,27 +62,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/finance-startup</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a607771</div>
-                                        <div class="message">Add Table of Contents to project overview and all module pages for improved navigation</div>
+                                        <div class="sha">#c14353d</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/npm_and_yarn/next-15.3.4
+
+Bump next from 15.3.2 to 15.3.4</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ed64ce1</div>
-                                        <div class="message">Add Table of Contents to project overview and module pages for better navigation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80bf3bb</div>
-                                        <div class="message">Implement backend API for user management, including user model, controllers, routes, and authentication middleware</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04a0147</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                        <div class="sha">#db98362</div>
+                                        <div class="message">Bump next from 15.3.2 to 15.3.4
+
+Bumps [next](https://github.com/vercel/next.js) from 15.3.2 to 15.3.4.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.3.2...v15.3.4)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-version: 15.3.4
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -196,79 +102,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">tmchuynh/intro-to-back-end-web</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/hotel-starter</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c8f5051</div>
-                                        <div class="message">Implement feature X to enhance user experience and fix bug Y in module Z</div>
+                                        <div class="sha">#5aec963</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/npm_and_yarn/next-15.3.3
+
+Bump next from 15.3.2 to 15.3.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#57617b5</div>
-                                        <div class="message">Implement feature X to enhance user experience and fix bug Y in module Z</div>
+                                        <div class="sha">#ce55d07</div>
+                                        <div class="message">Bump next from 15.3.2 to 15.3.3
+
+Bumps [next](https://github.com/vercel/next.js) from 15.3.2 to 15.3.3.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.3.2...v15.3.3)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-version: 15.3.3
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/harmona-health</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dbce38c</div>
+                                        <div class="message">Merge pull request #1 from tmchuynh/dependabot/npm_and_yarn/next-15.3.3
+
+Bump next from 15.3.1 to 15.3.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3039963</div>
-                                        <div class="message">Add frontend setup documentation with React and TailwindCSS, including project structure and common components</div>
+                                        <div class="sha">#df06bc2</div>
+                                        <div class="message">Bump next from 15.3.1 to 15.3.3
+
+Bumps [next](https://github.com/vercel/next.js) from 15.3.1 to 15.3.3.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.3.1...v15.3.3)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-version: 15.3.3
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#07c3c50</div>
-                                        <div class="message">Add role-based authorization module with method-level security and custom permission evaluators</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7278e6a</div>
-                                        <div class="message">Add authentication module with Argon2 password hashing and JWT support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5b3352</div>
-                                        <div class="message">Add REST API controllers for User, Course, Module, and Enrollment management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9188db8</div>
-                                        <div class="message">Add repository and service layer documentation for online learning platform</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05773ed</div>
-                                        <div class="message">Add data models and entities documentation for online learning platform</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d50983</div>
-                                        <div class="message">Add Spring MongoDB integration documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9705f27</div>
-                                        <div class="message">Add Spring Boot setup documentation for online learning platform</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6c2084</div>
-                                        <div class="message">Add MongoDB schema design documentation for online learning platform</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db413c5</div>
-                                        <div class="message">Add MongoDB setup and configuration documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f08368e</div>
-                                        <div class="message">Add project overview documentation for online learning platform</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#585e1cb</div>
-                                        <div class="message">Add BackToTop component to testing and deployment documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09335d3</div>
-                                        <div class="message">Add BackToTop component to frontend and authentication pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80b3167</div>
-                                        <div class="message">Add BackToTop component to database setup and backend API documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0be5e89</div>
-                                        <div class="message">Remove ORM category handling from navigation item categorization</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">tmchuynh/intro-to-web-design</span>
                                     </div>
                                 </div>
                             </section>
