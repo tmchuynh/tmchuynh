@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="595" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,66 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7dd0c75</div>
+                                        <div class="message">Adds enhanced bulk form submission testing script
+
+Introduces a new script for testing multiple form submissions with accurate field mappings for various API endpoints.
+
+This improvement enables efficient validation of form handling and error reporting, enhancing the overall testing process. The script includes detailed logging of submission attempts, success rates, and feedback collection, thereby streamlining the testing workflow for different form types.
+
+No issues were specifically addressed, but the addition of this script will facilitate future development and testing efforts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0cfb51</div>
+                                        <div class="message">Adds load testing script for IAC website forms
+
+Introduces a comprehensive load testing script to evaluate server performance during concurrent and sequential form submissions.
+
+The script allows for testing different load scenarios, tracks performance metrics, and provides detailed results for assessment. This enhances the ability to identify potential performance issues under varying loads.
+
+Improves testing capabilities and ensures the server can handle expected traffic efficiently.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2690aa6</div>
+                                        <div class="message">Adds bulk form submission testing script
+
+Introduces a comprehensive script for testing bulk form submissions with various data variations.
+
+Enhances existing testing capabilities by automating submissions for registration, contact, application, feedback, and requests, including retry logic for failed submissions.
+
+This facilitates better validation of API endpoints and improves overall robustness of form handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#015e07b</div>
+                                        <div class="message">Adds comprehensive form testing scripts and documentation
+
+Introduces a collection of testing scripts for API, bulk, and load testing of forms, enhancing the validation process with various data combinations and load scenarios.
+
+Provides detailed instructions and examples for usage, ensuring effective testing practices and performance benchmarks for the IAC website forms.
+
+Encourages reliable handling of real-world usage patterns through structured testing methodologies.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1d6fd0</div>
+                                        <div class="message">Adds bulk and load testing scripts to package.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -191,30 +251,6 @@ Improves test suite maintainability and readability by centralizing common mock 
                                     <div class="commit">
                                         <div class="sha">#0d5a145</div>
                                         <div class="message">Adds iacAuthorization to required fields validation in registration route</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1f40924</div>
-                                        <div class="message">Updates href in features list from '/about_us/our_commitment' to '/about_us/our_mission'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3394fa5</div>
-                                        <div class="message">Adds ResponsiveLogo import and component to ImageTilesHeader</div>
                                     </div>
                                 </div>
                             </section>
