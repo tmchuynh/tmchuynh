@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1460" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,135 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 15 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed8e884</div>
-                                        <div class="message">Improves request template with enhanced school program details
-
-Updates the request template to include additional fields for phone number, school name, school email, grade levels, and interested programs.
-
-Enhances the layout and styling for better readability and structure, allowing for clearer presentation of contact and school information.
-
-Adds optional additional information section to capture more details from the user, improving overall functionality and user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4890201</div>
-                                        <div class="message">Adds email template for parent/student program requests
-
-Introduces a new component to generate a structured email template for parent or student program requests.
-
-The template includes fields for requestor details, school information, and additional messages, improving communication and coordination with schools.
-
-Enhances the user experience by providing a clear format for requests.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d799c55</div>
-                                        <div class="message">Adds RegistrationTemplate component for new class registration emails</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5208b70</div>
-                                        <div class="message">Enhances feedback template with detailed input fields
-
-Updates the feedback template to include additional fields for user input, improving the specificity of feedback collected.
-
-Replaces the 'message' field with various structured inputs, including participation type, program details, ratings, and comments, allowing for more comprehensive feedback.
-
-The design is also enhanced for better visual presentation and clarity, supporting both anonymous and identified feedback submissions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a60ffb</div>
-                                        <div class="message">Enhances Contact Us template with inquiry type and improved formatting for contact information</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f6b972</div>
-                                        <div class="message">Adds ApplicationTemplate component for job application emails
-
-Introduces a new component to generate formatted email templates for job application submissions.
-
-The component collects applicant information, including personal details, positions of interest, availability, and submitted documents, enhancing communication during the hiring process.
-
-This improvement aims to streamline the review of applications and ensure that all relevant information is presented clearly.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c29cb10</div>
-                                        <div class="message">Adds school request form and enhances user communication
-
-Introduces a new school request form component to replace the parent student request form, improving clarity for users.
-
-Enhances the user experience with informative messaging about the response process and immediate assistance options.
-
-Incorporates a dynamic button for direct phone calls, streamlining communication with the program.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe54289</div>
-                                        <div class="message">Implements form submission with error handling
-
-Enhances the contact form submission process by integrating an API call to send user data.
-
-Introduces error handling to alert users in case of submission failures, ensuring a better user experience.
-
-Resets the form fields upon successful submission to prepare for new user input.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39a0e03</div>
-                                        <div class="message">Updates form submission handling for contact requests
-
-Refines the POST request handling by:
-
-- Changing fields to include `phone`, `schoolName`, `schoolEmail`, `gradeLevels`, `interestedPrograms`, and `additionalInfo`.
-- Enhancing validation to check for new required fields.
-- Modifying email subject to reflect the school name in the request.
-
-These changes improve data accuracy and user experience in the contact request process.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7ade49</div>
-                                        <div class="message">Adds API endpoint for sending parent/student requests
-
-Implements a new POST route to handle requests for the Parent/Student program.
-
-The endpoint validates input fields and sends an email using the Resend service with a formatted template.
-
-This addition enhances communication for program requests and ensures data integrity through basic validation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18fffec</div>
-                                        <div class="message">Adds application, registration, and feedback email routes
-
-Implements new routes for handling job applications, class registrations, and feedback submissions.
-
-Each route includes validation for required fields and sends formatted emails using the Resend service. These changes enhance the functionality of the contact API, allowing for efficient management of user inquiries and applications.
-
-Improves user experience by ensuring necessary data is collected before processing requests.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4ff5fe</div>
-                                        <div class="message">Adds multi-step application form with enhanced experience tracking
-
-Implements a multi-step application form to improve user experience and streamline data collection.
-
-Introduces progress tracking and allows users to select multiple positions and availability days. Expands experience fields for various positions, enhancing applicant information collection.
-
-Integrates file upload functionality for resumes and cover letters, ensuring comprehensive application submissions.
-
-Enhances validation logic to ensure all required fields are completed before progression through the form steps.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb2ae2d</div>
-                                        <div class="message">fix: update muted color variable for improved accessibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#732ca22</div>
-                                        <div class="message">feat: implement multi-step feedback form with progress tracking and validation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80a5e9d</div>
-                                        <div class="message">feat: enhance Contact Us form with new layout, validation, and success dialog</div>
+                                        <div class="sha">#7cf3752</div>
+                                        <div class="message">Enhances registration process by adding detailed error logging and submission data output in RegisterForm and route handling.</div>
                                     </div>
                                 </div>
                             </section>
@@ -162,275 +42,23 @@ Enhances validation logic to ensure all required fields are completed before pro
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 34 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52f2416</div>
-                                        <div class="message">feat: redesign RequestFormSchool with improved layout, enhanced input components, and success dialog</div>
+                                        <div class="sha">#9191e0b</div>
+                                        <div class="message">Restricts form submission to the final step in ApplicationForm and RegisterForm components, preventing premature submissions and enhancing user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c83b8aa</div>
-                                        <div class="message">feat: update RequestFormParentStudent with improved layout, added immediate assistance section, and refined form fields</div>
+                                        <div class="sha">#b5b8577</div>
+                                        <div class="message">Enhances FeedbackForm component by improving submission logic, preventing premature form submission, and restructuring feedback data for API compatibility</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dacdda9</div>
-                                        <div class="message">feat: overhaul FeedbackForm with enhanced UI components, validation, and submission handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91ce873</div>
-                                        <div class="message">feat: enhance ApplicationForm with improved validation, file upload, and user feedback dialog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feb0e4d</div>
-                                        <div class="message">feat: implement multi-step registration form with validation and progress tracking</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6e2862</div>
-                                        <div class="message">style: remove dark theme text color from heading for consistency in StaffPage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddfddb0</div>
-                                        <div class="message">style: remove dark theme text color from headings for consistency in OurStaffPage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c8c862</div>
-                                        <div class="message">style: remove dark theme text color and adjust layout for consistency in AboutUsPage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e22fab7</div>
-                                        <div class="message">refactor: remove ThemeProvider from Providers component for simplified context management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0aed586</div>
-                                        <div class="message">style: remove dark theme text color from Our Programs header for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ebcf95</div>
-                                        <div class="message">style: adjust DynamicButton class for consistent spacing in FeedbackForm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d209d3</div>
-                                        <div class="message">refactor: improve class order and styling consistency across multiple components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dddf089</div>
-                                        <div class="message">style: refine typography and layout across multiple page header components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ededcfc</div>
-                                        <div class="message">fix: adjust class order and improve styling for PageHeaderTestimonial component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9d1e45</div>
-                                        <div class="message">feat: replace TestimonialCard with TestimonialsPaginated component for improved testimonial display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd9011a</div>
-                                        <div class="message">feat: add multiple testimonials for various programs to enhance user engagement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6593f42</div>
-                                        <div class="message">feat: add paginated testimonials component with filtering and pagination controls</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32e08b6</div>
-                                        <div class="message">feat: update color variables for improved theming; add navigation color</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9793bd7</div>
-                                        <div class="message">feat: add Radix UI components for progress, radio group, and select; update tooltip styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38d5363</div>
-                                        <div class="message">Refactors card components for improved styling and structure; updates button and image classes for consistency</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">tmchuynh/finance-startup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bcf8a52</div>
-                                        <div class="message">Refactor LearningSimulatorPage: Replace hardcoded ResourceCard components with a dynamic mapping from sorted simulators array for improved maintainability and organization.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6581341</div>
-                                        <div class="message">Refactor BusinessCalculator: Replace CalculatorCard with ResourceCard; sort corresponding checklists by title for improved organization.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8fb0fb</div>
-                                        <div class="message">Refactor FinanceChecklistsPage: Add "View All" button for each checklist category; sort checklists by title for improved organization.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f645afc</div>
-                                        <div class="message">Refactor Calculator component: Replace CalculatorCard with ResourceCard; improve error handling for missing calculator type and corresponding calculators; sort calculators by title for better organization.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c1a068</div>
-                                        <div class="message">Refactor FinanceCalculatorPage: Add a "View All" button for each category, enhancing navigation; import utility for title formatting.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#775ca77</div>
-                                        <div class="message">Refactor global styles: Remove unnecessary list style application from unordered lists for cleaner styling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17f2d29</div>
-                                        <div class="message">Refactor ResourceCard: Enhance layout and functionality by adding a button for resource exploration; update title formatting and ensure consistent styling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0599e01</div>
-                                        <div class="message">Refactor Checklist Page: Improve layout consistency by adjusting class order and enhancing header structure; update checkbox styles for better alignment.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#369ed89</div>
-                                        <div class="message">Refactor global styles: Update primary, secondary, and accent colors for consistency; enhance typography styles for headings and links; improve list styling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5549eae</div>
-                                        <div class="message">Refactor button components across finance calculators and decision tools to use the new Button component; update styles and remove unnecessary classes for consistency. Adjust global styles for primary and secondary colors, and enhance sidebar component structure and functionality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b06672</div>
-                                        <div class="message">Refactor Financial Decision Tools Page: Update tool descriptions for clarity, enhance layout, and implement sorting for improved organization and user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63a9e1c</div>
-                                        <div class="message">Refactor Finance Calculator Page: Implement sorting for finance calculators and enhance list rendering for improved organization and readability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b5dfb0</div>
-                                        <div class="message">Refactor Financial Decision Tools page: Enhance layout, improve readability, and implement a dynamic tools grid for better user engagement.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3595284</div>
-                                        <div class="message">Refactor UI components for improved layout, consistency, and readability across pricing, navigation, and portfolio sections</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c705d2c</div>
-                                        <div class="message">Refactor Stock Market Simulator UI: Enhance layout, improve accessibility, and update trading functionality with new components for better user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5017f3</div>
-                                        <div class="message">Refactor calculator components for improved styling and consistency
-
-- Updated layout classes in various calculator components to enhance responsiveness and maintain a consistent design.
-- Removed unnecessary background color classes from result display sections for a cleaner look.
-- Adjusted text color classes for better readability and uniformity across components.
-- Ensured all calculators maintain a similar structure and styling approach.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49c24fd</div>
-                                        <div class="message">Refactor styling and improve readability across multiple finance calculator components
-
-- Adjusted class order for consistent styling in mortgage, net profit margin, operating margin, payroll tax, pension plan, profit margin, property appreciation, property management fee, property tax, quick ratio, real estate commission, and real estate investment return calculators.
-- Removed unnecessary background color classes from table rows for a cleaner look.
-- Simplified text color classes for result displays to enhance readability.
-- Ensured consistent button styling across all calculators.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9eed545</div>
-                                        <div class="message">Refactor layout and improve readability in finance calculator pages
-
-- Updated div class order for consistent styling across multiple calculator pages.
-- Adjusted text formatting for better readability in descriptions and tables.
-- Removed unnecessary background color classes from table headers.
-- Enhanced button styles for a cleaner look.
-- Standardized source citation formatting across calculators.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8ff1a6</div>
-                                        <div class="message">Refactors layout and styling in OurTeamPage component for improved readability and consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bd6a24</div>
-                                        <div class="message">Adds Progress, Table, and Tabs components; updates package dependencies</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">tmchuynh/coding-courses</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dba0c15</div>
-                                        <div class="message">Refactor vocabulary terms definitions for clarity and detail; enhance explanations for key programming concepts and add new terms to improve educational content.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#280873c</div>
-                                        <div class="message">Enhance FAQ content with detailed answers; expand on trial classes, sibling discounts, monthly plans, course differences, scholarships, and more for improved clarity and transparency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19d9b48</div>
-                                        <div class="message">Enhance MissionPage layout and content; improve structure, add new sections on impact, vision, and core values, and update styling for better readability and engagement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aededb4</div>
-                                        <div class="message">Implement student success stories page with pagination, filtering, and enhanced layout; add new UI components for better user experience</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4b82cd</div>
-                                        <div class="message">Enhance AboutPage content and layout; correct typographical errors, add historical milestones, teaching philosophy, student success stories, and community involvement sections</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25dfda6</div>
-                                        <div class="message">Refactor layout and home page components; integrate AppLayout and enhance feature display with Badge component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f38227</div>
-                                        <div class="message">Refactor ParentGuidePage to enhance layout with new UI components; implement tabs and accordion for better content organization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c0d4e8</div>
-                                        <div class="message">Add secondary features to enhance curriculum offerings with detailed descriptions and icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#161b8cf</div>
-                                        <div class="message">Implement AppLayout with sidebar and dynamic breadcrumb; remove Header and Footer components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#904f2a6</div>
-                                        <div class="message">Add Radix UI components: Badge, Dialog, Popover, Select, and Table; update package dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88ba6e5</div>
-                                        <div class="message">Update color variables in globals.css for improved theme consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8639596</div>
-                                        <div class="message">Implement sidebar component with context and mobile support; add vocabulary page and skeleton UI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93dcf21</div>
-                                        <div class="message">Add @radix-ui/react-dialog and @radix-ui/react-separator dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08ce582</div>
-                                        <div class="message">Add metadata for SEO and adjust layout spacing</div>
+                                        <div class="sha">#0d5a145</div>
+                                        <div class="message">Adds iacAuthorization to required fields validation in registration route</div>
                                     </div>
                                 </div>
                             </section>
@@ -443,18 +71,58 @@ Enhances validation logic to ensure all required fields are completed before pro
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/intro-to-front-end-web</span>
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59aaab4</div>
-                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/master'</div>
+                                        <div class="sha">#1f40924</div>
+                                        <div class="message">Updates href in features list from '/about_us/our_commitment' to '/about_us/our_mission'</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#14706f0</div>
-                                        <div class="message">update favicon</div>
+                                        <div class="sha">#3394fa5</div>
+                                        <div class="message">Adds ResponsiveLogo import and component to ImageTilesHeader</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#02c7e2e</div>
+                                        <div class="message">Refines success dialog message in ContactUs component for clarity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/iac_website_2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1fd9f15</div>
+                                        <div class="message">Refactors ProgramCards component to improve layout and structure by adjusting class names and moving DynamicButton to CardFooter</div>
                                     </div>
                                 </div>
                             </section>
