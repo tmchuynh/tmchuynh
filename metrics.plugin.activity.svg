@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="728" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,70 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8a7d5d1</div>
+                                        <div class="message">Improves sidebar and navbar transition effects
+
+Refines transition properties in the sidebar and top navbar components to enhance animation fluidity.
+
+Changes from "transition-transform" to "transition-all" in the sidebar for smoother transitions. Adjusts order of classes in the navbar for consistency in transition behavior.
+
+Ensures a more cohesive user experience during navigation interactions.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">tmchuynh/phoenix-code-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0909e5a</div>
+                                        <div class="message">Update layout transitions and sidebar dimensions
+
+Improves layout responsiveness by enhancing transition durations to 500ms for smoother animations.
+
+Adjusts sidebar width to 25rem for better alignment with the overall design, ensuring consistent behavior when toggled.
+
+Updates header width calculations to maintain layout integrity when the sidebar is open or closed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87344b8</div>
+                                        <div class="message">refactor: enhance layout in LayoutWrapper for improved content display</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43dd3c8</div>
+                                        <div class="message">refactor: update MainContent to use relative positioning for better layout control</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#094e324</div>
+                                        <div class="message">refactor: simplify button styling in WelcomePage component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -147,178 +211,6 @@
                                     <div class="commit">
                                         <div class="sha">#e229fb5</div>
                                         <div class="message">update packages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7dd0c75</div>
-                                        <div class="message">Adds enhanced bulk form submission testing script
-
-Introduces a new script for testing multiple form submissions with accurate field mappings for various API endpoints.
-
-This improvement enables efficient validation of form handling and error reporting, enhancing the overall testing process. The script includes detailed logging of submission attempts, success rates, and feedback collection, thereby streamlining the testing workflow for different form types.
-
-No issues were specifically addressed, but the addition of this script will facilitate future development and testing efforts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0cfb51</div>
-                                        <div class="message">Adds load testing script for IAC website forms
-
-Introduces a comprehensive load testing script to evaluate server performance during concurrent and sequential form submissions.
-
-The script allows for testing different load scenarios, tracks performance metrics, and provides detailed results for assessment. This enhances the ability to identify potential performance issues under varying loads.
-
-Improves testing capabilities and ensures the server can handle expected traffic efficiently.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2690aa6</div>
-                                        <div class="message">Adds bulk form submission testing script
-
-Introduces a comprehensive script for testing bulk form submissions with various data variations.
-
-Enhances existing testing capabilities by automating submissions for registration, contact, application, feedback, and requests, including retry logic for failed submissions.
-
-This facilitates better validation of API endpoints and improves overall robustness of form handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#015e07b</div>
-                                        <div class="message">Adds comprehensive form testing scripts and documentation
-
-Introduces a collection of testing scripts for API, bulk, and load testing of forms, enhancing the validation process with various data combinations and load scenarios.
-
-Provides detailed instructions and examples for usage, ensuring effective testing practices and performance benchmarks for the IAC website forms.
-
-Encourages reliable handling of real-world usage patterns through structured testing methodologies.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1d6fd0</div>
-                                        <div class="message">Adds bulk and load testing scripts to package.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">tmchuynh/iac_website_2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#03f1252</div>
-                                        <div class="message">Adds comprehensive testing guide for IAC website forms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cda9963</div>
-                                        <div class="message">Adds end-to-end tests for registration form functionality
-
-Implements comprehensive end-to-end tests for the registration form, covering full registration flow, required field validation, step navigation, email format validation, and mobile device compatibility.
-
-These tests ensure that the registration process works correctly and enhances the reliability of the application.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82ea95c</div>
-                                        <div class="message">Adds end-to-end tests for contact, feedback, application, and school request forms
-
-Implements comprehensive end-to-end testing for the contact, feedback, application, and school request forms to ensure functionality and user experience.
-
-Validates form submissions, required field checks, and success dialogs for each form type, enhancing testing coverage and reliability.
-
-These tests will facilitate easier maintenance and improve confidence in the form functionality as the application evolves.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e58c07</div>
-                                        <div class="message">Adds API testing script for IAC website forms
-
-Introduces a comprehensive API testing script that automates the testing of various forms on the IAC website.
-
-The script includes functionality for generating test data, validating API responses, and logging results for different endpoints such as registration, contact, application, feedback, school requests, and parent/student requests.
-
-This enhancement ensures robust testing and validation of the API, improving overall reliability and user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc130c6</div>
-                                        <div class="message">Adds testing setup script for IAC Website
-
-Implements a comprehensive setup script to streamline the testing environment for the IAC Website.
-
-The script checks for Node.js installation, installs necessary testing dependencies, sets up Playwright browsers, creates a local environment file, updates the .gitignore for coverage directories, and verifies test scripts in package.json.
-
-Additionally, it includes a smoke test to confirm the setup functionality, enhancing overall testing efficiency and usability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cd001e</div>
-                                        <div class="message">Adds Jest and Playwright configuration files for testing
-
-Introduces configuration files for Jest and Playwright to facilitate unit and end-to-end testing.
-
-Sets up Jest with custom environment settings, test matching patterns, and coverage collection. Implements test setup for Next.js components and environment variables.
-
-Configures Playwright for parallel testing across major browsers, including mobile viewports, and integrates a web server setup for local development.
-
-Enhances testing framework for better reliability and workflow efficiency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa1748c</div>
-                                        <div class="message">Adds comprehensive testing documentation for IAC website forms
-
-Introduces a detailed README for the testing suite of the International Activities Club website forms.
-
-Covers setup instructions, test types, coverage goals, and debugging procedures to enhance form reliability and user experience.
-
-This documentation aims to guide developers in maintaining and extending the test suite effectively for future contributions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6230dfc</div>
-                                        <div class="message">Adds unit tests for registration and contact forms
-
-Introduces comprehensive unit tests for the registration and contact forms, enhancing test coverage and ensuring proper functionality.
-
-Tests include validation for required fields, email format, and successful API interactions. Additionally, it verifies error handling for API failures and checks that forms reset after submission.
-
-These changes improve code reliability and maintainability by ensuring that critical user interactions are properly validated and tested.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d58e856</div>
-                                        <div class="message">Adds testing utilities and mock data generation functions
-
-Introduces utility functions for rendering components with mock providers in tests.
-
-Includes generators for various form data templates, enhancing test coverage and simplifying the creation of test scenarios.
-
-Improves test suite maintainability and readability by centralizing common mock data structures and interactions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9316ce9</div>
-                                        <div class="message">fix: enhance success dialog layout and message formatting in RequestFormParentStudent component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#686387b</div>
-                                        <div class="message">fix: improve success dialog layout and message formatting in ContactUs component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7539190</div>
-                                        <div class="message">chore: add testing scripts and dependencies for Jest and Playwright</div>
                                     </div>
                                 </div>
                             </section>
