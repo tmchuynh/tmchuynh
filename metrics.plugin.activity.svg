@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,42 +23,18 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">tmchuynh/iac-site</span>
+                                        <span class="repo">Math-225-Fa2025/lab-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59c5c8b</div>
-                                        <div class="message">Merge pull request #5 from tmchuynh/dependabot/npm_and_yarn/multi-c22e25d29b
-
-Bump brace-expansion</div>
+                                        <div class="sha">#3952d03</div>
+                                        <div class="message">Knit</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#548b259</div>
-                                        <div class="message">Bump brace-expansion
-
-Bumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.
-
-Updates `brace-expansion` from 1.1.11 to 1.1.12
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/1.1.11...v1.1.12)
-
-Updates `brace-expansion` from 2.0.1 to 2.0.2
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/1.1.11...v1.1.12)
-
----
-updated-dependencies:
-- dependency-name: brace-expansion
-  dependency-version: 1.1.12
-  dependency-type: indirect
-- dependency-name: brace-expansion
-  dependency-version: 2.0.2
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#fe99e09</div>
+                                        <div class="message">Change to blockquotes</div>
                                     </div>
                                 </div>
                             </section>
@@ -70,43 +46,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/knowledge_knockout</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Math-225-Fa2025/hw-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d9f5ab8</div>
-                                        <div class="message">Merge pull request #9 from tmchuynh/dependabot/npm_and_yarn/multi-c22e25d29b
-
-Bump brace-expansion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60d404b</div>
-                                        <div class="message">Bump brace-expansion
-
-Bumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.
-
-Updates `brace-expansion` from 2.0.1 to 2.0.2
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
-
-Updates `brace-expansion` from 1.1.11 to 1.1.12
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
-
----
-updated-dependencies:
-- dependency-name: brace-expansion
-  dependency-version: 2.0.2
-  dependency-type: indirect
-- dependency-name: brace-expansion
-  dependency-version: 1.1.12
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#2b0a0ab</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -118,46 +66,47 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/knowledge_knockout</span>
+                                        Pushed 9 commits in
+                                        <span class="repo">Math-225-Fa2025/hw-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cfe0b0</div>
-                                        <div class="message">Merge pull request #8 from tmchuynh/dependabot/npm_and_yarn/multi-0acb442647
-
-Bump on-headers and express-session</div>
+                                        <div class="sha">#957605f</div>
+                                        <div class="message">Completed</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5476fdb</div>
-                                        <div class="message">Bump on-headers and express-session
-
-Bumps [on-headers](https://github.com/jshttp/on-headers) to 1.1.0 and updates ancestor dependency [express-session](https://github.com/expressjs/session). These dependencies need to be updated together.
-
-
-Updates `on-headers` from 1.0.2 to 1.1.0
-- [Release notes](https://github.com/jshttp/on-headers/releases)
-- [Changelog](https://github.com/jshttp/on-headers/blob/master/HISTORY.md)
-- [Commits](https://github.com/jshttp/on-headers/compare/v1.0.2...v1.1.0)
-
-Updates `express-session` from 1.18.1 to 1.18.2
-- [Release notes](https://github.com/expressjs/session/releases)
-- [Changelog](https://github.com/expressjs/session/blob/master/HISTORY.md)
-- [Commits](https://github.com/expressjs/session/compare/v1.18.1...v1.18.2)
-
----
-updated-dependencies:
-- dependency-name: on-headers
-  dependency-version: 1.1.0
-  dependency-type: indirect
-- dependency-name: express-session
-  dependency-version: 1.18.2
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#3bbc559</div>
+                                        <div class="message">Create two-way contingency table</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63e61cc</div>
+                                        <div class="message">Completed Exercise 4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a354ff</div>
+                                        <div class="message">Organize popular pet names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed03a8a</div>
+                                        <div class="message">Add documentation for standarizing pet names for count</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4d6ef6</div>
+                                        <div class="message">Completed Exercise 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d828f6b</div>
+                                        <div class="message">Store column names - Completed Ex 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9de73c</div>
+                                        <div class="message">Store dimensions of Seattle pets - Completed Ex 1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9c6b60</div>
+                                        <div class="message">Updated YAML</div>
                                     </div>
                                 </div>
                             </section>
@@ -169,46 +118,55 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/iac-site</span>
+                                        Pushed 11 commits in
+                                        <span class="repo">Math-225-Fa2025/lab-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f64d15</div>
-                                        <div class="message">Merge pull request #4 from tmchuynh/dependabot/npm_and_yarn/multi-d3748e614d
-
-Bump @eslint/plugin-kit and eslint</div>
+                                        <div class="sha">#22a0aed</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#757f737</div>
-                                        <div class="message">Bump @eslint/plugin-kit and eslint
-
-Bumps [@eslint/plugin-kit](https://github.com/eslint/rewrite/tree/HEAD/packages/plugin-kit) to 0.3.4 and updates ancestor dependency [eslint](https://github.com/eslint/eslint). These dependencies need to be updated together.
-
-
-Updates `@eslint/plugin-kit` from 0.2.8 to 0.3.4
-- [Release notes](https://github.com/eslint/rewrite/releases)
-- [Changelog](https://github.com/eslint/rewrite/blob/main/packages/plugin-kit/CHANGELOG.md)
-- [Commits](https://github.com/eslint/rewrite/commits/plugin-kit-v0.3.4/packages/plugin-kit)
-
-Updates `eslint` from 9.23.0 to 9.32.0
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v9.23.0...v9.32.0)
-
----
-updated-dependencies:
-- dependency-name: "@eslint/plugin-kit"
-  dependency-version: 0.3.4
-  dependency-type: indirect
-- dependency-name: eslint
-  dependency-version: 9.32.0
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#b316af3</div>
+                                        <div class="message">Save plots to a new image folder</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1b6149</div>
+                                        <div class="message">Move notes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7644878</div>
+                                        <div class="message">Fix plot sizes for faceted plots</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad9a452</div>
+                                        <div class="message">Reorgaize chunks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc2f0b5</div>
+                                        <div class="message">Add notes for correlation between x and y</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#192bb0f</div>
+                                        <div class="message">Added answer for Ex 4 (forgot to commit before correlation log)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e9393e</div>
+                                        <div class="message">Rename variables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6967eb</div>
+                                        <div class="message">Add correlation log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe786cb</div>
+                                        <div class="message">Added answer for Ex 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3186c9</div>
+                                        <div class="message">Added answer for Ex 3</div>
                                     </div>
                                 </div>
                             </section>
@@ -220,35 +178,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/phoenixcodestudio2.5</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Math-225-Fa2025/lab-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5ace776</div>
-                                        <div class="message">Merge pull request #2 from tmchuynh/dependabot/npm_and_yarn/eslint/plugin-kit-0.3.4
-
-Bump @eslint/plugin-kit from 0.3.2 to 0.3.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b66fbe6</div>
-                                        <div class="message">Bump @eslint/plugin-kit from 0.3.2 to 0.3.4
-
-Bumps [@eslint/plugin-kit](https://github.com/eslint/rewrite/tree/HEAD/packages/plugin-kit) from 0.3.2 to 0.3.4.
-- [Release notes](https://github.com/eslint/rewrite/releases)
-- [Changelog](https://github.com/eslint/rewrite/blob/main/packages/plugin-kit/CHANGELOG.md)
-- [Commits](https://github.com/eslint/rewrite/commits/plugin-kit-v0.3.4/packages/plugin-kit)
-
----
-updated-dependencies:
-- dependency-name: "@eslint/plugin-kit"
-  dependency-version: 0.3.4
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#97f6ce5</div>
+                                        <div class="message">Added answer for Ex 1</div>
                                     </div>
                                 </div>
                             </section>
