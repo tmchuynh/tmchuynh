@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="545" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
     <defs>
         <style/>
     </defs>
@@ -22,43 +22,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 8 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Math-225-Fa2025/hw-02-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2d3d60</div>
-                                        <div class="message">Knit documents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d272819</div>
-                                        <div class="message">Distribution of Airbnb Review Scores by neighbourhood in Edinburgh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4238e3d</div>
-                                        <div class="message">Summary Stats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cca44bc</div>
-                                        <div class="message">Price Distributions of Top 5 Most Expensive neighbourhoods in Edinburgh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1056b11</div>
-                                        <div class="message">Top give median listing prices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b02741</div>
-                                        <div class="message">Edinburgh Airbnb Price Distributions by Neighborhood</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff138e3</div>
-                                        <div class="message">Quick preview of dataset</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e650a42</div>
-                                        <div class="message">knit init document</div>
+                                        <div class="sha">#eb0f429</div>
+                                        <div class="message">Enhances document formatting options for PDF output
+
+Adds table of contents, section numbering, figure captions, and citation package support to improve document structure and referencing.
+
+Adjusts section depth to allow for proper numbering and includes relevant styles for citations.
+
+These changes aim to enhance readability and usability of the R Markdown document in PDF format.</div>
                                     </div>
                                 </div>
                             </section>
@@ -71,38 +49,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Math-225-Fa2025/hw-02-tmchuynh</span>
+                                        <span class="repo">Math-225-Fa2025/hw-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a37e2e4</div>
-                                        <div class="message">init</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Math-225-Fa2025/hw-02-tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae7f553</div>
-                                        <div class="message">output</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#191352b</div>
-                                        <div class="message">Initial commit</div>
+                                        <div class="sha">#1f042c4</div>
+                                        <div class="message">Adds PDF document features and improves plot settings
+
+Enhances the PDF output configuration by adding a table of contents, section numbering, figure captions, citation package support, and retaining the LaTeX source file.
+
+Updates plot settings for better resolution by increasing the DPI and renaming a code chunk for clarity.
+
+Improves overall presentation and usability of the document.</div>
                                     </div>
                                 </div>
                             </section>
@@ -115,22 +75,22 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">Math-225-Fa2025/hw-01-tmchuynh</span>
+                                        <span class="repo">Math-225-Fa2025/lab-01-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1334038</div>
-                                        <div class="message">pdf document</div>
+                                        <div class="sha">#f5b2fab</div>
+                                        <div class="message">Add PDF output for unnamed chunk 9 in lab-01-hello-r_files</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d20c08f</div>
-                                        <div class="message">Merge remote-tracking branch 'refs/remotes/origin/main'</div>
+                                        <div class="sha">#c2e7f04</div>
+                                        <div class="message">Enhance PDF output settings in Lab 01 document by adding table of contents, section numbering, figure captions, citation package, and keep_tex option.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#52f804f</div>
-                                        <div class="message">knit pdf document latex engine</div>
+                                        <div class="sha">#63aa5b0</div>
+                                        <div class="message">Add lab-01-hello-r.tex file with initial content for Lab 01</div>
                                     </div>
                                 </div>
                             </section>
@@ -142,35 +102,43 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/knowledge_knockout</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">Math-225-Fa2025/lab-02-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#daa62cb</div>
-                                        <div class="message">Merge pull request #10 from tmchuynh/dependabot/npm_and_yarn/next-15.4.7
-
-Bump next from 15.2.4 to 15.4.7</div>
+                                        <div class="sha">#ce7e4b0</div>
+                                        <div class="message">Add new PDF figures for plastic waste analysis</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0a767c5</div>
-                                        <div class="message">Bump next from 15.2.4 to 15.4.7
-
-Bumps [next](https://github.com/vercel/next.js) from 15.2.4 to 15.4.7.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v15.2.4...v15.4.7)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-version: 15.4.7
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#4bf4e95</div>
+                                        <div class="message">Add new PDF figures for plastic waste analysis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b98522</div>
+                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Math-225-Fa2025/lab-02-tmchuynh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26fdf5e</div>
+                                        <div class="message">Add explanation for NA values in data interpretation section</div>
                                     </div>
                                 </div>
                             </section>
