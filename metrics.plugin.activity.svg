@@ -22,21 +22,115 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Math-225-Fa2025/hw-02-tmchuynh</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/tails_n_trails</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb0f429</div>
-                                        <div class="message">Enhances document formatting options for PDF output
+                                        <div class="sha">#99b12c5</div>
+                                        <div class="message">Merge pull request #6 from tmchuynh/dependabot/npm_and_yarn/multi-c22e25d29b
 
-Adds table of contents, section numbering, figure captions, and citation package support to improve document structure and referencing.
+Bump brace-expansion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#643d66f</div>
+                                        <div class="message">Bump brace-expansion
 
-Adjusts section depth to allow for proper numbering and includes relevant styles for citations.
+Bumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.
 
-These changes aim to enhance readability and usability of the R Markdown document in PDF format.</div>
+Updates `brace-expansion` from 2.0.1 to 2.0.2
+- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
+- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
+
+Updates `brace-expansion` from 1.1.11 to 1.1.12
+- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
+- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
+
+---
+updated-dependencies:
+- dependency-name: brace-expansion
+  dependency-version: 2.0.2
+  dependency-type: indirect
+- dependency-name: brace-expansion
+  dependency-version: 1.1.12
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tmchuynh/s_king_reviews</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3202535</div>
+                                        <div class="message">Merge pull request #4 from tmchuynh/dependabot/npm_and_yarn/multi-c22e25d29b
+
+Bump brace-expansion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#164fcc4</div>
+                                        <div class="message">Bump brace-expansion
+
+Bumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.
+
+Updates `brace-expansion` from 2.0.1 to 2.0.2
+- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
+- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
+
+Updates `brace-expansion` from 1.1.11 to 1.1.12
+- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
+- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
+
+---
+updated-dependencies:
+- dependency-name: brace-expansion
+  dependency-version: 2.0.2
+  dependency-type: indirect
+- dependency-name: brace-expansion
+  dependency-version: 1.1.12
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Math-225-Fa2025/lab-04-tmchuynh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#740f73e</div>
+                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dbd935</div>
+                                        <div class="message">Add LaTeX document for Lab 04 on visualizing spatial data, including sections on learning goals, data exploration, and exercises related to Denny's and La Quinta locations.</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,20 +143,14 @@ These changes aim to enhance readability and usability of the R Markdown documen
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Math-225-Fa2025/hw-01-tmchuynh</span>
+                                        <span class="repo">Math-225-Fa2025/hw-04-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f042c4</div>
-                                        <div class="message">Adds PDF document features and improves plot settings
-
-Enhances the PDF output configuration by adding a table of contents, section numbering, figure captions, citation package support, and retaining the LaTeX source file.
-
-Updates plot settings for better resolution by increasing the DPI and renaming a code chunk for clarity.
-
-Improves overall presentation and usability of the document.</div>
+                                        <div class="sha">#aae9282</div>
+                                        <div class="message">Add initial LaTeX document and PDF for HW 04 on college majors and earnings analysis</div>
                                     </div>
                                 </div>
                             </section>
@@ -74,71 +162,19 @@ Improves overall presentation and usability of the document.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Math-225-Fa2025/lab-01-tmchuynh</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">Math-225-Fa2025/lab-03-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5b2fab</div>
-                                        <div class="message">Add PDF output for unnamed chunk 9 in lab-01-hello-r_files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2e7f04</div>
-                                        <div class="message">Enhance PDF output settings in Lab 01 document by adding table of contents, section numbering, figure captions, citation package, and keep_tex option.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63aa5b0</div>
-                                        <div class="message">Add lab-01-hello-r.tex file with initial content for Lab 01</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Math-225-Fa2025/lab-02-tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ce7e4b0</div>
-                                        <div class="message">Add new PDF figures for plastic waste analysis</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bf4e95</div>
-                                        <div class="message">Add new PDF figures for plastic waste analysis</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b98522</div>
+                                        <div class="sha">#0ffc73b</div>
                                         <div class="message">Refactor code structure for improved readability and maintainability</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Math-225-Fa2025/lab-02-tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#26fdf5e</div>
-                                        <div class="message">Add explanation for NA values in data interpretation section</div>
+                                        <div class="sha">#16cf188</div>
+                                        <div class="message">Add LaTeX document for Lab 03 on Nobel laureates, including data exploration and visualization exercises</div>
                                     </div>
                                 </div>
                             </section>
