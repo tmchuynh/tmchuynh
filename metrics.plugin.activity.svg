@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1027" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}svg.bar{margin:4px 0}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,43 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/tails_n_trails</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Math-225-Fa2025/lab-06-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#99b12c5</div>
-                                        <div class="message">Merge pull request #6 from tmchuynh/dependabot/npm_and_yarn/multi-c22e25d29b
-
-Bump brace-expansion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#643d66f</div>
-                                        <div class="message">Bump brace-expansion
-
-Bumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.
-
-Updates `brace-expansion` from 2.0.1 to 2.0.2
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
-
-Updates `brace-expansion` from 1.1.11 to 1.1.12
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
-
----
-updated-dependencies:
-- dependency-name: brace-expansion
-  dependency-version: 2.0.2
-  dependency-type: indirect
-- dependency-name: brace-expansion
-  dependency-version: 1.1.12
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#f1b138b</div>
+                                        <div class="message">Update README.md to enhance project documentation and detail visualization improvements</div>
                                     </div>
                                 </div>
                             </section>
@@ -70,43 +42,203 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tmchuynh/s_king_reviews</span>
+                                        Pushed 21 commits in
+                                        <span class="repo">Math-225-Fa2025/lab-06-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3202535</div>
-                                        <div class="message">Merge pull request #4 from tmchuynh/dependabot/npm_and_yarn/multi-c22e25d29b
-
-Bump brace-expansion</div>
+                                        <div class="sha">#14128b9</div>
+                                        <div class="message">Removes CSS reference from YAML header for tufte_html output</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#164fcc4</div>
-                                        <div class="message">Bump brace-expansion
+                                        <div class="sha">#9060f14</div>
+                                        <div class="message">Adds loading of instructional staff data from CSV
 
-Bumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.
+Implements functionality to load instructional staff data from a CSV file, enhancing data accessibility for further analysis.
 
-Updates `brace-expansion` from 2.0.1 to 2.0.2
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
+This addition supports the creation of plots by providing the necessary data directly from the specified file location.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f380fe</div>
+                                        <div class="message">Adds data transformation for staff dataset
 
-Updates `brace-expansion` from 1.1.11 to 1.1.12
-- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
-- [Commits](https://github.com/juliangruber/brace-expansion/compare/v2.0.1...v2.0.2)
+Transforms the staff data from wide to long format, ensuring that the `year` column is converted from character to numeric for accurate plotting.
 
----
-updated-dependencies:
-- dependency-name: brace-expansion
-  dependency-version: 2.0.2
-  dependency-type: indirect
-- dependency-name: brace-expansion
-  dependency-version: 1.1.12
-  dependency-type: indirect
-...
+Utilizes the pipe operator for smoother operation chaining and retains `faculty_type` during the transformation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e170259</div>
+                                        <div class="message">Adds initial line plot without grouping by faculty type
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+Introduces a line plot visualization of staff data, coloring lines by faculty type.
+
+This enhancement allows for better visual analysis of trends over the years.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#153cab2</div>
+                                        <div class="message">Adds initial visualization analysis for staff data
+
+Introduces an analysis section to highlight issues in the initial staff data visualization, including disconnected lines due to missing aesthetics and suboptimal default settings for communication.
+
+Improves clarity on the visual representation challenges faced in the dataset.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a18c528</div>
+                                        <div class="message">Improves fisheries data visualization for clarity and accessibility
+
+Enhances the final visualization by implementing a horizontal bar orientation for better readability of country names and sorting bars by total production for easier comparison.
+
+Converts units to million tonnes, adds clear titles and labels, utilizes a colorblind-friendly palette, and moves the legend for better space utilization.
+
+Technical adjustments include optimized bar width, removal of unnecessary gridlines, increased font sizes, and reversed stacking order to promote intuitive reading and efficient use of space.
+
+These design choices ensure a clear hierarchy of information and enhance accessibility.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50e8600</div>
+                                        <div class="message">Improves fisheries visualization with enhanced readability
+
+Enhances the fisheries production plot by implementing stacked bars with a reversed stacking order, utilizing a colorblind-friendly palette, and adding clear titles and labels.
+
+Adopts a minimal theme with an increased base font size for better visibility and adjusts x-axis expansion for improved spacing of data points.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8de5494</div>
+                                        <div class="message">Improves fisheries data transformation for visualization
+
+Enhances data processing by calculating total production from capture and aquaculture, reordering countries by total, and converting the dataset to long format for a stacked bar plot.
+
+This transformation ensures better readability and prepares the data structure for effective visualization.
+
+Improves overall clarity and organization in fisheries data analysis.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d36218</div>
+                                        <div class="message">Enhances visualization and storytelling elements in plot
+
+Implements advanced techniques to improve visual clarity and engagement in the plot.
+
+- Emphasizes part-time faculty trends with thicker lines and contrasting colors, while de-emphasizing other trends.
+- Adds data points for the start and end years, and percentage labels for 2011 for better information delivery.
+- Removes the legend for a cleaner look, as color coding is intuitive.
+- Sets y-axis limits and increases figure dimensions for improved readability.
+- Introduces clear titles and subtitles to guide the viewer’s attention and provide essential statistics.
+
+These changes aim to enhance the interpretability and appeal of the visual presentation.
+
+Improves plot clarity and storytelling elements
+
+Enhances visualization techniques for better interpretability and engagement.
+
+- Emphasizes part-time faculty trends with thicker lines and contrasting colors.
+- Adds data points and percentage labels for clearer information delivery.
+- Removes the legend for a cleaner appearance, relying on intuitive color coding.
+- Adjusts y-axis limits and increases figure size for improved readability.
+- Introduces clear titles and subtitles to guide viewer attention and highlight key statistics.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1311fe</div>
+                                        <div class="message">Improves visualization of part-time faculty trends
+
+Enhances the plot by adding refined visual elements to better highlight part-time faculty trends.
+
+Includes distinct line sizes and colors for clarity, adds data points for start and end years, and incorporates percentage labels for better data representation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8314eb2</div>
+                                        <div class="message">Improves plot visualization and adds necessary commentary
+
+Adds comments highlighting issues with the initial plot, including disconnected lines due to missing grouping, suboptimal aesthetics, and lack of titles and labels.
+
+Addresses the warning about insufficient data for each faculty type year combination, emphasizing the need for better visualization practices.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03f410b</div>
+                                        <div class="message">Refactors data transformation for time series visualization
+
+Implements the use of the pipe operator for chaining operations, reshaping the dataset from wide to long format while retaining `faculty_type` and creating numeric `year` and `value` columns.
+
+This transformation enhances the ability to create time series visualizations with ggplot2 by ensuring proper data formatting.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43ada68</div>
+                                        <div class="message">Adds improved visualization for global fisheries production
+
+Enhances the readability of the fisheries data visualization by implementing a stacked bar chart.
+
+The updated plot features a clear title and subtitle, improved labeling, and a refined theme for better presentation.
+
+This change aims to facilitate understanding of global fisheries production by country in 2016.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6d03ec</div>
+                                        <div class="message">Adds data transformation for improved fisheries visualization
+
+Transforms fisheries data to calculate totals and enhance readability.
+
+Implements a new data structure that reorders countries based on total capture and aquaculture tonnage.
+
+This change aims to improve the clarity and effectiveness of the fisheries visualization.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7602120</div>
+                                        <div class="message">Improves fisheries visualization for enhanced readability
+
+Enhances the fisheries visualization by implementing several improvements:
+
+- Uses horizontal bars for better readability of country names
+- Sorts countries by total production
+- Clarifies units to million tonnes
+- Adds proper labels and legend
+- Introduces a better color scheme
+
+These changes aim to improve the overall readability and effectiveness of the visualization.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86c864a</div>
+                                        <div class="message">Removes eval=FALSE from data loading chunk
+
+Eliminates the eval=FALSE option in the data loading chunk to ensure the fisheries data is loaded during the document execution.
+
+This change enhances the functionality by allowing the code to run as intended, making the data accessible for subsequent analysis.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b7e55e</div>
+                                        <div class="message">Adds improved plot visualization for faculty data
+
+Enhances the existing plot by introducing a more accessible color scheme and adding data labels for clarity.
+
+The updated visualization highlights the rise of part-time faculty in higher education from 1975 to 2011, making it easier to interpret trends and comparisons.
+
+Improves overall presentation and readability of the data.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#775bfa3</div>
+                                        <div class="message">Improves plot clarity and accessibility
+
+Enhances the original plot by highlighting the part-time faculty trend, adding a more informative title and subtitle, using an accessible color scheme, and including data labels at the start and end points.
+
+These changes aim to effectively convey the rising proportion of part-time faculty over time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f5c3b7</div>
+                                        <div class="message">Adds line plot for trends in instructional staff employment
+
+Implements a line plot to visualize trends in instructional staff employment status from 1975 to 2011.
+
+Enhances the plot with improved titles, axis labels, and a legend for clarity.
+
+The changes aim to effectively illustrate the rising proportion of part-time faculty over time compared to other faculty types.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9a275d</div>
+                                        <div class="message">Enhances line plot aesthetics and adds labels
+
+Improves the visual presentation of the instructional staff employment status plot by increasing line thickness, adding a title, subtitle, and axis labels.
+
+Applies a minimal theme, a color palette, and adjusts the legend position for better clarity and visual appeal.</div>
                                     </div>
                                 </div>
                             </section>
@@ -118,19 +250,135 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Math-225-Fa2025/lab-04-tmchuynh</span>
+                                        Pushed 14 commits in
+                                        <span class="repo">Math-225-Fa2025/hw-05-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#740f73e</div>
-                                        <div class="message">Implement code changes to enhance functionality and improve performance</div>
+                                        <div class="sha">#0988cdf</div>
+                                        <div class="message">Adds initial HTML structure and styling for Lab 05
+
+Introduces a new HTML file that establishes the layout and design for Lab 05.
+
+Implements responsive styling and custom fonts to enhance readability and presentation.
+
+Includes a script to ensure compatibility with specific Pandoc versions by removing attributes from headers.
+
+No issues are addressed, but the changes enhance the overall user experience.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0dbd935</div>
-                                        <div class="message">Add LaTeX document for Lab 04 on visualizing spatial data, including sections on learning goals, data exploration, and exercises related to Denny's and La Quinta locations.</div>
+                                        <div class="sha">#a31c3c2</div>
+                                        <div class="message">Adds new PDF figures for data wrangling analysis
+
+Introduces four new PDF files to support data visualization in the analysis process.
+
+These figures will enhance the clarity of the results and aid in the interpretation of the data.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c62177f</div>
+                                        <div class="message">Adds analysis of minimum distances for states
+
+Introduces R code to compare the mean and median of minimum distances between Denny's and La Quinta locations for several states.
+
+Highlights the state with the smallest distance, which supports the reasoning behind Mitch Hedberg's joke.
+
+Encourages reviewing and finalizing the document for submission.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7937272</div>
+                                        <div class="message">Adds analysis for Florida state distances
+
+Introduces a new section to analyze the distribution of distances between Denny's and La Quinta locations in Florida.
+
+This change enables users to explore patterns similar to those observed in Texas, enhancing the comparative analysis across different states.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40ea8d4</div>
+                                        <div class="message">Adds analysis of closest distances for Texas locations
+
+Implements distance analysis for Denny's and La Quinta locations in Texas, revealing shorter distances compared to previous states analyzed.
+
+The addition includes data filtering, distance calculation, and visualization through a histogram, supporting the observation of closer paired establishments in Texas.
+
+Highlights patterns relevant to Mitch Hedberg's joke about proximity of locations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a017281</div>
+                                        <div class="message">Adds analysis and visualization of Denny's and La Quinta in NC
+
+Implements data filtering, joining, and distance calculation for Denny's and La Quinta locations in North Carolina.
+
+Introduces a histogram to visualize the distribution of the shortest distances between paired locations, highlighting geographic trends in NC compared to Alaska.
+
+Enhances the analysis framework by expanding to NC, offering insights into location density and distance metrics.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b4f30e</div>
+                                        <div class="message">Adds analysis and visualization of closest Denny's distances
+
+Introduces summary statistics and a histogram visualization for the distances between Denny's and the nearest La Quinta locations in Alaska.
+
+This enhancement provides insights into the geographic distribution of these distances, highlighting the impact of Alaska's geography on proximity.
+
+Improves overall data analysis capabilities for the project.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c48474b</div>
+                                        <div class="message">Enables evaluation of minimum distance calculation
+
+Removes the `eval = FALSE` flag to allow execution of the R code chunk that calculates the minimum distance between Denny's and La Quinta locations.
+
+This change improves the functionality by ensuring that the distance calculation is performed when the document is run, providing users with the necessary insights without manual intervention.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c62261e</div>
+                                        <div class="message">Adds Haversine distance calculation to data frame
+
+Introduces a new column 'distance' to calculate the Haversine distance in kilometers between each Denny's and La Quinta location.
+
+This enhancement allows for better spatial analysis of the locations, facilitating subsequent calculations of minimum distances.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e01422</div>
+                                        <div class="message">Adds example usage for `mutate()` function
+
+Clarifies the use of the `mutate()` function from the tidyverse by providing an example in the documentation.
+
+This improves understanding for users on how to add new variables to a data frame while retaining existing ones.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#484f6ae</div>
+                                        <div class="message">Adds observation count and variable names for joined data
+
+Implements code to display the number of observations and variable names in the joined data frame.
+
+Clarifies the significance of suffixes `.x` and `.y` in variable names to indicate their origin from the original data frames, addressing potential confusion with duplicate names.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f3f9a1</div>
+                                        <div class="message">Adds calculation for pairings between Denny's and La Quinta
+
+Introduces a calculation to determine the total pairings between Denny's and La Quinta locations in Alaska.
+
+This change enhances the analysis by providing a clear numerical basis for the number of distance calculations needed, facilitating further data processing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da2ba66</div>
+                                        <div class="message">Adds note about La Quinta locations in Alaska
+
+Includes a remark indicating that there are 2 La Quinta locations in Alaska, enhancing the clarity of the dataset for further analysis.
+
+This addition assists in understanding the geographical context before calculating distances between Denny's and La Quinta locations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a33c44d</div>
+                                        <div class="message">Adds author information to the document header
+
+Includes the author's name, Tina Huynh, in the document header for improved attribution.
+
+This change enhances the clarity of authorship in the lab report.</div>
                                     </div>
                                 </div>
                             </section>
@@ -143,14 +391,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Math-225-Fa2025/hw-04-tmchuynh</span>
+                                        <span class="repo">Math-225-Fa2025/lab-03-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aae9282</div>
-                                        <div class="message">Add initial LaTeX document and PDF for HW 04 on college majors and earnings analysis</div>
+                                        <div class="sha">#740c55d</div>
+                                        <div class="message">Initialize README.md with Nobel laureates analysis overview and dataset details</div>
                                     </div>
                                 </div>
                             </section>
@@ -162,19 +410,47 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 9 commits in
                                         <span class="repo">Math-225-Fa2025/lab-03-tmchuynh</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0ffc73b</div>
-                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
+                                        <div class="sha">#57467c9</div>
+                                        <div class="message">Update lab-03-nobel-laureates.tex with author name, data analysis, and visualizations; add insights on immigrant Nobel laureates.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#16cf188</div>
-                                        <div class="message">Add LaTeX document for Lab 03 on Nobel laureates, including data exploration and visualization exercises</div>
+                                        <div class="sha">#9723c70</div>
+                                        <div class="message">Add new PDF figures for faceted and stacked bar plots in the Nobel laureates analysis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86c93aa</div>
+                                        <div class="message">Add analysis for immigrant Nobel laureates winning in the US</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13405cd</div>
+                                        <div class="message">Add stacked bar plot visualization for Nobel laureates by award country and birth country</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27653af</div>
+                                        <div class="message">Add calculation for count of Nobel laureates born in the US</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08a0728</div>
+                                        <div class="message">Add faceted bar plot visualization for Nobel laureates by category and country</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a08621b</div>
+                                        <div class="message">Rename code chunk for filtering living Nobel laureates to improve clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12c0a4b</div>
+                                        <div class="message">Add inline code to display the number of observations and variables in the dataset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfe4310</div>
+                                        <div class="message">Update author name in YAML header to reflect correct attribution</div>
                                     </div>
                                 </div>
                             </section>
