@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="731" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1031" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}svg.bar{margin:4px 0}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,153 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 121 commits in
+                                        <span class="repo">Math-225-Fa2025/project-tmchuynh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">secondary</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e881fe0</div>
+                                        <div class="message">Adds FIDE player rating variables and collection information to the proposal document</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e544b9f</div>
+                                        <div class="message">Adds data collection and validation for chess games
+
+Implements functionality to collect and validate chess game data, including user ratings, game outcomes, and opening classifications.
+
+Ensures the dataset is cleaned and filtered for analysis, providing meaningful insights into player performance.
+
+If no data is collected, generates simulated data for demonstration purposes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f143b47</div>
+                                        <div class="message">Adds secondary analysis dimensions for player demographics
+
+Introduces new categories for analyzing player demographics, including age groups, geographic regions, title categories, and activity levels.
+
+This enhancement supports a more nuanced understanding of player behavior and characteristics, facilitating deeper insights in future analyses.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e613406</div>
+                                        <div class="message">Adds cross-validation strategy section with details on temporal validation for model performance assessment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f4c62a</div>
+                                        <div class="message">Adds time control predictions and insights on performance variance across different chess formats</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c4bdc6</div>
+                                        <div class="message">Adds multi-group analysis methods including ANOVA, Kruskal-Wallis tests, post-hoc testing, and effect size calculations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bd147b</div>
+                                        <div class="message">Adds chess categorization by rating tier and opening type
+
+Introduces new sections categorizing chess games based on player rating tiers and opening types.
+
+This enhancement aids users in understanding the skill levels and strategies associated with different chess openings, improving the overall educational value of the document.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88a6fd3</div>
+                                        <div class="message">Adds enhanced data collection function with error handling
+
+Implements a robust data collection function for retrieving user game data from the Lichess API.
+
+Enhancements include:
+- Comprehensive error handling for API requests and data parsing.
+- Rate limiting to prevent overwhelming the API.
+- Improved data extraction for detailed game analysis.
+
+This update ensures better reliability and user feedback during data collection processes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd1a873</div>
+                                        <div class="message">Adds research questions to the proposal document
+
+Introduces a set of research questions focusing on the statistical analysis of chess performance and player progression.
+
+These questions aim to explore the impact of opening choices, playing frequency, and player ratings on game outcomes and efficiency.
+
+Enhancing the document provides greater clarity on the research objectives.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ab0b81</div>
+                                        <div class="message">Adds sample size and power analysis requirements
+
+Introduces minimum sample size requirements for various analyses, enhancing the reliability of color analysis, time control comparisons, and rating tier evaluations.
+
+Includes power calculations to ensure adequate effect size detection, statistical power, and confidence intervals for future studies.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#282dc49</div>
+                                        <div class="message">Adds control variables and confounding factors for analysis
+
+Introduces player-level, game-level, and environmental controls to enhance the understanding of factors influencing chess performance.
+
+These additions aim to provide a more comprehensive framework for analyzing the impact of various elements on player outcomes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6c8a19</div>
+                                        <div class="message">Add expected group differences for color-based advantages in chess analysis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7077d6</div>
+                                        <div class="message">Adds game type classifications and statistical comparison methods
+
+Introduces classifications for various chess game types, detailing characteristics from Bullet to Classical formats.
+
+Enhances the statistical framework with methods for pairwise comparisons, including t-tests, chi-square tests, and rank-sum tests, to improve analysis capabilities.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3213f2b</div>
+                                        <div class="message">Add setup chunk for knitr and integrate FIDE data processing steps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27e211f</div>
+                                        <div class="message">Refine data analysis structure by adding comparison groups and detailing primary grouping variables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9224913</div>
+                                        <div class="message">Adds data cleaning steps for Lichess API integration
+
+Introduces a section outlining the process for importing, standardizing, and cleaning data from the Lichess API.
+
+Details include recoding categorical fields, deriving computed variables, and integrating FIDE data for enhanced analysis.
+
+These changes improve data integrity and usability for subsequent analyses.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83ed3fc</div>
+                                        <div class="message">Add data analysis plan and naming conventions to proposal</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a59d415</div>
+                                        <div class="message">Add launch configuration for R-Debugger in VSCode</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0a4bbd</div>
+                                        <div class="message">Adds data information section for Lichess API and Database
+
+Introduces an informative section detailing the Lichess Public API and Game Database.
+
+This addition enhances understanding of the data sources used for the statistical analysis of chess performance and player progression, providing context for future analysis and research.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#749bd1c</div>
+                                        <div class="message">Update project proposal title, author, and output format</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -296,36 +443,6 @@ Enhances understanding of income representation in the context of college majors
 Changes the author name to Tina Huynh.
 
 Introduces a code block that arranges data to display the top 3 college majors by the proportion of women, enhancing data presentation and analysis.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Math-225-Fa2025/hw-01-tmchuynh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6fea987</div>
-                                        <div class="message">Update popular names PDF with new data and visual enhancements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4415f45</div>
-                                        <div class="message">Update pet names document for clarity and completeness
-
-Revises the contents of the pet names document to enhance clarity and add missing information.
-
-Improves the overall organization of the content, making it easier to navigate and understand.
-
-Ensures that all relevant details are accurately represented to meet user needs.</div>
                                     </div>
                                 </div>
                             </section>
